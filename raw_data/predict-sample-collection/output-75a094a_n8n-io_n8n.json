@@ -1,0 +1,129 @@
+{
+  "commit_index": "75a094a",
+  "commit_url": "https://github.com/n8n-io/n8n/commit/75a094a8c03afc40b7872cd2115d82e69455286e",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "fix",
+      "issue",
+      "saving",
+      "active",
+      "workflow",
+      "without",
+      "trigger"
+    ],
+    "description": [
+      "fix",
+      "allow",
+      "saving",
+      "editing",
+      "active",
+      "workflow",
+      "saved",
+      "without",
+      "trigger"
+    ],
+    "changed_files_count": 1,
+    "changed_files": [
+      "packages/cli/src/workflows/workflows.services.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "db702932f3f2b14a097e7f4364c06cbb4f001ebc"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "fix",
+        "issue",
+        "saving",
+        "active",
+        "workflow",
+        "without",
+        "trigger",
+        "would",
+        "cause",
+        "n8n",
+        "stuck",
+        "5513"
+      ],
+      "total_discussions": 2,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "pr",
+                "fix",
+                "issue",
+                "could",
+                "found",
+                "user",
+                "active",
+                "workflow",
+                "remove",
+                "trigger",
+                "try",
+                "save",
+                "it.n8n",
+                "would",
+                "update",
+                "workflow",
+                "'s",
+                "version",
+                "id",
+                "prevent",
+                "user",
+                "changing",
+                "workflow",
+                "forcing",
+                "refresh.now",
+                "n8n",
+                "fails",
+                "activate",
+                "workflow",
+                "still",
+                "tell",
+                "user",
+                "happened",
+                "revert",
+                "versionid",
+                "allowing",
+                "user",
+                "make",
+                "change",
+                "fix",
+                "error.github",
+                "issue",
+                "community",
+                "forum",
+                "post",
+                "link",
+                "close",
+                "automatically"
+              ],
+              "author": "krynble"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "got",
+                "released",
+                "withn8n",
+                "0.217.1"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

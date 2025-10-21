@@ -1,0 +1,59 @@
+{
+  "commit_index": "45caa9f",
+  "commit_url": "https://github.com/Kong/insomnia/commit/45caa9f7685549970ecece50968eceda32c1cfde",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "changelog",
+      "image",
+      "generator",
+      "support",
+      "new",
+      "version",
+      "model",
+      "8.0.0"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      "scripts/changelog-image/changelog-image.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "2f741f1e49e5de0c6cc9e817a8a68fc82a58bcba"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix/changelog",
+        "image",
+        "generator",
+        "6562"
+      ],
+      "total_discussions": 1,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "fix",
+                "changelog",
+                "image",
+                "generator",
+                "support",
+                "new",
+                "version",
+                "model",
+                "8.0.0"
+              ],
+              "author": "filfreire"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

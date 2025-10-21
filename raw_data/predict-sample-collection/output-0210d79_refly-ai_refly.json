@@ -1,0 +1,49 @@
+{
+  "commit_index": "0210d79",
+  "commit_url": "https://github.com/refly-ai/refly/commit/0210d79fd62df018734d00e6e249ed72ce1ed93f",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "canvas",
+      "canvas",
+      "page",
+      "crash",
+      "variabletype",
+      "invalid"
+    ],
+    "description": [
+      "added",
+      "fallback",
+      "bitext",
+      "icon",
+      "mapped",
+      "icon",
+      "missing",
+      "variableitem",
+      "inputparameterrow",
+      "component",
+      "ensured",
+      "adherence",
+      "tailwind",
+      "cs",
+      "styling",
+      "convention",
+      "safe",
+      "property",
+      "access",
+      "practice",
+      "throughout",
+      "component"
+    ],
+    "changed_files_count": 2,
+    "changed_files": [
+      "packages/ai-workspace-common/src/components/canvas/node-preview/start.tsx",
+      "packages/ai-workspace-common/src/components/canvas/nodes/start.tsx"
+    ],
+    "changed_files_content": [],
+    "parent": "5e69e8d8fb8af27eba46c019a984394af5e64f7a"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

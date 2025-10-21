@@ -1,0 +1,60 @@
+{
+  "commit_index": "4921ad2",
+  "commit_url": "https://github.com/refly-ai/refly/commit/4921ad28ac387c044e54242d97bfebeb534977ff",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "credit-welcome-modal",
+      "subscription",
+      "improve",
+      "user",
+      "profile",
+      "check"
+    ],
+    "description": [
+      "commit",
+      "update",
+      "creditwelcomemodal",
+      "correctly",
+      "retrieve",
+      "visibility",
+      "state",
+      "local",
+      "storage",
+      "without",
+      "randomization",
+      "additionally",
+      "enhances",
+      "subscription",
+      "component",
+      "adding",
+      "check",
+      "userprofile",
+      "'s",
+      "customerid",
+      "managing",
+      "billing",
+      "conditionally",
+      "rendering",
+      "free",
+      "subscription",
+      "button",
+      "ensuring",
+      "better",
+      "user",
+      "experience",
+      "data",
+      "validation"
+    ],
+    "changed_files_count": 2,
+    "changed_files": [
+      "packages/ai-workspace-common/src/components/credit-welcome-modal/index.tsx",
+      "packages/ai-workspace-common/src/components/settings/subscription/index.tsx"
+    ],
+    "changed_files_content": [],
+    "parent": "f51a3fd1a44ef751003c6ef1fa411b1c33e81d22"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

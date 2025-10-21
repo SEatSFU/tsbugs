@@ -1,0 +1,202 @@
+{
+  "commit_index": "4fd6d6d",
+  "commit_url": "https://github.com/hoppscotch/hoppscotch/commit/4fd6d6ddb4333e3d237f48d3ce01136d9f3f7f94",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "cli",
+      "remove",
+      "postinstall",
+      "script",
+      "4229"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      "packages/hoppscotch-cli/package.json"
+    ],
+    "changed_files_content": [],
+    "parent": "40f93fc7f44f25ac607eb7aace16a715f8f42255"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "cli",
+        "removepostinstallscript",
+        "4229"
+      ],
+      "total_discussions": 1,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "'s",
+                "changedan",
+                "attempt",
+                "install",
+                "cli",
+                "halted",
+                "due",
+                "addition",
+                "thepostinstallscript",
+                "pr",
+                "remove",
+                "resolve",
+                "behaviour",
+                "follow",
+                "4189.thepretestscript",
+                "executingpnpm",
+                "run",
+                "buildhas",
+                "removed",
+                "achieved",
+                "via",
+                "clubbing",
+                "thetestscript",
+                "since",
+                "thepretestscript",
+                "found",
+                "executed",
+                "ci",
+                "environment.cli",
+                "version",
+                "bumped",
+                "tov0.10.1.closes",
+                "4227"
+              ],
+              "author": "AndrewBastin"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "title": [
+        "bug",
+        "installing",
+        "cli",
+        "0.10.0",
+        "docker",
+        "requires",
+        "dependency",
+        "documented"
+      ],
+      "labels": [
+        "cli",
+        "bug"
+      ],
+      "comments": [
+        {
+          "author": "RaHehl",
+          "content": [
+            "existing",
+            "issue",
+            "searched",
+            "existing",
+            "issue",
+            "current",
+            "behavior",
+            "using",
+            "hoppscotch",
+            "cli",
+            "ci/cd",
+            "pipeline",
+            "gitlab",
+            "create",
+            "docker",
+            "image",
+            "containing",
+            "hoppscotch",
+            "cli",
+            "base",
+            "image",
+            "node:20-alpine",
+            "install",
+            "command",
+            "npm",
+            "install",
+            "--",
+            "global",
+            "hoppscotch/cli",
+            "0.10.0",
+            "first",
+            "error",
+            "got",
+            "missing",
+            "pnpm",
+            "tsup",
+            "typescript",
+            "adding",
+            "typescript",
+            "got",
+            "next",
+            "error",
+            "stopped",
+            "trying",
+            "case",
+            "bug",
+            "would",
+            "ask",
+            "provide",
+            "ready",
+            "use",
+            "image",
+            "cli",
+            "step",
+            "reproduce",
+            "environment",
+            "production",
+            "version",
+            "self-hosted"
+          ]
+        },
+        {
+          "author": "jamesgeorge007",
+          "content": [
+            "hi",
+            "'ve",
+            "identified",
+            "root",
+            "cause",
+            "issue",
+            "fix",
+            "4229",
+            "front",
+            "'ll",
+            "addressed",
+            "patch",
+            "release",
+            "cli",
+            "soon"
+          ]
+        },
+        {
+          "author": "jamesgeorge007",
+          "content": [
+            "patch",
+            "released",
+            "hoppscotch",
+            "cli",
+            "v0.10.1",
+            "http",
+            "//www.npmjs.com/package/",
+            "hoppscotch/cli/v/0.10.1",
+            "please",
+            "let",
+            "u",
+            "know",
+            "issue",
+            "persists"
+          ]
+        }
+      ]
+    }
+  ],
+  "security": null
+}

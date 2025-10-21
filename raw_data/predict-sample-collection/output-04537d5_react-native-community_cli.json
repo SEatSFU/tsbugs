@@ -1,0 +1,118 @@
+{
+  "commit_index": "04537d5",
+  "commit_url": "https://github.com/react-native-community/cli/commit/04537d5693e6780c3f177fa5bfe21109b6b80fb3",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "versionstoshow",
+      "array",
+      "return",
+      "n/a",
+      "975"
+    ],
+    "description": [
+      "versionstoshow",
+      "array",
+      "return",
+      "n/a",
+      "versionstoshow",
+      "array",
+      "return",
+      "n/a",
+      "ran",
+      "yarn",
+      "lint",
+      "--",
+      "fix",
+      "updated",
+      "healthcheckresult",
+      "type",
+      "account",
+      "version",
+      "either",
+      "array",
+      "string",
+      "string",
+      "deleted",
+      "unneeded",
+      "history",
+      "file"
+    ],
+    "changed_files_count": 2,
+    "changed_files": [
+      "packages/cli/src/commands/doctor/doctor.ts",
+      "packages/cli/src/commands/doctor/types.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "f55341d801feef34e68653477052f2d8b364496b"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "versionstoshow",
+        "array",
+        "return",
+        "n/a",
+        "975"
+      ],
+      "total_discussions": 2,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "summary",
+                "tried",
+                "using",
+                "thedoctorcommand",
+                "machine",
+                "crashed",
+                "like",
+                "turned",
+                "problem",
+                "android",
+                "sdk",
+                "identified",
+                "throwing",
+                "error",
+                "returnsversionsin",
+                "theandroidsdk.ts"
+              ],
+              "author": "thymikee"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "hey",
+                "pr",
+                "seems",
+                "mismatch",
+                "prettier",
+                "version",
+                "use",
+                "could",
+                "please",
+                "runyarn",
+                "lint",
+                "--",
+                "fixto",
+                "resolve",
+                "styling",
+                "issue"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

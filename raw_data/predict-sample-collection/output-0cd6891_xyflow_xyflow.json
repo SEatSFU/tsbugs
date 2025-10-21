@@ -1,0 +1,38 @@
+{
+  "commit_index": "0cd6891",
+  "commit_url": "https://github.com/xyflow/xyflow/commit/0cd68914c1d77bb4ab810af8a0e9abe215637659",
+  "commit": {
+    "commit_message": [
+      "clean",
+      "baseedge",
+      "fix",
+      "store",
+      "function"
+    ],
+    "description": [],
+    "changed_files_count": 16,
+    "changed_files": [
+      "packages/svelte/src/lib/components/BaseEdge/index.ts",
+      "packages/svelte/src/lib/components/BaseEdge/types.ts",
+      "packages/svelte/src/lib/components/EdgeWrapper/EdgeWrapper.svelte",
+      "packages/svelte/src/lib/components/edges/BaseEdge.svelte",
+      "packages/svelte/src/lib/components/edges/BezierEdge.svelte",
+      "packages/svelte/src/lib/components/edges/BezierEdgeInternal.svelte",
+      "packages/svelte/src/lib/components/edges/SmoothStepEdge.svelte",
+      "packages/svelte/src/lib/components/edges/SmoothStepEdgeInternal.svelte",
+      "packages/svelte/src/lib/components/edges/StepEdge.svelte",
+      "packages/svelte/src/lib/components/edges/StepEdgeInternal.svelte",
+      "packages/svelte/src/lib/components/edges/StraightEdge.svelte",
+      "packages/svelte/src/lib/components/edges/StraightEdgeInternal.svelte",
+      "packages/svelte/src/lib/components/edges/index.ts",
+      "packages/svelte/src/lib/index.ts",
+      "packages/svelte/src/lib/store/index.ts",
+      "packages/svelte/src/lib/types/edges.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "9199cbd2781055b6b4c26042f58083d06e7a2b19"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

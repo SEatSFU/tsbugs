@@ -1,0 +1,63 @@
+{
+  "commit_index": "2bc1431",
+  "commit_url": "https://github.com/refly-ai/refly/commit/2bc1431b1560aefd2aa3b5f22e419cb81f1b9cef",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "upload",
+      "improve",
+      "image",
+      "upload",
+      "handling",
+      "timeout",
+      "resolution"
+    ],
+    "description": [
+      "updated",
+      "useuploadimage",
+      "hook",
+      "include",
+      "timeout",
+      "mechanism",
+      "node",
+      "addition",
+      "ensuring",
+      "smoother",
+      "image",
+      "upload",
+      "handling",
+      "enhanced",
+      "nodeoperationsemitter",
+      "resolve",
+      "promise",
+      "based",
+      "position",
+      "callback",
+      "improving",
+      "reliability",
+      "node",
+      "creation",
+      "maintained",
+      "adherence",
+      "tailwind",
+      "cs",
+      "styling",
+      "convention",
+      "safe",
+      "property",
+      "access",
+      "practice",
+      "throughout",
+      "change"
+    ],
+    "changed_files_count": 1,
+    "changed_files": [
+      "packages/ai-workspace-common/src/hooks/use-upload-image.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "ea6d26f3f97248927d0dd27f2fbedb6742f2e5a3"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

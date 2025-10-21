@@ -1,0 +1,93 @@
+{
+  "commit_index": "c093e29",
+  "commit_url": "https://github.com/fabricjs/fabric.js/commit/c093e29e73123dafcfa091ff4d5e04e690bb796e",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "control",
+      "borderscalefactor",
+      "apply",
+      "control",
+      "well",
+      "10\u2026"
+    ],
+    "description": [],
+    "changed_files_count": 12,
+    "changed_files": [
+      "CHANGELOG.md",
+      "dist-extensions/fabric.d.ts",
+      "src/controls/controlRendering.ts",
+      "src/shapes/Object/InteractiveObject.ts",
+      "src/shapes/Object/types/BorderProps.ts",
+      "test/visual/golden/controls10.png",
+      "test/visual/golden/controls11.png",
+      "test/visual/golden/controls11group.png",
+      "test/visual/golden/controls11group90r.png",
+      "test/visual/golden/controls12.png",
+      "test/visual/golden/controls13.png",
+      "test/visual/golden/controls14.png"
+    ],
+    "changed_files_content": [],
+    "parent": "4193fe2d7d1b97286d45a7007fedd2f81a4872e5"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "control",
+        "borderscalefactor",
+        "apply",
+        "control",
+        "well",
+        "10283"
+      ],
+      "total_discussions": 3,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "descriptionclose",
+                "10279mentioned",
+                "discussion",
+                "old",
+                "regressionin",
+                "action"
+              ],
+              "author": "asturur"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "open",
+                "branch",
+                "inweb",
+                "editor\u2022vs",
+                "code\u2022insiders"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 3,
+          "comments": [
+            {
+              "content": [
+                "build",
+                "stats"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

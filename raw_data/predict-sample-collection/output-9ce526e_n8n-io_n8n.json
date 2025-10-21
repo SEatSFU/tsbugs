@@ -1,0 +1,87 @@
+{
+  "commit_index": "9ce526e",
+  "commit_url": "https://github.com/n8n-io/n8n/commit/9ce526e784a6e61ed0f5b0a9ddb9d4ea21584ab2",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "editor",
+      "making",
+      "parameter",
+      "input",
+      "component",
+      "label",
+      "configurable"
+    ],
+    "description": [
+      "fix",
+      "editor",
+      "making",
+      "parameter",
+      "input",
+      "component",
+      "label",
+      "configurable"
+    ],
+    "changed_files_count": 4,
+    "changed_files": [
+      "packages/editor-ui/src/components/CredentialEdit/CredentialInputs.vue",
+      "packages/editor-ui/src/components/ParameterInputExpanded.vue",
+      "packages/editor-ui/src/components/ParameterInputFull.vue",
+      "packages/workflow/src/Interfaces.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "736e700902d333df55abff86c15c688de15c9bde"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "editor",
+        "making",
+        "parameter",
+        "input",
+        "component",
+        "label",
+        "configurable",
+        "5195"
+      ],
+      "total_discussions": 2,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "github",
+                "issue",
+                "community",
+                "forum",
+                "post",
+                "link",
+                "close",
+                "automatically"
+              ],
+              "author": "cstuncsik"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "got",
+                "released",
+                "withn8n",
+                "0.212.1"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

@@ -1,0 +1,90 @@
+{
+  "commit_index": "0117191",
+  "commit_url": "https://github.com/n8n-io/n8n/commit/01171912e7587933792e5cd1cd605a6ec3b0b1be",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "editor",
+      "fix",
+      "incorrect",
+      "execution",
+      "saving",
+      "indicator"
+    ],
+    "description": [
+      "fix",
+      "workflow",
+      "setting",
+      "icon",
+      "execution",
+      "view"
+    ],
+    "changed_files_count": 1,
+    "changed_files": [
+      "packages/editor-ui/src/components/ExecutionsView/ExecutionsInfoAccordion.vue"
+    ],
+    "changed_files_content": [],
+    "parent": "2425c10b2b5ec65bfb05d3f6443a139ec71c6a9a"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "editor",
+        "fix",
+        "incorrect",
+        "execution",
+        "saving",
+        "indicator",
+        "execution",
+        "view",
+        "4547"
+      ],
+      "total_discussions": 3,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "please",
+                "take",
+                "look",
+                "linear",
+                "comment",
+                "test"
+              ],
+              "author": "MiloradFilipovic"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "n8n-5392"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 3,
+          "comments": [
+            {
+              "content": [
+                "got",
+                "released",
+                "withn8n",
+                "0.202.0"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

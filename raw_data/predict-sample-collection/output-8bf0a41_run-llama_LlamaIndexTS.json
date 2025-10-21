@@ -1,0 +1,105 @@
+{
+  "commit_index": "8bf0a41",
+  "commit_url": "https://github.com/run-llama/LlamaIndexTS/commit/8bf0a41926406e312f03f58448045c901b63a95c",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "error",
+      "running",
+      "example",
+      "425"
+    ],
+    "description": [],
+    "changed_files_count": 2,
+    "changed_files": [
+      "examples/tsconfig.json",
+      "packages/core/tsconfig.json"
+    ],
+    "changed_files_content": [],
+    "parent": "5c89aa54c49e4ba0ae424bdfe2692319fc296a80"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "error",
+        "running",
+        "example",
+        "425"
+      ],
+      "total_discussions": 2,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "description",
+                "provided"
+              ],
+              "author": "himself65"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "latest",
+                "commit:9de3ac1",
+                "merging",
+                "pr",
+                "cause",
+                "version",
+                "bump",
+                "package",
+                "change",
+                "result",
+                "new",
+                "version",
+                "'re",
+                "good",
+                "go.if",
+                "change",
+                "result",
+                "version",
+                "bump",
+                "need",
+                "add",
+                "changeset",
+                "changesets",
+                "added",
+                "pr",
+                "'ll",
+                "see",
+                "package",
+                "pr",
+                "includes",
+                "changesets",
+                "associated",
+                "semver",
+                "type",
+                "click",
+                "learn",
+                "changesets",
+                "add",
+                "one",
+                "click",
+                "'re",
+                "maintainer",
+                "want",
+                "add",
+                "changeset",
+                "pr"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

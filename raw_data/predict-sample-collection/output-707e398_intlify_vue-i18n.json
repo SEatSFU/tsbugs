@@ -1,0 +1,22 @@
+{
+  "commit_index": "707e398",
+  "commit_url": "https://github.com/intlify/vue-i18n/commit/707e398c09b89b39ca12facfe94ed753c8e5844f",
+  "commit": {
+    "commit_message": [
+      "chore",
+      "fix",
+      "npm",
+      "script"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      "package.json"
+    ],
+    "changed_files_content": [],
+    "parent": "e1914f277155df714240b2f777f8e3d413006862"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

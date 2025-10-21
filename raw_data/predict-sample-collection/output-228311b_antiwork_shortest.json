@@ -1,0 +1,26 @@
+{
+  "commit_index": "228311b",
+  "commit_url": "https://github.com/antiwork/shortest/commit/228311b009d15f7b67512a320269d24d6216f360",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "add",
+      "cli",
+      "args",
+      "run",
+      "single",
+      "test",
+      "file"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      "packages/shortest/src/cli/bin.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "e1cb9e19bfdbbb366a5dcb54c7999494573b8d15"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

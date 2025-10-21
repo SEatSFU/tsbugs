@@ -1,0 +1,269 @@
+{
+  "commit_index": "83c3897",
+  "commit_url": "https://github.com/run-llama/LlamaIndexTS/commit/83c38975395daea13cb75046f9ffd691966642e5",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "pinecone",
+      "vector",
+      "store",
+      "1512"
+    ],
+    "description": [],
+    "changed_files_count": 5,
+    "changed_files": [
+      ".changeset/sharp-plums-grab.md",
+      "e2e/.env.ci",
+      "e2e/node/vector-store/pinecone.e2e.ts",
+      "packages/llamaindex/src/vector-store/PineconeVectorStore.ts",
+      "packages/llamaindex/src/vector-store/utils.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "e1cbce1f802ae0aa7cc993c8dbc98f25344422a7"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "pinecone",
+        "vector",
+        "store",
+        "1512"
+      ],
+      "total_discussions": 3,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "fixup",
+                "1510"
+              ],
+              "author": "himself65"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "latest",
+                "commit",
+                "c8e948b",
+                "change",
+                "pr",
+                "included",
+                "next",
+                "version",
+                "bump",
+                "sure",
+                "mean",
+                "click",
+                "learn",
+                "changesets",
+                "click",
+                "'re",
+                "maintainer",
+                "want",
+                "add",
+                "another",
+                "changeset",
+                "pr"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 3,
+          "comments": [
+            {
+              "content": [
+                "open",
+                "stackblitz",
+                "commit:4930283"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "title": [
+        "retriever",
+        "error",
+        "pinecone",
+        "vector",
+        "store"
+      ],
+      "labels": [
+        "bug"
+      ],
+      "comments": [
+        {
+          "author": "LawrenceGB",
+          "content": [
+            "describe",
+            "bug",
+            "fetching",
+            "retriever",
+            "pinecone",
+            "openai",
+            "embeddings",
+            "throw",
+            "error",
+            "reproduce",
+            "code",
+            "reproduce",
+            "behavior",
+            "const",
+            "servicecontext",
+            "servicecontextfromdefaults",
+            "chunksize",
+            "8191",
+            "chunkoverlap",
+            "0",
+            "const",
+            "pcvs",
+            "new",
+            "pineconevectorstore",
+            "indexname",
+            "'user-index",
+            "namespace",
+            "user",
+            "uid",
+            "const",
+            "index",
+            "await",
+            "vectorstoreindex",
+            "fromvectorstore",
+            "pcvs",
+            "servicecontext",
+            "const",
+            "retriever",
+            "index",
+            "asretriever",
+            "similaritytopk",
+            "3",
+            "const",
+            "result",
+            "await",
+            "retriever",
+            "retrieve",
+            "query",
+            "open",
+            "expected",
+            "behavior",
+            "return",
+            "correct",
+            "answer",
+            "instead",
+            "error-",
+            "external",
+            "network",
+            "resource",
+            "requested",
+            "url",
+            "http",
+            "//api.openai.com/v1/embeddings",
+            "must",
+            "enter",
+            "filter",
+            "object",
+            "least",
+            "one",
+            "key-value",
+            "pair",
+            "screenshots",
+            "applicable",
+            "add",
+            "screenshots",
+            "help",
+            "explain",
+            "problem",
+            "desktop",
+            "please",
+            "complete",
+            "following",
+            "information",
+            "o",
+            "macos",
+            "j",
+            "runtime",
+            "framework",
+            "bundler",
+            "select",
+            "applicable",
+            "x",
+            "node.js",
+            "deno",
+            "bun",
+            "next.js",
+            "esbuild",
+            "rollup",
+            "webpack",
+            "turbopack",
+            "vite",
+            "waku",
+            "edge",
+            "runtime",
+            "aws",
+            "lambda",
+            "cloudflare",
+            "worker",
+            "others",
+            "please",
+            "elaborate",
+            "version",
+            "0.8.17",
+            "additional",
+            "context",
+            "add",
+            "context",
+            "problem"
+          ]
+        },
+        {
+          "author": "himself65",
+          "content": [
+            "similar",
+            "error",
+            "http",
+            "//github.com/langchain-ai/langchainjs/issues/6926",
+            "'m",
+            "guessing",
+            "pinecone",
+            "breaking",
+            "change"
+          ]
+        },
+        {
+          "author": "himself65",
+          "content": [
+            "reporting",
+            "lack",
+            "maintaince",
+            "vector",
+            "store",
+            "add",
+            "e2e",
+            "tet",
+            "one",
+            "make",
+            "sure",
+            "wo",
+            "n't",
+            "break",
+            "simple",
+            "case"
+          ]
+        }
+      ]
+    }
+  ],
+  "security": null
+}

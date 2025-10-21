@@ -1,0 +1,21 @@
+{
+  "commit_index": "af5a17d",
+  "commit_url": "https://github.com/type-challenges/type-challenges/commit/af5a17d12895fcf18f08fd5b72d383c71525adc4",
+  "commit": {
+    "commit_message": [
+      "chore",
+      "fix",
+      "netilfy"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      "scripts/netlify.toml"
+    ],
+    "changed_files_content": [],
+    "parent": "75d446856e583948d40ca58b68190a083512ecab"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

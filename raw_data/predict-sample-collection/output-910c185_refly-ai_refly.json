@@ -1,0 +1,59 @@
+{
+  "commit_index": "910c185",
+  "commit_url": "https://github.com/refly-ai/refly/commit/910c185395a491719ce5bb0a11ab06f6a53afe37",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "api",
+      "update",
+      "canvas",
+      "state",
+      "handling",
+      "codeartifactservice"
+    ],
+    "description": [
+      "modified",
+      "createcodeartifact",
+      "method",
+      "use",
+      "versiontosync",
+      "fetching",
+      "canvas",
+      "state",
+      "ensuring",
+      "accurate",
+      "synchronization",
+      "enhanced",
+      "parameter",
+      "handling",
+      "destructuring",
+      "additional",
+      "property",
+      "upsertcodeartifactrequest",
+      "improving",
+      "clarity",
+      "functionality",
+      "implemented",
+      "check",
+      "canvasid",
+      "resultid",
+      "maintain",
+      "proper",
+      "association",
+      "prevent",
+      "mismatch",
+      "artifact",
+      "creation"
+    ],
+    "changed_files_count": 2,
+    "changed_files": [
+      "apps/api/src/modules/canvas-sync/canvas-sync.service.ts",
+      "apps/api/src/modules/code-artifact/code-artifact.service.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "bfacd431388fdcd03ca0b7617a248d9db3a1990a"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

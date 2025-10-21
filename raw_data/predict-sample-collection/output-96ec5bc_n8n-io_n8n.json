@@ -1,0 +1,163 @@
+{
+  "commit_index": "96ec5bc",
+  "commit_url": "https://github.com/n8n-io/n8n/commit/96ec5bc880e23c1916322d68e8aeaaa8176db2aa",
+  "commit": {
+    "commit_message": [
+      "refactor",
+      "editor",
+      "fix",
+      "duplicate",
+      "nodeview",
+      "key",
+      "navigating"
+    ],
+    "description": [
+      "refactor",
+      "editor",
+      "fix",
+      "duplicate",
+      "nodeview",
+      "key",
+      "navigating",
+      "route",
+      "no-changelog",
+      "prettier",
+      "fix",
+      "use",
+      "computed",
+      "export",
+      "jsplumb",
+      "instance",
+      "canvas",
+      "force",
+      "jsplumb",
+      "computed",
+      "instance",
+      "type"
+    ],
+    "changed_files_count": 3,
+    "changed_files": [
+      "packages/editor-ui/src/mixins/mouseSelect.ts",
+      "packages/editor-ui/src/stores/canvas.ts",
+      "packages/editor-ui/src/views/NodeView.vue"
+    ],
+    "changed_files_content": [],
+    "parent": "8f5f1c3aa520576215e16a8cc1a8beadae5f142a"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "refactor",
+        "editor",
+        "fix",
+        "duplicate",
+        "nodeview",
+        "key",
+        "navigating",
+        "route",
+        "no-changelog",
+        "5325"
+      ],
+      "total_discussions": 2,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "follow-up",
+                "5259.this",
+                "pr",
+                "address",
+                "three",
+                "issue",
+                "navigating",
+                "away",
+                "unsaved",
+                "workflow",
+                "reset",
+                "workflow",
+                "id",
+                "setting",
+                "toplaceholder_empty_workflow_id",
+                "user",
+                "chooses",
+                "discard",
+                "save",
+                "change",
+                "navigation",
+                "canceled",
+                "closing",
+                "modal",
+                "reset",
+                "workflow",
+                "id.instead",
+                "storing",
+                "node",
+                "component",
+                "ref",
+                "later",
+                "get",
+                "element",
+                "use",
+                "jsplumb'sgetmanagedelementto",
+                "retrieve",
+                "dom",
+                "element",
+                "node",
+                "id",
+                "reliable",
+                "way",
+                "getting",
+                "dom",
+                "element",
+                "node",
+                "improve",
+                "memory",
+                "consumption",
+                "larger",
+                "workflows.usecomputedto",
+                "exportjsplumbinstancefrom",
+                "canvas",
+                "store",
+                "fixesmaximum",
+                "call",
+                "stack",
+                "size",
+                "exceedederror",
+                "vue",
+                "dev",
+                "tool",
+                "opengithub",
+                "issue",
+                "community",
+                "forum",
+                "post",
+                "link",
+                "close",
+                "automatically"
+              ],
+              "author": "OlegIvaniv"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "got",
+                "released",
+                "withn8n",
+                "0.214.0"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

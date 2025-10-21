@@ -1,0 +1,26 @@
+{
+  "commit_index": "2c8982a",
+  "commit_url": "https://github.com/nestjs/nest/commit/2c8982a2c77ccabc68910799d5eb7575fad80b4a",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "core",
+      "revisit",
+      "dependency",
+      "w/",
+      "possibly",
+      "higher",
+      "distance"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      "packages/core/scanner.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "7843db3984af97e98b5486ad142fd5bcf438a3f2"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

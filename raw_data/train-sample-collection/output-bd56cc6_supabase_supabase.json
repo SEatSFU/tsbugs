@@ -1,0 +1,85 @@
+{
+  "commit_index": "bd56cc6",
+  "commit_url": "https://github.com/supabase/supabase/commit/bd56cc67bc7ebcff565353acb729df64be5ac829",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "destructive",
+      "query",
+      "warning",
+      "run",
+      "button",
+      "33801"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      "apps/studio/components/interfaces/SQLEditor/UtilityPanel/RunButton.tsx"
+    ],
+    "changed_files_content": [],
+    "parent": "68adacbd895b27f31231f15d6d0b80cc657f0c23"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "destructive",
+        "query",
+        "warning",
+        "run",
+        "button",
+        "33801"
+      ],
+      "total_discussions": 1,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "kind",
+                "change",
+                "pr",
+                "introduce",
+                "bug",
+                "fixwhat",
+                "current",
+                "behavior",
+                "clicking",
+                "run",
+                "button",
+                "open",
+                "destructive",
+                "query",
+                "warning",
+                "modal",
+                "event",
+                "parameter",
+                "button",
+                "passed",
+                "theexecutequerymethod",
+                "acting",
+                "truthy",
+                "value",
+                "theforceparameter.what",
+                "new",
+                "behavior",
+                "event",
+                "parameter",
+                "longer",
+                "passed",
+                "query",
+                "force",
+                "ran"
+              ],
+              "author": "saltcod"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

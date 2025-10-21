@@ -1,0 +1,87 @@
+{
+  "commit_index": "698cd9c",
+  "commit_url": "https://github.com/run-llama/LlamaIndexTS/commit/698cd9c631726efca5b2a9f104f398010be03602",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "step",
+      "wise",
+      "agent",
+      "example",
+      "594"
+    ],
+    "description": [],
+    "changed_files_count": 7,
+    "changed_files": [
+      ".changeset/four-ways-enjoy.md",
+      "examples/agent/step_wise_openai.ts",
+      "examples/agent/step_wise_query_tool.ts",
+      "examples/agent/step_wise_react.ts",
+      "packages/core/src/agent/runner/base.ts",
+      "packages/core/src/agent/types.ts",
+      "packages/core/src/llm/LLM.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "c744a991025c6dbe77496fcc1f11a75011d7990d"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "step",
+        "wise",
+        "agent",
+        "example",
+        "594"
+      ],
+      "total_discussions": 2,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "description",
+                "provided"
+              ],
+              "author": "EmanuelCampos"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "latest",
+                "commit:6450bf3",
+                "change",
+                "pr",
+                "included",
+                "next",
+                "version",
+                "bump",
+                "sure",
+                "mean",
+                "click",
+                "learn",
+                "changesets",
+                "click",
+                "'re",
+                "maintainer",
+                "want",
+                "add",
+                "another",
+                "changeset",
+                "pr"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

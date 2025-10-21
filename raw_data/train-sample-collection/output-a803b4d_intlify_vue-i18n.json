@@ -1,0 +1,56 @@
+{
+  "commit_index": "a803b4d",
+  "commit_url": "https://github.com/intlify/vue-i18n/commit/a803b4d477dc2af1a303f5ea64d51fb1f5eb3f66",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "deps",
+      "update",
+      "dependency",
+      "monaco-editor",
+      "^0.47.0"
+    ],
+    "description": [],
+    "changed_files_count": 2,
+    "changed_files": [
+      "packages/format-explorer/package.json",
+      "pnpm-lock.yaml"
+    ],
+    "changed_files_content": [],
+    "parent": "240e9adbc3879816b1ece20dae2818ac2f918152"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "deps",
+        "update",
+        "dependency",
+        "monaco-editor",
+        "^0.47.0"
+      ],
+      "total_discussions": 2,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "pr",
+                "contains",
+                "following",
+                "update",
+                "monaco-editor",
+                "^0.47.0release"
+              ],
+              "author": "renovate"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

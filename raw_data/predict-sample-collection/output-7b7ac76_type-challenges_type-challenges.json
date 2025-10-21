@@ -1,0 +1,53 @@
+{
+  "commit_index": "7b7ac76",
+  "commit_url": "https://github.com/type-challenges/type-challenges/commit/7b7ac769bde53199b484b390869619ad9dc521b2",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "update",
+      "4182",
+      "fibonacci",
+      "sequence",
+      "4217"
+    ],
+    "description": [],
+    "changed_files_count": 3,
+    "changed_files": [
+      "questions/4182-medium-fibonacci-sequence/README.md",
+      "questions/4182-medium-fibonacci-sequence/info.yml",
+      "questions/4182-medium-fibonacci-sequence/info.zh-CN.yml"
+    ],
+    "changed_files_content": [],
+    "parent": "a96442c4593f836d5fed8abcce16e9f9c2f7b948"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "update",
+        "4182",
+        "fibonacci",
+        "sequence",
+        "4217"
+      ],
+      "total_discussions": 1,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "description",
+                "provided"
+              ],
+              "author": "antfu"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

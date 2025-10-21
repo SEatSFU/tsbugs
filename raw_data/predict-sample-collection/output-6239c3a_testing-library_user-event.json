@@ -1,0 +1,171 @@
+{
+  "commit_index": "6239c3a",
+  "commit_url": "https://github.com/testing-library/user-event/commit/6239c3a9469eb7ffe7b937028cef3d8eb6f5214b",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "fire",
+      "mouse",
+      "event",
+      "correct",
+      "property",
+      "296"
+    ],
+    "description": [],
+    "changed_files_count": 4,
+    "changed_files": [
+      "src/__tests__/click.js",
+      "src/__tests__/dblclick.js",
+      "src/index.js",
+      "typings/index.d.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "bfbe92c0f5b532718a77918dc10d8292bb9a0f3d"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fire",
+        "mouse",
+        "event",
+        "correct",
+        "property",
+        "296"
+      ],
+      "total_discussions": 2,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "ensures",
+                "mouse",
+                "event",
+                "fired",
+                "correct",
+                "value",
+                "thebutton",
+                "button",
+                "anddetailproperties",
+                "emulates",
+                "browser",
+                "would",
+                "important",
+                "code",
+                "relies",
+                "behavior",
+                "addition",
+                "possible",
+                "pas",
+                "custom",
+                "property",
+                "event",
+                "e.g.altkey",
+                "screen",
+                "position",
+                ".why",
+                "test",
+                "simulate",
+                "browser",
+                "fire",
+                "closely",
+                "possible.how",
+                "looked",
+                "spec",
+                "property",
+                "emulated",
+                "required",
+                "behavior",
+                "also",
+                "tested",
+                "real",
+                "application",
+                "relies",
+                "them.by",
+                "default",
+                "clickanddblclicksimulate",
+                "left",
+                "mouse",
+                "button",
+                "however",
+                "set",
+                "thebuttonorbuttonsproperty",
+                "firing",
+                "event",
+                "override",
+                "user-event",
+                "handle",
+                "mapping",
+                "one",
+                "'s",
+                "set",
+                "alternative",
+                "one",
+                "unset",
+                "'s",
+                "consistent",
+                "matter",
+                "specified.in",
+                "addition",
+                "thedetailproperty",
+                "set",
+                "according",
+                "number",
+                "click",
+                "occurred.checklist",
+                "documentation",
+                "n/a",
+                "teststypingsready",
+                "mergedthanks",
+                "great",
+                "library"
+              ],
+              "author": "kentcdodds"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "merging",
+                "296intomasterwillincreasecoverage",
+                "by0.13",
+                ".the",
+                "diff",
+                "coverage",
+                "is97.05",
+                "continue",
+                "review",
+                "full",
+                "report",
+                "codecov",
+                "legend-click",
+                "learn",
+                "absolute",
+                "relative",
+                "impact",
+                "affected",
+                "missing",
+                "datapowered",
+                "bycodecov",
+                "last",
+                "updatebfbe92c",
+                "...",
+                "1f41ad3",
+                "read",
+                "thecomment",
+                "doc"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

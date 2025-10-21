@@ -1,0 +1,148 @@
+{
+  "commit_index": "658efbf",
+  "commit_url": "https://github.com/intlify/vue-i18n/commit/658efbfe560e4c3ae251e9846f09dd7599c14468",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "synchronous",
+      "watcher",
+      "issue",
+      "caused",
+      "locale",
+      "setting",
+      "order",
+      "2104"
+    ],
+    "description": [],
+    "changed_files_count": 2,
+    "changed_files": [
+      "packages/vue-i18n-core/src/composer.ts",
+      "packages/vue-i18n-core/test/composer.test.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "c1e7b6d4959f2a466674a86dc6f6d66d07f9cf92"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "synchronous",
+        "watcher",
+        "issue",
+        "caused",
+        "locale",
+        "setting",
+        "order",
+        "2104"
+      ],
+      "total_discussions": 4,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "reproduction",
+                "http",
+                "//codesandbox.io/p/devbox/vue-i18n-9-template-forked-ffq44zthis",
+                "pr",
+                "adjusts",
+                "order",
+                "operation",
+                "locale",
+                "setter",
+                "rectify",
+                "issue",
+                "locale",
+                "update",
+                "synchronous",
+                "watcher",
+                "may",
+                "trigger",
+                "modifying",
+                "_locale.value",
+                "seen",
+                "inthis",
+                "file",
+                "updating",
+                "_context",
+                "sequence",
+                "led",
+                "error",
+                "translation",
+                "mechanism",
+                "relies",
+                "exclusively",
+                "_context",
+                "_locale"
+              ],
+              "author": "kazupon"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "contribution",
+                "ci",
+                "working",
+                "correctly",
+                "due",
+                "corepack",
+                "issue.i",
+                "pushed",
+                "commit",
+                "themasterbranch",
+                "fix",
+                "issue.if",
+                "pull",
+                "commit",
+                "work",
+                "correctly.would",
+                "please"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 3,
+          "comments": [
+            {
+              "content": [
+                "open",
+                "stackblitz",
+                "commit:0279572"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 4,
+          "comments": [
+            {
+              "content": [
+                "never",
+                "mind",
+                "comment",
+                "vue-i18n",
+                "github",
+                "pr",
+                "able",
+                "update",
+                "branch",
+                "ci",
+                "result",
+                "green"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

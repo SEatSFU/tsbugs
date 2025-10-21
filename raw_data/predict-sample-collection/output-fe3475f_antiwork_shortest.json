@@ -1,0 +1,23 @@
+{
+  "commit_index": "fe3475f",
+  "commit_url": "https://github.com/antiwork/shortest/commit/fe3475fcd2f5ab5cdaaae2c980af7f2a098f54fc",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "vercel",
+      "build",
+      "error"
+    ],
+    "description": [],
+    "changed_files_count": 2,
+    "changed_files": [
+      "packages/shortest/package.json",
+      "shortest.config.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "4a9cbd8a638abcc3d700e7dcb8b744ea39fb0454"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

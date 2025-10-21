@@ -1,0 +1,159 @@
+{
+  "commit_index": "03c426f",
+  "commit_url": "https://github.com/fabricjs/fabric.js/commit/03c426fd1057fb40f6955fb2b18165b301a557b1",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "svgimport",
+      "skip",
+      "id",
+      "attribute",
+      "normalization",
+      "10079"
+    ],
+    "description": [],
+    "changed_files_count": 3,
+    "changed_files": [
+      "CHANGELOG.md",
+      "src/parser/loadSVGFromString.test.ts",
+      "src/parser/normalizeValue.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "cbfba616bf9b6740efb38312b01d16d59472cec5"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "parser",
+        "skipidattribute",
+        "normalization",
+        "10079"
+      ],
+      "total_discussions": 6,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "descriptionif",
+                "load",
+                "svg",
+                "object",
+                "withidattribute",
+                "starting",
+                "anumber",
+                "get",
+                "wrong",
+                "id",
+                "parsed"
+              ],
+              "author": "asturur"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "open",
+                "branch",
+                "inweb",
+                "editor\u2022vs",
+                "code\u2022insidersopenpreview"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 3,
+          "comments": [
+            {
+              "content": [
+                "kind",
+                "attribute",
+                "issue",
+                "well",
+                "right",
+                "svg",
+                "data-custom-attribute=",
+                "123abc",
+                "/svg"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 4,
+          "comments": [
+            {
+              "content": [
+                "miroljub1995add",
+                "line",
+                "changelog",
+                "fix",
+                "svgimport",
+                "allow",
+                "parsing",
+                "'id",
+                "attribute",
+                "start",
+                "number",
+                "10079",
+                "merge",
+                "please",
+                "check",
+                "get",
+                "formatted",
+                "line",
+                "get",
+                "lint",
+                "error.i",
+                "ca",
+                "n't",
+                "edit",
+                "n't",
+                "write",
+                "access",
+                "branch"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 5,
+          "comments": [
+            {
+              "content": [
+                "asturur"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 6,
+          "comments": [
+            {
+              "content": [
+                "maybe",
+                "warning",
+                "checkmark",
+                "green.or",
+                "maybe",
+                "somehow",
+                "picking",
+                "different",
+                "configuration"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

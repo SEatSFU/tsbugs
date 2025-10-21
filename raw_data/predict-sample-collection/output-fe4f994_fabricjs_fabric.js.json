@@ -1,0 +1,169 @@
+{
+  "commit_index": "fe4f994",
+  "commit_url": "https://github.com/fabricjs/fabric.js/commit/fe4f9949c63a31eb7e294d4ca88c647c8ebfb5f0",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "parse",
+      "use",
+      "directive",
+      "attribute",
+      "issue",
+      "10053"
+    ],
+    "description": [],
+    "changed_files_count": 10,
+    "changed_files": [
+      "CHANGELOG.md",
+      "src/parser/parseStyleString.ts",
+      "src/parser/parseUseDirectives.test.ts",
+      "src/parser/parseUseDirectives.ts",
+      "test/visual/assets/use-and-style.svg",
+      "test/visual/assets/use-svg-style-2.svg",
+      "test/visual/golden/svg_stroke_1.png",
+      "test/visual/golden/use-and-style.png",
+      "test/visual/golden/use-svg-style-2.png",
+      "test/visual/svg_import.js"
+    ],
+    "changed_files_content": [],
+    "parent": "6f891e9546b58af1e862e5f7dbbe0e0b02842a74"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "parse",
+        "use",
+        "directive",
+        "attribute",
+        "issue",
+        "10053"
+      ],
+      "total_discussions": 5,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "descriptionwhen",
+                "parsing",
+                "use",
+                "element",
+                "priority",
+                "attribute",
+                "original.you",
+                "ca",
+                "n't",
+                "override",
+                "fill",
+                "stroke",
+                "defined",
+                "object",
+                "referencing.when",
+                "style",
+                "place",
+                "merge",
+                "feature",
+                "attribute.so",
+                "priority",
+                "follow",
+                "parent",
+                "element",
+                "style",
+                "fill",
+                "take",
+                "precedence",
+                "parent",
+                "element",
+                "fill",
+                "attribute",
+                "define",
+                "parent",
+                "fill",
+                "color.if",
+                "parent",
+                "fill",
+                "color",
+                "defined",
+                "ca",
+                "n't",
+                "change",
+                "way",
+                "used",
+                "element",
+                "color.we",
+                "encoding",
+                "color",
+                "value",
+                "use-cloned",
+                "style.also",
+                "refactored",
+                "code",
+                "terse"
+              ],
+              "author": "asturur"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "open",
+                "branch",
+                "inweb",
+                "editor\u2022vs",
+                "code\u2022insiders"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 3,
+          "comments": [
+            {
+              "content": [
+                "build",
+                "stats"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 4,
+          "comments": [
+            {
+              "content": [
+                "added",
+                "failing",
+                "test",
+                "use",
+                "classnames",
+                "n't",
+                "want",
+                "go",
+                "fixing"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 5,
+          "comments": [
+            {
+              "content": [
+                "coverage",
+                "mergingparse-use-directiveintomasterwill"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

@@ -1,0 +1,23 @@
+{
+  "commit_index": "dc337ce",
+  "commit_url": "https://github.com/Kong/insomnia/commit/dc337cef64cbca8ecd3f881cec2282752aa02a43",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "bad",
+      "author",
+      "name"
+    ],
+    "description": [],
+    "changed_files_count": 2,
+    "changed_files": [
+      "packages/insomnia-app/app/ui/components/dropdowns/git-sync-dropdown.js",
+      "packages/insomnia-app/config/config.designer.json"
+    ],
+    "changed_files_content": [],
+    "parent": "d6bb7a38963d61bab92331a320b7b4d3639cb7bf"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

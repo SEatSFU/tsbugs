@@ -1,0 +1,175 @@
+{
+  "commit_index": "dbbc633",
+  "commit_url": "https://github.com/intlify/vue-i18n/commit/dbbc633989919a99e6c0cdf2564a6cd51497b55e",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "vue-i18n",
+      "v8",
+      "eol",
+      "2060"
+    ],
+    "description": [
+      "fix",
+      "vue-i18n",
+      "v8",
+      "eol",
+      "fix",
+      "update",
+      "lifecycle",
+      "figure"
+    ],
+    "changed_files_count": 91,
+    "changed_files": [
+      "README.md",
+      "docs-old/.vuepress/components/sponsor-button.vue",
+      "docs-old/.vuepress/config.js",
+      "docs-old/.vuepress/public/patrons/babeledit.png",
+      "docs-old/.vuepress/public/patrons/locize.png",
+      "docs-old/.vuepress/public/patrons/sendcloud.png",
+      "docs-old/.vuepress/public/patrons/sendcloud.svg",
+      "docs-old/.vuepress/public/patrons/zenarchitects.png",
+      "docs-old/.vuepress/public/vue-i18n-logo.png",
+      "docs-old/README.md",
+      "docs-old/api/README.md",
+      "docs-old/guide/component.md",
+      "docs-old/guide/datetime.md",
+      "docs-old/guide/directive.md",
+      "docs-old/guide/fallback.md",
+      "docs-old/guide/formatting.md",
+      "docs-old/guide/hot-reload.md",
+      "docs-old/guide/interpolation.md",
+      "docs-old/guide/lazy-loading.md",
+      "docs-old/guide/locale.md",
+      "docs-old/guide/messages.md",
+      "docs-old/guide/number.md",
+      "docs-old/guide/pluralization.md",
+      "docs-old/guide/sfc.md",
+      "docs-old/guide/tooling.md",
+      "docs-old/installation.md",
+      "docs-old/introduction.md",
+      "docs-old/pt/README.md",
+      "docs-old/pt/api/README.md",
+      "docs-old/pt/guide/component.md",
+      "docs-old/pt/guide/datetime.md",
+      "docs-old/pt/guide/directive.md",
+      "docs-old/pt/guide/fallback.md",
+      "docs-old/pt/guide/formatting.md",
+      "docs-old/pt/guide/hot-reload.md",
+      "docs-old/pt/guide/interpolation.md",
+      "docs-old/pt/guide/lazy-loading.md",
+      "docs-old/pt/guide/locale.md",
+      "docs-old/pt/guide/messages.md",
+      "docs-old/pt/guide/number.md",
+      "docs-old/pt/guide/pluralization.md",
+      "docs-old/pt/guide/sfc.md",
+      "docs-old/pt/guide/tooling.md",
+      "docs-old/pt/installation.md",
+      "docs-old/pt/introduction.md",
+      "docs-old/pt/started.md",
+      "docs-old/ru/README.md",
+      "docs-old/ru/api/README.md",
+      "docs-old/ru/guide/component.md",
+      "docs-old/ru/guide/datetime.md",
+      "docs-old/ru/guide/directive.md",
+      "docs-old/ru/guide/fallback.md",
+      "docs-old/ru/guide/formatting.md",
+      "docs-old/ru/guide/hot-reload.md",
+      "docs-old/ru/guide/interpolation.md",
+      "docs-old/ru/guide/lazy-loading.md",
+      "docs-old/ru/guide/locale.md",
+      "docs-old/ru/guide/messages.md",
+      "docs-old/ru/guide/number.md",
+      "docs-old/ru/guide/pluralization.md",
+      "docs-old/ru/guide/sfc.md",
+      "docs-old/ru/guide/tooling.md",
+      "docs-old/ru/installation.md",
+      "docs-old/ru/introduction.md",
+      "docs-old/ru/started.md",
+      "docs-old/started.md",
+      "docs-old/zh/README.md",
+      "docs-old/zh/api/README.md",
+      "docs-old/zh/guide/component.md",
+      "docs-old/zh/guide/datetime.md",
+      "docs-old/zh/guide/directive.md",
+      "docs-old/zh/guide/fallback.md",
+      "docs-old/zh/guide/formatting.md",
+      "docs-old/zh/guide/hot-reload.md",
+      "docs-old/zh/guide/interpolation.md",
+      "docs-old/zh/guide/lazy-loading.md",
+      "docs-old/zh/guide/locale.md",
+      "docs-old/zh/guide/messages.md",
+      "docs-old/zh/guide/number.md",
+      "docs-old/zh/guide/pluralization.md",
+      "docs-old/zh/guide/sfc.md",
+      "docs-old/zh/guide/tooling.md",
+      "docs-old/zh/installation.md",
+      "docs-old/zh/introduction.md",
+      "docs-old/zh/started.md",
+      "docs/.vitepress/config.mts",
+      "docs/guide/maintenance.md",
+      "docs/guide/v8-docs.md",
+      "docs/public/lifecycle2025-1.excalidraw",
+      "docs/public/lifecycle2025-1.png",
+      "docs/public/lifecycle2025-1.svg"
+    ],
+    "changed_files_content": [],
+    "parent": "f72422276b0b94a1ca93e8d20a5e8db072966414"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "vue-i18n",
+        "v8",
+        "eol",
+        "2060"
+      ],
+      "total_discussions": 3,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "vue",
+                "i18n",
+                "eol",
+                "2025",
+                "pr",
+                "preparation"
+              ],
+              "author": "kazupon"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "view",
+                "log"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 3,
+          "comments": [
+            {
+              "content": [
+                "open",
+                "stackblitz",
+                "commit:8a178e2"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

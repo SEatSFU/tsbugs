@@ -1,0 +1,130 @@
+{
+  "commit_index": "4745ae3",
+  "commit_url": "https://github.com/fabricjs/fabric.js/commit/4745ae37847f52a5af9bc030d306b65661dd46e1",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "replace",
+      "'hasown",
+      "'in",
+      "operator",
+      "typeassertions",
+      "check",
+      "\u2026"
+    ],
+    "description": [],
+    "changed_files_count": 2,
+    "changed_files": [
+      "CHANGELOG.md",
+      "src/util/typeAssertions.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "c27a21883eda49b7a7bfcc32f49eb59a099a1536"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "replace",
+        "'hasown",
+        "'in",
+        "operator",
+        "typeassertions",
+        "check",
+        "9812"
+      ],
+      "total_discussions": 4,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "object.hasownis",
+                "relatively-recent",
+                "api",
+                "used",
+                "indeed",
+                "noticed",
+                "looking",
+                "production",
+                "exception",
+                "'ve",
+                "replaced",
+                "usage",
+                "justinoperator",
+                "reason",
+                "make",
+                "t",
+                "happier",
+                "thanobj.hasownproperty",
+                ".https",
+                "//developer.mozilla.org/en-us/docs/web/javascript/reference/global_objects/object/hasown"
+              ],
+              "author": "asturur"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "open",
+                "branch",
+                "inweb",
+                "editor\u2022vs",
+                "code\u2022insidersopenpreview"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 3,
+          "comments": [
+            {
+              "content": [
+                "yes",
+                "hasown",
+                "definitely",
+                "supported",
+                "browser",
+                "specs.the",
+                "operator",
+                "also",
+                "make",
+                "sense",
+                "subclassing",
+                "would",
+                "older",
+                "code",
+                "sure",
+                "landed",
+                "hasown",
+                "initially"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 4,
+          "comments": [
+            {
+              "content": [
+                "'ll",
+                "merge",
+                "tomorrow",
+                "additional",
+                "comment",
+                "made"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

@@ -1,0 +1,138 @@
+{
+  "commit_index": "e08025b",
+  "commit_url": "https://github.com/chakra-ui/chakra-ui/commit/e08025b359146d80ab46f1d35da82a11780c5316",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "doc",
+      "move",
+      "theme",
+      "link",
+      "navigation",
+      "utility",
+      "sectio\u2026"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      "apps/www/docs.config.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "7a1dc7d6c4d790890ab1874fa69b1526ad7a2249"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "doc",
+        "move",
+        "theme",
+        "link",
+        "navigation",
+        "utility",
+        "section",
+        "10056"
+      ],
+      "total_discussions": 2,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "make",
+                "sense",
+                "move",
+                "theme",
+                "utility",
+                "section.\ud83d\udcdd",
+                "descriptionadd",
+                "brief",
+                "description\u26f3\ufe0f",
+                "current",
+                "behavior",
+                "update",
+                "please",
+                "describe",
+                "current",
+                "behavior",
+                "modifying\ud83d\ude80",
+                "new",
+                "behaviorplease",
+                "describe",
+                "behavior",
+                "change",
+                "pr",
+                "adds\ud83d\udca3",
+                "breaking",
+                "change",
+                "yes/no",
+                "additional",
+                "information"
+              ],
+              "author": "segunadebayo"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "latest",
+                "commit:5823847",
+                "merging",
+                "pr",
+                "cause",
+                "version",
+                "bump",
+                "package",
+                "change",
+                "result",
+                "new",
+                "version",
+                "'re",
+                "good",
+                "go.if",
+                "change",
+                "result",
+                "version",
+                "bump",
+                "need",
+                "add",
+                "changeset",
+                "changesets",
+                "added",
+                "pr",
+                "'ll",
+                "see",
+                "package",
+                "pr",
+                "includes",
+                "changesets",
+                "associated",
+                "semver",
+                "type",
+                "click",
+                "learn",
+                "changesets",
+                "add",
+                "one",
+                "click",
+                "'re",
+                "maintainer",
+                "want",
+                "add",
+                "changeset",
+                "pr"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

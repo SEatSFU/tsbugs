@@ -1,0 +1,21 @@
+{
+  "commit_index": "1bd4796",
+  "commit_url": "https://github.com/run-llama/LlamaIndexTS/commit/1bd47969b37c86a226f10d1e1a6498de798ca39c",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "changesets"
+    ],
+    "description": [],
+    "changed_files_count": 2,
+    "changed_files": [
+      ".changeset/silly-bugs-fold.md",
+      ".changeset/spicy-colts-dream.md"
+    ],
+    "changed_files_content": [],
+    "parent": "5fec0f113530bbaf1aec3d2545cb0217c6eddec6"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

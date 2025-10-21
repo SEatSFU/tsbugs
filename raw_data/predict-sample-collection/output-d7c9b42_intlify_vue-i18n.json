@@ -1,0 +1,39 @@
+{
+  "commit_index": "d7c9b42",
+  "commit_url": "https://github.com/intlify/vue-i18n/commit/d7c9b426b52063c808d54cd76beb881617742c4d",
+  "commit": {
+    "commit_message": [
+      "chore",
+      "update",
+      "eslint",
+      "config",
+      "fix",
+      "type",
+      "error"
+    ],
+    "description": [],
+    "changed_files_count": 15,
+    "changed_files": [
+      "e2e/helper.ts",
+      "eslint.config.mjs",
+      "package.json",
+      "packages/format-explorer/src/App.vue",
+      "pnpm-lock.yaml",
+      "scripts/aliases.ts",
+      "scripts/build.ts",
+      "scripts/dev.ts",
+      "scripts/fixpack.ts",
+      "scripts/postprocess.ts",
+      "scripts/utils.ts",
+      "scripts/vitest.unit.globalSetup.ts",
+      "shim.d.ts",
+      "tsconfig.json",
+      "vitest.config.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "0c0bfc8b8e1e09aaf60653499013400ec9948315"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

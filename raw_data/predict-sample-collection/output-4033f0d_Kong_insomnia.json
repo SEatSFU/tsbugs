@@ -1,0 +1,23 @@
+{
+  "commit_index": "4033f0d",
+  "commit_url": "https://github.com/Kong/insomnia/commit/4033f0d3b79321daad4dc48cdcbebe356badbafb",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "test"
+    ],
+    "description": [],
+    "changed_files_count": 4,
+    "changed_files": [
+      "packages/insomnia-app/app/models/response.js",
+      "packages/insomnia-app/app/network/o-auth-2/__tests__/grant-authorization-code.test.js",
+      "packages/insomnia-app/app/network/o-auth-2/__tests__/grant-client-credentials.test.js",
+      "packages/insomnia-app/app/network/o-auth-2/__tests__/grant-password.test.js"
+    ],
+    "changed_files_content": [],
+    "parent": "1e50cd4a537ef85ebad713bd17ef03a5be1aae9e"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

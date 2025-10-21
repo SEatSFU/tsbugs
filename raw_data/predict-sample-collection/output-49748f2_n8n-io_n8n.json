@@ -1,0 +1,100 @@
+{
+  "commit_index": "49748f2",
+  "commit_url": "https://github.com/n8n-io/n8n/commit/49748f27a2bfbb0356ba2c30c35d34a3ad9d8063",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "editor",
+      "prevent",
+      "adding",
+      "start",
+      "node",
+      "importing"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      "packages/editor-ui/src/views/canvasHelpers.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "736777385c54d5b20174c9c1fda38bb31fbf14b4"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "editor",
+        "prevent",
+        "adding",
+        "start",
+        "node",
+        "importing",
+        "workflow",
+        "demo",
+        "mode",
+        "4564"
+      ],
+      "total_discussions": 3,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "issue",
+                "happening",
+                "app",
+                "running",
+                "iframe",
+                "demo",
+                "mode",
+                "callinggetfixednodeslistwe",
+                "'d",
+                "add",
+                "start",
+                "node",
+                "'s",
+                "present",
+                "imported",
+                "json",
+                "since",
+                "start",
+                "node",
+                "deprecated",
+                "longer",
+                "necessary"
+              ],
+              "author": "OlegIvaniv"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "n8n-5365"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 3,
+          "comments": [
+            {
+              "content": [
+                "got",
+                "released",
+                "withn8n",
+                "0.202.0"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

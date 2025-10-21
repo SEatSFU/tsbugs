@@ -1,0 +1,22 @@
+{
+  "commit_index": "71c995c",
+  "commit_url": "https://github.com/Kong/insomnia/commit/71c995c696cb46119349fabb584fad3c33e301e4",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "mock",
+      "test"
+    ],
+    "description": [],
+    "changed_files_count": 2,
+    "changed_files": [
+      "packages/insomnia-smoke-test/tests/smoke/mock.test.ts",
+      "packages/insomnia/src/ui/routes/mock-route.tsx"
+    ],
+    "changed_files_content": [],
+    "parent": "b22b0ab0767a5c41df405ebd14895a3bcc1b0604"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

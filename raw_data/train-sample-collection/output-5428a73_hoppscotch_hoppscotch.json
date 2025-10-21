@@ -1,0 +1,82 @@
+{
+  "commit_index": "5428a73",
+  "commit_url": "https://github.com/hoppscotch/hoppscotch/commit/5428a738117b6f14278d1109fdaaf28850c46e27",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "add",
+      "optional",
+      "chaining",
+      "teammembers",
+      "handle",
+      "undefined",
+      "team",
+      "\u2026"
+    ],
+    "description": [
+      "co-authored-by",
+      "james",
+      "george",
+      "jamesgeorge998001",
+      "gmail.com"
+    ],
+    "changed_files_count": 2,
+    "changed_files": [
+      "packages/hoppscotch-common/src/components/teams/Edit.vue",
+      "packages/hoppscotch-common/src/components/teams/Invite.vue"
+    ],
+    "changed_files_content": [],
+    "parent": "4a154e6569150b43baa71bb31c9f711103e719ec"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "add",
+        "optional",
+        "chaining",
+        "teammembers",
+        "handle",
+        "undefined",
+        "team",
+        "3484"
+      ],
+      "total_discussions": 1,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "descriptiontheteamcan",
+                "benullin",
+                "case",
+                "checksmy",
+                "pull",
+                "request",
+                "adheres",
+                "code",
+                "style",
+                "projectmy",
+                "code",
+                "requires",
+                "change",
+                "documentationi",
+                "updated",
+                "documentation",
+                "requiredall",
+                "test",
+                "passedadditional",
+                "information"
+              ],
+              "author": "AndrewBastin"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

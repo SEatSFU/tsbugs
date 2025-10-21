@@ -1,0 +1,57 @@
+{
+  "commit_index": "d298d46",
+  "commit_url": "https://github.com/ueberdosis/hocuspocus/commit/d298d46085fd7ad3c72240e7c8302a22934f78d6",
+  "commit": {
+    "commit_message": [
+      "doc",
+      "update",
+      "link",
+      "overview",
+      "single",
+      "hook",
+      "fix",
+      "169"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      "docs/src/docPages/api/hooks.md"
+    ],
+    "changed_files_content": [],
+    "parent": "13bb2b38c5887bb09c2b6565754888092c8e345b"
+  },
+  "pull_requests": null,
+  "issues": [
+    {
+      "title": [
+        "wrong",
+        "path",
+        "doc",
+        "link"
+      ],
+      "labels": [
+        "documentation"
+      ],
+      "comments": [
+        {
+          "author": "dkrym",
+          "content": [
+            "hi",
+            "guy",
+            "read",
+            "link",
+            "wrong",
+            "path",
+            "missing",
+            "/hooks/",
+            "n't",
+            "work",
+            "http",
+            "//www.hocuspocus.dev/api/hooks/"
+          ]
+        }
+      ]
+    }
+  ],
+  "security": null
+}

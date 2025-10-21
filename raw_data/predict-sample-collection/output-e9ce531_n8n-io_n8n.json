@@ -1,0 +1,536 @@
+{
+  "commit_index": "e9ce531",
+  "commit_url": "https://github.com/n8n-io/n8n/commit/e9ce5312106e550c15eb4adc049e4b0151a7c40c",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "core",
+      "resolve",
+      "domain",
+      "ipv4",
+      "first",
+      "7206"
+    ],
+    "description": [],
+    "changed_files_count": 2,
+    "changed_files": [
+      "packages/cli/bin/n8n",
+      "packages/cli/src/WorkflowRunnerProcess.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "28598ed1a7f17d8724828b0ae24a66d431770788"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "core",
+        "resolve",
+        "domain",
+        "ipv4",
+        "first",
+        "7206"
+      ],
+      "total_discussions": 12,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "description",
+                "provided"
+              ],
+              "author": "netroy"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "great",
+                "pr",
+                "please",
+                "pay",
+                "attention",
+                "following",
+                "item",
+                "merging",
+                "file",
+                "matchingpackages/",
+                "file",
+                "matchingpackages/",
+                ".ts",
+                "make",
+                "sure",
+                "check",
+                "list",
+                "asking",
+                "review"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 3,
+          "comments": [
+            {
+              "content": [
+                "patch",
+                "coverage:62.53",
+                "project",
+                "coverage",
+                "change",
+                "+0.03",
+                "comparison",
+                "base",
+                "050ba70",
+                "32.65",
+                "compared",
+                "head",
+                "f88634d",
+                "32.69",
+                ".report",
+                "1",
+                "commits",
+                "behind",
+                "head",
+                "master",
+                "...",
+                "and3",
+                "file",
+                "indirect",
+                "coverage",
+                "change",
+                "view",
+                "full",
+                "report",
+                "codecov",
+                "feedback",
+                "report",
+                "share"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 4,
+          "comments": [
+            {
+              "content": [
+                "detail",
+                "viewoutputvideo",
+                "comment",
+                "generated",
+                "cypress-bot",
+                "result",
+                "project'sgithub",
+                "integration",
+                "setting"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 5,
+          "comments": [
+            {
+              "content": [
+                "cypress",
+                "e2e",
+                "spec",
+                "passed"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 6,
+          "comments": [
+            {
+              "content": [
+                "solve",
+                "lot",
+                "problem",
+                "face",
+                "vps",
+                "provider",
+                "much"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 7,
+          "comments": [
+            {
+              "content": [
+                "please",
+                "revert",
+                "change",
+                "disgust",
+                "see",
+                "something",
+                "like",
+                "implemented",
+                "rfc",
+                "8305",
+                "exists",
+                "reason.people",
+                "fix",
+                "ipv6",
+                "setup",
+                "software",
+                "never",
+                "bent",
+                "backwards",
+                "use",
+                "legacy",
+                "ipv4",
+                "ipv6",
+                "domain",
+                "v6",
+                "record",
+                "always",
+                "preferred",
+                "thing",
+                "like",
+                "reason",
+                "ipv6",
+                "n't",
+                "dominantly",
+                "used",
+                "keep",
+                "like",
+                "part",
+                "problem",
+                "really",
+                "feel",
+                "like",
+                "anti-feature",
+                "optional",
+                "config",
+                "option",
+                "certainly",
+                "forced",
+                "default"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 8,
+          "comments": [
+            {
+              "content": [
+                "got",
+                "released",
+                "withn8n",
+                "1.8.1"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 9,
+          "comments": [
+            {
+              "content": [
+                "really",
+                "feel",
+                "like",
+                "anti-feature",
+                "optional",
+                "config",
+                "option",
+                "certainly",
+                "forced",
+                "default",
+                "make",
+                "configuration",
+                "end",
+                "user",
+                "determine",
+                "whether",
+                "want",
+                "prioritize",
+                "ipv4",
+                "ipv6",
+                "really",
+                "excited",
+                "see",
+                "n8n",
+                "finally",
+                "started",
+                "prioritizing",
+                "ipv6",
+                "release",
+                "1.0",
+                "'s",
+                "disappointing",
+                "see",
+                "'re",
+                "reverting",
+                "change",
+                "quickly",
+                "please",
+                "reconsider"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 10,
+          "comments": [
+            {
+              "content": [
+                "disgust",
+                "see",
+                "something",
+                "like",
+                "implemented",
+                "derenderkekswhen",
+                "communicating",
+                "people",
+                "language",
+                "matter",
+                "please",
+                "read",
+                "ourcode",
+                "conductand",
+                "adhere",
+                "avoid",
+                "getting",
+                "blocked.in",
+                "general",
+                "kind",
+                "give",
+                "others",
+                "chance",
+                "fix",
+                "issue",
+                "starting",
+                "outrage"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 11,
+          "comments": [
+            {
+              "content": [
+                "meesjsorry",
+                "inconvenience",
+                "fixed",
+                "7272",
+                "hopefully",
+                "go",
+                "today",
+                "'s",
+                "release"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 12,
+          "comments": [
+            {
+              "content": [
+                "netroywhile",
+                "remark",
+                "may",
+                "inappropriate",
+                "n't",
+                "personal",
+                "either",
+                "way",
+                "'m",
+                "sorry",
+                "making",
+                "configurable"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "title": [
+        "new",
+        "error",
+        "former",
+        "working",
+        "workflow",
+        "problem",
+        "node",
+        "1",
+        "invalid",
+        "type",
+        "format"
+      ],
+      "labels": [
+        "in linear"
+      ],
+      "comments": [
+        {
+          "author": "golere",
+          "content": [
+            "describe",
+            "bug",
+            "workflow",
+            "worked",
+            "fine",
+            "ca",
+            "n't",
+            "executed",
+            "giving",
+            "error",
+            "workflow",
+            "tested",
+            "0.221.2",
+            "work",
+            "fine",
+            "reproduce",
+            "step",
+            "reproduce",
+            "behavior",
+            "create",
+            "http",
+            "node",
+            "code",
+            "run",
+            "error",
+            "invalid",
+            "type",
+            "format",
+            "cause",
+            "status",
+            "rejected",
+            "reason",
+            "stack",
+            "nodeapierror",
+            "invalid",
+            "type",
+            "format",
+            "object.execute",
+            "/app/code/node_modules/n8n/node_modules/n8n-nodes-base/nodes/httprequest/v3/httprequestv3.node.ts:1437:12",
+            "processticksandrejections",
+            "node",
+            "internal/process/task_queues:95:5",
+            "workflow.runnode",
+            "/app/code/node_modules/n8n-workflow/src/workflow.ts:1284:8",
+            "/app/code/node_modules/n8n-core/src/workflowexecute.ts:1018:29",
+            "expected",
+            "behavior",
+            "worked",
+            "fine",
+            "last",
+            "time",
+            "checked",
+            "environment",
+            "please",
+            "complete",
+            "following",
+            "information",
+            "verion",
+            "1.6.1",
+            "cloudron",
+            "additional",
+            "context",
+            "meta",
+            "instanceid",
+            "node",
+            "parameter",
+            "url",
+            "=https",
+            "//api.carbone.io/render/",
+            "json.data.renderid",
+            "sendheaders",
+            "true",
+            "headerparameters",
+            "parameter",
+            "name",
+            "carbone-version",
+            "value",
+            "4",
+            "option",
+            "redirect",
+            "redirect",
+            "followredirects",
+            "true",
+            "response",
+            "response",
+            "responseformat",
+            "file",
+            "id",
+            "name",
+            "download",
+            "report1",
+            "type",
+            "n8n-nodes-base.httprequest",
+            "typeversion",
+            "3",
+            "position",
+            "1620",
+            "2600",
+            "connection"
+          ]
+        },
+        {
+          "author": "Joffcom",
+          "content": [
+            "hey",
+            "golere",
+            "share",
+            "full",
+            "workflow",
+            "output",
+            "data",
+            "node",
+            "http",
+            "request",
+            "looking",
+            "shared",
+            "far",
+            "n't",
+            "appear",
+            "issue",
+            "see",
+            "could",
+            "multiple",
+            "item",
+            "renderid",
+            "correctly",
+            "converted",
+            "string",
+            "also",
+            "run",
+            "migration",
+            "guide"
+          ]
+        },
+        {
+          "author": "that-one-tom",
+          "content": [
+            "documented",
+            "step",
+            "reproduce",
+            "node-790",
+            "start",
+            "happening",
+            "n8n",
+            "1.6.0"
+          ]
+        }
+      ]
+    }
+  ],
+  "security": null
+}

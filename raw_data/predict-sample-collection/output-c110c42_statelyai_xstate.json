@@ -1,0 +1,186 @@
+{
+  "commit_index": "c110c42",
+  "commit_url": "https://github.com/statelyai/xstate/commit/c110c429d33cb724242ff65136de3ebe408eab97",
+  "commit": {
+    "commit_message": [
+      "fixed",
+      "compatibility",
+      "generated",
+      "t",
+      "type",
+      "createactorcontext\u2026"
+    ],
+    "description": [],
+    "changed_files_count": 2,
+    "changed_files": [
+      ".changeset/healthy-fireants-beg.md",
+      "packages/xstate-react/src/createActorContext.tsx"
+    ],
+    "changed_files_content": [],
+    "parent": "eefd0d5abd0c1e18ff3d6b9b7e0c79ee905194b6"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fixed",
+        "compatibility",
+        "generated",
+        "t",
+        "type",
+        "forcreateactorcontextwith",
+        "pre-4.7",
+        "3829"
+      ],
+      "total_discussions": 6,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "fix",
+                "reportedhere",
+                "cc",
+                "equal-matt",
+                "tooclosetothesun"
+              ],
+              "author": "Andarist"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "latest",
+                "commit:46a20c1",
+                "change",
+                "pr",
+                "included",
+                "next",
+                "version",
+                "bump",
+                "sure",
+                "mean",
+                "click",
+                "learn",
+                "changesets",
+                "click",
+                "'re",
+                "maintainer",
+                "want",
+                "add",
+                "another",
+                "changeset",
+                "pr"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 3,
+          "comments": [
+            {
+              "content": [
+                "make",
+                "big",
+                "change",
+                "easier",
+                "\u2014",
+                "review",
+                "code",
+                "small",
+                "group",
+                "related",
+                "file",
+                "know",
+                "start",
+                "\u2014",
+                "see",
+                "whole",
+                "change",
+                "glance",
+                "take",
+                "code",
+                "tour",
+                "\u2014",
+                "explore",
+                "change",
+                "interactive",
+                "tour",
+                "make",
+                "comment",
+                "review",
+                "\u2014",
+                "fully",
+                "sync",
+                "\u2019",
+                "ed",
+                "github",
+                "try"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 4,
+          "comments": [
+            {
+              "content": [
+                "pull",
+                "request",
+                "automatically",
+                "built",
+                "testable",
+                "incodesandbox",
+                "see",
+                "build",
+                "info",
+                "built",
+                "library",
+                "clickhereor",
+                "icon",
+                "next",
+                "commit",
+                "sha",
+                "latest",
+                "deployment",
+                "branch",
+                "based",
+                "commit46a20c1"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 5,
+          "comments": [
+            {
+              "content": [
+                "fast",
+                "big",
+                "prop",
+                "andarist\u2b50"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 6,
+          "comments": [
+            {
+              "content": [
+                "fixed",
+                "broke"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

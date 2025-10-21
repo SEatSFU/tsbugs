@@ -1,0 +1,76 @@
+{
+  "commit_index": "815fa69",
+  "commit_url": "https://github.com/react-native-community/cli/commit/815fa69c414a19eec57688d9d359ae554c7bdd33",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "use",
+      "posix",
+      "path.sep",
+      "linking",
+      "header",
+      "search",
+      "path",
+      "635"
+    ],
+    "description": [
+      "chore",
+      "fix",
+      "getheadersearchpath",
+      "test",
+      "use",
+      "posix",
+      "path",
+      "sep",
+      "getheadersearchpath",
+      "well"
+    ],
+    "changed_files_count": 2,
+    "changed_files": [
+      "packages/platform-ios/src/link/__tests__/getHeaderSearchPath-test.js",
+      "packages/platform-ios/src/link/getHeaderSearchPath.js"
+    ],
+    "changed_files_content": [],
+    "parent": "4d38c4cdb5a1e05c6670a046ef5a44afd655111a"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "use",
+        "posix",
+        "path.sep",
+        "linking",
+        "header",
+        "search",
+        "path",
+        "635"
+      ],
+      "total_discussions": 1,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "summary",
+                "usingpath.posixforgetheadersearchpath-testto",
+                "make",
+                "pas",
+                "windows.test",
+                "plan",
+                "window",
+                "ci",
+                "green"
+              ],
+              "author": "thymikee"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

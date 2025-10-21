@@ -1,0 +1,65 @@
+{
+  "commit_index": "86a690b",
+  "commit_url": "https://github.com/supabase/supabase/commit/86a690b00a1fa568d95d2b345b0ec6c9d818adcf",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "add",
+      "catch",
+      "block",
+      "around",
+      "json.parse",
+      "rendering",
+      "ai",
+      "assistan\u2026"
+    ],
+    "description": [
+      "add",
+      "catch",
+      "block",
+      "around",
+      "json.parse"
+    ],
+    "changed_files_count": 1,
+    "changed_files": [
+      "apps/studio/components/ui/AIAssistantPanel/MessageMarkdown.tsx"
+    ],
+    "changed_files_content": [],
+    "parent": "e36f1715b36de4615eb877ae9d3b7cabe0168c2a"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "add",
+        "catch",
+        "block",
+        "around",
+        "json.parse",
+        "rendering",
+        "ai",
+        "assistant",
+        "message",
+        "34671"
+      ],
+      "total_discussions": 1,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "description",
+                "provided"
+              ],
+              "author": "ivasilov"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

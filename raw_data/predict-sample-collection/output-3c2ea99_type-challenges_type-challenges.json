@@ -1,0 +1,25 @@
+{
+  "commit_index": "3c2ea99",
+  "commit_url": "https://github.com/type-challenges/type-challenges/commit/3c2ea9950635d3a35d4b2e3205f663aff336abe4",
+  "commit": {
+    "commit_message": [
+      "chore",
+      "fix",
+      "action"
+    ],
+    "description": [],
+    "changed_files_count": 5,
+    "changed_files": [
+      ".github/workflows/issue-pr.yaml",
+      ".github/workflows/labeling.yaml",
+      ".github/workflows/toggle-pr-with-issue.yaml",
+      "pnpm-lock.yaml",
+      "scripts/package.json"
+    ],
+    "changed_files_content": [],
+    "parent": "7674d26e43aa85089e72184d0087f19a15a2c67d"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

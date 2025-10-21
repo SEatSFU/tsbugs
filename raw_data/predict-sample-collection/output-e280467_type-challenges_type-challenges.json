@@ -1,0 +1,20 @@
+{
+  "commit_index": "e280467",
+  "commit_url": "https://github.com/type-challenges/type-challenges/commit/e2804674c774eba92b15279cd1c5d46299650252",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "lock"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      "pnpm-lock.yaml"
+    ],
+    "changed_files_content": [],
+    "parent": "1825f7d738d9a7d8a91212cdd292b7505dfcc944"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

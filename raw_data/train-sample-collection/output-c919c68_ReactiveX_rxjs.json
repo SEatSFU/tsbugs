@@ -1,0 +1,45 @@
+{
+  "commit_index": "c919c68",
+  "commit_url": "https://github.com/ReactiveX/rxjs/commit/c919c684ad63724f0b55ccc4561f847773d945c8",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "debounce",
+      "n't",
+      "signal",
+      "complete"
+    ],
+    "description": [
+      "breaking",
+      "change",
+      "observable",
+      "returned",
+      "debounce",
+      "operator",
+      "'s",
+      "duration",
+      "selector",
+      "must",
+      "emit",
+      "next",
+      "notification",
+      "end",
+      "duration",
+      "complete",
+      "notification",
+      "longer",
+      "end",
+      "duration"
+    ],
+    "changed_files_count": 2,
+    "changed_files": [
+      "spec/operators/debounce-spec.ts",
+      "src/internal/operators/debounce.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "4af022753d6dd4e94bcfcf0cc6082bb2312a3f02"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

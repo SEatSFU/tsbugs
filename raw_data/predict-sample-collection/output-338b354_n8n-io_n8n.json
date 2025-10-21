@@ -1,0 +1,99 @@
+{
+  "commit_index": "338b354",
+  "commit_url": "https://github.com/n8n-io/n8n/commit/338b354ef1600903833c9939a8618d1989534e0b",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "editor",
+      "change",
+      "execution",
+      "title",
+      "match",
+      "menu",
+      "5349"
+    ],
+    "description": [
+      "fix",
+      "editor",
+      "prevent",
+      "content",
+      "moving",
+      "page",
+      "fix",
+      "editor",
+      "change",
+      "execution",
+      "page",
+      "title"
+    ],
+    "changed_files_count": 3,
+    "changed_files": [
+      "packages/editor-ui/src/components/ExecutionsList.vue",
+      "packages/editor-ui/src/plugins/i18n/locales/en.json",
+      "packages/editor-ui/src/views/TemplatesView.vue"
+    ],
+    "changed_files_content": [],
+    "parent": "50cb75706b73c7349e48956a2e8556b0a2de1e24"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "editor",
+        "change",
+        "execution",
+        "title",
+        "match",
+        "menu",
+        "5349"
+      ],
+      "total_discussions": 3,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "github",
+                "issue",
+                "community",
+                "forum",
+                "post",
+                "link",
+                "close",
+                "automatically"
+              ],
+              "author": "cstuncsik"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "krynbleagree"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 3,
+          "comments": [
+            {
+              "content": [
+                "got",
+                "released",
+                "withn8n",
+                "0.214.0"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

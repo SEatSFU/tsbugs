@@ -1,0 +1,60 @@
+{
+  "commit_index": "d6f64a9",
+  "commit_url": "https://github.com/type-challenges/type-challenges/commit/d6f64a94e6b2c0d4e42e20d514caa31217ac32dd",
+  "commit": {
+    "commit_message": [
+      "doc",
+      "fix",
+      "promise-all",
+      "wrong",
+      "function",
+      "reference",
+      "13623"
+    ],
+    "description": [
+      "co-authored-by",
+      "caohang",
+      "caohang",
+      "wsdashi.com"
+    ],
+    "changed_files_count": 3,
+    "changed_files": [
+      "questions/00020-medium-promise-all/README.ja.md",
+      "questions/00020-medium-promise-all/README.md",
+      "questions/00020-medium-promise-all/README.zh-CN.md"
+    ],
+    "changed_files_content": [],
+    "parent": "f7e67740108f4228b3e2bc3c55dcf32ddb6da43f"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "doc",
+        "fix",
+        "promise-all",
+        "wrong",
+        "function",
+        "reference",
+        "13623"
+      ],
+      "total_discussions": 1,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "description",
+                "provided"
+              ],
+              "author": "antfu"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

@@ -1,0 +1,59 @@
+{
+  "commit_index": "2bed243",
+  "commit_url": "https://github.com/hoppscotch/hoppscotch/commit/2bed24307ab80bf2d9b20fd82aea7b279a5885be",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "common",
+      "proxy",
+      "interceptor",
+      "json",
+      "response",
+      "decode",
+      "4840"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      "packages/hoppscotch-common/src/platform/std/kernel-interceptors/proxy/index.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "ced98b997ac535bf402981a058ccbcf0f25a9675"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "common",
+        "proxyinterceptorjsonresponse",
+        "decode",
+        "4840"
+      ],
+      "total_discussions": 1,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "pr",
+                "fix",
+                "proxy",
+                "interceptor",
+                "'s",
+                "response",
+                "nesting",
+                "andjsonresponse",
+                "decode"
+              ],
+              "author": "jamesgeorge007"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

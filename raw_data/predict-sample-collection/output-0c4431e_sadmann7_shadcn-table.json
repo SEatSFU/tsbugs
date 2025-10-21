@@ -1,0 +1,111 @@
+{
+  "commit_index": "0c4431e",
+  "commit_url": "https://github.com/sadmann7/shadcn-table/commit/0c4431e99931fb1cbbb2a731f69f84da5be85fb7",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "deps",
+      "update",
+      "nextjs",
+      "monorepo",
+      "v15.1.4",
+      "805"
+    ],
+    "description": [
+      "co-authored-by",
+      "renovate",
+      "bot",
+      "29139614+renovate",
+      "bot",
+      "users.noreply.github.com"
+    ],
+    "changed_files_count": 1,
+    "changed_files": [
+      "pnpm-lock.yaml"
+    ],
+    "changed_files_content": [],
+    "parent": "026e9986580704d9779983c49689494209fbbe9b"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "deps",
+        "update",
+        "nextjs",
+        "monorepo",
+        "v15.1.4",
+        "805"
+      ],
+      "total_discussions": 1,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "pr",
+                "contains",
+                "following",
+                "update",
+                "packagechangeageadoptionpassingconfidenceeslint-config-next",
+                "source",
+                "15.1.3-",
+                "15.1.4next",
+                "source",
+                "15.1.3-",
+                "15.1.4release",
+                "notesvercel/next.js",
+                "eslint-config-next",
+                "v15.1.4compare",
+                "sourcevercel/next.js",
+                "next",
+                "v15.1.4compare",
+                "branch",
+                "creation",
+                "time",
+                "schedule",
+                "defined",
+                "automerge",
+                "time",
+                "schedule",
+                "defined",
+                "whenever",
+                "pr",
+                "behind",
+                "base",
+                "branch",
+                "tick",
+                "rebase/retry",
+                "close",
+                "pr",
+                "wo",
+                "n't",
+                "reminded",
+                "update",
+                "again.if",
+                "want",
+                "rebase/retry",
+                "pr",
+                "check",
+                "boxthis",
+                "pr",
+                "generated",
+                "bymend",
+                "renovate",
+                "view",
+                "therepository",
+                "job",
+                "log"
+              ],
+              "author": "renovate"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

@@ -1,0 +1,39 @@
+{
+  "commit_index": "4bb22d6",
+  "commit_url": "https://github.com/intlify/vue-i18n/commit/4bb22d6522ecea24c0c379b238aea1e084f24fd8",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "bump",
+      "deps"
+    ],
+    "description": [],
+    "changed_files_count": 19,
+    "changed_files": [
+      "package.json",
+      "packages/message-compiler/test/__snapshots__/compiler.test.ts.snap",
+      "packages/message-compiler/test/__snapshots__/generator.test.ts.snap",
+      "packages/message-compiler/test/__snapshots__/parser.test.ts.snap",
+      "packages/message-compiler/test/__snapshots__/tokenizer.test.ts.snap",
+      "packages/message-compiler/test/__snapshots__/transformer.test.ts.snap",
+      "packages/message-compiler/test/parser/__snapshots__/linked.test.ts.snap",
+      "packages/message-compiler/test/parser/__snapshots__/list.test.ts.snap",
+      "packages/message-compiler/test/parser/__snapshots__/literal.test.ts.snap",
+      "packages/message-compiler/test/parser/__snapshots__/modulo.test.ts.snap",
+      "packages/message-compiler/test/parser/__snapshots__/named.test.ts.snap",
+      "packages/message-compiler/test/parser/__snapshots__/plural.test.ts.snap",
+      "packages/message-compiler/test/parser/__snapshots__/text.test.ts.snap",
+      "packages/message-compiler/test/tokenizer/__snapshots__/named.test.ts.snap",
+      "packages/shared/test/__snapshots__/utils.test.ts.snap",
+      "packages/vue-i18n-core/test/__snapshots__/composer.test.ts.snap",
+      "packages/vue-i18n-core/test/__snapshots__/i18n.test.ts.snap",
+      "packages/vue-i18n-core/test/__snapshots__/issues.test.ts.snap",
+      "pnpm-lock.yaml"
+    ],
+    "changed_files_content": [],
+    "parent": "4348a611d241072a8bbb94f61115edb5456b0f60"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

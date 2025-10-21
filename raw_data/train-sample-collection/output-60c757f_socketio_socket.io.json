@@ -1,0 +1,134 @@
+{
+  "commit_index": "60c757f",
+  "commit_url": "https://github.com/socketio/socket.io/commit/60c757f718d400e052c3160ee377bbe4973277c9",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "sio-client",
+      "accept",
+      "string",
+      "undefined",
+      "init",
+      "argument",
+      "bi"
+    ],
+    "description": [
+      "following",
+      "socketio/socket.io-client",
+      "5a3eafe",
+      "related",
+      "4873"
+    ],
+    "changed_files_count": 1,
+    "changed_files": [
+      "packages/socket.io-client/lib/index.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "04c8dd979ce40acaceec1f4507c1ae69325d6158"
+  },
+  "pull_requests": null,
+  "issues": [
+    {
+      "title": [
+        "incorrect",
+        "type",
+        "client",
+        "initialisation"
+      ],
+      "labels": [
+        "bug"
+      ],
+      "comments": [
+        {
+          "author": "piet-maier",
+          "content": [
+            "description",
+            "initialising",
+            "socket.io",
+            "client",
+            "url",
+            "string",
+            "undefined",
+            "depending",
+            "environment",
+            "vue",
+            "example",
+            "documentation",
+            "produce",
+            "following",
+            "type",
+            "error",
+            "overload",
+            "match",
+            "call",
+            "possible",
+            "either",
+            "pas",
+            "string",
+            "undefined",
+            "separate",
+            "call",
+            "value",
+            "type",
+            "string",
+            "undefined",
+            "one",
+            "call",
+            "reproduction",
+            "client",
+            "version",
+            "4.7.2",
+            "import",
+            "io",
+            "socket.io-client",
+            "const",
+            "socket",
+            "io",
+            "import",
+            "meta",
+            "env",
+            "prod",
+            "undefined",
+            "w",
+            "//localhost:3000/",
+            "expected",
+            "behaviour",
+            "type",
+            "error",
+            "since",
+            "argument",
+            "either",
+            "type",
+            "code",
+            "work",
+            "expected"
+          ]
+        },
+        {
+          "author": "darrachequesne",
+          "content": [
+            "could",
+            "indeed",
+            "reproduce",
+            "issue",
+            "'m",
+            "digging"
+          ]
+        },
+        {
+          "author": "darrachequesne",
+          "content": [
+            "future",
+            "reader",
+            "fixed",
+            "latest",
+            "version",
+            "socket.io-client",
+            "4.8.0"
+          ]
+        }
+      ]
+    }
+  ],
+  "security": null
+}

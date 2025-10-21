@@ -1,0 +1,71 @@
+{
+  "commit_index": "fea1339",
+  "commit_url": "https://github.com/antiwork/shortest/commit/fea13396f73a5def7463a6f9aa846f4a5a282b75",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "e",
+      "module",
+      "compatibility",
+      "dirname",
+      "366"
+    ],
+    "description": [
+      "prevent",
+      "undefined",
+      "e",
+      "module",
+      "scope",
+      "error",
+      "type",
+      "module",
+      "project"
+    ],
+    "changed_files_count": 1,
+    "changed_files": [
+      "packages/shortest/src/core/compiler/index.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "5dd58412fe29db6677aa88e1f130fd3f2869599c"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "e",
+        "module",
+        "compatibility",
+        "dirname",
+        "366"
+      ],
+      "total_discussions": 1,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "prevent",
+                "undefined",
+                "e",
+                "module",
+                "scope",
+                "error",
+                "type",
+                "module",
+                "projectserror",
+                "running",
+                "shortest",
+                "flexile"
+              ],
+              "author": "rmarescu"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

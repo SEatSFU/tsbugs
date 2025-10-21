@@ -1,0 +1,113 @@
+{
+  "commit_index": "09c6f0a",
+  "commit_url": "https://github.com/supabase/supabase/commit/09c6f0aa2cc3c815129f480be48c67f08a7ab506",
+  "commit": {
+    "commit_message": [
+      "dropdownmenu",
+      "component",
+      "modal",
+      "prop",
+      "default",
+      "false",
+      "allow",
+      "passing\u2026"
+    ],
+    "description": [
+      "dropdownmenu",
+      "component",
+      "modal",
+      "prop",
+      "default",
+      "false",
+      "allow",
+      "passing",
+      "prop",
+      "value",
+      "smol",
+      "fix",
+      "advisor"
+    ],
+    "changed_files_count": 4,
+    "changed_files": [
+      "apps/studio/components/interfaces/Advisors/AdvisorRuleItem.tsx",
+      "apps/studio/components/interfaces/Database/Functions/FunctionsList/FunctionList.tsx",
+      "apps/studio/components/interfaces/TableGridEditor/SidePanelEditor/RowEditor/InputField.tsx",
+      "packages/ui/src/components/shadcn/ui/dropdown-menu.tsx"
+    ],
+    "changed_files_content": [],
+    "parent": "1bbe4349612c06f46d63866d2768ab5f19c8a3f1"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "dropdownmenu",
+        "component",
+        "modal",
+        "prop",
+        "default",
+        "false",
+        "allow",
+        "passing",
+        "prop",
+        "value",
+        "34846"
+      ],
+      "total_discussions": 1,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "contextthe",
+                "removal",
+                "ofmodal=falseforalldropdowns",
+                "broke",
+                "interaction",
+                "dropdowns",
+                "dialogs/sheets",
+                "fixed",
+                "dropdownmenu",
+                "roweditor",
+                "table",
+                "editor",
+                "caused",
+                "problem",
+                "part",
+                "dashboardchanges",
+                "involvedkeep",
+                "allowingmodalprop",
+                "passed",
+                "dropdownmenu",
+                "default",
+                "value",
+                "tofalsereduce",
+                "blast",
+                "radius",
+                "change",
+                "thisprso",
+                "usage",
+                "dropdownmenu",
+                "inputfield",
+                "updated",
+                "everything",
+                "else",
+                "across",
+                "dashboard",
+                "remains",
+                "status",
+                "quorevert",
+                "change",
+                "thispr"
+              ],
+              "author": "joshenlim"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

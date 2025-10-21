@@ -1,0 +1,20 @@
+{
+  "commit_index": "8b78d04",
+  "commit_url": "https://github.com/type-challenges/type-challenges/commit/8b78d041752d8b7e228c5b739332a8a8a7eb5fc4",
+  "commit": {
+    "commit_message": [
+      "chore",
+      "fix"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      ".github/workflows/pr-merged.yaml"
+    ],
+    "changed_files_content": [],
+    "parent": "650294b49e6632ae7b9e8273ac91b21f4e41a9de"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

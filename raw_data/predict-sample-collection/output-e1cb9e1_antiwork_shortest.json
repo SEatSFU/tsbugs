@@ -1,0 +1,25 @@
+{
+  "commit_index": "e1cb9e1",
+  "commit_url": "https://github.com/antiwork/shortest/commit/e1cb9e19bfdbbb366a5dcb54c7999494573b8d15",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "add",
+      "chromium",
+      "browser",
+      "part",
+      "shortest",
+      "package"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      "packages/shortest/package.json"
+    ],
+    "changed_files_content": [],
+    "parent": "472458bb82480052938cfbe9d5fa7a5bf6d7d026"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

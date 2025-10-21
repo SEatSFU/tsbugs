@@ -1,0 +1,22 @@
+{
+  "commit_index": "75f94ee",
+  "commit_url": "https://github.com/run-llama/LlamaIndexTS/commit/75f94eea1bb6c75bade4d6cbe72829333cfcf682",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "lint",
+      "error"
+    ],
+    "description": [],
+    "changed_files_count": 2,
+    "changed_files": [
+      "packages/create-llama/e2e/utils.ts",
+      "packages/create-llama/helpers/index.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "b737bda40d1bd5db9d591f55d188ede51b417234"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

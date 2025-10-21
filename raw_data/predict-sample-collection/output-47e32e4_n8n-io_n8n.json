@@ -1,0 +1,74 @@
+{
+  "commit_index": "47e32e4",
+  "commit_url": "https://github.com/n8n-io/n8n/commit/47e32e42682b2d6791157fdb11e5513381bd7452",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "update",
+      "link",
+      "user",
+      "management",
+      "smtp",
+      "help",
+      "5109"
+    ],
+    "description": [
+      "new",
+      "link",
+      "um",
+      "smtp",
+      "help"
+    ],
+    "changed_files_count": 1,
+    "changed_files": [
+      "packages/editor-ui/src/plugins/i18n/locales/en.json"
+    ],
+    "changed_files_content": [],
+    "parent": "320e646380395af00b8b73445af045f9b6315dc4"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "update",
+        "link",
+        "user",
+        "management",
+        "smtp",
+        "help",
+        "5109"
+      ],
+      "total_discussions": 2,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "description",
+                "provided"
+              ],
+              "author": "StarfallProjects"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "got",
+                "released",
+                "withn8n",
+                "0.210.2"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

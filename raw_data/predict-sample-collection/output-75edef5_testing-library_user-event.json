@@ -1,0 +1,347 @@
+{
+  "commit_index": "75edef5",
+  "commit_url": "https://github.com/testing-library/user-event/commit/75edef5c066e30c3be28b8d607b47f7b66ad14c1",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "pointer",
+      "check",
+      "pointercoords.x",
+      "isdifferentpointerposition"
+    ],
+    "description": [],
+    "changed_files_count": 2,
+    "changed_files": [
+      "src/system/pointer/shared.ts",
+      "tests/pointer/move.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "852897257744b18eca56edc9dc171e626a6d9823"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "correct",
+        "coord",
+        "property",
+        "x",
+        "isdifferentpointerposition",
+        "1216"
+      ],
+      "total_discussions": 3,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "fix",
+                "1047what",
+                "correct",
+                "coord",
+                "property",
+                "x",
+                "isdifferentpointerposition.why",
+                "typo.how",
+                "n/achecklist",
+                "n/a",
+                "documentationtestsready",
+                "merged"
+              ],
+              "author": "ph-fritsche"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "pull",
+                "request",
+                "automatically",
+                "built",
+                "testable",
+                "incodesandbox",
+                "see",
+                "build",
+                "info",
+                "built",
+                "library",
+                "clickhereor",
+                "icon",
+                "next",
+                "commit",
+                "sha",
+                "latest",
+                "deployment",
+                "branch",
+                "based",
+                "commit1a176a9"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 3,
+          "comments": [
+            {
+              "content": [
+                "pr",
+                "included",
+                "version",
+                "14.6.0",
+                "release",
+                "available",
+                "yoursemantic-releasebot"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "title": [
+        "14.4",
+        "pointermove",
+        "event",
+        "longer",
+        "trigger"
+      ],
+      "labels": [
+        "bug",
+        "released"
+      ],
+      "comments": [
+        {
+          "author": "dermoumi",
+          "content": [
+            "reproduction",
+            "example",
+            "http",
+            "//codesandbox.io/s/userevent-touchmove-skz767",
+            "file=/src/app.test.js",
+            "prerequisite",
+            "use",
+            "version",
+            "14.4.0",
+            "setup",
+            "page",
+            "listens",
+            "pointerdown",
+            "pointermove",
+            "log",
+            "trigger",
+            "pointer",
+            "event",
+            "test",
+            "like",
+            "following",
+            "const",
+            "touchable",
+            "screen",
+            "getbytitle",
+            "'container",
+            "await",
+            "user",
+            "pointer",
+            "key",
+            "toucha",
+            "target",
+            "touchable",
+            "coords",
+            "x",
+            "100",
+            "100",
+            "pointername",
+            "toucha",
+            "target",
+            "touchable",
+            "coords",
+            "x",
+            "125",
+            "100",
+            "expected",
+            "behavior",
+            "new",
+            "coordinate",
+            "second",
+            "pointermove",
+            "event",
+            "logged",
+            "125",
+            "100",
+            "actual",
+            "behavior",
+            "initial",
+            "cordinate",
+            "initial",
+            "pointerdown",
+            "event",
+            "logged",
+            "100",
+            "100",
+            "user-event",
+            "version",
+            "14.4.0",
+            "environment",
+            "testing",
+            "library",
+            "framework",
+            "j",
+            "framework",
+            "test",
+            "environment",
+            "dom",
+            "implementation",
+            "additional",
+            "context",
+            "work",
+            "fine",
+            "version",
+            "14.3.0"
+          ]
+        },
+        {
+          "author": "ph-fritsche",
+          "content": [
+            "report",
+            "heart",
+            "typo",
+            "helper",
+            "http",
+            "//github.com/testing-library/user-event/blob/1aa2027e5ec445ab413808556efa7763b65053d3/src/system/pointer/shared.ts",
+            "l30-l31"
+          ]
+        },
+        {
+          "author": "maxired",
+          "content": [
+            "ph-fritsche",
+            "plan",
+            "fix"
+          ]
+        },
+        {
+          "author": "GadgetBlaster",
+          "content": [
+            "'m",
+            "running",
+            "bug",
+            "well",
+            "onmousemove",
+            "event",
+            "called",
+            "coordinate",
+            "change",
+            "guess",
+            "'ll",
+            "downgrade",
+            "fixed"
+          ]
+        },
+        {
+          "author": "pjho",
+          "content": [
+            "dug",
+            "today",
+            "realised",
+            "bug",
+            "isdifferentpointerposition",
+            "util",
+            "n't",
+            "causing",
+            "test",
+            "fail",
+            "version",
+            "14.4.0",
+            "test",
+            "specified",
+            "clientx",
+            "clienty",
+            "changing",
+            "x",
+            "respectively",
+            "allows",
+            "test",
+            "pas",
+            "break",
+            "14.4.0",
+            "javascript",
+            "await",
+            "user.pointer",
+            "key",
+            "mouseleft",
+            "target",
+            "el",
+            "coords",
+            "clientx",
+            "100",
+            "clienty",
+            "100",
+            "coords",
+            "clientx",
+            "200",
+            "clienty",
+            "200",
+            "key",
+            "/mouseleft",
+            "fixed",
+            "14.4.0",
+            "javascript",
+            "await",
+            "user.pointer",
+            "key",
+            "mouseleft",
+            "target",
+            "el",
+            "coords",
+            "x",
+            "100",
+            "100",
+            "coords",
+            "x",
+            "200",
+            "200",
+            "key",
+            "/mouseleft"
+          ]
+        },
+        {
+          "author": "github-actions",
+          "content": [
+            "tada",
+            "issue",
+            "resolved",
+            "version",
+            "14.6.0",
+            "tada",
+            "release",
+            "available",
+            "npm",
+            "package",
+            "latest",
+            "dist-tag",
+            "http",
+            "//www.npmjs.com/package/",
+            "testing-library/user-event/v/14.6.0",
+            "github",
+            "release",
+            "http",
+            "//github.com/testing-library/user-event/releases/tag/v14.6.0",
+            "semantic-release",
+            "http",
+            "//github.com/semantic-release/semantic-release",
+            "bot",
+            "package",
+            ":rocket"
+          ]
+        }
+      ]
+    }
+  ],
+  "security": null
+}

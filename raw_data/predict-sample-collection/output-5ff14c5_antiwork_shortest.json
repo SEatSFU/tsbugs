@@ -1,0 +1,28 @@
+{
+  "commit_index": "5ff14c5",
+  "commit_url": "https://github.com/antiwork/shortest/commit/5ff14c59efb876e7e9950c88002a88a4236a30e8",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "show",
+      "update",
+      "test",
+      "fix",
+      "button",
+      "pending",
+      "build",
+      "status"
+    ],
+    "description": [],
+    "changed_files_count": 2,
+    "changed_files": [
+      "app/(dashboard)/dashboard/pull-request.tsx",
+      "lib/github.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "002cd2ff59dce8918723bb796051896b134aba61"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

@@ -1,0 +1,93 @@
+{
+  "commit_index": "c9dc805",
+  "commit_url": "https://github.com/fabricjs/fabric.js/commit/c9dc805eeefe8d21f97988292d2cc8ba60672183",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "color",
+      "support",
+      "uppercase",
+      "keywords",
+      "10300"
+    ],
+    "description": [],
+    "changed_files_count": 3,
+    "changed_files": [
+      "CHANGELOG.md",
+      "src/color/Color.ts",
+      "src/color/color.test.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "992e003f659d2801e901a2d9381dc1fd4b1c3a53"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "color",
+        "support",
+        "uppercase",
+        "keywords",
+        "10300"
+      ],
+      "total_discussions": 2,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "cs",
+                "style",
+                "set",
+                "color",
+                "element",
+                "using",
+                "uppercase",
+                "keywords",
+                "like",
+                "pink",
+                "yellow",
+                "correctly",
+                "recognized",
+                "however",
+                "fabric",
+                "lowercase",
+                "color",
+                "keywords",
+                "currently",
+                "supported",
+                "therefore",
+                "fixed",
+                "ensure",
+                "support",
+                "uppercase",
+                "keywords",
+                "well.bug",
+                "demo"
+              ],
+              "author": "asturur"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "open",
+                "branch",
+                "inweb",
+                "editor\u2022vs",
+                "code\u2022insidersopenpreview"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

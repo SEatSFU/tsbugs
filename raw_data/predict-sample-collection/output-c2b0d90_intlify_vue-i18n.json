@@ -1,0 +1,69 @@
+{
+  "commit_index": "c2b0d90",
+  "commit_url": "https://github.com/intlify/vue-i18n/commit/c2b0d9025a1362a83daff4677237c40b32006eb8",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "drop",
+      "componentinstancecreatedlistener",
+      "1495"
+    ],
+    "description": [],
+    "changed_files_count": 12,
+    "changed_files": [
+      "docs/.ja/api/legacy.md",
+      "packages/petite-vue-i18n/src/index.ts",
+      "packages/petite-vue-i18n/src/runtime.ts",
+      "packages/vue-i18n-bridge/src/index.ts",
+      "packages/vue-i18n-bridge/src/runtime.ts",
+      "packages/vue-i18n-core/src/index.ts",
+      "packages/vue-i18n-core/src/legacy.ts",
+      "packages/vue-i18n-core/src/mixins/next.ts",
+      "packages/vue-i18n-core/test/i18n.test.ts",
+      "packages/vue-i18n-core/test/mixin.test.ts",
+      "packages/vue-i18n/src/index.ts",
+      "packages/vue-i18n/src/runtime.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "3a0e5abfb99b3b14dfe83b5db43dcf3928fa24b6"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "drop",
+        "componentinstancecreatedlistener",
+        "1495"
+      ],
+      "total_discussions": 1,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "componentinstancecreatedlisteneris",
+                "i/f",
+                "nuxt",
+                "i18n",
+                "nuxt",
+                "i18n",
+                "v8",
+                "longer",
+                "need",
+                "i/f",
+                "i/f",
+                "undocument",
+                "remove"
+              ],
+              "author": "kazupon"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

@@ -1,0 +1,238 @@
+{
+  "commit_index": "efa2619",
+  "commit_url": "https://github.com/fabricjs/fabric.js/commit/efa26193a96e0af57810f50df7634591396571cb",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "filter",
+      "fix",
+      "bug",
+      "pixelate",
+      "blur",
+      "filter",
+      "9962"
+    ],
+    "description": [],
+    "changed_files_count": 4,
+    "changed_files": [
+      ".codesandbox/templates/vanilla/src/index.ts",
+      "CHANGELOG.md",
+      "src/filters/Blur.ts",
+      "src/filters/Pixelate.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "e042777202e4e2c09b038b10c9a68ef7c17e3f44"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "filter",
+        "fix",
+        "bug",
+        "pixelate",
+        "blur",
+        "filter",
+        "9962"
+      ],
+      "total_discussions": 4,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "descriptionin",
+                "last",
+                "refactor",
+                "n't",
+                "notice",
+                "difference",
+                "delta",
+                "udelta",
+                "blur",
+                "filter",
+                "spelling",
+                "ublocksize.closes",
+                "9960"
+              ],
+              "author": "asturur"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "open",
+                "branch",
+                "inweb",
+                "editor\u2022vs",
+                "code\u2022insiders"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 3,
+          "comments": [
+            {
+              "content": [
+                "build",
+                "stats"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 4,
+          "comments": [
+            {
+              "content": [
+                "coverage",
+                "mergingtest-filtersintomasterwill"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "title": [
+        "bug",
+        "blur",
+        "filter",
+        "pixelate",
+        "filter",
+        "working",
+        "9933"
+      ],
+      "labels": [
+        "bug"
+      ],
+      "comments": [
+        {
+          "author": "Sayene",
+          "content": [
+            "checklist",
+            "agree",
+            "follow",
+            "project",
+            "'s",
+            "code",
+            "conduct",
+            "read",
+            "followed",
+            "contributing",
+            "guide",
+            "read",
+            "followed",
+            "issue",
+            "tracker",
+            "guide",
+            "searched",
+            "referenced",
+            "existing",
+            "issue",
+            "discussion",
+            "filing",
+            "bug",
+            "report",
+            "managed",
+            "reproduce",
+            "bug",
+            "upgrading",
+            "latest",
+            "version",
+            "created",
+            "accurate",
+            "minimal",
+            "reproduction",
+            "version",
+            "6.0.0-rc3",
+            "environment",
+            "experiencing",
+            "problem",
+            "response",
+            "node",
+            "version",
+            "applicable",
+            "none",
+            "link",
+            "reproduction",
+            "http",
+            "//codesandbox.io/p/devbox/fabric-nextjs-sandbox-forked-7lhfg6",
+            "file=",
+            "2fpages",
+            "2findex.tsx",
+            "step",
+            "reproduce",
+            "using",
+            "fabric",
+            "6.0.0",
+            "blur",
+            "pixelate",
+            "filter",
+            "working",
+            "anymore",
+            "since",
+            "change",
+            "refactor",
+            "filter",
+            "remove",
+            "mainparameter",
+            "add",
+            "stronger",
+            "type",
+            "filter",
+            "refactor",
+            "getuniformlocations",
+            "9933",
+            "expected",
+            "behavior",
+            "filter",
+            "working",
+            "actual",
+            "behavior",
+            "filter",
+            "working",
+            "error",
+            "error",
+            "message",
+            "stack",
+            "trace",
+            "response"
+          ]
+        },
+        {
+          "author": "asturur",
+          "content": [
+            "great",
+            "look",
+            "asap"
+          ]
+        },
+        {
+          "author": "asturur",
+          "content": [
+            "set",
+            "blocksize",
+            "higher",
+            "1",
+            "example",
+            "like",
+            "use",
+            "10",
+            "make",
+            "editable"
+          ]
+        }
+      ]
+    }
+  ],
+  "security": null
+}

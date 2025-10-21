@@ -1,0 +1,404 @@
+{
+  "commit_index": "130a7be",
+  "commit_url": "https://github.com/react-native-community/cli/commit/130a7bedfaa6eb024542c0dab772b59ab8b6e81f",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "n't",
+      "log",
+      "watch",
+      "mode",
+      "supported",
+      "stdout",
+      "fix",
+      "expo",
+      "1027"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      "packages/cli/src/commands/server/watchMode.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "474809c97eeb1288f2bf257e2d8a84516ea6dce9"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "n't",
+        "log",
+        "watch",
+        "mode",
+        "supported",
+        "stdout",
+        "fix",
+        "expo",
+        "1027"
+      ],
+      "total_discussions": 1,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "summary",
+                "moved",
+                "watch",
+                "mode",
+                "supported",
+                "environment",
+                "log",
+                "debug",
+                "level.fixesexpo/expo-cli",
+                "1589from",
+                "testing",
+                "expo",
+                "functionality",
+                "affected",
+                "cli",
+                "run",
+                "child",
+                "process",
+                "tty",
+                "however",
+                "extra",
+                "log",
+                "message",
+                "may",
+                "confusing",
+                "users.also",
+                "watch",
+                "mode",
+                "disabled",
+                "passing",
+                "--",
+                "no-interactiveflag",
+                "rn",
+                "cli.cc",
+                "brentvatnetest",
+                "plan",
+                "tested",
+                "using",
+                "latest",
+                "expo",
+                "cli",
+                "alone"
+              ],
+              "author": "thymikee"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "title": [
+        "watch",
+        "mode",
+        "supported",
+        "environment"
+      ],
+      "labels": [
+        "upstream"
+      ],
+      "comments": [
+        {
+          "author": "piotrkochan",
+          "content": [
+            "bug",
+            "report",
+            "info",
+            "22:54",
+            "watch",
+            "mode",
+            "supported",
+            "environment",
+            "watchman",
+            "installed",
+            "using",
+            "production",
+            "mode",
+            "environment",
+            "expo",
+            "cli",
+            "3.13.1",
+            "environment",
+            "info",
+            "system",
+            "o",
+            "macos",
+            "10.15.3",
+            "shell",
+            "5.7.1",
+            "/bin/zsh",
+            "binary",
+            "node",
+            "12.14.0",
+            "~/.nvm/versions/node/v12.14.0/bin/node",
+            "npm",
+            "6.13.4",
+            "~/.nvm/versions/node/v12.14.0/bin/npm",
+            "watchman",
+            "4.9.0",
+            "/usr/local/bin/watchman",
+            "ides",
+            "xcode",
+            "/undefined",
+            "/usr/bin/xcodebuild",
+            "npmpackages",
+            "expo",
+            "~36.0.0",
+            "36.0.2",
+            "react",
+            "~16.9.0",
+            "16.9.0",
+            "react-native",
+            "http",
+            "//github.com/expo/react-native/archive/sdk-36.0.0.tar.gz",
+            "0.61.4",
+            "npmglobalpackages",
+            "expo-cli",
+            "3.13.1",
+            "expected",
+            "behavior",
+            "app",
+            "auto",
+            "reload",
+            "actual",
+            "behavior",
+            "watch",
+            "mode",
+            "supported",
+            "environment",
+            "cli",
+            "result",
+            "developer",
+            "tool"
+          ]
+        },
+        {
+          "author": "dprslt",
+          "content": [
+            "go",
+            "issue",
+            ".."
+          ]
+        },
+        {
+          "author": "pedrovictoroc",
+          "content": [
+            "issue",
+            "scan",
+            "qrcode",
+            "package",
+            "running",
+            "192.168.0.14:19001",
+            "appear"
+          ]
+        },
+        {
+          "author": "martyni8",
+          "content": [
+            "issue",
+            "well",
+            "p"
+          ]
+        },
+        {
+          "author": "maaznadeem246",
+          "content": [
+            "happening",
+            "showing",
+            "watch",
+            "mode",
+            "supported",
+            "environment"
+          ]
+        },
+        {
+          "author": "mgj",
+          "content": [
+            "getting",
+            "window",
+            "10",
+            "well",
+            "node",
+            "v12.16.1",
+            "npm",
+            "6.13.4",
+            "expo",
+            "3.13.1"
+          ]
+        },
+        {
+          "author": "martyni8",
+          "content": [
+            "using",
+            "previous",
+            "version",
+            "expo",
+            "sdk",
+            "34",
+            "latest",
+            "node",
+            "module",
+            "app",
+            "back",
+            "normal",
+            "working",
+            "'s",
+            "gon",
+            "na",
+            "version",
+            "problem",
+            "..."
+          ]
+        },
+        {
+          "author": "marcoacevey",
+          "content": [
+            "cant",
+            "solve",
+            "problem",
+            "yet"
+          ]
+        },
+        {
+          "author": "felipe-heredia",
+          "content": [
+            "anyone",
+            "managed",
+            "solve",
+            "problem"
+          ]
+        },
+        {
+          "author": "tosebikan",
+          "content": [
+            "problem",
+            "occurred",
+            "immediately",
+            "updating",
+            "expo",
+            "resolved"
+          ]
+        },
+        {
+          "author": "marcoacevey",
+          "content": [
+            "problem",
+            "occurred",
+            "immediately",
+            "updating",
+            "expo",
+            "resolved",
+            "tryed",
+            "grade",
+            "version",
+            "work"
+          ]
+        },
+        {
+          "author": "sgardn",
+          "content": [
+            "got",
+            "fresh",
+            "creation",
+            "new",
+            "app",
+            "using",
+            "expo",
+            "init",
+            "fwiw",
+            "package.json",
+            "info",
+            "look",
+            "expo-cli",
+            "v",
+            "3.13.1",
+            "node",
+            "v",
+            "12.6.0",
+            "etc",
+            ".."
+          ]
+        },
+        {
+          "author": "marcoacevey",
+          "content": [
+            "downgraded",
+            "sdk",
+            "version",
+            "34.0.2",
+            "worcking",
+            "fine"
+          ]
+        },
+        {
+          "author": "marcoacevey",
+          "content": [
+            "followed",
+            "step",
+            "app.json",
+            "changed",
+            "1",
+            "sdkversion",
+            "36.0.0",
+            "sdkversion",
+            "34.0.0",
+            "package.json",
+            "changed",
+            "1",
+            "expo",
+            "~36.0.0",
+            "expo",
+            "~34.0.0",
+            "2",
+            "react-native",
+            "http",
+            "//github.com/expo/react-native/archive/sdk-34.0.2.tar.gz",
+            "run",
+            "yarn",
+            "install",
+            "npm",
+            "intall",
+            "every",
+            "thing",
+            "working",
+            "fine"
+          ]
+        },
+        {
+          "author": "brentvatne",
+          "content": [
+            "add",
+            "package.json",
+            "use",
+            "yarn",
+            "resolution",
+            "react-native-community/cli",
+            "3.0.4",
+            "run",
+            "yarn",
+            "hr",
+            "reached",
+            "react-native-community/cli",
+            "team",
+            "asked",
+            "revert",
+            "change",
+            "rolled",
+            "minor",
+            "version",
+            "bump"
+          ]
+        }
+      ]
+    }
+  ],
+  "security": null
+}

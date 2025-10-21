@@ -1,0 +1,23 @@
+{
+  "commit_index": "29031f5",
+  "commit_url": "https://github.com/sadmann7/shadcn-table/commit/29031f5886874e7235e6fca7c3ba672d6a6a8df8",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "router",
+      "batching",
+      "hindering",
+      "rerender"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      "src/components/data-table/data-table.tsx"
+    ],
+    "changed_files_content": [],
+    "parent": "9f74952052453ffa3be23d029a9bc12d528f139d"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

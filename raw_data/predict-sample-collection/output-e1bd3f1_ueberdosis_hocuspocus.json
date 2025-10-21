@@ -1,0 +1,151 @@
+{
+  "commit_index": "e1bd3f1",
+  "commit_url": "https://github.com/ueberdosis/hocuspocus/commit/e1bd3f1c9d9486382e1a856faac5118220a39087",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "remove",
+      "awareness",
+      "state",
+      "page",
+      "unload",
+      "instead",
+      "beforeunload"
+    ],
+    "description": [
+      "co-authored-by",
+      "fanwh",
+      "yealink.com"
+    ],
+    "changed_files_count": 1,
+    "changed_files": [
+      "packages/provider/src/HocuspocusProvider.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "db2bba38456a65eab6571a9146919f4e30addc7a"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "remove",
+        "awareness",
+        "stats",
+        "page",
+        "unload",
+        "instead",
+        "beforeunload",
+        "658"
+      ],
+      "total_discussions": 1,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "notice",
+                "code",
+                "filepackages/provider/src/hocuspocusprovider.tswindow.addeventlistener",
+                "'beforeunload",
+                "this.boundbeforeunload",
+                "must",
+                "say",
+                "prevent",
+                "page",
+                "close",
+                "consider",
+                "logic",
+                "below//",
+                "http",
+                "//developer.mozilla.org/en/docs/web/api/window/beforeunload_eventwindow.addeventlistener",
+                "'beforeunload",
+                "event",
+                "event.preventdefault",
+                "event.returnvalue=",
+                "develop",
+                "write",
+                "intercept",
+                "logic",
+                "user",
+                "may",
+                "cancel",
+                "close",
+                "page"
+              ],
+              "author": "janthurau"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "title": [
+        "beforeunload",
+        "correct",
+        "event",
+        "reseting",
+        "awareness",
+        "state"
+      ],
+      "labels": [
+        "wontfix"
+      ],
+      "comments": [
+        {
+          "author": "mifopen",
+          "content": [
+            "n't",
+            "unload",
+            "beforeunload",
+            "often",
+            "used",
+            "ask",
+            "user",
+            "unsaved",
+            "change",
+            "mean",
+            "user",
+            "disconnected",
+            "awareness",
+            "protocol",
+            "choose",
+            "example",
+            "exit",
+            "without",
+            "saving",
+            "cancel",
+            "save",
+            "yjs-530"
+          ]
+        },
+        {
+          "author": "dmonad",
+          "content": [
+            "try",
+            "whether",
+            "disconnecting",
+            "still",
+            "work",
+            "unload",
+            "event"
+          ]
+        },
+        {
+          "author": "dmonad",
+          "content": [
+            "verifying",
+            "added",
+            "change",
+            "made",
+            "release"
+          ]
+        }
+      ]
+    }
+  ],
+  "security": null
+}

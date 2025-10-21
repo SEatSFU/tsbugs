@@ -1,0 +1,49 @@
+{
+  "commit_index": "7f94b77",
+  "commit_url": "https://github.com/refly-ai/refly/commit/7f94b77440bc092b13926c0a6c5e8044baacc61a",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "canvas",
+      "update",
+      "memonode",
+      "action",
+      "button",
+      "visibility",
+      "logic"
+    ],
+    "description": [
+      "modified",
+      "visibility",
+      "condition",
+      "nodeactionbuttons",
+      "memonode",
+      "show",
+      "node",
+      "selected",
+      "hovered",
+      "enhancing",
+      "user",
+      "interaction",
+      "updated",
+      "isnodehovered",
+      "prop",
+      "reflect",
+      "new",
+      "visibility",
+      "logic",
+      "better",
+      "state",
+      "management"
+    ],
+    "changed_files_count": 1,
+    "changed_files": [
+      "packages/ai-workspace-common/src/components/canvas/nodes/memo/memo.tsx"
+    ],
+    "changed_files_content": [],
+    "parent": "10ce5ecdd734fad74893d4db72917e444bc6adda"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

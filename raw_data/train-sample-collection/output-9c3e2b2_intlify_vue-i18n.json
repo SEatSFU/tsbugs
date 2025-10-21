@@ -1,0 +1,229 @@
+{
+  "commit_index": "9c3e2b2",
+  "commit_url": "https://github.com/intlify/vue-i18n/commit/9c3e2b2704ff0e574340c8d1809a41d38522f24f",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "example",
+      "remove",
+      "vite-ignore",
+      "magic",
+      "comment",
+      "1590"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      "examples/lazy-loading/vite/src/i18n.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "205dc129c218eed7f65815c9c669e58ab08dbdb0"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "example",
+        "remove",
+        "vite-ignoremagic",
+        "comment",
+        "1590"
+      ],
+      "total_discussions": 2,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "resolve",
+                "1575ref",
+                "vitejs/vite",
+                "14006"
+              ],
+              "author": "kazupon"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "view",
+                "log"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "title": [
+        "lazy-loading",
+        "example",
+        "work",
+        "vite",
+        "4.4.9/4.4.10"
+      ],
+      "labels": [
+        "🔨 p3-minor-bug"
+      ],
+      "comments": [
+        {
+          "author": "KANekT",
+          "content": [
+            "reporting",
+            "bug",
+            "example",
+            "http",
+            "//github.com/intlify/vue-i18n-next/tree/master/examples/lazy-loading/vite",
+            "use",
+            "vite",
+            "4.4.9/4.4.10",
+            "prod",
+            "build",
+            "load",
+            "lang",
+            "file",
+            "work",
+            "dev",
+            "mode",
+            "vite",
+            "4.4.8",
+            "work",
+            "prod",
+            "expected",
+            "behavior",
+            "reproduction",
+            "system",
+            "info",
+            "system",
+            "o",
+            "macos",
+            "14.0",
+            "cpu",
+            "8",
+            "arm64",
+            "apple",
+            "m2",
+            "memory",
+            "55.48",
+            "mb",
+            "16.00",
+            "gb",
+            "shell",
+            "5.9",
+            "/bin/zsh",
+            "binary",
+            "node",
+            "18.18.0",
+            "/usr/local/bin/node",
+            "npm",
+            "10.1.0",
+            "/usr/local/bin/npm",
+            "browser",
+            "chrome",
+            "117.0.5938.132",
+            "safari",
+            "17.0",
+            "npmpackages",
+            "intlify/eslint-plugin-vue-i18n",
+            "^2.0.0",
+            "2.0.0",
+            "intlify/unplugin-vue-i18n",
+            "^1.4.0",
+            "1.4.0",
+            "intlify/vue-devtools",
+            "^9.5.0",
+            "9.5.0",
+            "vitejs/plugin-legacy",
+            "^4.1.1",
+            "4.1.1",
+            "vitejs/plugin-vue",
+            "^4.4.0",
+            "4.4.0",
+            "vue/eslint-config-typescript",
+            "^12.0.0",
+            "12.0.0",
+            "vite",
+            "4.4.9",
+            "4.4.9",
+            "vue",
+            "^3.3.4",
+            "3.3.4",
+            "vue-advanced-cropper",
+            "^2.8.8",
+            "2.8.8",
+            "vue-cal",
+            "^4.8.1",
+            "4.8.1",
+            "vue-i18n",
+            "^9.4.1",
+            "9.4.1",
+            "vue-observe-visibility",
+            "^2.0.0-alpha.1",
+            "2.0.0-alpha.1",
+            "vue-router",
+            "^4.2.5",
+            "4.2.5",
+            "vue-tsc",
+            "^1.8.15",
+            "1.8.15",
+            "screenshot",
+            "response",
+            "additional",
+            "context",
+            "response",
+            "validation",
+            "read",
+            "contributing",
+            "guideline",
+            "read",
+            "documentation",
+            "check",
+            "n't",
+            "already",
+            "issue",
+            "report",
+            "bug",
+            "avoid",
+            "creating",
+            "duplicate",
+            "check",
+            "concrete",
+            "bug",
+            "q",
+            "open",
+            "github",
+            "discussion"
+          ]
+        },
+        {
+          "author": "ankanlim",
+          "content": [
+            "issue",
+            "anybody",
+            "able",
+            "look"
+          ]
+        },
+        {
+          "author": "kazupon",
+          "content": [
+            "'ve",
+            "updated",
+            "lazy-loading",
+            "example",
+            "please",
+            "check"
+          ]
+        }
+      ]
+    }
+  ],
+  "security": null
+}

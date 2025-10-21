@@ -1,0 +1,61 @@
+{
+  "commit_index": "dbea488",
+  "commit_url": "https://github.com/refly-ai/refly/commit/dbea488580d21a38f62307a942ac12bd60b955b7",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "canvas",
+      "improve",
+      "context",
+      "history",
+      "parsing",
+      "error",
+      "handling"
+    ],
+    "description": [
+      "enhanced",
+      "context",
+      "history",
+      "parsing",
+      "canvasservice",
+      "handle",
+      "various",
+      "data",
+      "type",
+      "added",
+      "error",
+      "logging",
+      "parsing",
+      "failure",
+      "ensured",
+      "safe",
+      "access",
+      "property",
+      "using",
+      "optional",
+      "chaining",
+      "nullish",
+      "coalescing",
+      "updated",
+      "array",
+      "handling",
+      "check",
+      "existence",
+      "using",
+      "array",
+      "method"
+    ],
+    "changed_files_count": 4,
+    "changed_files": [
+      "apps/api/src/modules/canvas/canvas.service.ts",
+      "apps/api/src/modules/media-generator/media-generator.service.ts",
+      "apps/api/src/modules/workflow/workflow.module.ts",
+      "apps/api/src/modules/workflow/workflow.service.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "bc54ccb4eee20ecbc67a93c9b77af2650ce61e7a"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

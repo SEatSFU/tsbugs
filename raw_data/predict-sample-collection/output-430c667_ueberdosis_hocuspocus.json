@@ -1,0 +1,170 @@
+{
+  "commit_index": "430c667",
+  "commit_url": "https://github.com/ueberdosis/hocuspocus/commit/430c6673d935ca46c79d14d6269d6bffb17c511b",
+  "commit": {
+    "commit_message": [
+      "redis",
+      "make",
+      "y-redis",
+      "use",
+      "ecmascript",
+      "module",
+      "fix",
+      "224",
+      "225"
+    ],
+    "description": [
+      "add",
+      "failing",
+      "test",
+      "make",
+      "sure",
+      "xmlfragments",
+      "created",
+      "modified",
+      "restored",
+      "redis",
+      "see",
+      "224",
+      "simplify",
+      "test",
+      "use",
+      "three",
+      "different",
+      "y.js",
+      "doc",
+      "add",
+      "message",
+      "logging",
+      "refactor",
+      "test",
+      "update",
+      "dependency",
+      "fix",
+      "typescript",
+      "issue",
+      "update",
+      "dependency",
+      "clean"
+    ],
+    "changed_files_count": 3,
+    "changed_files": [
+      "packages/provider/src/HocuspocusProvider.ts",
+      "tests/redis/onSynced.js",
+      "yarn.lock"
+    ],
+    "changed_files_content": [],
+    "parent": "f5555016785019913846448b9a11186397c65473"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "make",
+        "y-redis",
+        "use",
+        "ecmascript",
+        "module",
+        "fix",
+        "224",
+        "225"
+      ],
+      "total_discussions": 1,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "context",
+                "224"
+              ],
+              "author": "hanspagel"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "title": [
+        "corrupted",
+        "xmlfragment"
+      ],
+      "labels": [
+        "bug"
+      ],
+      "comments": [
+        {
+          "author": "hanspagel",
+          "content": [
+            "yjs",
+            "document",
+            "persisted",
+            "client",
+            "refreshes",
+            "browser",
+            "subsequent",
+            "edits",
+            "sent",
+            "websocket",
+            "server",
+            "roughly",
+            "10",
+            "byte",
+            "update",
+            "resemblance",
+            "said",
+            "edits",
+            "refreshes",
+            "show",
+            "update",
+            "previous",
+            "first",
+            "refresh",
+            "number",
+            "refreshes",
+            "10",
+            "byte",
+            "update",
+            "xmlfragment",
+            "return",
+            "empty",
+            "string",
+            "tostring",
+            "tojson",
+            "'ve",
+            "found",
+            "behavior",
+            "using",
+            "either",
+            "y-websocket",
+            "hocuspocus",
+            "provider",
+            "client",
+            "side",
+            "probably",
+            "able",
+            "narrow",
+            "culprit",
+            "adding",
+            "console.log",
+            "y.logupdate",
+            "update",
+            "backend",
+            "reported",
+            "via",
+            "email",
+            "try",
+            "create",
+            "test",
+            "reproduction",
+            "first"
+          ]
+        }
+      ]
+    }
+  ],
+  "security": null
+}

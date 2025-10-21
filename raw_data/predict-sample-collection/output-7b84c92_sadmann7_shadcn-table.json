@@ -1,0 +1,105 @@
+{
+  "commit_index": "7b84c92",
+  "commit_url": "https://github.com/sadmann7/shadcn-table/commit/7b84c92617b7bff5ad446dcc130c953cacd64d61",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "deps",
+      "update",
+      "dependency",
+      "sonner",
+      "v1.7.4",
+      "862"
+    ],
+    "description": [
+      "co-authored-by",
+      "renovate",
+      "bot",
+      "29139614+renovate",
+      "bot",
+      "users.noreply.github.com"
+    ],
+    "changed_files_count": 1,
+    "changed_files": [
+      "pnpm-lock.yaml"
+    ],
+    "changed_files_content": [],
+    "parent": "db92c039567a95776e9ccd845ba3430ed95e86a3"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "deps",
+        "update",
+        "dependency",
+        "sonner",
+        "v1.7.4",
+        "862"
+      ],
+      "total_discussions": 1,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "pr",
+                "contains",
+                "following",
+                "update",
+                "packagechangeageadoptionpassingconfidencesonner",
+                "source",
+                "1.7.3-",
+                "1.7.4release",
+                "notesemilkowalski/sonner",
+                "sonner",
+                "v1.7.4compare",
+                "branch",
+                "creation",
+                "time",
+                "schedule",
+                "defined",
+                "automerge",
+                "time",
+                "schedule",
+                "defined",
+                "whenever",
+                "pr",
+                "behind",
+                "base",
+                "branch",
+                "tick",
+                "rebase/retry",
+                "close",
+                "pr",
+                "wo",
+                "n't",
+                "reminded",
+                "update",
+                "again.if",
+                "want",
+                "rebase/retry",
+                "pr",
+                "check",
+                "boxthis",
+                "pr",
+                "generated",
+                "bymend",
+                "renovate",
+                "view",
+                "therepository",
+                "job",
+                "log"
+              ],
+              "author": "renovate"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

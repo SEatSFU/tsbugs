@@ -1,0 +1,116 @@
+{
+  "commit_index": "84c46c1",
+  "commit_url": "https://github.com/statelyai/xstate/commit/84c46c1ae95cea34355245a12ca2471eca996337",
+  "commit": {
+    "commit_message": [
+      "fixed",
+      "issue",
+      "action",
+      "initial",
+      "transition",
+      "exec\u2026"
+    ],
+    "description": [],
+    "changed_files_count": 4,
+    "changed_files": [
+      ".changeset/grumpy-shrimps-draw.md",
+      "packages/core/src/StateMachine.ts",
+      "packages/core/src/stateUtils.ts",
+      "packages/core/test/actions.test.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "81b6edafd6386d822c3b12c9e12e025ab4f843ad"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fixed",
+        "issue",
+        "action",
+        "initial",
+        "transition",
+        "executed",
+        "4357"
+      ],
+      "total_discussions": 3,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "description",
+                "provided"
+              ],
+              "author": "Andarist"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "latest",
+                "commit",
+                "e6b6bb5",
+                "change",
+                "pr",
+                "included",
+                "next",
+                "version",
+                "bump",
+                "sure",
+                "mean",
+                "click",
+                "learn",
+                "changesets",
+                "click",
+                "'re",
+                "maintainer",
+                "want",
+                "add",
+                "another",
+                "changeset",
+                "pr"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 3,
+          "comments": [
+            {
+              "content": [
+                "pull",
+                "request",
+                "automatically",
+                "built",
+                "testable",
+                "incodesandbox",
+                "see",
+                "build",
+                "info",
+                "built",
+                "library",
+                "clickhereor",
+                "icon",
+                "next",
+                "commit",
+                "sha",
+                "latest",
+                "deployment",
+                "branch",
+                "based",
+                "commite6b6bb5"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

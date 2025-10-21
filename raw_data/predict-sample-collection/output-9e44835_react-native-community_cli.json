@@ -1,0 +1,161 @@
+{
+  "commit_index": "9e44835",
+  "commit_url": "https://github.com/react-native-community/cli/commit/9e44835025a548a56401583bbf346511097cce48",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "invalid",
+      "output",
+      "config",
+      "command",
+      "1131"
+    ],
+    "description": [
+      "moved",
+      "disabling",
+      "logger",
+      "top",
+      "user",
+      "used",
+      "config",
+      "command",
+      "added",
+      "e2e",
+      "test",
+      "config",
+      "command",
+      "added",
+      "config",
+      "command",
+      "output",
+      "snapshot",
+      "updated",
+      "config",
+      "test",
+      "snapshot",
+      "added",
+      "project",
+      "root",
+      "replacement",
+      "helper",
+      "removed",
+      "default",
+      "terminal",
+      "program",
+      "snapshot",
+      "moved",
+      "test",
+      "jest",
+      "folder",
+      "removed",
+      "additional",
+      "snapshot",
+      "less",
+      "snapshot",
+      "use",
+      "raw",
+      "serializer",
+      "strip",
+      "unnecessary",
+      "part",
+      "snapshot",
+      "added",
+      "tmp",
+      "directory",
+      "regex",
+      "replaces",
+      "project",
+      "root",
+      "snapshot",
+      "added",
+      "slash",
+      "passing",
+      "testfolder",
+      "project",
+      "root",
+      "replacing",
+      "helper",
+      "fixed",
+      "problem",
+      "window",
+      "path",
+      "replacing",
+      "cr",
+      "fix",
+      "co-authored-by",
+      "thymikee",
+      "gmail.com"
+    ],
+    "changed_files_count": 8,
+    "changed_files": [
+      "__e2e__/__snapshots__/config.test.ts.snap",
+      "__e2e__/config.test.ts",
+      "jest.config.js",
+      "jest/__tests__/replaceProjectRootInOutput.test.ts",
+      "jest/helpers.ts",
+      "package.json",
+      "packages/cli/src/index.ts",
+      "yarn.lock"
+    ],
+    "changed_files_content": [],
+    "parent": "cbcdf20d704fe4624e003e472d0134c28e354c1c"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "config",
+        "command",
+        "additional",
+        "output",
+        "1131"
+      ],
+      "total_discussions": 2,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "summary",
+                "logger",
+                "disabled",
+                "top",
+                "thesetupandrunfunction",
+                "config",
+                "command",
+                "used",
+                "want",
+                "plain",
+                "json",
+                "config",
+                "output.test",
+                "plan",
+                "added",
+                "test",
+                "config",
+                "command"
+              ],
+              "author": "thymikee"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "jamesgeorge007thanks",
+                "suggestion",
+                "appreciate"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

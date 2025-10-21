@@ -1,0 +1,61 @@
+{
+  "commit_index": "b1a0841",
+  "commit_url": "https://github.com/react-native-community/cli/commit/b1a0841aea7286898c33165a24c9724ad6def91d",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "init",
+      "run",
+      "instruction",
+      "show",
+      "workspace",
+      "566"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      "packages/cli/src/commands/init/printRunInstructions.js"
+    ],
+    "changed_files_content": [],
+    "parent": "eddfd4d20a62d11133687843b52f7095c5c88118"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "init",
+        "run",
+        "instruction",
+        "show",
+        "workspace",
+        "566"
+      ],
+      "total_discussions": 1,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "summary",
+                "introduced",
+                "regression",
+                "workspace",
+                "file",
+                "found",
+                "fix",
+                "it.test",
+                "plan",
+                "local"
+              ],
+              "author": "thymikee"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

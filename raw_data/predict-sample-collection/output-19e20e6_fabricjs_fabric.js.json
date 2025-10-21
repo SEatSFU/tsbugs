@@ -1,0 +1,127 @@
+{
+  "commit_index": "19e20e6",
+  "commit_url": "https://github.com/fabricjs/fabric.js/commit/19e20e6e02892aa35c1f3492a4c5d388b26a01f8",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "canvas",
+      "avoid",
+      "styling",
+      "lower",
+      "canvas",
+      "absolute",
+      "positioning\u2026"
+    ],
+    "description": [],
+    "changed_files_count": 6,
+    "changed_files": [
+      ".codesandbox/templates/vanilla/src/index.ts",
+      ".codesandbox/templates/vanilla/src/testcases/responsive.ts",
+      "CHANGELOG.md",
+      "src/canvas/DOMManagers/CanvasDOMManager.ts",
+      "src/canvas/DOMManagers/util.ts",
+      "src/util/dom_style.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "f60e9aa7df6f74ee984b312d72e98355d14b2b1a"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "feat",
+        "canvas",
+        "avoid",
+        "styling",
+        "lower",
+        "canvas",
+        "absolute",
+        "positioning",
+        "10077"
+      ],
+      "total_discussions": 4,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "descriptionit",
+                "seems",
+                "canvas",
+                "absolute",
+                "positioning",
+                "kind",
+                "unnecessary",
+                "importantly",
+                "make",
+                "container",
+                "hard",
+                "fit",
+                "flow.if",
+                "want",
+                "canvas",
+                "container",
+                "set",
+                "'fit-content",
+                "height",
+                "auto",
+                "collapse",
+                "0",
+                "content",
+                "absolute",
+                "positioned.this",
+                "change",
+                "seems",
+                "break",
+                "nothing",
+                "allow",
+                "dynamic",
+                "setup"
+              ],
+              "author": "asturur"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "open",
+                "branch",
+                "inweb",
+                "editor\u2022vs",
+                "code\u2022insiders"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 3,
+          "comments": [
+            {
+              "content": [
+                "build",
+                "stats"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 4,
+          "comments": [
+            {
+              "content": [
+                "coverage",
+                "mergingno-style-lowerintomasterwill"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

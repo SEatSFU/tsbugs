@@ -1,0 +1,767 @@
+{
+  "commit_index": "98b79af",
+  "commit_url": "https://github.com/react-native-community/cli/commit/98b79af30a58c3717c2e4481445989c4dbf03394",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "doctor",
+      "command",
+      "fetch",
+      "android",
+      "sdk",
+      "version",
+      "build.gradle",
+      "872"
+    ],
+    "description": [
+      "get",
+      "buildtoolsversion",
+      "android/build.gradle",
+      "fix",
+      "lint",
+      "issue",
+      "clean",
+      "parsing",
+      "value",
+      "buildtoolsversion",
+      "pas",
+      "along",
+      "version",
+      "entry",
+      "multiple",
+      "version",
+      "software/lib",
+      "handle",
+      "multiple",
+      "version",
+      "android",
+      "sdk",
+      "build",
+      "tool",
+      "fix",
+      "lint",
+      "issue",
+      "add",
+      "check",
+      "android",
+      "sdk",
+      "installed",
+      "update",
+      "android",
+      "sdk",
+      "test"
+    ],
+    "changed_files_count": 4,
+    "changed_files": [
+      "packages/cli/src/commands/doctor/doctor.ts",
+      "packages/cli/src/commands/doctor/healthchecks/__tests__/androidSDK.test.ts",
+      "packages/cli/src/commands/doctor/healthchecks/androidSDK.ts",
+      "packages/cli/src/commands/doctor/types.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "b11096675df4a1ca8e369a9896ad3b95bfc4feb1"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "doctor",
+        "changeandroid",
+        "sdkcheck",
+        "fetch",
+        "version",
+        "frombuild.gradle",
+        "872"
+      ],
+      "total_discussions": 12,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "summary",
+                "attempt",
+                "fix",
+                "issue",
+                "noticed",
+                "android",
+                "sdk",
+                "health",
+                "check",
+                "multiple",
+                "version",
+                "installed.the",
+                "way",
+                "work",
+                "android",
+                "sdk",
+                "search",
+                "forandroid/build.gradlefile",
+                "get",
+                "value",
+                "ofbuildtoolsversion",
+                "check",
+                "value",
+                "specified",
+                "onbuildtoolsversionis",
+                "returned",
+                "byenvinfoas",
+                "installed",
+                "version",
+                "pas",
+                "fail",
+                "check",
+                "showing",
+                "one",
+                "multiple",
+                "version",
+                "installed",
+                "along",
+                "one",
+                "required",
+                "project.todoget",
+                "correct",
+                "path",
+                "forandroid/build.gradle",
+                "pkg-upcan",
+                "help",
+                "identify",
+                "root",
+                "folder",
+                "check",
+                "version",
+                "declared",
+                "onandroid/build.gradleexists",
+                "installed",
+                "health",
+                "check",
+                "fail",
+                "fix",
+                "test",
+                "857"
+              ],
+              "author": "grabbou"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "cc",
+                "rborn",
+                "based",
+                "helped",
+                "much",
+                "fix"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 3,
+          "comments": [
+            {
+              "content": [
+                "rborn",
+                "change",
+                "based",
+                "info",
+                "gathered",
+                "857",
+                "please",
+                "test",
+                "pull",
+                "branch",
+                "locally",
+                "yarn",
+                "installthe",
+                "deps",
+                "cdinto",
+                "project",
+                "run",
+                "let",
+                "know",
+                "go",
+                "helping"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 4,
+          "comments": [
+            {
+              "content": [
+                "way",
+                "work",
+                "cc",
+                "thymikee"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 5,
+          "comments": [
+            {
+              "content": [
+                "got",
+                "failing",
+                "check",
+                "'ll",
+                "fix",
+                "later",
+                "seems",
+                "like",
+                "linting/format",
+                "ide",
+                "messed"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 6,
+          "comments": [
+            {
+              "content": [
+                "lucasbentothat",
+                "'s",
+                "'ll",
+                "try",
+                "update",
+                "ndk",
+                "using",
+                "doctor"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 7,
+          "comments": [
+            {
+              "content": [
+                "rborn",
+                "nice",
+                "ca",
+                "n't",
+                "fix",
+                "automatically",
+                "'m",
+                "eager",
+                "know",
+                "also",
+                "multiple",
+                "version",
+                "also",
+                "try",
+                "changing",
+                "version",
+                "yourandroid/build.gradleto",
+                "something",
+                "random",
+                "make",
+                "sure",
+                "fails"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 8,
+          "comments": [
+            {
+              "content": [
+                "lucasbentoneh",
+                "stop"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 9,
+          "comments": [
+            {
+              "content": [
+                "lucasbentochnaged",
+                "to98.0.3"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 10,
+          "comments": [
+            {
+              "content": [
+                "rborn",
+                "neh",
+                "stop",
+                "...",
+                "yeah",
+                "currently",
+                "n't",
+                "support",
+                "automatic",
+                "fix",
+                "software",
+                "unfortunately",
+                "rborn",
+                "changed",
+                "98.0.3",
+                "great",
+                "guess",
+                "work",
+                "'ll",
+                "fix",
+                "check",
+                "add",
+                "test",
+                "turn",
+                "pr",
+                "help"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 11,
+          "comments": [
+            {
+              "content": [
+                "lucasbentoupdated",
+                "ndk",
+                "change",
+                "env",
+                "android_ndk",
+                "new",
+                "path",
+                "'s",
+                "green.cleaned",
+                "project",
+                "build",
+                "android",
+                "seems",
+                "work",
+                "looooong",
+                "coffee",
+                "waiting"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 12,
+          "comments": [
+            {
+              "content": [
+                "...",
+                "let",
+                "'s",
+                "ship"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "title": [
+        "doctor",
+        "detecting",
+        "correct",
+        "android",
+        "sdk"
+      ],
+      "labels": [
+        "bug",
+        "command: doctor"
+      ],
+      "comments": [
+        {
+          "author": "rborn",
+          "content": [
+            "environment",
+            "react-native",
+            "info",
+            "info",
+            "fetching",
+            "system",
+            "library",
+            "information",
+            "...",
+            "system",
+            "o",
+            "macos",
+            "mojave",
+            "10.14.6",
+            "cpu",
+            "8",
+            "x64",
+            "intel",
+            "r",
+            "core",
+            "tm",
+            "i7-4980hq",
+            "cpu",
+            "2.80ghz",
+            "memory",
+            "192.95",
+            "mb",
+            "16.00",
+            "gb",
+            "shell",
+            "3.2.57",
+            "/bin/bash",
+            "binary",
+            "node",
+            "11.12.0",
+            "/usr/local/bin/node",
+            "yarn",
+            "1.7.0",
+            "~/.npm-packages/bin/yarn",
+            "npm",
+            "6.9.0",
+            "~/.npm-packages/bin/npm",
+            "watchman",
+            "4.7.0",
+            "/usr/local/bin/watchman",
+            "sdks",
+            "io",
+            "sdk",
+            "platform",
+            "io",
+            "13.2",
+            "driverkit",
+            "19.0",
+            "macos",
+            "10.15",
+            "tvos",
+            "13.2",
+            "watchos",
+            "6.1",
+            "android",
+            "sdk",
+            "api",
+            "level",
+            "21",
+            "22",
+            "23",
+            "24",
+            "25",
+            "26",
+            "27",
+            "28",
+            "build",
+            "tool",
+            "21.1.2",
+            "23.0.1",
+            "23.0.2",
+            "23.0.3",
+            "24.0.1",
+            "25.0.0",
+            "25.0.1",
+            "25.0.2",
+            "25.0.3",
+            "26.0.0",
+            "26.0.1",
+            "26.0.2",
+            "26.0.3",
+            "27.0.1",
+            "27.0.2",
+            "27.0.3",
+            "28.0.2",
+            "28.0.3",
+            "android",
+            "ndk",
+            "18.1.5063045",
+            "ides",
+            "xcode",
+            "11.2.1/11b500",
+            "/usr/bin/xcodebuild",
+            "npmpackages",
+            "react",
+            "16.11.0",
+            "16.11.0",
+            "react-native",
+            "0.61.4",
+            "0.61.4",
+            "npmglobalpackages",
+            "create-react-native-app",
+            "1.0.0",
+            "eslint-plugin-react-native",
+            "3.1.0",
+            "react-native-asset",
+            "2.0.0",
+            "react-native-cli",
+            "2.0.1",
+            "react-native-fetch-blob",
+            "0.10.8",
+            "react-native-git-upgrade",
+            "0.2.6",
+            "react-native-image-picker",
+            "0.26.7",
+            "description",
+            "doctor",
+            "seems",
+            "detect",
+            "correct",
+            "android",
+            "sdk",
+            "seems",
+            "taking",
+            "first",
+            "one",
+            "list",
+            "build-tools",
+            "reproducible",
+            "demo",
+            "'s",
+            "little",
+            "hard",
+            "think",
+            "depends",
+            "environment",
+            "add",
+            "info",
+            "run",
+            "test",
+            "needed"
+          ]
+        },
+        {
+          "author": "thymikee",
+          "content": [
+            "legit",
+            "bug",
+            "report",
+            "lucasbento",
+            "wdyt",
+            "could",
+            "sort",
+            "build-tools",
+            "version",
+            "pick",
+            "highest",
+            "guess",
+            "pick",
+            "first",
+            "correctly",
+            "noted"
+          ]
+        },
+        {
+          "author": "lucasbento",
+          "content": [
+            "yes",
+            "seems",
+            "way",
+            "fix",
+            "'m",
+            "gon",
+            "na",
+            "open",
+            "pr",
+            "today",
+            "tomorrow",
+            "reporting",
+            "rborn"
+          ]
+        },
+        {
+          "author": "grabbou",
+          "content": [
+            "one",
+            "thing",
+            "would",
+            "like",
+            "understand",
+            "'s",
+            "multiple",
+            "build",
+            "tool",
+            "installed",
+            "know",
+            "one",
+            "active",
+            "one",
+            "may",
+            "affect",
+            "report",
+            "provide",
+            "doctor",
+            "command"
+          ]
+        },
+        {
+          "author": "lucasbento",
+          "content": [
+            "one",
+            "thing",
+            "would",
+            "like",
+            "understand",
+            "'s",
+            "multiple",
+            "build",
+            "tool",
+            "installed",
+            "know",
+            "one",
+            "active",
+            "one",
+            "perhaps",
+            "jmeistrich",
+            "help",
+            "worked",
+            "current",
+            "version",
+            "androidsdk.ts",
+            "grabbou",
+            "idea",
+            "version",
+            "picked",
+            "run",
+            "react-native",
+            "run-android"
+          ]
+        },
+        {
+          "author": "jmeistrich",
+          "content": [
+            "already",
+            "using",
+            "first",
+            "list",
+            "got",
+            "added",
+            "bunch",
+            "code",
+            "workaround",
+            "envinfo",
+            "working",
+            "window",
+            "pull",
+            "request",
+            "envinfo",
+            "merged",
+            "http",
+            "//github.com/tabrindle/envinfo/pull/119",
+            "'re",
+            "may",
+            "want",
+            "reverse",
+            "part",
+            "change",
+            "go",
+            "back",
+            "using",
+            "envinfo",
+            "http",
+            "//github.com/react-native-community/cli/commit/05ef7bd6b0c4cadfe23f48cd38ff4c2d19c8eb1f"
+          ]
+        },
+        {
+          "author": "lucasbento",
+          "content": [
+            "okay",
+            "'m",
+            "currently",
+            "investigating",
+            "version",
+            "use",
+            "running",
+            "doctor",
+            "command",
+            "would",
+            "say",
+            "'s",
+            "latest",
+            "want",
+            "sure",
+            "anyone",
+            "know",
+            "sorting",
+            "part",
+            "version",
+            "work",
+            "'s",
+            "set",
+            "somewhere",
+            "please",
+            "let",
+            "know",
+            "help",
+            "appreciated"
+          ]
+        },
+        {
+          "author": "thymikee",
+          "content": [
+            "cc",
+            "dulmandakh"
+          ]
+        },
+        {
+          "author": "lucasbento",
+          "content": [
+            "rborn",
+            "know",
+            "get",
+            "multiple",
+            "sdk",
+            "tool",
+            "installed",
+            "believe",
+            "almost",
+            "response",
+            "running",
+            "sdkmanager",
+            "--",
+            "list",
+            "react-native",
+            "info",
+            "return",
+            "sdks",
+            "io",
+            "sdk",
+            "platform",
+            "io",
+            "11.2",
+            "macos",
+            "10.13",
+            "tvos",
+            "11.2",
+            "watchos",
+            "4.2",
+            "android",
+            "sdk",
+            "build",
+            "tool",
+            "26.0.2",
+            "make",
+            "think",
+            "installation",
+            "wrong",
+            "point",
+            "got",
+            "possible",
+            "fix",
+            "pretty",
+            "much",
+            "ready",
+            "need",
+            "test"
+          ]
+        }
+      ]
+    }
+  ],
+  "security": null
+}

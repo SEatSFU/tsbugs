@@ -1,0 +1,31 @@
+{
+  "commit_index": "ca9eca9",
+  "commit_url": "https://github.com/n8n-io/n8n/commit/ca9eca9ae9e168886502649458ccdb67d1261c09",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "thehive",
+      "node",
+      "fix",
+      "node",
+      "issue"
+    ],
+    "description": [],
+    "changed_files_count": 8,
+    "changed_files": [
+      "packages/nodes-base/credentials/TheHiveApi.credentials.ts",
+      "packages/nodes-base/nodes/TheHive/GenericFunctions.ts",
+      "packages/nodes-base/nodes/TheHive/TheHive.node.ts",
+      "packages/nodes-base/nodes/TheHive/TheHiveTrigger.node.ts",
+      "packages/nodes-base/nodes/TheHive/descriptions/AlertDescription.ts",
+      "packages/nodes-base/nodes/TheHive/descriptions/EventsDescription.ts",
+      "packages/nodes-base/nodes/TheHive/descriptions/LogDescription.ts",
+      "packages/nodes-base/nodes/TheHive/descriptions/ObservableDescription.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "2f4649cdf44e15b41b40879f27ffe39406a53b1b"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

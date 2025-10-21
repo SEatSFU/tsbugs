@@ -1,0 +1,119 @@
+{
+  "commit_index": "74d2415",
+  "commit_url": "https://github.com/chakra-ui/chakra-ui/commit/74d241550eee4bdc2c5a7fad67ca634c7c74c9d1",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "error",
+      "message",
+      "use-pin-input.ts",
+      "7953"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      "packages/components/pin-input/src/use-pin-input.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "065fd24c724d78b17e6996607ea1b5c7829e7c2c"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "error",
+        "message",
+        "use-pin-input.ts",
+        "7953"
+      ],
+      "total_discussions": 2,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "descriptionjust",
+                "fixing",
+                "little",
+                "typo\u26f3\ufe0f",
+                "current",
+                "behavior",
+                "update",
+                "n/a\ud83d\ude80",
+                "new",
+                "behaviorn/a\ud83d\udca3",
+                "breaking",
+                "change",
+                "yes/no",
+                "no\ud83d\udcdd",
+                "additional",
+                "information"
+              ],
+              "author": "segunadebayo"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "latest",
+                "commit",
+                "dceb233",
+                "merging",
+                "pr",
+                "cause",
+                "version",
+                "bump",
+                "package",
+                "change",
+                "result",
+                "new",
+                "version",
+                "'re",
+                "good",
+                "go.if",
+                "change",
+                "result",
+                "version",
+                "bump",
+                "need",
+                "add",
+                "changeset",
+                "changesets",
+                "added",
+                "pr",
+                "'ll",
+                "see",
+                "package",
+                "pr",
+                "includes",
+                "changesets",
+                "associated",
+                "semver",
+                "type",
+                "click",
+                "learn",
+                "changesets",
+                "add",
+                "one",
+                "click",
+                "'re",
+                "maintainer",
+                "want",
+                "add",
+                "changeset",
+                "pr"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

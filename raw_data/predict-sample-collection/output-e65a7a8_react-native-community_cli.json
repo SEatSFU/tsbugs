@@ -1,0 +1,142 @@
+{
+  "commit_index": "e65a7a8",
+  "commit_url": "https://github.com/react-native-community/cli/commit/e65a7a870fa73eb69a1f5fdd5e034b98e75731af",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "read",
+      "request",
+      "body",
+      "metro",
+      "symbolication",
+      "1147"
+    ],
+    "description": [
+      "metro",
+      "/symbolicate",
+      "endpoint",
+      "requires",
+      "request",
+      "body",
+      "available",
+      "req.rawbody",
+      "rawbodymiddleware",
+      "add",
+      "fix",
+      "following",
+      "error",
+      "cli-server-api",
+      "syntaxerror",
+      "unexpected",
+      "token",
+      "u",
+      "json",
+      "position",
+      "0",
+      "json.parse",
+      "anonymous",
+      "/users/ville/projects/react-native-cli/node_modules/metro/src/server.js:1026:28"
+    ],
+    "changed_files_count": 1,
+    "changed_files": [
+      "packages/cli-server-api/src/index.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "9e44835025a548a56401583bbf346511097cce48"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "read",
+        "request",
+        "body",
+        "metro",
+        "symbolication",
+        "1147"
+      ],
+      "total_discussions": 1,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "summary",
+                "metro/symbolicateendpoint",
+                "requires",
+                "request",
+                "body",
+                "availableinreq.rawbody",
+                "therawbodymiddlewareadds.fixes",
+                "following",
+                "error",
+                "fromcli-server-api",
+                "syntaxerror",
+                "unexpected",
+                "token",
+                "u",
+                "json",
+                "position",
+                "0",
+                "json.parse",
+                "anonymous",
+                "/users/ville/projects/react-native-cli/node_modules/metro/src/server.js:1026:28test",
+                "plan",
+                "tested",
+                "together",
+                "1140",
+                "themasterbranch",
+                "n't",
+                "havecli-server-apienabled",
+                "yet.without",
+                "fix",
+                "running",
+                "app",
+                "aconsole.warnorthrow",
+                "new",
+                "errorin",
+                "code",
+                "resulted",
+                "following",
+                "error",
+                "printed",
+                "console",
+                "syntaxerror",
+                "unexpected",
+                "token",
+                "u",
+                "json",
+                "position",
+                "0",
+                "also",
+                "stack",
+                "trace",
+                "symbolicated",
+                "showing",
+                "metro",
+                "bundle",
+                "url",
+                "instead",
+                "filename",
+                "adding",
+                "patch",
+                "error",
+                "occur",
+                "stack",
+                "trace",
+                "displayed",
+                "correct",
+                "filename"
+              ],
+              "author": "thymikee"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

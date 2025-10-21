@@ -1,0 +1,218 @@
+{
+  "commit_index": "5bba36c",
+  "commit_url": "https://github.com/ReactiveX/rxjs/commit/5bba36c6dde5b1b4b7e434104e716b233e5f402c",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "subscriber",
+      "n't",
+      "leak",
+      "destination",
+      "6116"
+    ],
+    "description": [
+      "test",
+      "rearrange",
+      "sharereplay",
+      "test",
+      "slightly",
+      "test",
+      "add",
+      "failing",
+      "subscriber",
+      "destination",
+      "leak",
+      "test",
+      "fix",
+      "null",
+      "destination",
+      "unsubscribe",
+      "fix",
+      "capture",
+      "destination",
+      "onnext",
+      "etc"
+    ],
+    "changed_files_count": 4,
+    "changed_files": [
+      "spec/Subscriber-spec.ts",
+      "spec/operators/shareReplay-spec.ts",
+      "src/internal/Subscriber.ts",
+      "src/internal/operators/OperatorSubscriber.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "f3b2f05bf8fc80ca20a2a5125a55868b3412e998"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "subscriber",
+        "n't",
+        "leak",
+        "destination",
+        "6116"
+      ],
+      "total_discussions": 3,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "description",
+                "pr",
+                "add",
+                "failing",
+                "test",
+                "show",
+                "subscription",
+                "i.e",
+                "subscriber",
+                "returned",
+                "fromsubscribeleak",
+                "destination",
+                "i.e",
+                "observer",
+                "callbacks.the",
+                "pr",
+                "changessubscriber",
+                "unsubscribeto",
+                "null",
+                "thedestinationaftersuper.unsubscribeis",
+                "called.this",
+                "change",
+                "broke",
+                "three",
+                "operator",
+                "-bufferwhenwas",
+                "one",
+                "unsubscription",
+                "effected",
+                "withinonnextand",
+                "error",
+                "thrown",
+                "withinonnext",
+                "unsubscription",
+                "'d",
+                "caught",
+                "theoperatorsubscriberand",
+                "attempt",
+                "would",
+                "made",
+                "callthis.destination.error",
+                "butthis.destinationwould",
+                "benull.rather",
+                "capturethis.destinationbefore",
+                "thetry/catcharoundonnext",
+                "oncomplete",
+                "andonerror",
+                "used",
+                "thedestinationthat",
+                "passed",
+                "theoperatorsubscriberconstructor",
+                "afaict",
+                "sure",
+                "'s",
+                "asubscriber",
+                "becauseoperatorsubscriberis",
+                "internal",
+                "impementation",
+                "detail.related",
+                "issue",
+                "exists",
+                "nope",
+                "discussion",
+                "6115"
+              ],
+              "author": "benlesh"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "'s",
+                "new",
+                "test",
+                "operator",
+                "related",
+                "'m",
+                "sure",
+                "additional",
+                "test",
+                "might",
+                "looking",
+                "explicit",
+                "test",
+                "foroperatorsubscriber",
+                "afaict",
+                "'s",
+                "tested",
+                "via",
+                "operator",
+                "test",
+                "regarding",
+                "operator",
+                "chained",
+                "pretty",
+                "much",
+                "every",
+                "operator",
+                "don't-break-subscription-chains",
+                "test",
+                "something",
+                "like",
+                "i.e",
+                "several",
+                "operator",
+                "chained",
+                "together",
+                "regarding",
+                "theoperatorsubscriberchange",
+                "test",
+                "thatfailwithout",
+                "fail",
+                "subscriber",
+                "selector-returned",
+                "observablesunsubscribe",
+                "themselvesand",
+                "error",
+                "thrown",
+                "within",
+                "selector",
+                "caught",
+                "inoperatorsubscriber",
+                "this.destinationwill",
+                "benull",
+                "etc",
+                "'m",
+                "sure",
+                "else",
+                "need",
+                "tested"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 3,
+          "comments": [
+            {
+              "content": [
+                "make",
+                "sense",
+                "cartant"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

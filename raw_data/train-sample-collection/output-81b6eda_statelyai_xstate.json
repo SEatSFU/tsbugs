@@ -1,0 +1,120 @@
+{
+  "commit_index": "81b6eda",
+  "commit_url": "https://github.com/statelyai/xstate/commit/81b6edafd6386d822c3b12c9e12e025ab4f843ad",
+  "commit": {
+    "commit_message": [
+      "fixed",
+      "issue",
+      "action",
+      "initial",
+      "transition",
+      "called",
+      "m\u2026"
+    ],
+    "description": [],
+    "changed_files_count": 3,
+    "changed_files": [
+      ".changeset/moody-needles-melt.md",
+      "packages/core/src/stateUtils.ts",
+      "packages/core/test/actions.test.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "04cad53e07da2beb37520fb3c9e165fbf7b5bf86"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fixed",
+        "issue",
+        "action",
+        "initial",
+        "transition",
+        "called",
+        "many",
+        "time",
+        "4356"
+      ],
+      "total_discussions": 3,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "initially",
+                "found",
+                "http",
+                "//github.com/statelyai/xstate/pull/4234/files",
+                "r1316044290"
+              ],
+              "author": "Andarist"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "latest",
+                "commit:2e0b8b5",
+                "change",
+                "pr",
+                "included",
+                "next",
+                "version",
+                "bump",
+                "sure",
+                "mean",
+                "click",
+                "learn",
+                "changesets",
+                "click",
+                "'re",
+                "maintainer",
+                "want",
+                "add",
+                "another",
+                "changeset",
+                "pr"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 3,
+          "comments": [
+            {
+              "content": [
+                "pull",
+                "request",
+                "automatically",
+                "built",
+                "testable",
+                "incodesandbox",
+                "see",
+                "build",
+                "info",
+                "built",
+                "library",
+                "clickhereor",
+                "icon",
+                "next",
+                "commit",
+                "sha",
+                "latest",
+                "deployment",
+                "branch",
+                "based",
+                "commit2e0b8b5"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

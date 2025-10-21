@@ -1,0 +1,267 @@
+{
+  "commit_index": "93fe640",
+  "commit_url": "https://github.com/fabricjs/fabric.js/commit/93fe640392ef0a2092f7662392852bf5a6467f61",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "group",
+      "ensure",
+      "abortable",
+      "signal",
+      "passed",
+      "object",
+      "9\u2026"
+    ],
+    "description": [],
+    "changed_files_count": 4,
+    "changed_files": [
+      "CHANGELOG.md",
+      "src/shapes/Group.spec.ts",
+      "src/shapes/Group.ts",
+      "src/shapes/Image.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "759ee7cd8383841ce72d73315aef9b80ef1c1892"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "group",
+        "ensure",
+        "abortable",
+        "signal",
+        "passed",
+        "object",
+        "9890"
+      ],
+      "total_discussions": 4,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "descriptionensure",
+                "group",
+                "fromobject",
+                "pas",
+                "abort",
+                "signal",
+                "contained",
+                "objectsclose",
+                "9871"
+              ],
+              "author": "asturur"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "open",
+                "branch",
+                "inweb",
+                "editor\u2022vs",
+                "code\u2022insiders"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 3,
+          "comments": [
+            {
+              "content": [
+                "build",
+                "stats"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 4,
+          "comments": [
+            {
+              "content": [
+                "coverage",
+                "mergingfromobject-abortintomasterwill"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "title": [
+        "bug",
+        "abort",
+        "signal",
+        "propagated",
+        "loadfromjson",
+        "object",
+        "group"
+      ],
+      "labels": [
+        "v6",
+        "bug"
+      ],
+      "comments": [
+        {
+          "author": "Sayene",
+          "content": [
+            "checklist",
+            "agree",
+            "follow",
+            "project",
+            "'s",
+            "code",
+            "conduct",
+            "read",
+            "followed",
+            "contributing",
+            "guide",
+            "read",
+            "followed",
+            "issue",
+            "tracker",
+            "guide",
+            "searched",
+            "referenced",
+            "existing",
+            "issue",
+            "discussion",
+            "filing",
+            "bug",
+            "report",
+            "managed",
+            "reproduce",
+            "bug",
+            "upgrading",
+            "latest",
+            "version",
+            "created",
+            "accurate",
+            "minimal",
+            "reproduction",
+            "version",
+            "6.0.0-beta20",
+            "environment",
+            "experiencing",
+            "problem",
+            "chrome",
+            "node",
+            "version",
+            "applicable",
+            "20.12.2",
+            "link",
+            "reproduction",
+            "http",
+            "//codesandbox.io/p/devbox/fabric-nextjs-sandbox-forked-g2w22y",
+            "file=",
+            "2fpages",
+            "2findex.tsx",
+            "step",
+            "reproduce",
+            "see",
+            "linked",
+            "reproduction",
+            "sandbox",
+            "general",
+            "step",
+            "2.1.",
+            "create",
+            "abortcontroller",
+            "2.2",
+            "load",
+            "canvas",
+            "json",
+            "passing",
+            "abort",
+            "signal",
+            "json",
+            "contain",
+            "object",
+            "eg",
+            "image",
+            "inside",
+            "group",
+            "2.3",
+            "aborting",
+            "controller",
+            "work",
+            "object",
+            "image",
+            "inside",
+            "group",
+            "signal",
+            "passed",
+            "object",
+            "image",
+            "fromobject",
+            "expected",
+            "behavior",
+            "signal",
+            "passed",
+            "object",
+            "image",
+            "group",
+            "actual",
+            "behavior",
+            "signal",
+            "passed",
+            "object",
+            "group",
+            "error",
+            "message",
+            "stack",
+            "trace",
+            "linked",
+            "reproduction",
+            "us",
+            "customimage",
+            "class",
+            "writing",
+            "signal",
+            "value",
+            "console",
+            "fromobject",
+            "method",
+            "image",
+            "added",
+            "directly",
+            "canvas",
+            "properly",
+            "set",
+            "image",
+            "added",
+            "group",
+            "undefined"
+          ]
+        },
+        {
+          "author": "asturur",
+          "content": [
+            "good",
+            "find",
+            "feel",
+            "like",
+            "open",
+            "pr",
+            "fix",
+            "otherwise",
+            "point",
+            "someone",
+            "sure"
+          ]
+        }
+      ]
+    }
+  ],
+  "security": null
+}

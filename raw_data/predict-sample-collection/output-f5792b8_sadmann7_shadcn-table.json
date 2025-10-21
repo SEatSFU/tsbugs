@@ -1,0 +1,24 @@
+{
+  "commit_index": "f5792b8",
+  "commit_url": "https://github.com/sadmann7/shadcn-table/commit/f5792b8f7d344f7a57290d6e710a6fefba4c57b8",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "deps",
+      "update",
+      "dependency",
+      "sonner",
+      "v1.4.3"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      "pnpm-lock.yaml"
+    ],
+    "changed_files_content": [],
+    "parent": "d928a16aa720bd6a094acba95de5b7d3e58a3fb2"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

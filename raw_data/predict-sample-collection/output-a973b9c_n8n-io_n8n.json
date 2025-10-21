@@ -1,0 +1,156 @@
+{
+  "commit_index": "a973b9c",
+  "commit_url": "https://github.com/n8n-io/n8n/commit/a973b9c077d28faa45b527cf6e0f0e6644cf354a",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "editor",
+      "hide",
+      "previous",
+      "execution",
+      "data",
+      "sub-nodes",
+      "debug"
+    ],
+    "description": [
+      "signed-off-by",
+      "oleg",
+      "ivaniv",
+      "olegivaniv.com"
+    ],
+    "changed_files_count": 2,
+    "changed_files": [
+      "packages/editor-ui/src/components/InputPanel.vue",
+      "packages/editor-ui/src/components/RunData.vue"
+    ],
+    "changed_files_content": [],
+    "parent": "4b01335aa45d93b0e4f2b7c69503430f1bcca28a"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "editor",
+        "hide",
+        "previous",
+        "execution",
+        "data",
+        "sub-nodes",
+        "debug",
+        "mode",
+        "execution",
+        "error",
+        "8710"
+      ],
+      "total_discussions": 4,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "summarycleanshot.2024-02-22.at.09.42.56.mp4this",
+                "pr",
+                "fix",
+                "issue",
+                "swapping",
+                "debugging",
+                "mapping",
+                "mode",
+                "sub-node",
+                "execution",
+                "error",
+                "incorrectly",
+                "kept",
+                "reference",
+                "tomappednode",
+                "debugging",
+                "mode",
+                "would",
+                "treat",
+                "current",
+                "node",
+                "show",
+                "error.review",
+                "merge",
+                "checklistpr",
+                "title",
+                "summary",
+                "descriptive.remember",
+                "title",
+                "automatically",
+                "go",
+                "changelog",
+                "use",
+                "no-changelog",
+                "otherwise",
+                "convention",
+                "doc",
+                "updatedor",
+                "follow-up",
+                "ticket",
+                "created.tests",
+                "included.a",
+                "bug",
+                "considered",
+                "fixed",
+                "unless",
+                "test",
+                "added",
+                "prevent",
+                "happening",
+                "again.a",
+                "feature",
+                "complete",
+                "without",
+                "test"
+              ],
+              "author": "OlegIvaniv"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "detail",
+                "viewoutputvideo",
+                "viewoutputvideo"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 3,
+          "comments": [
+            {
+              "content": [
+                "cypress",
+                "e2e",
+                "spec",
+                "passed"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 4,
+          "comments": [
+            {
+              "content": [
+                "got",
+                "released",
+                "withn8n",
+                "1.31.0"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

@@ -1,0 +1,25 @@
+{
+  "commit_index": "7a9e30b",
+  "commit_url": "https://github.com/ueberdosis/hocuspocus/commit/7a9e30be03c46af75481983d62214f2c265bae65",
+  "commit": {
+    "commit_message": [
+      "demo",
+      "fix",
+      "minor",
+      "issue"
+    ],
+    "description": [],
+    "changed_files_count": 4,
+    "changed_files": [
+      "demos/frontend/src/pages/Rooms.vue",
+      "packages/provider/src/HocuspocusProvider.ts",
+      "packages/provider/src/utils/awarenessStatesToArray.ts",
+      "packages/provider/src/utils/index.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "a281f6d15d39699cdd035a3d6bfc12e57084a506"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

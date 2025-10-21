@@ -1,0 +1,31 @@
+{
+  "commit_index": "c3fe530",
+  "commit_url": "https://github.com/nestjs/nest/commit/c3fe5309ecfdba456ba40adca5dade42182bcfb4",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "deps",
+      "update",
+      "graphql-tools",
+      "monorepo"
+    ],
+    "description": [],
+    "changed_files_count": 9,
+    "changed_files": [
+      "package-lock.json",
+      "package.json",
+      "sample/12-graphql-schema-first/package.json",
+      "sample/31-graphql-federation-code-first/gateway/package.json",
+      "sample/31-graphql-federation-code-first/posts-application/package.json",
+      "sample/31-graphql-federation-code-first/users-application/package.json",
+      "sample/32-graphql-federation-schema-first/gateway/package.json",
+      "sample/32-graphql-federation-schema-first/posts-application/package.json",
+      "sample/32-graphql-federation-schema-first/users-application/package.json"
+    ],
+    "changed_files_content": [],
+    "parent": "33227d765c1ce4fe616248b3233626c71d530432"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

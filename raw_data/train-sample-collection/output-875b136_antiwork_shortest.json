@@ -1,0 +1,44 @@
+{
+  "commit_index": "875b136",
+  "commit_url": "https://github.com/antiwork/shortest/commit/875b1364d5856f261f7c4ab1b29fd8138305cadb",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "user",
+      "add",
+      "postgres",
+      "user",
+      "creation",
+      "database",
+      "needed"
+    ],
+    "description": [
+      "add",
+      "back",
+      "removed",
+      "token",
+      "saved",
+      "user",
+      "created",
+      "postgres",
+      "time",
+      "one",
+      "requested",
+      "alternatively",
+      "could",
+      "use",
+      "clerk",
+      "webhooks",
+      "work"
+    ],
+    "changed_files_count": 1,
+    "changed_files": [
+      "lib/db/queries.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "25f76078e4a4ee4da6f2199028db63893985c118"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

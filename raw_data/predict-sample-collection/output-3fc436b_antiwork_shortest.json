@@ -1,0 +1,150 @@
+{
+  "commit_index": "3fc436b",
+  "commit_url": "https://github.com/antiwork/shortest/commit/3fc436b52e206c77d06fbb32a3b2d68b95de27a5",
+  "commit": {
+    "commit_message": [
+      "bug",
+      "fix",
+      "page",
+      "action",
+      "117"
+    ],
+    "description": [
+      "error",
+      "came",
+      "iffy",
+      "image",
+      "http",
+      "//github.com/user-attachments/assets/25c1ee5f-0be5-43b1-8ca0-5efba4a20e00",
+      "change",
+      "fixed",
+      "page",
+      "page",
+      "action",
+      "add",
+      "new",
+      "test",
+      "script",
+      "keyboard",
+      "shortcut",
+      "bump",
+      "version",
+      "update",
+      "changelogs"
+    ],
+    "changed_files_count": 4,
+    "changed_files": [
+      "packages/shortest/CHANGELOG.md",
+      "packages/shortest/package.json",
+      "packages/shortest/src/browser/actions/index.ts",
+      "packages/shortest/tests/test-keyboard.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "6f41400c78d635ff18b81b1e9f2fb215e8d7f754"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "bug",
+        "fix",
+        "page",
+        "action",
+        "117"
+      ],
+      "total_discussions": 5,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "error",
+                "came",
+                "iffy",
+                "changesfixed",
+                "page",
+                "page",
+                "actionadd",
+                "new",
+                "test",
+                "script",
+                "keyboard",
+                "shortcutsbump",
+                "version",
+                "update",
+                "changelogs"
+              ],
+              "author": "m2rads"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "committers",
+                "signed",
+                "cla"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 3,
+          "comments": [
+            {
+              "content": [
+                "shortest",
+                "workflow",
+                "fails",
+                "missing",
+                "anthropic",
+                "api",
+                "key",
+                "unfortunately",
+                "n't",
+                "permission",
+                "access",
+                "secret",
+                "github",
+                "repo",
+                "possible",
+                "could",
+                "please",
+                "add",
+                "whenever",
+                "slavingia"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 4,
+          "comments": [
+            {
+              "content": [
+                "'ve",
+                "added",
+                "anthropic_api_key",
+                "repository",
+                "secret"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 5,
+          "comments": [
+            {
+              "content": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

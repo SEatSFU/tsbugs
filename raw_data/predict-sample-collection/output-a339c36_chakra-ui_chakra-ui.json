@@ -1,0 +1,21 @@
+{
+  "commit_index": "a339c36",
+  "commit_url": "https://github.com/chakra-ui/chakra-ui/commit/a339c3622a3c9b2953704602723b1832c6ff2749",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "t",
+      "error"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      "tooling/cra-template-typescript/template/src/index.tsx"
+    ],
+    "changed_files_content": [],
+    "parent": "15f6143588fb2620e729f3a01f69a5a604fb90ce"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

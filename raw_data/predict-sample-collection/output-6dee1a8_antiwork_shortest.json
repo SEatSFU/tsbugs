@@ -1,0 +1,22 @@
+{
+  "commit_index": "6dee1a8",
+  "commit_url": "https://github.com/antiwork/shortest/commit/6dee1a8d36fa4066a363e1aa7989eb0999e50514",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "pnpm",
+      "version",
+      "mismatch"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      ".github/workflows/publish.yml"
+    ],
+    "changed_files_content": [],
+    "parent": "a10305bc552d2758b7dd13b673816f5f237037c7"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

@@ -1,0 +1,65 @@
+{
+  "commit_index": "9652a22",
+  "commit_url": "https://github.com/antiwork/shortest/commit/9652a22474b94764e5441eca943e87c01eec4c28",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "expose",
+      "runner",
+      "error",
+      "336"
+    ],
+    "description": [
+      "change",
+      "error",
+      "supressed",
+      "rendered",
+      "main",
+      "logger",
+      "us",
+      "default"
+    ],
+    "changed_files_count": 3,
+    "changed_files": [
+      "packages/shortest/package.json",
+      "packages/shortest/src/cli/bin.ts",
+      "packages/shortest/src/utils/config.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "9f0c8affb2a3869f4f98eebd8f529ca3650a2006"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "expose",
+        "runner",
+        "error",
+        "336"
+      ],
+      "total_discussions": 1,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "change",
+                "error",
+                "supressed",
+                "rendered",
+                "main",
+                "logger",
+                "default"
+              ],
+              "author": "rmarescu"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

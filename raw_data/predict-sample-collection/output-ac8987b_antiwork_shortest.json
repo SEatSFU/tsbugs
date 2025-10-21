@@ -1,0 +1,26 @@
+{
+  "commit_index": "ac8987b",
+  "commit_url": "https://github.com/antiwork/shortest/commit/ac8987b6af4bc509183350d490b5affb6d6a7501",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "update",
+      "test",
+      "runner",
+      "script",
+      "new",
+      "execution",
+      "flow"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      "packages/shortest/scripts/test-ai.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "6d09bfb09dd8ac427e9b4e7aab4594ca655cdea1"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

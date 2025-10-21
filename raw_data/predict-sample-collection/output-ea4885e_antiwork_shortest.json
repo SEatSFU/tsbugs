@@ -1,0 +1,20 @@
+{
+  "commit_index": "ea4885e",
+  "commit_url": "https://github.com/antiwork/shortest/commit/ea4885e98ad429056a7d66296d8f6a02076d284b",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "conflict"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      "app/__tests__/login.test.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "5b4c1e69f017e217dde352a25485aa8197a231f1"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

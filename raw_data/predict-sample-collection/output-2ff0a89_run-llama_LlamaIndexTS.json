@@ -1,0 +1,136 @@
+{
+  "commit_index": "2ff0a89",
+  "commit_url": "https://github.com/run-llama/LlamaIndexTS/commit/2ff0a8989151db4915c687ce3361c2a05d689212",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "expose",
+      "llamaindex/node-parser",
+      "1426"
+    ],
+    "description": [],
+    "changed_files_count": 28,
+    "changed_files": [
+      ".changeset/nice-dolphins-count.md",
+      "apps/next/next.config.mjs",
+      "apps/next/package.json",
+      "apps/next/public/tree-sitter-typescript.wasm",
+      "apps/next/public/tree-sitter.wasm",
+      "apps/next/src/app/(home)/page.tsx",
+      "apps/next/src/app/[...any]/page.tsx",
+      "apps/next/src/app/docs/layout.tsx",
+      "apps/next/src/app/layout.config.tsx",
+      "apps/next/src/app/layout.tsx",
+      "apps/next/src/components/demo/code-node-parser.tsx",
+      "apps/next/src/components/demo/workflow-streaming-ui.tsx",
+      "apps/next/src/components/ui/badge.tsx",
+      "apps/next/src/components/ui/label.tsx",
+      "apps/next/src/components/ui/slider.tsx",
+      "apps/next/src/content/docs/llamaindex/index.mdx",
+      "apps/next/src/content/docs/llamaindex/loading/node-parser.mdx",
+      "apps/next/src/lib/const.ts",
+      "apps/next/types/cache-life.d.ts",
+      "apps/next/types/package.json",
+      "packages/llamaindex/package.json",
+      "packages/llamaindex/src/index.edge.ts",
+      "packages/llamaindex/src/node-parser.ts",
+      "packages/llamaindex/src/nodeParsers/index.ts",
+      "packages/llamaindex/tests/MetadataExtractors.test.ts",
+      "packages/llamaindex/tests/ingestion/IngestionCache.test.ts",
+      "packages/node-parser/src/code/index.ts",
+      "pnpm-lock.yaml"
+    ],
+    "changed_files_content": [],
+    "parent": "d57917d7828424afa498c1a92134a1773bfab0f1"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "expose",
+        "llamaindex/node-parser",
+        "1426"
+      ],
+      "total_discussions": 4,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "description",
+                "provided"
+              ],
+              "author": "himself65"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "himself65is",
+                "attempting",
+                "deploy",
+                "commit",
+                "thellamaindexteam",
+                "onvercel",
+                "member",
+                "team",
+                "first",
+                "need",
+                "toauthorize"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 3,
+          "comments": [
+            {
+              "content": [
+                "open",
+                "stackblitz",
+                "commit:6e5cca3"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 4,
+          "comments": [
+            {
+              "content": [
+                "latest",
+                "commit:6e5cca3",
+                "change",
+                "pr",
+                "included",
+                "next",
+                "version",
+                "bump",
+                "sure",
+                "mean",
+                "click",
+                "learn",
+                "changesets",
+                "click",
+                "'re",
+                "maintainer",
+                "want",
+                "add",
+                "another",
+                "changeset",
+                "pr"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

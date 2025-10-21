@@ -1,0 +1,189 @@
+{
+  "commit_index": "4e5c0ad",
+  "commit_url": "https://github.com/puppeteer/puppeteer/commit/4e5c0ad1c770d6bd1785325cdf5c0a63f285e5c2",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "remove",
+      "event",
+      "listener",
+      "abortsignal",
+      "waittask",
+      "13257"
+    ],
+    "description": [],
+    "changed_files_count": 2,
+    "changed_files": [
+      "packages/puppeteer-core/src/common/WaitTask.ts",
+      "test/src/waittask.spec.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "bcc4304582dec2a4f983054b2aa52e1ea77ebd42"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "remove",
+        "event",
+        "listener",
+        "abortsignal",
+        "waittask",
+        "13257"
+      ],
+      "total_discussions": 1,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "close",
+                "13256"
+              ],
+              "author": "OrKoN"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "title": [
+        "bug",
+        "abort",
+        "signal",
+        "waittask",
+        "cause",
+        "memory",
+        "leak"
+      ],
+      "labels": [
+        "P3",
+        "confirmed",
+        "bug"
+      ],
+      "comments": [
+        {
+          "author": "Mamoru1234",
+          "content": [
+            "minimal",
+            "reproducible",
+            "example",
+            "import",
+            "launch",
+            "'puppeteer",
+            "async",
+            "function",
+            "main",
+            "promise",
+            "void",
+            "const",
+            "browser",
+            "await",
+            "launch",
+            "headless",
+            "true",
+            "defaultviewport",
+            "null",
+            "args",
+            "--",
+            "window-size=1920,1080",
+            "const",
+            "page",
+            "await",
+            "browser",
+            "page",
+            "await",
+            "page",
+            "goto",
+            "'http",
+            "//localhost:5173/",
+            "const",
+            "abortcontroler",
+            "new",
+            "abortcontroller",
+            "let",
+            "0",
+            "20",
+            "++",
+            "//",
+            "im",
+            "using",
+            "vite",
+            "starter",
+            "app",
+            "actuallly",
+            "locator",
+            "could",
+            "used",
+            "await",
+            "page",
+            "locator",
+            "root",
+            "wait",
+            "signal",
+            "abortcontroler",
+            "signal",
+            "await",
+            "browser",
+            "close",
+            "main",
+            "catch",
+            "e",
+            "console",
+            "log",
+            "'error",
+            "main",
+            "e",
+            "background",
+            "code",
+            "add",
+            "listener",
+            "place",
+            "clean-up",
+            "expectation",
+            "expect",
+            "wait",
+            "task",
+            "remove",
+            "event",
+            "handler",
+            "terminate",
+            "similar",
+            "timeout",
+            "reality",
+            "handler",
+            "kept",
+            "abort",
+            "signal",
+            "puppeteer",
+            "configuration",
+            "file",
+            "used",
+            "response",
+            "puppeteer",
+            "version",
+            "23.6.0",
+            "node",
+            "version",
+            "20.3.1",
+            "package",
+            "manager",
+            "npm",
+            "package",
+            "manager",
+            "version",
+            "9.6.7",
+            "operating",
+            "system",
+            "linux"
+          ]
+        }
+      ]
+    }
+  ],
+  "security": null
+}

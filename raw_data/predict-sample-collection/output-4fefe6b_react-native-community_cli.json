@@ -1,0 +1,494 @@
+{
+  "commit_index": "4fefe6b",
+  "commit_url": "https://github.com/react-native-community/cli/commit/4fefe6b0e661cae1217267ed939c8967bf7c913a",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "add",
+      "cocoapods",
+      "requirement",
+      "867"
+    ],
+    "description": [
+      "add",
+      "cocoapods",
+      "requirement",
+      "file",
+      "using",
+      "pod",
+      "cocoapods",
+      "imported",
+      "install",
+      "cocoapods",
+      "prior",
+      "testing",
+      "drop",
+      "mocking",
+      "cocoapods",
+      "update",
+      "test",
+      "last",
+      "change"
+    ],
+    "changed_files_count": 2,
+    "changed_files": [
+      ".circleci/config.yml",
+      "packages/platform-ios/native_modules.rb"
+    ],
+    "changed_files_content": [],
+    "parent": "e2be8a905285d9b37512fc78c9755b9635ecf805"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "add",
+        "cocoapods",
+        "requirement",
+        "867"
+      ],
+      "total_discussions": 15,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "file",
+                "usingpod",
+                "cocoapods",
+                "imported.summary",
+                "pr",
+                "might",
+                "solve",
+                "issue",
+                "cocoapods/core",
+                "601"
+              ],
+              "author": "thymikee"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "alloy",
+                "ortacan",
+                "advise"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 3,
+          "comments": [
+            {
+              "content": [
+                "think",
+                "fine",
+                "normally",
+                "running",
+                "forpod",
+                "installcocoapods",
+                "included",
+                "runtime",
+                "point",
+                "'re",
+                "calling",
+                "code",
+                "another",
+                "way",
+                "'s",
+                "possible",
+                "set",
+                "get",
+                "ci",
+                "green",
+                "think",
+                "need",
+                "agem",
+                "install",
+                "cocoapodsbefore",
+                "running",
+                "test"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 4,
+          "comments": [
+            {
+              "content": [
+                "'m",
+                "sure",
+                "circleci",
+                "config",
+                "add",
+                "another",
+                "step",
+                "install",
+                "dependency"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 5,
+          "comments": [
+            {
+              "content": [
+                "hrm",
+                "failing",
+                "test",
+                "look",
+                "pretty",
+                "worrying",
+                "unsure",
+                "'s",
+                "going",
+                "though",
+                "n't",
+                "feel",
+                "like",
+                "affected",
+                "change"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 6,
+          "comments": [
+            {
+              "content": [
+                "noticed",
+                "test",
+                "failing",
+                "long",
+                "time",
+                "already",
+                "http",
+                "//github.com/react-native-community/cli/commits/master"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 7,
+          "comments": [
+            {
+              "content": [
+                "require",
+                "previously",
+                "keep",
+                "test",
+                "suite",
+                "light-weight",
+                "however",
+                "probably",
+                "better",
+                "mock",
+                "actually",
+                "require",
+                "env"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 8,
+          "comments": [
+            {
+              "content": [
+                "'ve",
+                "dropped",
+                "mocking",
+                "cocoapods",
+                "need",
+                "test",
+                "failing",
+                "error",
+                "n't",
+                "related",
+                "change",
+                "branch"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 9,
+          "comments": [
+            {
+              "content": [
+                "something",
+                "else"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 10,
+          "comments": [
+            {
+              "content": [
+                "yeah",
+                "update",
+                "test",
+                "probably",
+                "using",
+                "real",
+                "activesupportto_sentenceimplementation"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 11,
+          "comments": [
+            {
+              "content": [
+                "done"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 12,
+          "comments": [
+            {
+              "content": [
+                "nice",
+                "look",
+                "good",
+                "one",
+                "thing",
+                "failing",
+                "ci",
+                "true",
+                "failing",
+                "previously",
+                "well",
+                "forthe",
+                "last",
+                "committhe",
+                "result",
+                "whereas",
+                "forthis",
+                "prthe",
+                "result",
+                "look",
+                "like",
+                "may",
+                "additional",
+                "regression"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 13,
+          "comments": [
+            {
+              "content": [
+                "think",
+                "flakiness",
+                "test",
+                "could",
+                "check",
+                "last",
+                "previous",
+                "one",
+                "2",
+                "failed",
+                "test",
+                "http",
+                "//github.com/react-native-community/cli/runs/305041507"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 14,
+          "comments": [
+            {
+              "content": [
+                "gotcha",
+                "work",
+                "thymikeewhat",
+                "process",
+                "repo",
+                "squash",
+                "merge",
+                "addfixto",
+                "commit",
+                "message",
+                "cut",
+                "patch",
+                "release"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 15,
+          "comments": [
+            {
+              "content": [
+                "n't",
+                "automated",
+                "release",
+                "yet",
+                "'ll",
+                "edit",
+                "message",
+                "merge"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "title": [
+        "error",
+        "parsing",
+        "podfile",
+        "referencing",
+        "script",
+        "using",
+        "pod",
+        ":ui"
+      ],
+      "labels": [
+        "s1:awaiting input"
+      ],
+      "comments": [
+        {
+          "author": "adamkirkton",
+          "content": [
+            "react",
+            "native",
+            "includes",
+            "script",
+            "podfile",
+            "auto",
+            "import",
+            "work",
+            "script",
+            "us",
+            "pod",
+            ":ui",
+            "module",
+            "alert",
+            "user",
+            "issue",
+            "pod",
+            ":podfile.from_file",
+            "fails",
+            "parse",
+            "podfile",
+            "referencing",
+            "script",
+            "error",
+            "thrown",
+            "uninitialized",
+            "constant",
+            "pod",
+            ":ui",
+            "nameerror",
+            "ran",
+            "pod",
+            ":podfile.from_file",
+            "script",
+            "using",
+            "bundle",
+            "exec",
+            "gemfile",
+            "cocoapods-core",
+            "also",
+            "tried",
+            "cocoapods",
+            "case",
+            "extra",
+            "gem",
+            "missing",
+            "error",
+            "'ve",
+            "attached",
+            "relevant",
+            "file",
+            "zip",
+            "download",
+            "file",
+            "run",
+            "bundle",
+            "install",
+            "bundle",
+            "exec",
+            "ruby",
+            "script.rb",
+            "able",
+            "see",
+            "error",
+            "podfile-test.zip"
+          ]
+        },
+        {
+          "author": "segiddins",
+          "content": [
+            "require",
+            "'cocoapods",
+            "try",
+            "use",
+            "code",
+            "cocoapods"
+          ]
+        },
+        {
+          "author": "dnkoutso",
+          "content": [
+            "adamkirkton",
+            "gray-wind",
+            "http",
+            "//github.com/react-native-community/cli/pull/867",
+            "correct",
+            "fix",
+            "issue",
+            "closed"
+          ]
+        },
+        {
+          "author": "Gray-Wind",
+          "content": [
+            "version",
+            "change",
+            "n't",
+            "released",
+            "yet"
+          ]
+        },
+        {
+          "author": "alloy",
+          "content": [
+            "regardless",
+            "sake",
+            "keeping",
+            "thing",
+            "tidy",
+            "think",
+            "fine",
+            "close"
+          ]
+        }
+      ]
+    }
+  ],
+  "security": null
+}

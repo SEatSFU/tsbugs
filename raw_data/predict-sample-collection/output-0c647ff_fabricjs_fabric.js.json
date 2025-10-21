@@ -1,0 +1,211 @@
+{
+  "commit_index": "0c647ff",
+  "commit_url": "https://github.com/fabricjs/fabric.js/commit/0c647ff853773509d4d26d0ced76cbcc730fe88c",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "staticcanvas",
+      "fully",
+      "clean",
+      "cache",
+      "canvas",
+      "avoid",
+      "leaving",
+      "trai\u2026"
+    ],
+    "description": [],
+    "changed_files_count": 7,
+    "changed_files": [
+      ".codesandbox/templates/vanilla/src/index.ts",
+      ".codesandbox/templates/vanilla/src/testcases/clearCache.ts",
+      ".codesandbox/templates/vanilla/src/testcases/nestedSelections.ts",
+      ".codesandbox/templates/vanilla/src/testcases/polygons.ts",
+      "CHANGELOG.md",
+      "src/shapes/Object/Object.ts",
+      "test/unit/object.js"
+    ],
+    "changed_files_content": [],
+    "parent": "481cfd869ee21c13870ed7255870f2b208595a7b"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "staticcanvas",
+        "fully",
+        "clean",
+        "cache",
+        "canvas",
+        "avoid",
+        "leaving",
+        "trailing",
+        "pixel",
+        "9779"
+      ],
+      "total_discussions": 4,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "descriptionthis",
+                "pr",
+                "change",
+                "code",
+                "clean",
+                "cache",
+                "canvas",
+                "one",
+                "frame",
+                "another",
+                "need",
+                "fully",
+                "wipe",
+                "canvas",
+                "element.fabric",
+                "relies",
+                "knowledge",
+                "large",
+                "drawing",
+                "much",
+                "zoomed",
+                "clean",
+                "canvas",
+                "correctly.when",
+                "loose",
+                "understanding",
+                "size",
+                "element",
+                "case",
+                "strange",
+                "stroke",
+                "acute",
+                "angle",
+                "n't",
+                "clean",
+                "good",
+                "enough.this",
+                "code",
+                "simplify",
+                "cleaning",
+                "procedure",
+                "simply",
+                "full",
+                "canvas",
+                "wipe",
+                "non",
+                "transformed",
+                "state.it",
+                "also",
+                "deletes",
+                "cachewidth",
+                "cacheheight",
+                "seems",
+                "like",
+                "around",
+                "exact",
+                "purpose",
+                "nothing",
+                "else.this",
+                "bug",
+                "n't",
+                "really",
+                "common",
+                "modifypoly",
+                "control",
+                "nested",
+                "selection",
+                "became",
+                "common.it",
+                "also",
+                "easy",
+                "fix",
+                "reduces",
+                "code",
+                "instead",
+                "adding",
+                "probably",
+                "win/winin",
+                "master",
+                "branch",
+                "see",
+                "picture",
+                "triangle",
+                "still",
+                "bleed",
+                "wo",
+                "n't",
+                "leave",
+                "trail",
+                "moved.does",
+                "perform",
+                "differently",
+                "'m",
+                "sure",
+                "trigger",
+                "measure",
+                "properly.this",
+                "change",
+                "trigger",
+                "invalidate",
+                "cache",
+                "n't",
+                "rebuild",
+                "canvas.so",
+                "probably",
+                "build",
+                "specific",
+                "use",
+                "case",
+                "surein",
+                "branch",
+                "action"
+              ],
+              "author": "asturur"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "open",
+                "branch",
+                "inweb",
+                "editor\u2022vs",
+                "code\u2022insiders"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 3,
+          "comments": [
+            {
+              "content": [
+                "build",
+                "stats"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 4,
+          "comments": [
+            {
+              "content": [
+                "coverage",
+                "mergingremove-the-dirty-pixels-cacheintomasterwill"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

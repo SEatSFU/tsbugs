@@ -1,0 +1,228 @@
+{
+  "commit_index": "ca171ae",
+  "commit_url": "https://github.com/fabricjs/fabric.js/commit/ca171ae194d307700d98d4447f29804ee37e920b",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "polyline",
+      "safeguard",
+      "point",
+      "arg",
+      "option",
+      "9855"
+    ],
+    "description": [],
+    "changed_files_count": 3,
+    "changed_files": [
+      "CHANGELOG.md",
+      "src/shapes/Polyline.spec.ts",
+      "src/shapes/Polyline.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "a504fd9aaa56573766a0c405aeba09e8606af505"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "polyline",
+        "safeguard",
+        "point",
+        "arg",
+        "option",
+        "9855"
+      ],
+      "total_discussions": 9,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "descriptionpassing",
+                "following",
+                "result",
+                "points2",
+                "set",
+                "polyline",
+                "pointsnew",
+                "polyline",
+                "points1",
+                "point",
+                "points2",
+                "pr",
+                "fix",
+                "add",
+                "test",
+                "itcloses",
+                "8296in",
+                "action"
+              ],
+              "author": "ShaMan123"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "open",
+                "branch",
+                "inweb",
+                "editor\u2022vs",
+                "code\u2022insiders"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 3,
+          "comments": [
+            {
+              "content": [
+                "build",
+                "stats"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 4,
+          "comments": [
+            {
+              "content": [
+                "coverage",
+                "mergingfix/polyline-initintomasterwill"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 5,
+          "comments": [
+            {
+              "content": [
+                "n't",
+                "'fromobject",
+                "already",
+                "safely",
+                "get",
+                "bug"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 6,
+          "comments": [
+            {
+              "content": [
+                "fun",
+                "v"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 7,
+          "comments": [
+            {
+              "content": [
+                "would",
+                "think",
+                "safeguarding",
+                "u",
+                "class",
+                "course",
+                "n't",
+                "care",
+                "safeguard",
+                "twice",
+                "could",
+                "also",
+                "safeguarded",
+                "typing",
+                "saying",
+                "prop",
+                "never",
+                "'points",
+                "done",
+                "also",
+                "class",
+                "probably",
+                "like",
+                "text",
+                "path"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 8,
+          "comments": [
+            {
+              "content": [
+                "safeguard",
+                "fromobject",
+                "cause",
+                "original",
+                "issue",
+                "want",
+                "resolve",
+                "still",
+                "dev",
+                "callsnew",
+                "polylineit",
+                "safeguarded",
+                "expected",
+                "think",
+                "want",
+                "avoid",
+                "object",
+                "spread",
+                "say",
+                "try",
+                "avoid"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 9,
+          "comments": [
+            {
+              "content": [
+                "n't",
+                "want",
+                "avoid",
+                "spread",
+                "general.spread",
+                "loop",
+                "basically",
+                "belong",
+                "hot",
+                "code",
+                "imho",
+                "apart",
+                "particular",
+                "case",
+                "swap",
+                "position",
+                "seem",
+                "logic",
+                "would",
+                "protect",
+                "typing",
+                "code"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

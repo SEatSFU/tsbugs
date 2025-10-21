@@ -1,0 +1,122 @@
+{
+  "commit_index": "ffc087a",
+  "commit_url": "https://github.com/chakra-ui/chakra-ui/commit/ffc087acdf82cce955200f74a4cbfacc401b090b",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "drawer",
+      "close",
+      "animation",
+      "10064"
+    ],
+    "description": [],
+    "changed_files_count": 2,
+    "changed_files": [
+      ".changeset/sweet-impalas-return.md",
+      "packages/react/src/theme/recipes/drawer.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "6378b9aed6594547ba16f8abf62f483e0813107c"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "drawer",
+        "close",
+        "animation",
+        "10064"
+      ],
+      "total_discussions": 2,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "descriptionfix",
+                "drawer",
+                "close",
+                "animation",
+                "rtl",
+                "page",
+                "placement",
+                "end\u26f3\ufe0f",
+                "current",
+                "behavior",
+                "update",
+                "currently",
+                "rtl",
+                "page",
+                "placement",
+                "set",
+                "toend",
+                "default",
+                "close",
+                "animation",
+                "incorrect",
+                "drawer",
+                "appears",
+                "left",
+                "side",
+                "\u2019",
+                "move",
+                "left",
+                "side",
+                "closed.\ud83d\ude80",
+                "new",
+                "behaviorthis",
+                "pr",
+                "fix",
+                "animation",
+                "name",
+                "said",
+                "conditions.\ud83d\udca3",
+                "breaking",
+                "change",
+                "yes/no",
+                "no\ud83d\udcdd",
+                "additional",
+                "information"
+              ],
+              "author": "segunadebayo"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "latest",
+                "commit:10d0a8e",
+                "change",
+                "pr",
+                "included",
+                "next",
+                "version",
+                "bump",
+                "sure",
+                "mean",
+                "click",
+                "learn",
+                "changesets",
+                "click",
+                "'re",
+                "maintainer",
+                "want",
+                "add",
+                "another",
+                "changeset",
+                "pr"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

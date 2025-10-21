@@ -1,0 +1,93 @@
+{
+  "commit_index": "04dd30d",
+  "commit_url": "https://github.com/react-native-community/cli/commit/04dd30df47562589980ee139b304b54f0cee2fae",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "correctly",
+      "resolve",
+      "cli",
+      "path",
+      "directory",
+      "containing",
+      "space",
+      "969"
+    ],
+    "description": [
+      "fix",
+      "android",
+      "correctly",
+      "resolve",
+      "cli",
+      "path",
+      "project",
+      "containing",
+      "space",
+      "fix",
+      "io"
+    ],
+    "changed_files_count": 2,
+    "changed_files": [
+      "packages/platform-android/native_modules.gradle",
+      "packages/platform-ios/native_modules.rb"
+    ],
+    "changed_files_content": [],
+    "parent": "9ad9b679ee98ea17b4694b9467543472a7fb9d2e"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "correctly",
+        "resolve",
+        "cli",
+        "path",
+        "directory",
+        "containing",
+        "space",
+        "969"
+      ],
+      "total_discussions": 1,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "summary",
+                "string",
+                "version",
+                "ofruntime.execon",
+                "android",
+                "andio.popendo",
+                "n't",
+                "escape",
+                "space",
+                "resulting",
+                "failing",
+                "resolve",
+                "correct",
+                "cli",
+                "path",
+                "directory",
+                "containing",
+                "space",
+                "using",
+                "array",
+                "version",
+                "instead",
+                "fix",
+                "issue",
+                "platform"
+              ],
+              "author": "grabbou"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

@@ -1,0 +1,24 @@
+{
+  "commit_index": "d5c6d98",
+  "commit_url": "https://github.com/chakra-ui/chakra-ui/commit/d5c6d988cc60998f134c908abefa78478ffccfc5",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "group",
+      "skip",
+      "invalid",
+      "child"
+    ],
+    "description": [],
+    "changed_files_count": 2,
+    "changed_files": [
+      ".changeset/warm-spiders-do.md",
+      "packages/react/src/components/group/group.tsx"
+    ],
+    "changed_files_content": [],
+    "parent": "639e0791224dea67e42093dd7a1a6d390fc5ba6e"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

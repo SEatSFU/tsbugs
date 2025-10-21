@@ -1,0 +1,28 @@
+{
+  "commit_index": "7854ceb",
+  "commit_url": "https://github.com/nestjs/nest/commit/7854ceb1dbfbd29260a4386f5c130f038601df71",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "deps",
+      "update",
+      "dependency",
+      "dotenv",
+      "v16.4.5"
+    ],
+    "description": [],
+    "changed_files_count": 5,
+    "changed_files": [
+      "sample/25-dynamic-modules/package-lock.json",
+      "sample/25-dynamic-modules/package.json",
+      "sample/26-queues/package-lock.json",
+      "sample/26-queues/package.json",
+      "sample/27-scheduling/package.json"
+    ],
+    "changed_files_content": [],
+    "parent": "38ab78272fdae6f0e4afba20d53727c4a8429b47"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

@@ -1,0 +1,386 @@
+{
+  "commit_index": "8528972",
+  "commit_url": "https://github.com/testing-library/user-event/commit/852897257744b18eca56edc9dc171e626a6d9823",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "event",
+      "assign",
+      "pointer",
+      "coords",
+      "mouseevent",
+      "1039"
+    ],
+    "description": [],
+    "changed_files_count": 2,
+    "changed_files": [
+      "src/event/createEvent.ts",
+      "tests/pointer/move.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "7b11b0e88a4bf8a3366caa70888028bf4bff59ec"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "event",
+        "assign",
+        "pointer",
+        "coords",
+        "mouseevent",
+        "1039"
+      ],
+      "total_discussions": 7,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "assign",
+                "missing",
+                "pointer",
+                "coords.why",
+                "close",
+                "1037checklist",
+                "testsready",
+                "merged"
+              ],
+              "author": "ph-fritsche"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "pull",
+                "request",
+                "automatically",
+                "built",
+                "testable",
+                "incodesandbox",
+                "see",
+                "build",
+                "info",
+                "built",
+                "library",
+                "clickhereor",
+                "icon",
+                "next",
+                "commit",
+                "sha",
+                "latest",
+                "deployment",
+                "branch",
+                "based",
+                "commit8c6f68e"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 3,
+          "comments": [
+            {
+              "content": [
+                "merging",
+                "1039",
+                "d5a2f34",
+                "intomain",
+                "1aa2027",
+                "willnot",
+                "changecoverage.the",
+                "diff",
+                "coverage",
+                "isn/a",
+                "building",
+                "smart",
+                "automated",
+                "test",
+                "selection",
+                "slash",
+                "ci/cd",
+                "build",
+                "times.learn"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 4,
+          "comments": [
+            {
+              "content": [
+                "note",
+                "fix",
+                "may",
+                "break",
+                "future",
+                "jsdom",
+                "version",
+                "jestjs/jest",
+                "13825",
+                "comment"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 5,
+          "comments": [
+            {
+              "content": [
+                "liamcmitchell-scthe",
+                "property",
+                "assigned",
+                "getter",
+                "perobject.defineproperty"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 6,
+          "comments": [
+            {
+              "content": [
+                "ph-fritscheah",
+                "n't",
+                "get",
+                "deep"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 7,
+          "comments": [
+            {
+              "content": [
+                "pr",
+                "included",
+                "version",
+                "14.6.0",
+                "release",
+                "available",
+                "yoursemantic-releasebot"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "title": [
+        "14.4",
+        "pagex",
+        "pagey",
+        "coords",
+        "passed",
+        "mouseevent",
+        "pointer",
+        "call"
+      ],
+      "labels": [
+        "bug",
+        "released"
+      ],
+      "comments": [
+        {
+          "author": "sf-kialo",
+          "content": [
+            "reproduction",
+            "example",
+            "http",
+            "//codesandbox.io/s/heuristic-lake-3rk90q",
+            "file=/src/app.js",
+            "prerequisite",
+            "set",
+            "page",
+            "listens",
+            "mouseevent",
+            "log",
+            "pagex",
+            "pagey",
+            "property",
+            "event",
+            "specified",
+            "doc",
+            "simulate",
+            "user.pointer",
+            "event",
+            "additional",
+            "pagex",
+            "pagey",
+            "coords",
+            "passed",
+            "like",
+            "await",
+            "user.pointer",
+            "target",
+            "anytarget",
+            "coords",
+            "pagex",
+            "100",
+            "pagey",
+            "100",
+            "expect",
+            "log",
+            "contain",
+            "previously",
+            "defined",
+            "value",
+            "pagex",
+            "pagey",
+            "expected",
+            "behavior",
+            "property",
+            "properly",
+            "passed",
+            "mouse",
+            "event",
+            "get",
+            "logged",
+            "correctly",
+            "work",
+            "correctly",
+            "14.3",
+            "actual",
+            "behavior",
+            "value",
+            "property",
+            "undefined",
+            "broken",
+            "14.4.0",
+            "user-event",
+            "version",
+            "14.4.3",
+            "environment",
+            "see",
+            "sandbox",
+            "additional",
+            "context",
+            "assignprops",
+            "changed",
+            "commit",
+            "two",
+            "property",
+            "omitted"
+          ]
+        },
+        {
+          "author": "liamcmitchell-sc",
+          "content": [
+            "note",
+            "jsdom",
+            "22",
+            "pagex/y/offsetx/y",
+            "alias",
+            "clientx/y",
+            "layout",
+            "support",
+            "added",
+            "http",
+            "//github.com/jsdom/jsdom/blob/a39e0ec4ce9a8806692d986a7ed0cd565ec7498a/lib/jsdom/living/events/mouseevent-impl.js",
+            "l16-l31",
+            "workaround",
+            "j",
+            "object.defineproperties",
+            "mouseevent.prototype",
+            "pagex",
+            "get",
+            "return",
+            "this.clientx",
+            "pagey",
+            "get",
+            "return",
+            "this.clienty",
+            "use",
+            "x",
+            "pointer",
+            "action",
+            "j",
+            "await",
+            "user.pointer",
+            "coords",
+            "x",
+            "100",
+            "100",
+            "using",
+            "x/y",
+            "instead",
+            "clientx/clienty",
+            "http",
+            "//github.com/testing-library/user-event/issues/1139"
+          ]
+        },
+        {
+          "author": "su-kialo",
+          "content": [
+            "still",
+            "broken",
+            "14.5.1",
+            "fact",
+            "'s",
+            "even",
+            "broken",
+            "default",
+            "state",
+            "undefined",
+            "instead",
+            "0",
+            "due",
+            "change",
+            "made",
+            "following",
+            "commit",
+            "pagex",
+            "pagey",
+            "longer",
+            "initialised",
+            "http",
+            "//github.com/testing-library/user-event/commit/2852509f8e4d5ca28ec494cc85dc4020b0e44b45",
+            "diff-3efbb708c7e683da7e8bed053d5b386baa2bf8489e799d1a931db3c4299910c2l43"
+          ]
+        },
+        {
+          "author": "github-actions",
+          "content": [
+            "tada",
+            "issue",
+            "resolved",
+            "version",
+            "14.6.0",
+            "tada",
+            "release",
+            "available",
+            "npm",
+            "package",
+            "latest",
+            "dist-tag",
+            "http",
+            "//www.npmjs.com/package/",
+            "testing-library/user-event/v/14.6.0",
+            "github",
+            "release",
+            "http",
+            "//github.com/testing-library/user-event/releases/tag/v14.6.0",
+            "semantic-release",
+            "http",
+            "//github.com/semantic-release/semantic-release",
+            "bot",
+            "package",
+            ":rocket"
+          ]
+        }
+      ]
+    }
+  ],
+  "security": null
+}

@@ -1,0 +1,147 @@
+{
+  "commit_index": "ad85bd0",
+  "commit_url": "https://github.com/run-llama/LlamaIndexTS/commit/ad85bd0b4655d7a13c3903b6aa741656e9198268",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "agent",
+      "streaming",
+      "final",
+      "message",
+      "async",
+      "local",
+      "storage",
+      "1456"
+    ],
+    "description": [],
+    "changed_files_count": 34,
+    "changed_files": [
+      ".changeset/early-snakes-matter.md",
+      "apps/next/src/content/docs/llamaindex/setup/typescript.mdx",
+      "e2e/node/issue.e2e.ts",
+      "e2e/node/snapshot/#1281.snap",
+      "e2e/tsconfig.json",
+      "packages/cloud/tsconfig.json",
+      "packages/core/package.json",
+      "packages/core/src/agent/base.ts",
+      "packages/core/src/agent/utils.ts",
+      "packages/core/tsconfig.json",
+      "packages/env/package.json",
+      "packages/env/src/als/index.node.ts",
+      "packages/env/src/als/index.non-node.ts",
+      "packages/env/src/als/index.web.ts",
+      "packages/env/src/index.browser.ts",
+      "packages/env/src/index.edge-light.ts",
+      "packages/env/src/index.ts",
+      "packages/env/src/index.workerd.ts",
+      "packages/env/src/node-polyfill.ts",
+      "packages/env/src/utils/index.ts",
+      "packages/env/src/utils/index.web.ts",
+      "packages/env/src/utils/shared.ts",
+      "packages/env/src/web-polyfill.ts",
+      "packages/llamaindex/src/tools/AzureDynamicSessionTool.node.ts",
+      "packages/node-parser/tsconfig.json",
+      "packages/providers/anthropic/tsconfig.json",
+      "packages/providers/clip/tsconfig.json",
+      "packages/providers/deepinfra/tsconfig.json",
+      "packages/providers/huggingface/tsconfig.json",
+      "packages/providers/replicate/tsconfig.json",
+      "packages/readers/tsconfig.json",
+      "packages/workflow/tsconfig.json",
+      "pnpm-lock.yaml",
+      "tsconfig.json"
+    ],
+    "changed_files_content": [],
+    "parent": "18ec1f2f61c3c346006fb06e43553eaf375b1c76"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "agent",
+        "streaming",
+        "final",
+        "message",
+        "async",
+        "local",
+        "storage",
+        "1456"
+      ],
+      "total_discussions": 3,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "close",
+                "1281fix",
+                "agent",
+                "chat",
+                "message",
+                "saved",
+                "task",
+                "context",
+                "streamingfix",
+                "async",
+                "local",
+                "storage",
+                "might",
+                "usenode",
+                "async_hookin",
+                "edge-light/workerd",
+                "condition"
+              ],
+              "author": "himself65"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "latest",
+                "commit:34136dc",
+                "change",
+                "pr",
+                "included",
+                "next",
+                "version",
+                "bump",
+                "sure",
+                "mean",
+                "click",
+                "learn",
+                "changesets",
+                "click",
+                "'re",
+                "maintainer",
+                "want",
+                "add",
+                "another",
+                "changeset",
+                "pr"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 3,
+          "comments": [
+            {
+              "content": [
+                "open",
+                "stackblitz",
+                "commit:3bcc5b3"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

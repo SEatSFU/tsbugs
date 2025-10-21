@@ -1,0 +1,24 @@
+{
+  "commit_index": "37703f6",
+  "commit_url": "https://github.com/ueberdosis/hocuspocus/commit/37703f695f6bf3b0508c287294c5d26d2e888c37",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "remote",
+      "client",
+      "awareness",
+      "immediately",
+      "available"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      "packages/provider/src/MessageReceiver.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "56e403ecc9399959232f5187b1061ab3b936f9b6"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

@@ -1,0 +1,144 @@
+{
+  "commit_index": "e94c609",
+  "commit_url": "https://github.com/statelyai/xstate/commit/e94c6092a1b47b1c1f8d5da95803c17073b4a687",
+  "commit": {
+    "commit_message": [
+      "fixed",
+      "annoying",
+      "babel",
+      "warning",
+      "4989"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      "packages/core/src/index.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "cbec1a50a67f64402f811e4ec912795762b5adb9"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fixed",
+        "annoying",
+        "babel",
+        "warning",
+        "4989"
+      ],
+      "total_discussions": 2,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "fix",
+                "warning",
+                "got",
+                "build",
+                "etc",
+                "exported",
+                "identifier",
+                "interpreter",
+                "declared",
+                "babel",
+                "'s",
+                "scope",
+                "tracker",
+                "javascript",
+                "value",
+                "binding",
+                "babel/plugin-transform-typescript",
+                "never",
+                "encountered",
+                "typescript",
+                "type",
+                "declaration",
+                "treated",
+                "javascript",
+                "value",
+                "problem",
+                "likely",
+                "caused",
+                "another",
+                "plugin",
+                "injecting",
+                "interpreter",
+                "without",
+                "registering",
+                "scope",
+                "tracker",
+                "author",
+                "plugin",
+                "please",
+                "use",
+                "scope.registerdeclaration",
+                "declarationpath"
+              ],
+              "author": "davidkpiano"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "latest",
+                "commit:3429d32",
+                "merging",
+                "pr",
+                "cause",
+                "version",
+                "bump",
+                "package",
+                "change",
+                "result",
+                "new",
+                "version",
+                "'re",
+                "good",
+                "go.if",
+                "change",
+                "result",
+                "version",
+                "bump",
+                "need",
+                "add",
+                "changeset",
+                "changesets",
+                "added",
+                "pr",
+                "'ll",
+                "see",
+                "package",
+                "pr",
+                "includes",
+                "changesets",
+                "associated",
+                "semver",
+                "type",
+                "click",
+                "learn",
+                "changesets",
+                "add",
+                "one",
+                "click",
+                "'re",
+                "maintainer",
+                "want",
+                "add",
+                "changeset",
+                "pr"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

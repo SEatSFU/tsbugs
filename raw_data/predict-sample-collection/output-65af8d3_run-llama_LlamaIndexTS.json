@@ -1,0 +1,107 @@
+{
+  "commit_index": "65af8d3",
+  "commit_url": "https://github.com/run-llama/LlamaIndexTS/commit/65af8d3a2600d9497bb64cbef0864561113c2b53",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "missing",
+      "dependency",
+      "local",
+      "development",
+      "566"
+    ],
+    "description": [],
+    "changed_files_count": 2,
+    "changed_files": [
+      "packages/env/package.json",
+      "pnpm-lock.yaml"
+    ],
+    "changed_files_content": [],
+    "parent": "329b6ec958847d08a7e94a8c9f9ca52941d7c672"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "missing",
+        "dependency",
+        "local",
+        "development",
+        "566"
+      ],
+      "total_discussions": 2,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "description",
+                "provided"
+              ],
+              "author": "marcusschiesser"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "latest",
+                "commit:35ade72",
+                "merging",
+                "pr",
+                "cause",
+                "version",
+                "bump",
+                "package",
+                "change",
+                "result",
+                "new",
+                "version",
+                "'re",
+                "good",
+                "go.if",
+                "change",
+                "result",
+                "version",
+                "bump",
+                "need",
+                "add",
+                "changeset",
+                "changesets",
+                "added",
+                "pr",
+                "'ll",
+                "see",
+                "package",
+                "pr",
+                "includes",
+                "changesets",
+                "associated",
+                "semver",
+                "type",
+                "click",
+                "learn",
+                "changesets",
+                "add",
+                "one",
+                "click",
+                "'re",
+                "maintainer",
+                "want",
+                "add",
+                "changeset",
+                "pr"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

@@ -1,0 +1,52 @@
+{
+  "commit_index": "cde8741",
+  "commit_url": "https://github.com/intlify/vue-i18n/commit/cde8741c9095170698f08375b7bd607e90d661e1",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "jit",
+      "compilation",
+      "runtime",
+      "1451"
+    ],
+    "description": [],
+    "changed_files_count": 4,
+    "changed_files": [
+      "packages/core/src/runtime.ts",
+      "packages/petite-vue-i18n/src/runtime.ts",
+      "packages/vue-i18n-bridge/src/runtime.ts",
+      "packages/vue-i18n/src/runtime.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "f6eeb0dcd8b4345acb3be59049062794130f8a5b"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "jit",
+        "compilation",
+        "runtime",
+        "1451"
+      ],
+      "total_discussions": 1,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "description",
+                "provided"
+              ],
+              "author": "kazupon"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

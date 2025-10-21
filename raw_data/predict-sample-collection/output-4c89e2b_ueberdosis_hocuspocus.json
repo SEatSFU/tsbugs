@@ -1,0 +1,78 @@
+{
+  "commit_index": "4c89e2b",
+  "commit_url": "https://github.com/ueberdosis/hocuspocus/commit/4c89e2b9d1cd16feb17aa37a2e0d9a77498559a5",
+  "commit": {
+    "commit_message": [
+      "test",
+      "fix",
+      "failing",
+      "test",
+      "fix",
+      "223"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      "tests/server/onConnect.js"
+    ],
+    "changed_files_content": [],
+    "parent": "f8824295e40651571790ebb4bae760a68f66baf8"
+  },
+  "pull_requests": null,
+  "issues": [
+    {
+      "title": [
+        "failing",
+        "test"
+      ],
+      "labels": [
+        "bug"
+      ],
+      "comments": [
+        {
+          "author": "hanspagel",
+          "content": [
+            "sometimes",
+            "test",
+            "fails",
+            "1",
+            "clean",
+            "correctly",
+            "client",
+            "disconnect",
+            "oncreatedocument",
+            "74",
+            "passing",
+            "3",
+            "1",
+            "pending",
+            "1",
+            "failing",
+            "1",
+            "server/onconnect",
+            "clean",
+            "correctly",
+            "client",
+            "disconnect",
+            "oncreatedocument",
+            "uncaught",
+            "assertionerror",
+            "err_assertion",
+            "expected",
+            "value",
+            "strictly",
+            "equal",
+            "1",
+            "==",
+            "0",
+            "expected",
+            "actual",
+            "-1",
+            "+0"
+          ]
+        }
+      ]
+    }
+  ],
+  "security": null
+}

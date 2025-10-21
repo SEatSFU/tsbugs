@@ -1,0 +1,46 @@
+{
+  "commit_index": "0b604e0",
+  "commit_url": "https://github.com/refly-ai/refly/commit/0b604e0dd1eccb886c65d93efed54a46c17ece7e",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "api",
+      "update",
+      "toolset",
+      "definition",
+      "structure",
+      "clarity"
+    ],
+    "description": [
+      "changed",
+      "toolset",
+      "property",
+      "explicitly",
+      "include",
+      "'definition",
+      "instead",
+      "spreading",
+      "builtintoolsetdefinition",
+      "improved",
+      "readability",
+      "maintainability",
+      "ensured",
+      "consistent",
+      "code",
+      "style",
+      "structure",
+      "line",
+      "project",
+      "standard"
+    ],
+    "changed_files_count": 1,
+    "changed_files": [
+      "apps/api/src/modules/tool/tool.service.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "74a49223748f921f97a9d8981f096afa88770e81"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

@@ -1,0 +1,110 @@
+{
+  "commit_index": "a51ee45",
+  "commit_url": "https://github.com/xyflow/xyflow/commit/a51ee45b667946b756e4a6d0e7a14e6204aa9d15",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "resizer",
+      "export",
+      "type",
+      "close",
+      "4439"
+    ],
+    "description": [],
+    "changed_files_count": 3,
+    "changed_files": [
+      "packages/react/src/index.ts",
+      "packages/svelte/src/lib/index.ts",
+      "packages/system/src/xyresizer/types.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "487b13c9ad8903789f56c6fcfd8222f9cb74b812"
+  },
+  "pull_requests": null,
+  "issues": [
+    {
+      "title": [
+        "v12",
+        "missing",
+        "type",
+        "export",
+        "xyresizerparams",
+        "resizedragevent"
+      ],
+      "labels": [],
+      "comments": [
+        {
+          "author": "Pelv",
+          "content": [
+            "platform",
+            "using",
+            "found",
+            "bug",
+            "react",
+            "flow",
+            "version",
+            "12",
+            "browser",
+            "version",
+            "brave",
+            "latest",
+            "o",
+            "version",
+            "macos",
+            "latest",
+            "live",
+            "code",
+            "example",
+            "response",
+            "describe",
+            "bug",
+            "find",
+            "get",
+            "type",
+            "xyresizerparams",
+            "resizedragevent",
+            "'s",
+            "meant",
+            "way",
+            "'s",
+            "missing",
+            "type",
+            "export",
+            "using",
+            "previous",
+            "version",
+            "help",
+            "great",
+            "work",
+            "step",
+            "reproduce",
+            "bug",
+            "issue",
+            "try",
+            "import",
+            "type",
+            "expected",
+            "behavior",
+            "would",
+            "love",
+            "able",
+            "import",
+            "screenshots",
+            "video",
+            "additional",
+            "context",
+            "response"
+          ]
+        },
+        {
+          "author": "moklick",
+          "content": [
+            "fixed",
+            "12.0.2"
+          ]
+        }
+      ]
+    }
+  ],
+  "security": null
+}

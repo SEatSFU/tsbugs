@@ -1,0 +1,189 @@
+{
+  "commit_index": "2e49e53",
+  "commit_url": "https://github.com/antiwork/shortest/commit/2e49e5396f4dac23ab62a71fcbc608034ee2cf44",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "cli",
+      "prevent",
+      "ai",
+      "api",
+      "retries",
+      "select",
+      "status",
+      "code",
+      "301"
+    ],
+    "description": [
+      "co-authored-by",
+      "autofix-ci",
+      "bot",
+      "114827586+autofix-ci",
+      "bot",
+      "users.noreply.github.com",
+      "co-authored-by",
+      "razvan",
+      "marescu",
+      "razvan",
+      "marescu.net"
+    ],
+    "changed_files_count": 1,
+    "changed_files": [
+      "packages/shortest/src/ai/client.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "750b61346884314d7022cc3de22f7370b2800c4c"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "cli",
+        "prevent",
+        "ai",
+        "api",
+        "retries",
+        "select",
+        "status",
+        "code",
+        "301"
+      ],
+      "total_discussions": 3,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "fix",
+                "296"
+              ],
+              "author": "rmarescu"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "khalatevarunis",
+                "attempting",
+                "deploy",
+                "commit",
+                "theantiworkteam",
+                "onvercel",
+                "member",
+                "team",
+                "first",
+                "need",
+                "toauthorize"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 3,
+          "comments": [
+            {
+              "content": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "title": [
+        "401",
+        "api",
+        "error",
+        "end",
+        "test",
+        "first",
+        "try"
+      ],
+      "labels": [],
+      "comments": [
+        {
+          "author": "rmarescu",
+          "content": [
+            "version",
+            "0.4.2",
+            "repository",
+            "url",
+            "http",
+            "//github.com/rmarescu/shortest-alert/tree/b8617d9264bb3b462f5b5f998641482b841268bc",
+            "actual",
+            "behavior",
+            "test",
+            "retried",
+            "3",
+            "time",
+            "expected",
+            "behavior",
+            "test",
+            "terminated",
+            "right",
+            "away",
+            "system",
+            "info",
+            "system",
+            "o",
+            "macos",
+            "15.2",
+            "cpu",
+            "16",
+            "arm64",
+            "apple",
+            "m3",
+            "max",
+            "memory",
+            "917.05",
+            "mb",
+            "128.00",
+            "gb",
+            "shell",
+            "3.6.4",
+            "/opt/homebrew/bin/fish",
+            "binary",
+            "node",
+            "21.6.1",
+            "/.asdf/installs/nodejs/21.6.1/bin/node",
+            "npm",
+            "10.2.4",
+            "/.asdf/plugins/nodejs/shims/npm",
+            "pnpm",
+            "9.1.1",
+            "/.asdf/shims/pnpm",
+            "browser",
+            "brave",
+            "browser",
+            "132.1.74.48",
+            "chrome",
+            "132.0.6834.110",
+            "safari",
+            "18.2",
+            "npmpackages",
+            "antiwork/shortest",
+            "^0.4.2",
+            "0.4.2",
+            "validation",
+            "'ve",
+            "checked",
+            "existing",
+            "issue",
+            "concrete",
+            "bug",
+            "q",
+            "use",
+            "discussion"
+          ]
+        }
+      ]
+    }
+  ],
+  "security": null
+}

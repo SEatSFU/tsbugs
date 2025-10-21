@@ -1,0 +1,72 @@
+{
+  "commit_index": "b16e699",
+  "commit_url": "https://github.com/type-challenges/type-challenges/commit/b16e69915edc11f9fc14136941bd746310f6f67d",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "remove",
+      "useless",
+      "import",
+      "add",
+      "test-case",
+      "9900"
+    ],
+    "description": [
+      "fix",
+      "remove",
+      "useless",
+      "import",
+      "fix",
+      "4484",
+      "add",
+      "test-case"
+    ],
+    "changed_files_count": 6,
+    "changed_files": [
+      "questions/03188-medium-tuple-to-nested-object/test-cases.ts",
+      "questions/03192-medium-reverse/test-cases.ts",
+      "questions/03196-medium-flip-arguments/test-cases.ts",
+      "questions/03243-medium-flattendepth/test-cases.ts",
+      "questions/03376-medium-inordertraversal/test-cases.ts",
+      "questions/04484-medium-istuple/test-cases.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "38f0264f7da6b57f1915b1583239b090e91e1470"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "remove",
+        "useless",
+        "import",
+        "add",
+        "test-case",
+        "9900"
+      ],
+      "total_discussions": 1,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "fix",
+                "remove",
+                "useless",
+                "importfix",
+                "4484",
+                "add",
+                "test-case"
+              ],
+              "author": "antfu"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

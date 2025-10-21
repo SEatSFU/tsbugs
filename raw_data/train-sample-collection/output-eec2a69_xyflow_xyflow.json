@@ -1,0 +1,21 @@
+{
+  "commit_index": "eec2a69",
+  "commit_url": "https://github.com/xyflow/xyflow/commit/eec2a6923dc3dc329e8cfcffbc6b278b85acecf5",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "typing",
+      "updatenodeinternals"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      "packages/system/src/types/general.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "c318288703292d9faf03e3f6e31bfba82c540b2c"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

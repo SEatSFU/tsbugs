@@ -1,0 +1,25 @@
+{
+  "commit_index": "c94d684",
+  "commit_url": "https://github.com/xyflow/xyflow/commit/c94d684b31567b3186a1ea113a6787846a750b27",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "node",
+      "update",
+      "internals",
+      "node",
+      "resizer",
+      "update"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      "packages/react/src/container/NodeRenderer/useResizeObserver.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "e82c72a91203854844f5d5112247fc1527584a68"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

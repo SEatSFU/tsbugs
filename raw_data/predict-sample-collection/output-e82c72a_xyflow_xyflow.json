@@ -1,0 +1,24 @@
+{
+  "commit_index": "e82c72a",
+  "commit_url": "https://github.com/xyflow/xyflow/commit/e82c72a91203854844f5d5112247fc1527584a68",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "react",
+      "re-observe",
+      "node",
+      "hidden",
+      "toggled"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      "packages/react/src/components/NodeWrapper/useNodeObserver.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "02d724f16dadb29ef732b68dcdfd989ad219d2af"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

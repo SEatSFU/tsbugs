@@ -1,0 +1,26 @@
+{
+  "commit_index": "833ab03",
+  "commit_url": "https://github.com/antiwork/shortest/commit/833ab034fa5a4c47be1a121b26ee33395e610d54",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "extract",
+      "filename",
+      "part",
+      "pattern",
+      "using",
+      "split",
+      "'/"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      "packages/shortest/src/core/runner.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "e077befedf3f3f9f8ba687e4d04900f750aeb0af"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

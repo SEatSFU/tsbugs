@@ -1,0 +1,26 @@
+{
+  "commit_index": "420ae03",
+  "commit_url": "https://github.com/testing-library/user-event/commit/420ae03301cee3fe0a050ceac3f479ed5bb26102",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "tab",
+      "keep",
+      "focus",
+      "document",
+      "focusable",
+      "element"
+    ],
+    "description": [],
+    "changed_files_count": 2,
+    "changed_files": [
+      "__tests__/react/tab.js",
+      "src/index.js"
+    ],
+    "changed_files_content": [],
+    "parent": "38e3c227dd228c6ccc7624683eca3fae119a66e3"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

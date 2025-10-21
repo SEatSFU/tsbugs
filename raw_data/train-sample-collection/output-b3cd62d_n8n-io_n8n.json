@@ -1,0 +1,97 @@
+{
+  "commit_index": "b3cd62d",
+  "commit_url": "https://github.com/n8n-io/n8n/commit/b3cd62d866eeb734de253f656ee2b67c147a10c1",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "editor",
+      "tweak",
+      "dragged",
+      "mapping",
+      "state",
+      "4550"
+    ],
+    "description": [
+      "fix",
+      "editor",
+      "show",
+      "input",
+      "value",
+      "dragging",
+      "fix",
+      "editor",
+      "show",
+      "input",
+      "value",
+      "dragging",
+      "fix",
+      "editor",
+      "add",
+      "back",
+      "input",
+      "value",
+      "hiding",
+      "logic"
+    ],
+    "changed_files_count": 1,
+    "changed_files": [
+      "packages/editor-ui/src/components/ParameterInput.vue"
+    ],
+    "changed_files_content": [],
+    "parent": "698d96a617f2a16cb3a43ac0ecc12c8999d46270"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "editor",
+        "tweak",
+        "dragged",
+        "mapping",
+        "state",
+        "4550"
+      ],
+      "total_discussions": 3,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "description",
+                "provided"
+              ],
+              "author": "cstuncsik"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "n8n-5386"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 3,
+          "comments": [
+            {
+              "content": [
+                "got",
+                "released",
+                "withn8n",
+                "0.202.0"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

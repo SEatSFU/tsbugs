@@ -1,0 +1,50 @@
+{
+  "commit_index": "b9a1902",
+  "commit_url": "https://github.com/refly-ai/refly/commit/b9a1902e24b311a046cf1ff2e60de12a7f304a3f",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "add",
+      "visibility",
+      "property",
+      "canvascontroller",
+      "test"
+    ],
+    "description": [
+      "updated",
+      "canvascontroller",
+      "test",
+      "include",
+      "new",
+      "visibility",
+      "property",
+      "test",
+      "data",
+      "better",
+      "coverage",
+      "ensured",
+      "adherence",
+      "code",
+      "style",
+      "guideline",
+      "including",
+      "use",
+      "optional",
+      "chaining",
+      "nullish",
+      "coalescing",
+      "safer",
+      "property",
+      "access"
+    ],
+    "changed_files_count": 1,
+    "changed_files": [
+      "apps/api/src/modules/canvas/canvas.controller.spec.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "a749af684569b5776a7ce06b87f14c192019daf1"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

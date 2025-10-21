@@ -1,0 +1,168 @@
+{
+  "commit_index": "91a2d2d",
+  "commit_url": "https://github.com/Kong/insomnia/commit/91a2d2dc9337d775c1c62e7b9b5726e1105aae6f",
+  "commit": {
+    "commit_message": [
+      "n't",
+      "webpack",
+      "insomnia-httpsnippet",
+      "fix",
+      "1304"
+    ],
+    "description": [],
+    "changed_files_count": 2,
+    "changed_files": [
+      "packages/insomnia-app/app/__tests__/package.test.js",
+      "packages/insomnia-app/package.json"
+    ],
+    "changed_files_content": [],
+    "parent": "88b0bb784f126fcc880f1db596aa7eb76b75b9fe"
+  },
+  "pull_requests": null,
+  "issues": [
+    {
+      "title": [
+        "bug",
+        "generate",
+        "code",
+        "working",
+        "upgrading",
+        "6.x"
+      ],
+      "labels": [],
+      "comments": [
+        {
+          "author": "basert",
+          "content": [
+            "insomnia",
+            "version",
+            "6.2.3",
+            "operating",
+            "system",
+            "ubuntu",
+            "18.04",
+            "detail",
+            "issue",
+            "640",
+            "'m",
+            "downloading",
+            "insomnia",
+            "via",
+            "apt",
+            "ca",
+            "n't",
+            "say",
+            "version",
+            "bug",
+            "re-appeared",
+            "tried",
+            "generating",
+            "curl",
+            "code",
+            "request",
+            "kept",
+            "stuck",
+            "generating",
+            "code",
+            "snippet",
+            "checking",
+            "dev",
+            "console",
+            "got",
+            "exactly",
+            "error",
+            "mentioned",
+            "ticket",
+            "manually",
+            "downgraded",
+            "5.16.6",
+            "via",
+            "sudo",
+            "apt",
+            "install",
+            "insomnia=5.16.6",
+            "got",
+            "working",
+            "afterwards",
+            "seems",
+            "like",
+            "regression"
+          ]
+        },
+        {
+          "author": "welcome",
+          "content": [
+            "opening",
+            "first",
+            "issue",
+            "'re",
+            "reporting",
+            "bug",
+            "please",
+            "make",
+            "sure",
+            "include",
+            "step",
+            "reproduce",
+            "'re",
+            "requesting",
+            "feature",
+            "please",
+            "provide",
+            "real",
+            "use",
+            "case",
+            "would",
+            "benefit",
+            "help",
+            "make",
+            "smooth",
+            "process",
+            "please",
+            "sure",
+            "first",
+            "read",
+            "contributing",
+            "guideline",
+            "http",
+            "//github.com/getinsomnia/insomnia/blob/master/contributing.md"
+          ]
+        },
+        {
+          "author": "gschier",
+          "content": [
+            "hmm",
+            "also",
+            "reproduced",
+            "problem",
+            "get",
+            "fixed",
+            "asap"
+          ]
+        },
+        {
+          "author": "adamcowley",
+          "content": [
+            "greg"
+          ]
+        },
+        {
+          "author": "kbakk",
+          "content": [
+            "experience",
+            "well",
+            "6.2.3",
+            "macos",
+            "10.14",
+            "downloading",
+            "6.2.0",
+            "http",
+            "//github.com/getinsomnia/insomnia/releases/v6.2.0",
+            "fixed"
+          ]
+        }
+      ]
+    }
+  ],
+  "security": null
+}

@@ -1,0 +1,166 @@
+{
+  "commit_index": "e275306",
+  "commit_url": "https://github.com/n8n-io/n8n/commit/e275306c64a410c154e586532e35d25a583f75b4",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "gitlab",
+      "node",
+      "update",
+      "credential",
+      "test",
+      "endpoint",
+      "5166"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      "packages/nodes-base/credentials/GitlabApi.credentials.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "b718464b1f28e52ffb0b12e4b927d8fe3678d02a"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "gitlab",
+        "node",
+        "update",
+        "credential",
+        "test",
+        "endpoint",
+        "5166"
+      ],
+      "total_discussions": 5,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "github",
+                "issue",
+                "community",
+                "forum",
+                "post",
+                "link",
+                "close",
+                "automatically",
+                "http",
+                "//community.n8n.io/t/no-access-via-accesstoken-to-self-hosted-gitlab-ce-ee/21802to",
+                "sum",
+                "credential",
+                "check",
+                "gitlab",
+                "node",
+                "wrong",
+                "'s",
+                "checking",
+                "the/usersendpoint",
+                "endpoint",
+                "used",
+                "listing",
+                "user",
+                "instance",
+                "requires",
+                "theapiscope",
+                "token",
+                "scope",
+                "forapithe",
+                "credential",
+                "test",
+                "fail.a",
+                "better",
+                "approach",
+                "checking",
+                "credential",
+                "without",
+                "needing",
+                "special",
+                "scope",
+                "endpoint/personal_access_tokens/self",
+                "seehttps",
+                "//docs.gitlab.com/ee/api/personal_access_tokens.html",
+                "using-a-request-header",
+                "show",
+                "everything",
+                "related",
+                "currently",
+                "used",
+                "accesstoken",
+                "e.g",
+                "scope",
+                "expiration",
+                "date"
+              ],
+              "author": "Joffcom"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "hey",
+                "svzi",
+                "pr",
+                "given",
+                "test",
+                "work",
+                "well",
+                "get",
+                "merged",
+                "shortly"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 3,
+          "comments": [
+            {
+              "content": [
+                "hey",
+                "svzi",
+                "pr",
+                "merged",
+                "part",
+                "next",
+                "release"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 4,
+          "comments": [
+            {
+              "content": [
+                "joffcomthanks",
+                "lot"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 5,
+          "comments": [
+            {
+              "content": [
+                "got",
+                "released",
+                "withn8n",
+                "0.212.0"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

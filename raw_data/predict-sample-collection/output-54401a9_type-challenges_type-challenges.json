@@ -1,0 +1,21 @@
+{
+  "commit_index": "54401a9",
+  "commit_url": "https://github.com/type-challenges/type-challenges/commit/54401a99bc6f33743505d95a957cc91faa72f085",
+  "commit": {
+    "commit_message": [
+      "chore",
+      "fix",
+      "build"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      "scripts/netlify.sh"
+    ],
+    "changed_files_content": [],
+    "parent": "076e85dc8bc8a04c77322ed79de5c11a751bba64"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

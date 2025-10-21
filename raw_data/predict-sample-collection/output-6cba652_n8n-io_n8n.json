@@ -1,0 +1,116 @@
+{
+  "commit_index": "6cba652",
+  "commit_url": "https://github.com/n8n-io/n8n/commit/6cba652ff9ce1dfffe463188e5665e0c22f6fda0",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "core",
+      "load",
+      "config",
+      "value",
+      "file",
+      "using",
+      "_file",
+      "env",
+      "variable"
+    ],
+    "description": [
+      "broke",
+      "5283"
+    ],
+    "changed_files_count": 1,
+    "changed_files": [
+      "packages/cli/src/config/index.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "8b09e986542f00675197bc8e003c332e8926779f"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "refactor",
+        "core",
+        "load",
+        "validate",
+        "config",
+        "startup",
+        "no-changelog",
+        "5283"
+      ],
+      "total_discussions": 2,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "description",
+                "provided"
+              ],
+              "author": "netroy"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "got",
+                "released",
+                "withn8n",
+                "0.214.0"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pr_title": [
+        "fix",
+        "core",
+        "load",
+        "config",
+        "value",
+        "file",
+        "using_fileenv",
+        "variable",
+        "no-changelog",
+        "5335"
+      ],
+      "total_discussions": 2,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "broke",
+                "5283"
+              ],
+              "author": "netroy"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "got",
+                "released",
+                "withn8n",
+                "0.214.0"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

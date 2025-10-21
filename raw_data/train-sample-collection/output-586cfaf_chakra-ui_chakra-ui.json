@@ -1,0 +1,24 @@
+{
+  "commit_index": "586cfaf",
+  "commit_url": "https://github.com/chakra-ui/chakra-ui/commit/586cfafa5fc281244b298ba681af28cab3da8eab",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "recipe",
+      "toast",
+      "close",
+      "icon"
+    ],
+    "description": [],
+    "changed_files_count": 2,
+    "changed_files": [
+      ".changeset/orange-shrimps-exercise.md",
+      "packages/react/src/theme/recipes/toast.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "b6667571be59fa7fe68b2235db58f7a53642c80b"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

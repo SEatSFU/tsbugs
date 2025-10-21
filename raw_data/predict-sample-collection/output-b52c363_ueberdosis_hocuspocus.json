@@ -1,0 +1,24 @@
+{
+  "commit_index": "b52c363",
+  "commit_url": "https://github.com/ueberdosis/hocuspocus/commit/b52c363c6e4581bc86c6ac5e1a2496a673731757",
+  "commit": {
+    "commit_message": [
+      "setup",
+      "fix",
+      "lerna",
+      "config"
+    ],
+    "description": [],
+    "changed_files_count": 3,
+    "changed_files": [
+      "package.json",
+      "packages/common/package.json",
+      "packages/provider/package.json"
+    ],
+    "changed_files_content": [],
+    "parent": "afe71cd6e4f25f92f9624cd9f5a98803783dca2d"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

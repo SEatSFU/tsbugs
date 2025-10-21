@@ -1,0 +1,77 @@
+{
+  "commit_index": "9b117cc",
+  "commit_url": "https://github.com/antiwork/shortest/commit/9b117cce076c7057501e1fd14b36779c55d45b4f",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "stripe",
+      "add",
+      "missing",
+      "return",
+      "27"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      "lib/payments/stripe.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "a7ba8c161eb8fd03237413c7e1445394f42de249"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "stripe",
+        "add",
+        "missing",
+        "return",
+        "27"
+      ],
+      "total_discussions": 2,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "spotted",
+                "randomly",
+                "browsing",
+                "code",
+                "avoid",
+                "rest",
+                "function",
+                "executed"
+              ],
+              "author": "slavingia"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "stefanosalais",
+                "attempting",
+                "deploy",
+                "commit",
+                "thegumroadteam",
+                "onvercel",
+                "member",
+                "team",
+                "first",
+                "need",
+                "toauthorize"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

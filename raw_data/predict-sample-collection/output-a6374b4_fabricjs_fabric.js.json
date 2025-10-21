@@ -1,0 +1,383 @@
+{
+  "commit_index": "a6374b4",
+  "commit_url": "https://github.com/fabricjs/fabric.js/commit/a6374b44e7ffcf353f6c9735a6e0ddf0c1798f8d",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "fabricimage",
+      "missing",
+      "cachekey",
+      "filtering",
+      "10441"
+    ],
+    "description": [],
+    "changed_files_count": 4,
+    "changed_files": [
+      "CHANGELOG.md",
+      "src/shapes/Image.spec.ts",
+      "src/shapes/Image.ts",
+      "src/shapes/__snapshots__/Image.spec.ts.snap"
+    ],
+    "changed_files_content": [],
+    "parent": "798ecdbf476075306a6e4f0c15366f0fa8ffe13d"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "fabricimage",
+        "missing",
+        "cachekey",
+        "filtering",
+        "10441"
+      ],
+      "total_discussions": 5,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "descriptionwhen",
+                "converting",
+                "image",
+                "t",
+                "cachekey",
+                "parameter",
+                "function",
+                "call",
+                "deleted.fixes",
+                "10436close",
+                "10436"
+              ],
+              "author": "asturur"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "open",
+                "branch",
+                "inweb",
+                "editor\u2022vs",
+                "code\u2022insiders"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 3,
+          "comments": [
+            {
+              "content": [
+                "requires",
+                "kind",
+                "test"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 4,
+          "comments": [
+            {
+              "content": [
+                "build",
+                "stats"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 5,
+          "comments": [
+            {
+              "content": [
+                "coverage",
+                "mergingmissing-image-cachekeyintomasterwill"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "title": [
+        "bug",
+        "slow",
+        "filter",
+        "mobile",
+        "device",
+        "compared",
+        "version",
+        "4.0.0-rc.1"
+      ],
+      "labels": [],
+      "comments": [
+        {
+          "author": "diegosystem32",
+          "content": [
+            "checklist",
+            "agree",
+            "follow",
+            "project",
+            "'s",
+            "code",
+            "conduct",
+            "read",
+            "followed",
+            "contributing",
+            "guide",
+            "read",
+            "followed",
+            "issue",
+            "tracker",
+            "guide",
+            "searched",
+            "referenced",
+            "existing",
+            "issue",
+            "discussion",
+            "filing",
+            "bug",
+            "report",
+            "managed",
+            "reproduce",
+            "bug",
+            "upgrading",
+            "latest",
+            "version",
+            "created",
+            "accurate",
+            "minimal",
+            "reproduction",
+            "version",
+            "6.0.2",
+            "environment",
+            "experiencing",
+            "problem",
+            "chrome",
+            "node",
+            "version",
+            "applicable",
+            "22.4.0",
+            "link",
+            "reproduction",
+            "http",
+            "//cdpn.io/scalerocebrian/fullpage/qbnymvx",
+            "anon=true",
+            "view=",
+            "step",
+            "reproduce",
+            "add",
+            "image",
+            "applyfilter",
+            "3.applyfiltervalue",
+            "//version",
+            "6.5.4",
+            "thing",
+            "version",
+            "4.0.0-rc.1",
+            "async",
+            "function",
+            "applyfilter",
+            "canvas",
+            "fabric.canvas",
+            "index",
+            "number",
+            "filter",
+            "const",
+            "obj",
+            "canvas.getactiveobject",
+            "obj",
+            "obj.type",
+            "===",
+            "image",
+            "obj.filters",
+            "index",
+            "filter",
+            "obj.applyfilters",
+            "canvas.renderall",
+            "function",
+            "applyfiltervalue",
+            "canvas",
+            "fabric.canvas",
+            "index",
+            "number",
+            "prop",
+            "string",
+            "value",
+            "void",
+            "console.log",
+            "prop",
+            "value",
+            "const",
+            "obj",
+            "canvas.getactiveobject",
+            "obj",
+            ".filters",
+            "index",
+            "obj.filters",
+            "index",
+            "prop",
+            "value",
+            "obj.applyfilters",
+            "canvas.renderall",
+            "//use",
+            "function",
+            "applybrightness",
+            "canvas",
+            "fabric.canvas",
+            "brightness",
+            "number",
+            "void",
+            "var",
+            "current",
+            "canvas.getactiveobject",
+            "current.filters",
+            "5",
+            "applyfilter",
+            "canvas",
+            "5",
+            "new",
+            "fabric.filters.brightness",
+            "brightness",
+            "null",
+            "applyfiltervalue",
+            "canvas",
+            "5",
+            "indexfilters",
+            "5",
+            "brightness",
+            "expected",
+            "behavior",
+            "superior",
+            "performance",
+            "like",
+            "version",
+            "4.0.0-rc.1",
+            "actual",
+            "behavior",
+            "applying",
+            "filter",
+            "mobile",
+            "device",
+            "performance",
+            "slow",
+            "even",
+            "crashing",
+            "larger",
+            "image",
+            "without",
+            "compression",
+            "unlike",
+            "example",
+            "version",
+            "4.0.0-rc.1",
+            "http",
+            "//cdpn.io/scalerocebrian/fullpage/qbnymvx",
+            "anon=true",
+            "view=",
+            "even",
+            "larger",
+            "image",
+            "performance",
+            "superior",
+            "newer",
+            "version",
+            "6.5.4",
+            "error",
+            "message",
+            "stack",
+            "trace",
+            "message",
+            "slowness"
+          ]
+        },
+        {
+          "author": "asturur",
+          "content": [
+            "way",
+            "compare",
+            "two",
+            "codepen"
+          ]
+        },
+        {
+          "author": "asturur",
+          "content": [
+            "post",
+            "flamegraph",
+            "taken",
+            "browser",
+            "affected",
+            "mobile",
+            "device"
+          ]
+        },
+        {
+          "author": "asturur",
+          "content": [
+            "phone",
+            "know",
+            "flamegraph",
+            "would",
+            "useful",
+            "least",
+            "console",
+            "showing",
+            "error",
+            "getting"
+          ]
+        },
+        {
+          "author": "asturur",
+          "content": [
+            "ok",
+            "flamegraph",
+            "wanted",
+            "see",
+            "img",
+            "width=",
+            "522",
+            "alt=",
+            "image",
+            "src=",
+            "http",
+            "//github.com/user-attachments/assets/eba7cd35-c07d-4fda-bf46-007f73b86fb1",
+            "something",
+            "weird",
+            "going",
+            "fabricjs",
+            "uploading",
+            "new",
+            "texture",
+            "every",
+            "filter",
+            "operation",
+            "wrong",
+            "could",
+            "bug",
+            "yes",
+            "need",
+            "confirm"
+          ]
+        },
+        {
+          "author": "asturur",
+          "content": [
+            "fix",
+            "6.6.1"
+          ]
+        }
+      ]
+    }
+  ],
+  "security": null
+}

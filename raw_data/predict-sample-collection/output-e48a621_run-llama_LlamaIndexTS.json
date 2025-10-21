@@ -1,0 +1,23 @@
+{
+  "commit_index": "e48a621",
+  "commit_url": "https://github.com/run-llama/LlamaIndexTS/commit/e48a621d615f7c2c4d8d3682ad5d705b188a472a",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "use",
+      "public",
+      "model",
+      "nextjs"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      "packages/create-llama/templates/index.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "1f87787b058404b4eeea601284e76de2dc845daf"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

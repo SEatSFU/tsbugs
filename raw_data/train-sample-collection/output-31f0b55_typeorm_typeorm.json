@@ -1,0 +1,314 @@
+{
+  "commit_index": "31f0b55",
+  "commit_url": "https://github.com/typeorm/typeorm/commit/31f0b5535aa0cc49ff23610b1924c03432f5461f",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "relation",
+      "id",
+      "afterall",
+      "hook",
+      "performance",
+      "fix",
+      "8169"
+    ],
+    "description": [
+      "perf",
+      "increase",
+      "performance",
+      "using",
+      "entity",
+      "relation",
+      "id",
+      "replace",
+      "quadratic",
+      "runtime",
+      "linear",
+      "result",
+      "transformer",
+      "perf",
+      "increase",
+      "performance",
+      "afterall",
+      "hook",
+      "remove",
+      "duplicate",
+      "calculation",
+      "fitting",
+      "subscriber",
+      "entity",
+      "perf",
+      "increase",
+      "performance",
+      "entity",
+      "relation",
+      "id",
+      "use",
+      "object",
+      "instead",
+      "array",
+      "faster",
+      "access",
+      "style",
+      "fix",
+      "indentation",
+      "array",
+      "operation"
+    ],
+    "changed_files_count": 3,
+    "changed_files": [
+      "src/query-builder/relation-id/RelationIdLoader.ts",
+      "src/query-builder/transformer/RawSqlResultsToEntityTransformer.ts",
+      "src/subscriber/Broadcaster.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "8f2ae71201e7738fe3c1efd5bbc4584dfe62dcc0"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "relation",
+        "id",
+        "afterall",
+        "hook",
+        "performance",
+        "fix",
+        "8169"
+      ],
+      "total_discussions": 6,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "pr",
+                "aim",
+                "increase",
+                "performance",
+                "specific",
+                "typeorm",
+                "parts.this",
+                "includes",
+                "entity",
+                "transformation",
+                "query",
+                "using",
+                "relationiddecorator",
+                "well",
+                "broadcasting",
+                "theafterallevent",
+                "subscribers.all",
+                "refactor",
+                "internal",
+                "class",
+                "logic",
+                "performance",
+                "optimization",
+                "therefore",
+                "new",
+                "test",
+                "needed",
+                "result",
+                "process",
+                "still",
+                "same.motivationwhen",
+                "using",
+                "typeorm",
+                "saw",
+                "running",
+                "query",
+                "return",
+                "500",
+                "entity",
+                "bad",
+                "performance",
+                "case",
+                "using",
+                "relationiddecorator",
+                "lot",
+                "even",
+                "saw",
+                "quadratic",
+                "increase",
+                "runtime",
+                "query",
+                "increasing",
+                "number",
+                "entities.therefore",
+                "deep",
+                "dive",
+                "found",
+                "several",
+                "performance",
+                "optimization",
+                "far",
+                "biggest",
+                "one",
+                "therawsqlresultstoentitytransformer",
+                "quadratic",
+                "calculation",
+                "using",
+                "relationid",
+                "able",
+                "get",
+                "linear",
+                "runtime",
+                "helped",
+                "increase",
+                "performance",
+                "query",
+                "lot",
+                "around",
+                "3",
+                "time",
+                "faster",
+                "returning",
+                "1000",
+                "entities.it",
+                "related",
+                "following",
+                "issue",
+                "depending",
+                "used",
+                "entity",
+                "fix",
+                "completely",
+                "2381",
+                "3857tl",
+                "drreplace",
+                "quadratic",
+                "runtime",
+                "inrawsqlresultstoentitytransformerwith",
+                "linear",
+                "runtimeuse",
+                "object",
+                "instead",
+                "array",
+                "faster",
+                "duplicate",
+                "check",
+                "inrelationidloadercalculate",
+                "fitting",
+                "subscriber",
+                "given",
+                "entity",
+                "every",
+                "result",
+                "inbroadcasterpull-request",
+                "checklistcode",
+                "up-to-date",
+                "themasterbranchnpm",
+                "run",
+                "lintpasses",
+                "changenpm",
+                "run",
+                "testpasses",
+                "changethis",
+                "pull",
+                "request",
+                "link",
+                "relevant",
+                "issue",
+                "asfixes",
+                "0000there",
+                "new",
+                "updated",
+                "unit",
+                "test",
+                "validating",
+                "change",
+                "n/a",
+                "documentation",
+                "updated",
+                "reflect",
+                "change",
+                "n/a",
+                "new",
+                "commits",
+                "follow",
+                "convention",
+                "explained",
+                "incontributing.md"
+              ],
+              "author": "pleerock"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "would",
+                "solve",
+                "lot",
+                "problem",
+                "plan",
+                "merge"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 3,
+          "comments": [
+            {
+              "content": [
+                "someone",
+                "give",
+                "update",
+                "would",
+                "great",
+                "get",
+                "merged",
+                "soon"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 4,
+          "comments": [
+            {
+              "content": [
+                "rluvatonfor",
+                "little",
+                "review"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 5,
+          "comments": [
+            {
+              "content": [
+                "pleerock-",
+                "since",
+                "'s",
+                "already",
+                "reviewed",
+                "mergeable",
+                "master",
+                "plan",
+                "merge"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 6,
+          "comments": [
+            {
+              "content": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

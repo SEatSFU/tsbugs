@@ -1,0 +1,63 @@
+{
+  "commit_index": "a9e6cd1",
+  "commit_url": "https://github.com/puppeteer/puppeteer/commit/a9e6cd1ed231c161ba83712b690fa6aab47a87a5",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "browser",
+      "omit",
+      "file",
+      "path",
+      "validation",
+      "uploadfile",
+      "browser",
+      "en\u2026"
+    ],
+    "description": [],
+    "changed_files_count": 3,
+    "changed_files": [
+      "packages/puppeteer-core/src/bidi/ElementHandle.ts",
+      "packages/puppeteer-core/src/cdp/ElementHandle.ts",
+      "packages/puppeteer-core/src/environment.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "4e5c0ad1c770d6bd1785325cdf5c0a63f285e5c2"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "browser",
+        "omit",
+        "file",
+        "path",
+        "validation",
+        "uploadfile",
+        "browser",
+        "environment",
+        "13258"
+      ],
+      "total_discussions": 1,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "filesystem",
+                "access",
+                "possible",
+                "browser",
+                "environment"
+              ],
+              "author": "OrKoN"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

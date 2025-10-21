@@ -1,0 +1,162 @@
+{
+  "commit_index": "298db4b",
+  "commit_url": "https://github.com/Kong/insomnia/commit/298db4bf58cfb4bdb7a5e52a17ac55af605cf05e",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "form",
+      "urlencoded",
+      "multiline",
+      "preference",
+      "fix",
+      "791"
+    ],
+    "description": [],
+    "changed_files_count": 3,
+    "changed_files": [
+      "packages/insomnia-app/app/models/request.js",
+      "packages/insomnia-app/app/ui/components/codemirror/code-editor.js",
+      "packages/insomnia-app/app/ui/components/modals/code-prompt-modal.js"
+    ],
+    "changed_files_content": [],
+    "parent": "1c69e3a1b4fc4cc90233798bbb3ece088106cd81"
+  },
+  "pull_requests": null,
+  "issues": [
+    {
+      "title": [
+        "feature",
+        "request",
+        "remember",
+        "text",
+        "multi-line",
+        "selection",
+        "form",
+        "input"
+      ],
+      "labels": [],
+      "comments": [
+        {
+          "author": "chrismeller",
+          "content": [
+            "sending",
+            "post",
+            "request",
+            "one",
+            "form",
+            "input",
+            "type",
+            "ability",
+            "select",
+            "text",
+            "text",
+            "multi-line",
+            "input",
+            "field",
+            "awesome",
+            "would",
+            "awesomer",
+            "still",
+            "remembered",
+            "selection",
+            "navigate",
+            "back",
+            "request",
+            "future",
+            "insomnia",
+            "version",
+            "5.14.8.1893",
+            "operating",
+            "system",
+            "macos",
+            "10.13.3"
+          ]
+        },
+        {
+          "author": "welcome",
+          "content": [
+            "opening",
+            "first",
+            "issue",
+            "'re",
+            "reporting",
+            "bug",
+            "please",
+            "make",
+            "sure",
+            "include",
+            "step",
+            "reproduce",
+            "'re",
+            "requesting",
+            "feature",
+            "please",
+            "provide",
+            "real",
+            "use",
+            "case",
+            "would",
+            "benefit",
+            "help",
+            "make",
+            "smooth",
+            "process",
+            "please",
+            "sure",
+            "first",
+            "read",
+            "contributing",
+            "guideline",
+            "http",
+            "//github.com/getinsomnia/insomnia/blob/master/contributing.md"
+          ]
+        },
+        {
+          "author": "gschier",
+          "content": [
+            "hmm",
+            "insomnia",
+            "supposed",
+            "remember",
+            "one",
+            "selected",
+            "ca",
+            "n't",
+            "reproduce",
+            "issue",
+            "would",
+            "able",
+            "post",
+            "screen",
+            "recording",
+            "demonstrates",
+            "bug"
+          ]
+        },
+        {
+          "author": "gschier",
+          "content": [
+            "oh",
+            "nvm",
+            "seems",
+            "_is_",
+            "remembered",
+            "multipart",
+            "form",
+            "_is",
+            "not_",
+            "remembered",
+            "urlencoded",
+            "form",
+            "fix",
+            "p.s",
+            "confirm",
+            "case",
+            "well"
+          ]
+        }
+      ]
+    }
+  ],
+  "security": null
+}

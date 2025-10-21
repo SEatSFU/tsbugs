@@ -1,0 +1,25 @@
+{
+  "commit_index": "7d74710",
+  "commit_url": "https://github.com/sadmann7/shadcn-table/commit/7d74710b3e9db7513cc4df299ad306938ffcbb48",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "deps",
+      "update",
+      "dependency",
+      "next",
+      "v14.1.1-canary.58"
+    ],
+    "description": [],
+    "changed_files_count": 2,
+    "changed_files": [
+      "package.json",
+      "pnpm-lock.yaml"
+    ],
+    "changed_files_content": [],
+    "parent": "3da73ef47c5a8f7fad4c030f0d1a469a131e77a3"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

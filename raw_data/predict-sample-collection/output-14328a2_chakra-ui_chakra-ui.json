@@ -1,0 +1,24 @@
+{
+  "commit_index": "14328a2",
+  "commit_url": "https://github.com/chakra-ui/chakra-ui/commit/14328a2cb7ba6b53642df6b057281066d7e3de04",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "pin",
+      "input",
+      "clipping"
+    ],
+    "description": [],
+    "changed_files_count": 3,
+    "changed_files": [
+      ".changeset/gorgeous-fans-argue.md",
+      ".changeset/puny-keys-allow.md",
+      "packages/react/src/theme/recipes/pin-input.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "6b7dac1c45ad6ea694be63def70c3c9e453fbd27"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

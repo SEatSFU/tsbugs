@@ -1,0 +1,25 @@
+{
+  "commit_index": "f049931",
+  "commit_url": "https://github.com/nestjs/nest/commit/f049931c135de476b991b9c86097d08f9d27b1d3",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "deps",
+      "update",
+      "dependency",
+      "apollo/gateway",
+      "v2.9.3"
+    ],
+    "description": [],
+    "changed_files_count": 2,
+    "changed_files": [
+      "sample/32-graphql-federation-schema-first/gateway/package.json",
+      "sample/32-graphql-federation-schema-first/posts-application/package.json"
+    ],
+    "changed_files_content": [],
+    "parent": "898d900ddf121acad1478cfa54ec07ca3e0696c3"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

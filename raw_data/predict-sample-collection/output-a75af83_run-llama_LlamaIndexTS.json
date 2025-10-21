@@ -1,0 +1,101 @@
+{
+  "commit_index": "a75af83",
+  "commit_url": "https://github.com/run-llama/LlamaIndexTS/commit/a75af835a5dcec03fa2096aaeae21e77373c4fb5",
+  "commit": {
+    "commit_message": [
+      "chore",
+      "fix",
+      "misc",
+      "release",
+      "1351"
+    ],
+    "description": [],
+    "changed_files_count": 11,
+    "changed_files": [
+      ".changeset/gentle-terms-tan.md",
+      ".changeset/spotty-ravens-rush.md",
+      "packages/providers/anthropic/package.json",
+      "packages/providers/clip/package.json",
+      "packages/providers/deepinfra/package.json",
+      "packages/providers/groq/package.json",
+      "packages/providers/huggingface/package.json",
+      "packages/providers/ollama/package.json",
+      "packages/providers/openai/package.json",
+      "packages/providers/portkey-ai/package.json",
+      "packages/providers/replicate/package.json"
+    ],
+    "changed_files_content": [],
+    "parent": "7c7cd34908aa89b486be312db7e7e8142e78f5e6"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "chore",
+        "fix",
+        "misc",
+        "release",
+        "1351"
+      ],
+      "total_discussions": 3,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "description",
+                "provided"
+              ],
+              "author": "himself65"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "latest",
+                "commit:45afa6d",
+                "change",
+                "pr",
+                "included",
+                "next",
+                "version",
+                "bump",
+                "sure",
+                "mean",
+                "click",
+                "learn",
+                "changesets",
+                "click",
+                "'re",
+                "maintainer",
+                "want",
+                "add",
+                "another",
+                "changeset",
+                "pr"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 3,
+          "comments": [
+            {
+              "content": [
+                "open",
+                "stackblitz",
+                "commit:45afa6d"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

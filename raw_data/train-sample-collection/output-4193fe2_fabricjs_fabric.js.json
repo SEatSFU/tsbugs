@@ -1,0 +1,151 @@
+{
+  "commit_index": "4193fe2",
+  "commit_url": "https://github.com/fabricjs/fabric.js/commit/4193fe2d7d1b97286d45a7007fedd2f81a4872e5",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "t",
+      "add",
+      "missing",
+      "export",
+      "type",
+      "drawcontext"
+    ],
+    "description": [],
+    "changed_files_count": 2,
+    "changed_files": [
+      "CHANGELOG.md",
+      "fabric.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "5c37e40a9633fddf044c731d16da7780b048a9c2"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "t",
+        "add",
+        "missing",
+        "export",
+        "type",
+        "drawcontext"
+      ],
+      "total_discussions": 1,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "descriptiondraw",
+                "context",
+                "missing",
+                "exportsclose",
+                "10280in",
+                "action"
+              ],
+              "author": "asturur"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "title": [
+        "bug",
+        "drawcontext",
+        "visible",
+        "typescript"
+      ],
+      "labels": [],
+      "comments": [
+        {
+          "author": "gloriousjob",
+          "content": [
+            "fabric",
+            "6.5.0",
+            "create",
+            "project",
+            "class",
+            "extends",
+            "group",
+            "try",
+            "override",
+            "drawobject",
+            "method",
+            "drawobject",
+            "ctx",
+            "canvasrenderingcontext2d",
+            "forclipping",
+            "boolean",
+            "undefined",
+            "context",
+            "drawcontext",
+            "super.drawobject",
+            "ctx",
+            "forclipping",
+            "context",
+            "code",
+            "causing",
+            "problem",
+            "point",
+            "drawcontext",
+            "resolve",
+            "vscode",
+            "import",
+            "added",
+            "top",
+            "expected",
+            "behavior",
+            "drawcontext",
+            "import",
+            "support",
+            "subclassing",
+            "overriding",
+            "drawobject",
+            "actual",
+            "behavior",
+            "vscode",
+            "unable",
+            "detect",
+            "import",
+            "drawcontext",
+            "able",
+            "go",
+            "fabric",
+            "group",
+            "class",
+            "find",
+            "definition",
+            "drawcontext",
+            "copy",
+            "file",
+            "use",
+            "export",
+            "exists",
+            "fabric.object",
+            "appears",
+            "issue",
+            "top",
+            "level",
+            "export",
+            "making",
+            "visible",
+            "outside",
+            "project",
+            "error",
+            "message",
+            "stack",
+            "trace",
+            "response"
+          ]
+        }
+      ]
+    }
+  ],
+  "security": null
+}

@@ -1,0 +1,357 @@
+{
+  "commit_index": "d67bd50",
+  "commit_url": "https://github.com/Kong/insomnia/commit/d67bd508061c33c148bf7daefc2737fd0b035f5b",
+  "commit": {
+    "commit_message": [
+      "strip",
+      "non-breaking",
+      "space",
+      "graphql",
+      "mode",
+      "fix",
+      "1460",
+      "1254"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      "packages/insomnia-app/app/ui/components/codemirror/code-editor.js"
+    ],
+    "changed_files_content": [],
+    "parent": "e68b1b186c41b5938dd01015cd74fb0045508053"
+  },
+  "pull_requests": null,
+  "issues": [
+    {
+      "title": [
+        "bug",
+        "option+space",
+        "break",
+        "graphql",
+        "editor"
+      ],
+      "labels": [
+        "stale"
+      ],
+      "comments": [
+        {
+          "author": "gschier",
+          "content": [
+            "see",
+            "graphql/graphiql",
+            "735",
+            "description"
+          ]
+        },
+        {
+          "author": "stale",
+          "content": [
+            "issue",
+            "automatically",
+            "marked",
+            "stale",
+            "recent",
+            "activity",
+            "closed",
+            "activity",
+            "occurs",
+            "contribution"
+          ]
+        }
+      ]
+    },
+    {
+      "title": [
+        "bug",
+        "paste",
+        "text",
+        "clipboard",
+        "graphql",
+        "body",
+        "fails"
+      ],
+      "labels": [
+        "N-investigation"
+      ],
+      "comments": [
+        {
+          "author": "royledford",
+          "content": [
+            "insomnia",
+            "version",
+            "6.4.0.2712",
+            "operating",
+            "system",
+            "macos",
+            "mojave",
+            "10.14.2",
+            "detail",
+            "bug",
+            "think",
+            "started",
+            "happening",
+            "latest",
+            "update",
+            "open",
+            "existing",
+            "create",
+            "new",
+            "request",
+            "set",
+            "post",
+            "body",
+            "graphql",
+            "paste",
+            "text",
+            "body",
+            "new",
+            "nothing",
+            "happens",
+            "existing",
+            "existing",
+            "text",
+            "disappears",
+            "new",
+            "pasted",
+            "text",
+            "show"
+          ]
+        },
+        {
+          "author": "welcome",
+          "content": [
+            "opening",
+            "first",
+            "issue",
+            "'re",
+            "reporting",
+            "bug",
+            "please",
+            "make",
+            "sure",
+            "include",
+            "step",
+            "reproduce",
+            "'re",
+            "requesting",
+            "feature",
+            "please",
+            "provide",
+            "real",
+            "use",
+            "case",
+            "would",
+            "benefit",
+            "help",
+            "make",
+            "smooth",
+            "process",
+            "please",
+            "sure",
+            "first",
+            "read",
+            "contributing",
+            "guideline",
+            "http",
+            "//github.com/getinsomnia/insomnia/blob/master/contributing.md"
+          ]
+        },
+        {
+          "author": "gschier",
+          "content": [
+            "hmm",
+            "ca",
+            "n't",
+            "reproduce",
+            "would",
+            "possible",
+            "provide",
+            "screen",
+            "recording",
+            "issue"
+          ]
+        },
+        {
+          "author": "gschier",
+          "content": [
+            "unfortunately",
+            "still",
+            "ca",
+            "n't",
+            "reproduce",
+            "mac",
+            "using",
+            "6.4.1",
+            "happen",
+            "copy",
+            "text",
+            "anywhere",
+            "specifically",
+            "m",
+            "team",
+            "'m",
+            "thinking",
+            "might",
+            "cause",
+            "copying",
+            "rich",
+            "text",
+            "insomnia",
+            "editor",
+            "also",
+            "check",
+            "view",
+            "toggle",
+            "devtools",
+            "console",
+            "error",
+            "since",
+            "line",
+            "number",
+            "disappear",
+            "completely",
+            "paste",
+            "seems",
+            "like",
+            "'s",
+            "crashing",
+            "entire",
+            "codemirror",
+            "text",
+            "editor",
+            "default",
+            "empty",
+            "state",
+            "still",
+            "first",
+            "line",
+            "visible",
+            "image",
+            "http",
+            "//user-images.githubusercontent.com/587576/56774429-7993a880-6777-11e9-9ba0-82051eb5bbfd.png"
+          ]
+        },
+        {
+          "author": "gschier",
+          "content": [
+            "screen",
+            "shot",
+            "royledford",
+            "might",
+            "possible",
+            "vscode",
+            "act",
+            "differently",
+            "since",
+            "'s",
+            "backed",
+            "different",
+            "text",
+            "editor",
+            "framework",
+            "unfortunately",
+            "ca",
+            "n't",
+            "seem",
+            "find",
+            "source",
+            "copy",
+            "reproduces",
+            "happen",
+            "example",
+            "public",
+            "web",
+            "page",
+            "test"
+          ]
+        },
+        {
+          "author": "gschier",
+          "content": [
+            "could",
+            "also",
+            "funky",
+            "unicode",
+            "character",
+            "copying",
+            "get",
+            "preserved",
+            "pasting",
+            "vscode"
+          ]
+        },
+        {
+          "author": "gschier",
+          "content": [
+            "okay",
+            "able",
+            "reproduce",
+            "outcome",
+            "pressing",
+            "option+space",
+            "instead",
+            "insert",
+            "weird",
+            "unicode",
+            "character",
+            "http",
+            "//github.com/getinsomnia/insomnia/issues/1254"
+          ]
+        },
+        {
+          "author": "gschier",
+          "content": [
+            "research",
+            "look",
+            "like",
+            "option+space",
+            "insert",
+            "non-breaking",
+            "space",
+            "specifically",
+            "common",
+            "html",
+            "perhaps",
+            "copying",
+            "text",
+            "m",
+            "team",
+            "magical",
+            "space",
+            "get",
+            "included"
+          ]
+        },
+        {
+          "author": "gschier",
+          "content": [
+            "woah",
+            "sharing",
+            "tool",
+            "could",
+            "definitely",
+            "use",
+            "future",
+            "'ve",
+            "released",
+            "update",
+            "6.4.2",
+            "today",
+            "convert",
+            "non-breaking",
+            "space",
+            "graphql",
+            "query",
+            "normal",
+            "space",
+            "let",
+            "know",
+            "solves",
+            "problem"
+          ]
+        }
+      ]
+    }
+  ],
+  "security": null
+}

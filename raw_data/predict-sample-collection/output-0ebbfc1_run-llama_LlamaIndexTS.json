@@ -1,0 +1,107 @@
+{
+  "commit_index": "0ebbfc1",
+  "commit_url": "https://github.com/run-llama/LlamaIndexTS/commit/0ebbfc10312ecf7ae44c62a79462c2d2a9eea987",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "clean",
+      "docstore",
+      "generating",
+      "embedding",
+      "fail",
+      "1588"
+    ],
+    "description": [
+      "co-authored-by",
+      "marcus",
+      "schiesser",
+      "mail",
+      "marcusschiesser.de"
+    ],
+    "changed_files_count": 7,
+    "changed_files": [
+      ".changeset/proud-zoos-compare.md",
+      "packages/llamaindex/src/indices/vectorStore/index.ts",
+      "packages/llamaindex/src/ingestion/strategies/DuplicatesStrategy.ts",
+      "packages/llamaindex/src/ingestion/strategies/UpsertsAndDeleteStrategy.ts",
+      "packages/llamaindex/src/ingestion/strategies/UpsertsStrategy.ts",
+      "packages/llamaindex/src/ingestion/strategies/index.ts",
+      "packages/llamaindex/src/ingestion/strategies/rollback.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "5dec9f912a0b8722f92ca155b727ccb9f900f545"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "clean",
+        "docstore",
+        "generating",
+        "embedding",
+        "fail",
+        "1588"
+      ],
+      "total_discussions": 3,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "description",
+                "provided"
+              ],
+              "author": "marcusschiesser"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "latest",
+                "commit:55f3b0e",
+                "change",
+                "pr",
+                "included",
+                "next",
+                "version",
+                "bump",
+                "sure",
+                "mean",
+                "click",
+                "learn",
+                "changesets",
+                "click",
+                "'re",
+                "maintainer",
+                "want",
+                "add",
+                "another",
+                "changeset",
+                "pr"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 3,
+          "comments": [
+            {
+              "content": [
+                "open",
+                "stackblitz",
+                "commit:55f3b0e"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

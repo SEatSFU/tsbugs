@@ -1,0 +1,23 @@
+{
+  "commit_index": "b666757",
+  "commit_url": "https://github.com/chakra-ui/chakra-ui/commit/b6667571be59fa7fe68b2235db58f7a53642c80b",
+  "commit": {
+    "commit_message": [
+      "doc",
+      "fix",
+      "sponsor",
+      "image"
+    ],
+    "description": [],
+    "changed_files_count": 2,
+    "changed_files": [
+      "apps/www/components/site/sponsor-image.tsx",
+      "apps/www/components/site/sponsor.section.tsx"
+    ],
+    "changed_files_content": [],
+    "parent": "331cb8de892b51fd41c83e59f0234f6d2e65a30c"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

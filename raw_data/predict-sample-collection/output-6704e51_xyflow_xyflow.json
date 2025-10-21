@@ -1,0 +1,24 @@
+{
+  "commit_index": "6704e51",
+  "commit_url": "https://github.com/xyflow/xyflow/commit/6704e51d2a1d83f644cc1a7dd12b16cb80c6f64a",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "react",
+      "check",
+      "window",
+      "exists"
+    ],
+    "description": [],
+    "changed_files_count": 2,
+    "changed_files": [
+      "packages/react/src/container/FlowRenderer/index.tsx",
+      "packages/react/src/hooks/useGlobalKeyHandler.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "b2b4d5121d9736dbbe5a21a84271ebe38348756e"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

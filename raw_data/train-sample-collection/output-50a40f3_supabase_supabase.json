@@ -1,0 +1,108 @@
+{
+  "commit_index": "50a40f3",
+  "commit_url": "https://github.com/supabase/supabase/commit/50a40f3f64282815bf9b9887ad6fe2f277ca03aa",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "local",
+      "dev",
+      "download",
+      "aws",
+      "secret",
+      "manager",
+      "35410"
+    ],
+    "description": [
+      "fix",
+      "local",
+      "dev",
+      "download",
+      "aws",
+      "secret",
+      "manager",
+      "local",
+      "dev",
+      "secret",
+      "pull",
+      "failing",
+      "aws",
+      "secret",
+      "sdk",
+      "available",
+      "sdk",
+      "added",
+      "dev",
+      "dependency",
+      "root",
+      "remove",
+      "aws-sdk",
+      "apps",
+      "since",
+      "'s",
+      "present",
+      "root",
+      "package.json",
+      "--",
+      "--",
+      "--",
+      "--",
+      "co-authored-by",
+      "ivan",
+      "vasilov",
+      "vasilov.ivan",
+      "gmail.com"
+    ],
+    "changed_files_count": 4,
+    "changed_files": [
+      "apps/docs/package.json",
+      "apps/studio/package.json",
+      "package.json",
+      "pnpm-lock.yaml"
+    ],
+    "changed_files_content": [],
+    "parent": "62d00873c5bd5a8479a5db7903e170d6fef3fd7f"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "local",
+        "dev",
+        "download",
+        "aws",
+        "secret",
+        "manager",
+        "35410"
+      ],
+      "total_discussions": 1,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "beforelocal",
+                "dev",
+                "secret",
+                "pull",
+                "failing",
+                "aws",
+                "secret",
+                "sdk",
+                "available.aftersdk",
+                "added",
+                "dev",
+                "dependency",
+                "root"
+              ],
+              "author": "ivasilov"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

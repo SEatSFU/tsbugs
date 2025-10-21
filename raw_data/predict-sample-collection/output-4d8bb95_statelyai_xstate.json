@@ -1,0 +1,133 @@
+{
+  "commit_index": "4d8bb95",
+  "commit_url": "https://github.com/statelyai/xstate/commit/4d8bb95e46f1104e8568c303408d2a0b9219f199",
+  "commit": {
+    "commit_message": [
+      "fixed",
+      "launch.json",
+      "recent",
+      "pnpm",
+      "migration",
+      "5083"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      ".vscode/launch.json"
+    ],
+    "changed_files_content": [],
+    "parent": "571e266de5683f318bb69aa89bcdb115a42aca2f"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fixedlaunch.jsonafter",
+        "recent",
+        "pnpm",
+        "migration",
+        "5083"
+      ],
+      "total_discussions": 4,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "description",
+                "provided"
+              ],
+              "author": "Andarist"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "latest",
+                "commit:3fcca49",
+                "merging",
+                "pr",
+                "cause",
+                "version",
+                "bump",
+                "package",
+                "change",
+                "result",
+                "new",
+                "version",
+                "'re",
+                "good",
+                "go.if",
+                "change",
+                "result",
+                "version",
+                "bump",
+                "need",
+                "add",
+                "changeset",
+                "changesets",
+                "added",
+                "pr",
+                "'ll",
+                "see",
+                "package",
+                "pr",
+                "includes",
+                "changesets",
+                "associated",
+                "semver",
+                "type",
+                "click",
+                "learn",
+                "changesets",
+                "add",
+                "one",
+                "click",
+                "'re",
+                "maintainer",
+                "want",
+                "add",
+                "changeset",
+                "pr"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 3,
+          "comments": [
+            {
+              "content": [
+                "look",
+                "like",
+                "simpler",
+                "fix",
+                "5082",
+                "happy",
+                "whichever",
+                "one"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 4,
+          "comments": [
+            {
+              "content": [
+                "glad",
+                "worked"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

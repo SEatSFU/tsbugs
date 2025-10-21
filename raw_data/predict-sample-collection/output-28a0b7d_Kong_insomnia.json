@@ -1,0 +1,136 @@
+{
+  "commit_index": "28a0b7d",
+  "commit_url": "https://github.com/Kong/insomnia/commit/28a0b7dc1755d9f6c4f2bb2c3db4114fa15db532",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "parameter",
+      "replacement",
+      "swagger",
+      "importer",
+      "861"
+    ],
+    "description": [
+      "regex",
+      "greedily",
+      "matching",
+      "character",
+      "cause",
+      "problem",
+      "multiple",
+      "path",
+      "parameter",
+      "route",
+      "replacing",
+      "input",
+      "/api/v1/",
+      "channel",
+      "/items/",
+      "id",
+      "output",
+      "/api/v1/",
+      "channel",
+      "/items/",
+      "id"
+    ],
+    "changed_files_count": 1,
+    "changed_files": [
+      "packages/insomnia-importers/src/importers/swagger2.js"
+    ],
+    "changed_files_content": [],
+    "parent": "d7db623c66b0fdbeec8e87e3f4499be4a82a7802"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "parameter",
+        "replacement",
+        "swagger",
+        "importer",
+        "861"
+      ],
+      "total_discussions": 3,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "regex",
+                "greedily",
+                "matching",
+                "character",
+                "cause",
+                "problem",
+                "withmultiple",
+                "path",
+                "parameter",
+                "route",
+                "input",
+                "/api/v1/",
+                "channel",
+                "/items/",
+                "id",
+                "output",
+                "/api/v1/",
+                "channel",
+                "/items/",
+                "id",
+                "notice",
+                "matched",
+                "first",
+                "last"
+              ],
+              "author": "gschier"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "opening",
+                "pull",
+                "request",
+                "help",
+                "make",
+                "smooth",
+                "process",
+                "please",
+                "sure",
+                "first",
+                "read",
+                "thecontributing",
+                "guideline"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 3,
+          "comments": [
+            {
+              "content": [
+                "congrats",
+                "merging",
+                "first",
+                "pull",
+                "request",
+                "'re",
+                "helping",
+                "make",
+                "insomnia",
+                "awesome"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

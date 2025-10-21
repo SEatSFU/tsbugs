@@ -1,0 +1,203 @@
+{
+  "commit_index": "875e643",
+  "commit_url": "https://github.com/xyflow/xyflow/commit/875e6433bb53e4a3aeef5c7f335a3aa35a851969",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "svelte",
+      "use",
+      "user",
+      "viewport",
+      "store",
+      "init",
+      "viewport",
+      "close",
+      "4335",
+      "\u2026"
+    ],
+    "description": [
+      "fix",
+      "svelte",
+      "use",
+      "user",
+      "viewport",
+      "store",
+      "init",
+      "viewport",
+      "close",
+      "4335",
+      "refactor",
+      "svelte",
+      "viewport",
+      "init",
+      "chore",
+      "svelte",
+      "changelog"
+    ],
+    "changed_files_count": 5,
+    "changed_files": [
+      "examples/svelte/src/routes/examples/two-way-viewport/Flow.svelte",
+      "packages/svelte/CHANGELOG.md",
+      "packages/svelte/src/lib/container/SvelteFlow/SvelteFlow.svelte",
+      "packages/svelte/src/lib/container/Zoom/Zoom.svelte",
+      "packages/svelte/src/lib/container/Zoom/types.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "a22154b9ae7ef45e07ca7910afb5ad128c095972"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "svelte",
+        "use",
+        "user",
+        "viewport",
+        "store",
+        "init",
+        "viewport",
+        "close",
+        "4335",
+        "4338"
+      ],
+      "total_discussions": 1,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "description",
+                "provided"
+              ],
+              "author": "moklick"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "title": [
+        "svelteflow",
+        "setting",
+        "viewport",
+        "initialization",
+        "get",
+        "overridden",
+        "pan"
+      ],
+      "labels": [],
+      "comments": [
+        {
+          "author": "adamdva",
+          "content": [
+            "describe",
+            "bug",
+            "svelteflow",
+            "initialization",
+            "setting",
+            "writable",
+            "viewport",
+            "work",
+            "set",
+            "initial",
+            "state",
+            "flow",
+            "viewport",
+            "however",
+            "panning",
+            "flow",
+            "area",
+            "viewport",
+            "get",
+            "reset",
+            "x",
+            "0",
+            "0",
+            "zoom",
+            "1",
+            "expected",
+            "behavior",
+            "viewport",
+            "updated",
+            "initial",
+            "setting",
+            "reset",
+            "example",
+            "website",
+            "app",
+            "response",
+            "step",
+            "reproduce",
+            "bug",
+            "issue",
+            "create",
+            "initial",
+            "viewport",
+            "let",
+            "flowviewport",
+            "writable",
+            "x",
+            "200",
+            "200",
+            "zoom",
+            "0.5",
+            "set",
+            "viewport",
+            "viewport=",
+            "flowviewport",
+            "flow",
+            "load",
+            "click",
+            "canvas",
+            "drag",
+            "flow",
+            "see",
+            "viewport",
+            "reset",
+            "x",
+            "0",
+            "0",
+            "zoom",
+            "1",
+            "expected",
+            "behavior",
+            "viewport",
+            "updated",
+            "initial",
+            "setting",
+            "reset",
+            "screenshots",
+            "video",
+            "response",
+            "platform",
+            "o",
+            "window",
+            "browser",
+            "chrome",
+            "version",
+            "version",
+            "125.0.6422.141",
+            "official",
+            "build",
+            "64-bit",
+            "additional",
+            "context",
+            "response"
+          ]
+        },
+        {
+          "author": "moklick",
+          "content": [
+            "fixed",
+            "0.1.4"
+          ]
+        }
+      ]
+    }
+  ],
+  "security": null
+}

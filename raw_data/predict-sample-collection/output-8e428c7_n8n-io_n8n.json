@@ -1,0 +1,23 @@
+{
+  "commit_index": "8e428c7",
+  "commit_url": "https://github.com/n8n-io/n8n/commit/8e428c71335e77e0dc32ec61b4680793db47a5b4",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "upgrade",
+      "version",
+      "pnpm-lock.yaml",
+      "no-changelog"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      "pnpm-lock.yaml"
+    ],
+    "changed_files_content": [],
+    "parent": "5dd291cd004267263fc38712cf382650485d625e"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

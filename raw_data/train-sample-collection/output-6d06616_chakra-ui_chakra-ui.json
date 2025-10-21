@@ -1,0 +1,185 @@
+{
+  "commit_index": "6d06616",
+  "commit_url": "https://github.com/chakra-ui/chakra-ui/commit/6d06616b5fea29301a6cbe3ffad9569e7d99ca1a",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "button",
+      "button",
+      "loading",
+      "state",
+      "icon",
+      "10036"
+    ],
+    "description": [],
+    "changed_files_count": 3,
+    "changed_files": [
+      ".changeset/tame-phones-greet.md",
+      "apps/compositions/src/examples/button-with-loading-toggle.tsx",
+      "packages/react/src/components/loader/loader.tsx"
+    ],
+    "changed_files_content": [],
+    "parent": "ffc087acdf82cce955200f74a4cbfacc401b090b"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "button",
+        "button",
+        "loading",
+        "state",
+        "icon",
+        "10036"
+      ],
+      "total_discussions": 2,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "close",
+                "10035\ud83d\udcdd",
+                "descriptionfix.mp4\u26f3\ufe0f",
+                "current",
+                "behavior",
+                "update",
+                "please",
+                "describe",
+                "current",
+                "behavior",
+                "modifying\ud83d\ude80",
+                "new",
+                "behaviorplease",
+                "describe",
+                "behavior",
+                "change",
+                "pr",
+                "adds\ud83d\udca3",
+                "breaking",
+                "change",
+                "yes/no",
+                "additional",
+                "information"
+              ],
+              "author": "segunadebayo"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "latest",
+                "commit",
+                "b1cfc77",
+                "change",
+                "pr",
+                "included",
+                "next",
+                "version",
+                "bump",
+                "sure",
+                "mean",
+                "click",
+                "learn",
+                "changesets",
+                "click",
+                "'re",
+                "maintainer",
+                "want",
+                "add",
+                "another",
+                "changeset",
+                "pr"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "title": [
+        "button",
+        "layout",
+        "break",
+        "loading",
+        "state",
+        "using",
+        "icon",
+        "child"
+      ],
+      "labels": [],
+      "comments": [
+        {
+          "author": "isBatak",
+          "content": [
+            "description",
+            "chakra",
+            "ui",
+            "enters",
+            "loading",
+            "state",
+            "contains",
+            "icon",
+            "layout",
+            "break",
+            "causing",
+            "misalignment",
+            "spacing",
+            "issue",
+            "chakra-button-loading-with-icons.mp4",
+            "solution",
+            "also",
+            "apply",
+            "display",
+            "content",
+            "span",
+            "wrap",
+            "icon",
+            "label",
+            "inside",
+            "button",
+            "chakra-ui/packages/react/src/components/loader/loader.tsx",
+            "line",
+            "57",
+            "4c4ce58",
+            "span",
+            "opacity",
+            "0",
+            "child",
+            "span",
+            "link",
+            "reproduction",
+            "http",
+            "//stackblitz.com/edit/chakra-ui-v3-xfwnke19",
+            "file=src",
+            "2fapp.tsx",
+            "step",
+            "reproduce",
+            "chakra",
+            "ui",
+            "version",
+            "3.19.0",
+            "browser",
+            "response",
+            "operating",
+            "system",
+            "macos",
+            "window",
+            "linux",
+            "additional",
+            "information",
+            "response"
+          ]
+        }
+      ]
+    }
+  ],
+  "security": null
+}

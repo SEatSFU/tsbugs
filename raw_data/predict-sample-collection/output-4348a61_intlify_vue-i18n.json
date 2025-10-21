@@ -1,0 +1,182 @@
+{
+  "commit_index": "4348a61",
+  "commit_url": "https://github.com/intlify/vue-i18n/commit/4348a611d241072a8bbb94f61115edb5456b0f60",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "fix",
+      "inconsistent",
+      "node",
+      "version",
+      "1399"
+    ],
+    "description": [],
+    "changed_files_count": 12,
+    "changed_files": [
+      ".github/CONTRIBUTING.md",
+      "package.json",
+      "packages/core-base/package.json",
+      "packages/core/package.json",
+      "packages/devtools-if/package.json",
+      "packages/message-compiler/package.json",
+      "packages/petite-vue-i18n/package.json",
+      "packages/shared/package.json",
+      "packages/vue-devtools/package.json",
+      "packages/vue-i18n-bridge/package.json",
+      "packages/vue-i18n-core/package.json",
+      "packages/vue-i18n/package.json"
+    ],
+    "changed_files_content": [],
+    "parent": "c39d14384df6a950d90c7e65c08661a776b618ca"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "drop",
+        "node",
+        "v14",
+        "1399"
+      ],
+      "total_discussions": 3,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "related",
+                "issues.node",
+                "version",
+                "specified",
+                "codebase",
+                "doc",
+                "inconsistent.this",
+                "pr",
+                "unify",
+                "node",
+                "version",
+                "16",
+                "2",
+                "reason",
+                "node",
+                "16",
+                "tested",
+                "ci",
+                "i.e",
+                "..",
+                "github/workflows/ci.yml",
+                "associated",
+                "commit",
+                "to.github/workflows/ci.ymlis",
+                "newer",
+                "place",
+                "e.g",
+                "commit",
+                "topackage.json",
+                "first",
+                "pr",
+                "repository",
+                "might",
+                "missing",
+                "something"
+              ],
+              "author": "kazupon"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "contribution",
+                "node",
+                "v14",
+                "already",
+                "passed",
+                "lts",
+                "'ve",
+                "changed",
+                "title",
+                "name",
+                "pr",
+                "http",
+                "//github.com/nodejs/release",
+                "release-schedule"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 3,
+          "comments": [
+            {
+              "content": [
+                "hello",
+                "contributor",
+                "'d",
+                "like",
+                "know",
+                "new",
+                "version",
+                "9.3",
+                "higher",
+                "relies",
+                "node",
+                "16+",
+                "specific",
+                "feature",
+                "stated",
+                "node",
+                "16",
+                "tested",
+                "ci",
+                "i.e",
+                ".github/workflows/ci.yml",
+                "'s",
+                "fine",
+                "use",
+                "node",
+                "16",
+                "ci",
+                "would",
+                "harmless",
+                "user",
+                "still",
+                "running",
+                "node",
+                "14",
+                "risk",
+                "'m",
+                "embarrassing",
+                "say",
+                "'m",
+                "still",
+                "able",
+                "upgrade",
+                "old",
+                "project",
+                "node",
+                "16+",
+                "due",
+                "breaking",
+                "change",
+                "node",
+                "e.g.require",
+                "'fs",
+                "must",
+                "berequire",
+                "'node",
+                "f"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

@@ -1,0 +1,24 @@
+{
+  "commit_index": "76f99af",
+  "commit_url": "https://github.com/chakra-ui/chakra-ui/commit/76f99aff11ead89e0f97a7ed6bd132713f8fe8dd",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "use",
+      "client",
+      "handling",
+      "react",
+      "pkg"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      "packages/components/react/tsup.config.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "0b2c4049f9ac59554313b3032e8cf9a904141a5b"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

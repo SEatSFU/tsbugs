@@ -1,0 +1,250 @@
+{
+  "commit_index": "e17332c",
+  "commit_url": "https://github.com/Kong/insomnia/commit/e17332c7de30f1872ccef40f257df681e0ac18b5",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "response",
+      "timer",
+      "infinite",
+      "recursion",
+      "fix",
+      "838"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      "packages/insomnia-app/app/ui/components/response-timer.js"
+    ],
+    "changed_files_content": [],
+    "parent": "72280310c9c21e7bc9b34369066dfb22a0258a1c"
+  },
+  "pull_requests": null,
+  "issues": [
+    {
+      "title": [
+        "help",
+        "uncaught",
+        "error",
+        "maximum",
+        "update",
+        "depth",
+        "exceeded"
+      ],
+      "labels": [],
+      "comments": [
+        {
+          "author": "BakirRabiaSalma",
+          "content": [
+            "insomnia",
+            "version",
+            "___5.14.9",
+            "operating",
+            "system",
+            "___ubuntu",
+            "16.0.4",
+            "work",
+            "code",
+            "source",
+            "insomia",
+            "try",
+            "test",
+            "get",
+            "error",
+            "n't",
+            "understand",
+            "get",
+            "error",
+            "fix",
+            "detail",
+            "invariant.js",
+            "c115:42",
+            "uncaught",
+            "error",
+            "maximum",
+            "update",
+            "depth",
+            "exceeded",
+            "happen",
+            "component",
+            "repeatedly",
+            "call",
+            "setstate",
+            "inside",
+            "componentwillupdate",
+            "componentdidupdate",
+            "react",
+            "limit",
+            "number",
+            "nested",
+            "update",
+            "prevent",
+            "infinite",
+            "loop",
+            "invariant",
+            "invariant.js",
+            "c115:42",
+            "requestwork",
+            "react-dom.development.js",
+            "054f:10833",
+            "scheduleworkimpl",
+            "react-dom.development.js",
+            "054f:10732",
+            "schedulework",
+            "react-dom.development.js",
+            "054f:10689",
+            "object.enqueuesetstate",
+            "react-dom.development.js",
+            "054f:6212",
+            "responsetimer.component.setstate",
+            "react.development.js",
+            "7641:237",
+            "responsetimer._handleupdateelapsedtime",
+            "response-timer.js",
+            "d292:25",
+            "responsetimer.componentdidupdate",
+            "response-timer.js",
+            "d292:38",
+            "commitlifecycles",
+            "react-dom.development.js",
+            "054f:8778",
+            "commitalllifecycles",
+            "react-dom.development.js",
+            "054f:9946"
+          ]
+        },
+        {
+          "author": "gschier",
+          "content": [
+            "code",
+            "look",
+            "error",
+            "message",
+            "provided",
+            "explains",
+            "cause",
+            "pretty",
+            "well",
+            "happen",
+            "component",
+            "repeatedly",
+            "call",
+            "setstate",
+            "inside",
+            "componentwillupdate",
+            "componentdidupdate",
+            "seems",
+            "like",
+            "'re",
+            "calling",
+            "setstate",
+            "wrong",
+            "place"
+          ]
+        },
+        {
+          "author": "gschier",
+          "content": [
+            "upgraded",
+            "electron",
+            "local",
+            "project",
+            "see",
+            "error",
+            "fix"
+          ]
+        },
+        {
+          "author": "gschier",
+          "content": [
+            "'m",
+            "sure",
+            "n't",
+            "occurring",
+            "..."
+          ]
+        },
+        {
+          "author": "gschier",
+          "content": [
+            "work",
+            "latest",
+            "version",
+            "develop",
+            "branch"
+          ]
+        },
+        {
+          "author": "insub",
+          "content": [
+            "problem",
+            "still",
+            "exists",
+            "seems",
+            "fix",
+            "gschier",
+            "merge",
+            "develop",
+            "branch",
+            "development",
+            "environment",
+            "window",
+            "7",
+            "gschier"
+          ]
+        },
+        {
+          "author": "dimitropoulos",
+          "content": [
+            "insub",
+            "reproduction",
+            "step",
+            "unfortunately",
+            "fix",
+            "luizmariz",
+            "viable",
+            "anymore",
+            "since",
+            "componentwillreceiveprops",
+            "remove",
+            "react",
+            "17",
+            "'d",
+            "need",
+            "take",
+            "one",
+            "option",
+            "outlined",
+            "http",
+            "//reactjs.org/docs/react-component.html",
+            "unsafe_componentwillreceiveprops",
+            "pull",
+            "request",
+            "welcome",
+            "reproduction",
+            "step",
+            "even",
+            "welcome"
+          ]
+        },
+        {
+          "author": "insub",
+          "content": [
+            "dimitropoulos",
+            "'m",
+            "using",
+            "unsafe_componentwillreceiveprops",
+            "seems",
+            "ok",
+            "'m",
+            "sure",
+            "'s",
+            "right",
+            "way"
+          ]
+        }
+      ]
+    }
+  ],
+  "security": null
+}

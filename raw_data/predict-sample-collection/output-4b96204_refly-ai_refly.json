@@ -1,0 +1,62 @@
+{
+  "commit_index": "4b96204",
+  "commit_url": "https://github.com/refly-ai/refly/commit/4b962044383e6bd808183b1941dccf001efe241f",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "style",
+      "correct",
+      "cs",
+      "syntax",
+      "update",
+      "color",
+      "token",
+      "value"
+    ],
+    "description": [
+      "fixed",
+      "missing",
+      "semicolon",
+      "antd-overrides.css",
+      "proper",
+      "cs",
+      "syntax",
+      "removed",
+      "unnecessary",
+      "whitespace",
+      "audio-controls.css",
+      "clean",
+      "file",
+      "updated",
+      "color",
+      "token",
+      "value",
+      "tokens.css",
+      "use",
+      "lowercase",
+      "hex",
+      "code",
+      "consistency",
+      "across",
+      "codebase",
+      "ensured",
+      "proper",
+      "formatting",
+      "rgba",
+      "value",
+      "better",
+      "readability"
+    ],
+    "changed_files_count": 3,
+    "changed_files": [
+      "apps/web/src/antd-overrides.css",
+      "apps/web/src/audio-controls.css",
+      "apps/web/src/tokens.css"
+    ],
+    "changed_files_content": [],
+    "parent": "81be387d77b4dd0dad62df8c399a1054fb8d6174"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

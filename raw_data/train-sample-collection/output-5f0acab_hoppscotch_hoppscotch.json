@@ -1,0 +1,64 @@
+{
+  "commit_index": "5f0acab",
+  "commit_url": "https://github.com/hoppscotch/hoppscotch/commit/5f0acab05580d8db6f86a44d723c8ed3a7d0e77a",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "kernel-io",
+      "call",
+      "via",
+      "openexternallink",
+      "4807"
+    ],
+    "description": [],
+    "changed_files_count": 9,
+    "changed_files": [
+      "packages/hoppscotch-common/src/components/app/WhatsNewDialog.vue",
+      "packages/hoppscotch-common/src/components/collections/ImportExport.vue",
+      "packages/hoppscotch-common/src/components/collections/graphql/ImportExport.vue",
+      "packages/hoppscotch-common/src/components/environments/ImportExport.vue",
+      "packages/hoppscotch-common/src/platform/kernel-io.ts",
+      "packages/hoppscotch-common/src/platform/std/kernel-interceptors/extension/index.ts",
+      "packages/hoppscotch-common/src/platform/std/kernel-interceptors/extension/store.ts",
+      "packages/hoppscotch-common/src/platform/std/kernel-io.ts",
+      "packages/hoppscotch-common/src/services/spotlight/searchers/general.searcher.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "ae0303415a755e50d02636a3212b6a51bc317048"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "kernel-io",
+        "call",
+        "viaopenexternallink",
+        "4807"
+      ],
+      "total_discussions": 1,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "pr",
+                "fix",
+                "remaining",
+                "call",
+                "toopenexternallinkthat",
+                "'s",
+                "routed",
+                "throughkernel-io"
+              ],
+              "author": "jamesgeorge007"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

@@ -1,0 +1,80 @@
+{
+  "commit_index": "871a1d7",
+  "commit_url": "https://github.com/n8n-io/n8n/commit/871a1d7dad839b080df3a27fb68ea90033562f3f",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "editor",
+      "fix",
+      "event",
+      "bus",
+      "test",
+      "5119"
+    ],
+    "description": [
+      "create",
+      "webhook",
+      "instead",
+      "sentry",
+      "destination",
+      "remove",
+      "wait"
+    ],
+    "changed_files_count": 1,
+    "changed_files": [
+      "cypress/e2e/10-settings-log-streaming.cy.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "885177861a3305571bcc13005294d95e78fe7510"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "editor",
+        "fix",
+        "event",
+        "bus",
+        "test",
+        "5119"
+      ],
+      "total_discussions": 2,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "github",
+                "issue",
+                "community",
+                "forum",
+                "post",
+                "link",
+                "close",
+                "automatically"
+              ],
+              "author": "flipswitchingmonkey"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "got",
+                "released",
+                "withn8n",
+                "0.211.0"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

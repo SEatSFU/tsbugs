@@ -1,0 +1,163 @@
+{
+  "commit_index": "e3c7a9c",
+  "commit_url": "https://github.com/statelyai/xstate/commit/e3c7a9caf025e37d2e2106abff05628abbc8dd4a",
+  "commit": {
+    "commit_message": [
+      "fixed",
+      "issue",
+      "executing",
+      "action",
+      "response",
+      "received",
+      "b\u2026"
+    ],
+    "description": [],
+    "changed_files_count": 3,
+    "changed_files": [
+      ".changeset/silver-jokes-juggle.md",
+      "packages/core/src/interpreter.ts",
+      "packages/core/test/predictableExec.test.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "95a6a06d0041d0201cf66ab8962fb8769187584b"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fixed",
+        "issue",
+        "executing",
+        "action",
+        "response",
+        "received",
+        "batched",
+        "event",
+        "usingpredictableactionarguments",
+        "3563"
+      ],
+      "total_discussions": 4,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "reported",
+                "richtera"
+              ],
+              "author": "Andarist"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "latest",
+                "commit:3fe5a20",
+                "change",
+                "pr",
+                "included",
+                "next",
+                "version",
+                "bump",
+                "sure",
+                "mean",
+                "click",
+                "learn",
+                "changesets",
+                "click",
+                "'re",
+                "maintainer",
+                "want",
+                "add",
+                "another",
+                "changeset",
+                "pr"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 3,
+          "comments": [
+            {
+              "content": [
+                "make",
+                "big",
+                "change",
+                "easier",
+                "\u2014",
+                "review",
+                "code",
+                "small",
+                "group",
+                "related",
+                "file",
+                "know",
+                "start",
+                "\u2014",
+                "see",
+                "whole",
+                "change",
+                "glance",
+                "take",
+                "code",
+                "tour",
+                "\u2014",
+                "explore",
+                "change",
+                "interactive",
+                "tour",
+                "make",
+                "comment",
+                "review",
+                "\u2014",
+                "fully",
+                "sync",
+                "\u2019",
+                "ed",
+                "github",
+                "try"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 4,
+          "comments": [
+            {
+              "content": [
+                "pull",
+                "request",
+                "automatically",
+                "built",
+                "testable",
+                "incodesandbox",
+                "see",
+                "build",
+                "info",
+                "built",
+                "library",
+                "clickhereor",
+                "icon",
+                "next",
+                "commit",
+                "sha",
+                "latest",
+                "deployment",
+                "branch",
+                "based",
+                "commit3fe5a20"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

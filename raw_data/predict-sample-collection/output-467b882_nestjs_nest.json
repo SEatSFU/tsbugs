@@ -1,0 +1,24 @@
+{
+  "commit_index": "467b882",
+  "commit_url": "https://github.com/nestjs/nest/commit/467b8827352ad51f41a9389316ad53d2add3b26b",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "deps",
+      "update",
+      "dependency",
+      "nestjs/swagger",
+      "v8.1.1"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      "sample/11-swagger/package.json"
+    ],
+    "changed_files_content": [],
+    "parent": "7368436fc397eb1071ed7977d21992621a19117d"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

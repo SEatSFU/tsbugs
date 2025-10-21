@@ -1,0 +1,25 @@
+{
+  "commit_index": "86daec7",
+  "commit_url": "https://github.com/refly-ai/refly/commit/86daec732231ad445549d011a888200bcc55900a",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "importresourcemodal",
+      "reduce",
+      "maximum",
+      "width",
+      "improved",
+      "layout"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      "packages/ai-workspace-common/src/components/import-resource/index.tsx"
+    ],
+    "changed_files_content": [],
+    "parent": "d3e69a14420b815efb8cbd8a9cd4505f8b86b883"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

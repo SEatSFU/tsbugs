@@ -1,0 +1,133 @@
+{
+  "commit_index": "86e6b58",
+  "commit_url": "https://github.com/statelyai/xstate/commit/86e6b58dd18337202df8e319a42f85523d5d0d30",
+  "commit": {
+    "commit_message": [
+      "xstate/store",
+      "fix",
+      "type",
+      "emitting",
+      "payload",
+      "5230"
+    ],
+    "description": [
+      "fix",
+      "type",
+      "emitting",
+      "payload",
+      "add",
+      "test",
+      "optional",
+      "payload",
+      "allow",
+      "empty",
+      "object",
+      "fix",
+      "type",
+      "remove",
+      "comment",
+      "allow",
+      "optional",
+      "payload",
+      "--",
+      "--",
+      "--",
+      "--",
+      "co-authored-by",
+      "mateusz",
+      "burzy\u0144ski",
+      "mateuszburzynski",
+      "gmail.com"
+    ],
+    "changed_files_count": 3,
+    "changed_files": [
+      ".changeset/wild-shoes-eat.md",
+      "packages/xstate-store/src/types.ts",
+      "packages/xstate-store/test/store.test.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "ecf857b808fde08ace806551b0bf1363289893d8"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "xstate/store",
+        "fix",
+        "type",
+        "emitting",
+        "payload",
+        "5230"
+      ],
+      "total_discussions": 2,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "type",
+                "emitting",
+                "event",
+                "payload",
+                "fixed",
+                "following",
+                "code",
+                "work",
+                "conststore=createstore",
+                "emits",
+                "incremented",
+                "inc",
+                "ctx",
+                "ev",
+                "enq",
+                "//",
+                "payload",
+                "expectedenq.emit.incremented",
+                "previously",
+                "would",
+                "error",
+                "theincrementedevent",
+                "expected",
+                "payload"
+              ],
+              "author": "davidkpiano"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "latest",
+                "commit:540eeb9",
+                "change",
+                "pr",
+                "included",
+                "next",
+                "version",
+                "bump",
+                "sure",
+                "mean",
+                "click",
+                "learn",
+                "changesets",
+                "click",
+                "'re",
+                "maintainer",
+                "want",
+                "add",
+                "another",
+                "changeset",
+                "pr"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

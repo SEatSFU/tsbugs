@@ -1,0 +1,69 @@
+{
+  "commit_index": "fe5978d",
+  "commit_url": "https://github.com/type-challenges/type-challenges/commit/fe5978de31581ed63a7e292a28ae89a0417a9470",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "merge",
+      "update",
+      "test",
+      "case",
+      "2885"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      "questions/599-medium-merge/test-cases.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "7246bb963c1ba24abd0e4151d1fc63a8084a3ad3"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "merge",
+        "update",
+        "test",
+        "case",
+        "2885"
+      ],
+      "total_discussions": 1,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "saw",
+                "solution",
+                "wrong",
+                "acceptable",
+                "old",
+                "test",
+                "case",
+                "one",
+                "type",
+                "merge",
+                "f",
+                "k",
+                "keyof",
+                "f",
+                "k",
+                "extends",
+                "keyof",
+                "k",
+                "f",
+                "k"
+              ],
+              "author": "antfu"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

@@ -1,0 +1,129 @@
+{
+  "commit_index": "b9010e6",
+  "commit_url": "https://github.com/react-native-community/cli/commit/b9010e62189c082307c4b2b973e461e22085c3e0",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "show",
+      "correct",
+      "init",
+      "run",
+      "instruction",
+      "--",
+      "directory",
+      "736"
+    ],
+    "description": [
+      "run",
+      "instruction",
+      "use",
+      "projectname",
+      "updated",
+      "use",
+      "projectdir",
+      "display",
+      "correct",
+      "instruction",
+      "using",
+      "--",
+      "direction",
+      "option"
+    ],
+    "changed_files_count": 1,
+    "changed_files": [
+      "packages/cli/src/commands/init/printRunInstructions.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "e39ead0af08f3c6accb06794ed6bc5e031ca082a"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "update",
+        "run",
+        "instruction",
+        "use",
+        "projectdir",
+        "736"
+      ],
+      "total_discussions": 3,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "summary",
+                "run",
+                "instruction",
+                "use",
+                "projectnameupdated",
+                "use",
+                "projectdir",
+                "display",
+                "correct",
+                "instruction",
+                "using",
+                "--",
+                "direction",
+                "option"
+              ],
+              "author": "thymikee"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "change",
+                "look",
+                "good",
+                "defer",
+                "final",
+                "merge",
+                "thymikeesince",
+                "n't",
+                "following",
+                "code",
+                "change",
+                "past",
+                "week"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 3,
+          "comments": [
+            {
+              "content": [
+                "intentionally",
+                "displayed",
+                "project",
+                "name",
+                "command",
+                "shorter",
+                "--",
+                "directoryparam",
+                "make",
+                "sense",
+                "display",
+                "whole",
+                "path",
+                "even",
+                "though",
+                "'s",
+                "uglier"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

@@ -1,0 +1,108 @@
+{
+  "commit_index": "39100ab",
+  "commit_url": "https://github.com/fabricjs/fabric.js/commit/39100abfe7df12ff0f3b7ee407b615bdd66a2086",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "changewidth",
+      "support",
+      "number",
+      "transform.originx/y",
+      "9909"
+    ],
+    "description": [],
+    "changed_files_count": 5,
+    "changed_files": [
+      "CHANGELOG.md",
+      "src/controls/changeWidth.test.ts",
+      "src/controls/changeWidth.ts",
+      "src/controls/util.ts",
+      "test/unit/controls_handlers.js"
+    ],
+    "changed_files_content": [],
+    "parent": "52bd5239067174275b3ca5bd59ebb8602d770ac1"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "changewidth",
+        "support",
+        "number",
+        "transform.originx/y",
+        "9909"
+      ],
+      "total_discussions": 4,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "sincechangewidthis",
+                "exported",
+                "reusable",
+                "support",
+                "numbertransform.originx/yinstead",
+                "checking",
+                "string",
+                "origin",
+                "fabric",
+                "'s",
+                "built-in_setupcurrenttransformusecanvas._getoriginfromcornerfor",
+                "origin",
+                "value",
+                "assigns",
+                "string",
+                "value",
+                "originx/ycan",
+                "number",
+                "well"
+              ],
+              "author": "asturur"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "open",
+                "branch",
+                "inweb",
+                "editor\u2022vs",
+                "code\u2022insidersopenpreview"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 3,
+          "comments": [
+            {
+              "content": [
+                "seems",
+                "good"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 4,
+          "comments": [
+            {
+              "content": [
+                "added",
+                "changelog"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

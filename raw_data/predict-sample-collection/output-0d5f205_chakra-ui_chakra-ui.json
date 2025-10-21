@@ -1,0 +1,25 @@
+{
+  "commit_index": "0d5f205",
+  "commit_url": "https://github.com/chakra-ui/chakra-ui/commit/0d5f205f84011254860daf107af7362a0dc83402",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "deps",
+      "update",
+      "dependency",
+      "storybook",
+      "v8.6.12"
+    ],
+    "description": [],
+    "changed_files_count": 2,
+    "changed_files": [
+      "package.json",
+      "pnpm-lock.yaml"
+    ],
+    "changed_files_content": [],
+    "parent": "7b9564a88c3793d34c7714ffbbfd865c02433627"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

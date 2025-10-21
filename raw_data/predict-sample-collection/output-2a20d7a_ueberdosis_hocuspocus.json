@@ -1,0 +1,148 @@
+{
+  "commit_index": "2a20d7a",
+  "commit_url": "https://github.com/ueberdosis/hocuspocus/commit/2a20d7a0c75aa16b5c80d9308f9d8e06ed56be43",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "632",
+      "export",
+      "directconnection",
+      "interface"
+    ],
+    "description": [],
+    "changed_files_count": 2,
+    "changed_files": [
+      "packages/server/src/DirectConnection.ts",
+      "packages/server/src/types.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "ba6a09d0ffe7aa1d1373d8ad8334128c867e4b53"
+  },
+  "pull_requests": null,
+  "issues": [
+    {
+      "title": [
+        "server",
+        "n't",
+        "export",
+        "directconnection"
+      ],
+      "labels": [
+        "bug"
+      ],
+      "comments": [
+        {
+          "author": "canadaduane",
+          "content": [
+            "description",
+            "server",
+            "package",
+            "export",
+            "new",
+            "directconnection",
+            "class",
+            "type",
+            "step",
+            "reproduce",
+            "bug",
+            "import",
+            "directconnection",
+            "hocuspocus/server",
+            "expected",
+            "behavior",
+            "type",
+            "available",
+            "case",
+            "want",
+            "able",
+            "pas",
+            "around",
+            "connection",
+            "object",
+            "additional",
+            "context",
+            "forgot",
+            "add",
+            "index.ts",
+            "file",
+            "made",
+            "pr",
+            "directconnection"
+          ]
+        },
+        {
+          "author": "janthurau",
+          "content": [
+            "make",
+            "sense",
+            "'ve",
+            "aded",
+            "typing"
+          ]
+        },
+        {
+          "author": "shincurry",
+          "content": [
+            "directconnection",
+            "class",
+            "still",
+            "exported",
+            "index.ts",
+            "file",
+            "currently",
+            "2.7.1",
+            "t",
+            "import",
+            "directconnection",
+            "hocuspocus/server",
+            "//",
+            "actual",
+            "directconnectioninterface",
+            "directconnection",
+            "class",
+            "using",
+            "node.js",
+            "typescript",
+            "module",
+            "commonjs",
+            "workaround",
+            "directly",
+            "import",
+            "directconnection.ts",
+            "file",
+            "import",
+            "directconnection",
+            "hocuspocus/server/dist/packages/server/src/directconnection",
+            "node.js",
+            "typescript",
+            "module",
+            "nodenext",
+            "way",
+            "import",
+            "directconnection",
+            "class",
+            "type",
+            "fix",
+            "rename",
+            "directconnection",
+            "directconnectioninterface",
+            "types.ts",
+            "file",
+            "add",
+            "export",
+            "'./directconnection.js",
+            "index.ts",
+            "file",
+            "change",
+            "export",
+            "directconnection",
+            "class",
+            "interface",
+            "type"
+          ]
+        }
+      ]
+    }
+  ],
+  "security": null
+}

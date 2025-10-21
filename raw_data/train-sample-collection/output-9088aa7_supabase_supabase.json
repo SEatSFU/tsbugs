@@ -1,0 +1,120 @@
+{
+  "commit_index": "9088aa7",
+  "commit_url": "https://github.com/supabase/supabase/commit/9088aa7fe8fcdd046abc73e143f3a397f1dddc02",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "query",
+      "block",
+      "showing",
+      "label",
+      "35328"
+    ],
+    "description": [
+      "fix",
+      "query",
+      "block",
+      "showing",
+      "label",
+      "readd",
+      "cs",
+      "file",
+      "react-resizable",
+      "add",
+      "react-resizable",
+      "package",
+      "resolve",
+      "style.css",
+      "file",
+      "found",
+      "issue",
+      "--",
+      "--",
+      "--",
+      "--",
+      "co-authored-by",
+      "ivan",
+      "vasilov",
+      "vasilov.ivan",
+      "gmail.com"
+    ],
+    "changed_files_count": 3,
+    "changed_files": [
+      "apps/studio/components/ui/QueryBlock/QueryBlock.tsx",
+      "apps/studio/package.json",
+      "pnpm-lock.yaml"
+    ],
+    "changed_files_content": [],
+    "parent": "1a71f3487ce0ce0f5cca96ee76c88785bf664a8b"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "query",
+        "block",
+        "showing",
+        "label",
+        "35328"
+      ],
+      "total_discussions": 1,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "realised",
+                "query",
+                "block",
+                "longer",
+                "render",
+                "x",
+                "axis",
+                "label",
+                "used",
+                "traced",
+                "'s",
+                "fromformattedqueryresultin",
+                "queryblock",
+                "'s",
+                "trying",
+                "convert",
+                "x",
+                "axis",
+                "value",
+                "number",
+                "resulting",
+                "x",
+                "axis",
+                "key",
+                "becomingnanam",
+                "also",
+                "introducing",
+                "axis",
+                "label",
+                "cause",
+                "think",
+                "'ll",
+                "helpful",
+                "easier",
+                "data",
+                "visualizationbeforein",
+                "assistant",
+                "custom",
+                "report",
+                "assistant",
+                "custom",
+                "report"
+              ],
+              "author": "ivasilov"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

@@ -1,0 +1,382 @@
+{
+  "commit_index": "66e8bb4",
+  "commit_url": "https://github.com/ueberdosis/hocuspocus/commit/66e8bb427750286f1585b1057e28f50f9c3f14d5",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "multiple",
+      "socket",
+      "reconnection",
+      "698"
+    ],
+    "description": [
+      "fix",
+      "multiple",
+      "socket",
+      "reconnection",
+      "replace",
+      "uuid",
+      "identifier",
+      "number"
+    ],
+    "changed_files_count": 1,
+    "changed_files": [
+      "packages/provider/src/HocuspocusProviderWebsocket.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "8be833f6050843659de08fac0fa6d878e8c47209"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "multiple",
+        "socket",
+        "reconnection",
+        "698"
+      ],
+      "total_discussions": 8,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "currently",
+                "websocket",
+                "listener",
+                "cleaned",
+                "disconnection",
+                "andcreatewebsocketconnectionis",
+                "called",
+                "multiple",
+                "source",
+                "result",
+                "multiple",
+                "socket",
+                "created",
+                "every",
+                "time",
+                "user",
+                "come",
+                "back",
+                "online",
+                "sleep",
+                "disruption",
+                "connectivity.steps",
+                "reproduce",
+                "open",
+                "playground",
+                "connect",
+                "remote",
+                "websocket",
+                "server",
+                "wont",
+                "occur",
+                "connecting",
+                "127.0.0.1",
+                "switch",
+                "wifi",
+                "network",
+                "binitial",
+                "socket",
+                "timeout",
+                "depending",
+                "yourmessagereconnecttimeoutvalue",
+                "hearbeat",
+                "failure",
+                ".new",
+                "socket",
+                "createdbrowser",
+                "call",
+                "onclose",
+                "minute",
+                "network",
+                "tab",
+                "show",
+                "socket",
+                "duration",
+                "instead",
+                "pending",
+                "state",
+                "close",
+                "received",
+                "event",
+                "trigger",
+                "new",
+                "connection",
+                "setup.two",
+                "connection",
+                "open",
+                "listener",
+                "attached",
+                "sending/received",
+                "data",
+                "however",
+                "hocuspocus",
+                "reference",
+                "one",
+                "keep",
+                "repeating",
+                "process",
+                "number",
+                "socket",
+                "keep",
+                "increasing",
+                "connected",
+                "socket",
+                "go",
+                "retry",
+                "loop",
+                "new",
+                "socket",
+                "created",
+                "close",
+                "event",
+                "sent",
+                "browser.the",
+                "online",
+                "event",
+                "listener",
+                "also",
+                "callscreatewebsocketconnectionafter",
+                "change",
+                "1",
+                "socket",
+                "active",
+                "given",
+                "time",
+                "pr",
+                "reference",
+                "fix",
+                "underlying",
+                "issue",
+                "fixed",
+                "multiple",
+                "way",
+                "think",
+                "event",
+                "emitter",
+                "bound",
+                "lifecycle",
+                "websocket",
+                "currently",
+                "even",
+                "stale",
+                "websockets",
+                "emit",
+                "event",
+                "handled",
+                "latest",
+                "context.ran",
+                "lint",
+                "fix",
+                "extra",
+                "lint",
+                "changes.attachwebsocketlistenersstores",
+                "reference",
+                "attached",
+                "listeners.cleanupwebsocketremoves",
+                "listener",
+                "resetting",
+                "reference",
+                "websocket.onlineevent",
+                "listener",
+                "removed",
+                "lead",
+                "duplicate",
+                "socket",
+                "connection",
+                "established",
+                "socket",
+                "retried",
+                "anyway",
+                "infinite",
+                "time",
+                "initial",
+                "connection",
+                "fails",
+                "retry",
+                "wrapper",
+                "take",
+                "attempt",
+                "number",
+                "time",
+                "set.added",
+                "identifier",
+                "socket",
+                "instance.before",
+                "multiple.connections.720.movafter"
+              ],
+              "author": "janthurau"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "fails",
+                "run",
+                "next",
+                "j",
+                "ssr.we",
+                "probably",
+                "need",
+                "add",
+                "check",
+                "switch",
+                "crypto",
+                "import",
+                "based",
+                "environment",
+                "browser",
+                "v",
+                "node"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 3,
+          "comments": [
+            {
+              "content": [
+                "pr",
+                "interesting",
+                "bug",
+                "needcrypto",
+                "use",
+                "incrementing",
+                "number"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 4,
+          "comments": [
+            {
+              "content": [
+                "pr",
+                "interesting",
+                "bug",
+                "needcrypto",
+                "use",
+                "incrementing",
+                "number",
+                "yup",
+                "fixed"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 5,
+          "comments": [
+            {
+              "content": [
+                "lot",
+                "fix",
+                "detailed",
+                "reproduction",
+                "step",
+                "even",
+                "video",
+                "merging"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 6,
+          "comments": [
+            {
+              "content": [
+                "customized",
+                "websocketpolyfill",
+                "encryption",
+                "decryption",
+                "websocket",
+                "noticed",
+                "change",
+                "replaced",
+                "onmessage",
+                "addeventlistener",
+                "hook",
+                "returned",
+                "information"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 7,
+          "comments": [
+            {
+              "content": [
+                "customized",
+                "websocketpolyfill",
+                "encryption",
+                "decryption",
+                "websocket",
+                "noticed",
+                "change",
+                "replaced",
+                "onmessage",
+                "addeventlistener",
+                "hook",
+                "returned",
+                "information",
+                "xymfsyou",
+                "override",
+                "addeventlistener",
+                "capture",
+                "listener",
+                "formessagehandler",
+                "inside"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 8,
+          "comments": [
+            {
+              "content": [
+                "customized",
+                "websocketpolyfill",
+                "encryption",
+                "decryption",
+                "websocket",
+                "noticed",
+                "change",
+                "replaced",
+                "onmessage",
+                "addeventlistener",
+                "hook",
+                "returned",
+                "information",
+                "xymfsyou",
+                "override",
+                "addeventlistener",
+                "capture",
+                "listener",
+                "formessagehandler",
+                "inside",
+                "tip",
+                "work",
+                "fine",
+                "modification"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

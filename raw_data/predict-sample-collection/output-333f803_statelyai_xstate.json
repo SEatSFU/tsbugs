@@ -1,0 +1,320 @@
+{
+  "commit_index": "333f803",
+  "commit_url": "https://github.com/statelyai/xstate/commit/333f803f96bae8ecb9a686160c0daca493f9979b",
+  "commit": {
+    "commit_message": [
+      "fixed",
+      "regression",
+      "caused",
+      "machine.getinitialstate",
+      "value",
+      "t\u2026"
+    ],
+    "description": [
+      "fixed",
+      "regression",
+      "caused",
+      "machine.getinitialstate",
+      "value",
+      "follow",
+      "always",
+      "transition",
+      "correctly",
+      "move",
+      "added",
+      "test",
+      "appropriate",
+      "place"
+    ],
+    "changed_files_count": 4,
+    "changed_files": [
+      ".changeset/wicked-radios-brush.md",
+      "packages/core/src/StateNode.ts",
+      "packages/core/src/interpreter.ts",
+      "packages/core/test/machine.test.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "9e35294e9c13172c4822b4849d16c88189e33c2a"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fixed",
+        "regression",
+        "causedmachine.getinitialstate",
+        "value",
+        "follow",
+        "always",
+        "transition",
+        "correctly",
+        "3599"
+      ],
+      "total_discussions": 4,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "fix",
+                "3544"
+              ],
+              "author": "Andarist"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "latest",
+                "commit:64c721a",
+                "change",
+                "pr",
+                "included",
+                "next",
+                "version",
+                "bump",
+                "sure",
+                "mean",
+                "click",
+                "learn",
+                "changesets",
+                "click",
+                "'re",
+                "maintainer",
+                "want",
+                "add",
+                "another",
+                "changeset",
+                "pr"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 3,
+          "comments": [
+            {
+              "content": [
+                "make",
+                "big",
+                "change",
+                "easier",
+                "\u2014",
+                "review",
+                "code",
+                "small",
+                "group",
+                "related",
+                "file",
+                "know",
+                "start",
+                "\u2014",
+                "see",
+                "whole",
+                "change",
+                "glance",
+                "take",
+                "code",
+                "tour",
+                "\u2014",
+                "explore",
+                "change",
+                "interactive",
+                "tour",
+                "make",
+                "comment",
+                "review",
+                "\u2014",
+                "fully",
+                "sync",
+                "\u2019",
+                "ed",
+                "github",
+                "try"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 4,
+          "comments": [
+            {
+              "content": [
+                "pull",
+                "request",
+                "automatically",
+                "built",
+                "testable",
+                "incodesandbox",
+                "see",
+                "build",
+                "info",
+                "built",
+                "library",
+                "clickhereor",
+                "icon",
+                "next",
+                "commit",
+                "sha",
+                "latest",
+                "deployment",
+                "branch",
+                "based",
+                "commit64c721a"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "title": [
+        "bug",
+        "eventless",
+        "transition",
+        "parallel",
+        "state",
+        "taken",
+        "anymore",
+        "starting",
+        "interpreter",
+        "given",
+        "state"
+      ],
+      "labels": [
+        "bug"
+      ],
+      "comments": [
+        {
+          "author": "fparga",
+          "content": [
+            "description",
+            "eventless",
+            "transition",
+            "parallel",
+            "state",
+            "taken",
+            "anymore",
+            "interpreter",
+            "started",
+            "given",
+            "state",
+            "expected",
+            "result",
+            "eventless",
+            "transition",
+            "always",
+            "taken",
+            "example",
+            "linked",
+            "reproduction",
+            "sandbox",
+            "expected",
+            "result",
+            "state.value",
+            "==",
+            "b",
+            "x",
+            "bar",
+            "result",
+            "obtained",
+            "xstate",
+            "version",
+            "4.33.0",
+            "actual",
+            "result",
+            "eventless",
+            "transition",
+            "example",
+            "taken",
+            "anymore",
+            "xstate",
+            "version",
+            "4.33.0",
+            "instead",
+            "get",
+            "state.value",
+            "==",
+            "b",
+            "x",
+            "foo",
+            "reproduction",
+            "http",
+            "//codesandbox.io/s/affectionate-thunder-esq8rn",
+            "file=/src/index.js",
+            "additional",
+            "context",
+            "look",
+            "like",
+            "regression",
+            "introduced",
+            "version",
+            "4.33.0"
+          ]
+        },
+        {
+          "author": "Andarist",
+          "content": [
+            "repro",
+            "case",
+            "really",
+            "appreciate",
+            "'m",
+            "gon",
+            "na",
+            "take",
+            "look",
+            "soon"
+          ]
+        },
+        {
+          "author": "Andarist",
+          "content": [
+            "'ve",
+            "found",
+            "culprit",
+            "behind",
+            "regression",
+            "http",
+            "//github.com/statelyai/xstate/pull/3422/files",
+            "r905127802",
+            "seems",
+            "case",
+            "actually",
+            "implicitly",
+            "relying",
+            "shared",
+            "reference",
+            "configuration",
+            "issue",
+            "depends",
+            "resolved~",
+            "configuration",
+            "algorithm",
+            "mutates",
+            "entryset",
+            "http",
+            "//github.com/statelyai/xstate/blob/93c03531ec3f27beeba6e79759314813c0da850c/packages/core/src/statenode.ts",
+            "l1014",
+            "pointing",
+            "array",
+            "prior",
+            "4.33",
+            "'ll",
+            "try",
+            "figure",
+            "improved",
+            "algorithm"
+          ]
+        }
+      ]
+    }
+  ],
+  "security": null
+}

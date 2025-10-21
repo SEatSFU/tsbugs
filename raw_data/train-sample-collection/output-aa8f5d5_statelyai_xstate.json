@@ -1,0 +1,80 @@
+{
+  "commit_index": "aa8f5d5",
+  "commit_url": "https://github.com/statelyai/xstate/commit/aa8f5d5fdd3b87e0cef7b4ba2d315a0c9260810d",
+  "commit": {
+    "commit_message": [
+      "fixed",
+      "declared",
+      "signature",
+      "one",
+      "statemachine",
+      "'s",
+      "method",
+      "t\u2026"
+    ],
+    "description": [],
+    "changed_files_count": 5,
+    "changed_files": [
+      ".changeset/slow-carrots-confess.md",
+      "package.json",
+      "packages/core/src/StateMachine.ts",
+      "packages/core/src/actors.ts",
+      "yarn.lock"
+    ],
+    "changed_files_content": [],
+    "parent": "c800dec472da9fa9427fdb4b081406fadf68c6ad"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fixed",
+        "declared",
+        "signature",
+        "one",
+        "thestatemachine",
+        "'s",
+        "method",
+        "avoid",
+        "using",
+        "private",
+        "namethis"
+      ],
+      "total_discussions": 1,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "unfortunatelytypeof",
+                "thiscannot",
+                "used",
+                "like",
+                "public",
+                "method",
+                "see",
+                "super",
+                "simplets",
+                "playgrounddemonstrating",
+                "problem.we",
+                "'ve",
+                "missed",
+                "preconstruct",
+                "accidentally",
+                "swallowing",
+                "error",
+                "fixed",
+                "preconstruct/cli",
+                "2.1.2"
+              ],
+              "author": "Andarist"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

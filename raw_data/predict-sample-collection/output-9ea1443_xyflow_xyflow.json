@@ -1,0 +1,23 @@
+{
+  "commit_index": "9ea1443",
+  "commit_url": "https://github.com/xyflow/xyflow/commit/9ea14439c82cbcba4f7cd83d7af4cf8a0ce683e0",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "type",
+      "edge",
+      "store",
+      "generic"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      "packages/react/src/types/store.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "aaf130f6cb6ff443a0cac66267fe73b3a47859a9"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

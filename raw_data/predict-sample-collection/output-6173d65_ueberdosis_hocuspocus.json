@@ -1,0 +1,22 @@
+{
+  "commit_index": "6173d65",
+  "commit_url": "https://github.com/ueberdosis/hocuspocus/commit/6173d656e69464d34f82560e3bceb1726b252583",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "long",
+      "taking",
+      "test"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      "tests/server/listen.js"
+    ],
+    "changed_files_content": [],
+    "parent": "b926543ad168027da7a45bd4f21bd3e380e619e2"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

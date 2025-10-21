@@ -1,0 +1,142 @@
+{
+  "commit_index": "bcf7219",
+  "commit_url": "https://github.com/antiwork/shortest/commit/bcf7219ab597f8465af3dbb4fdd7ff1c7c0fdd31",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "lifecycle",
+      "hook",
+      "improve",
+      "browser",
+      "navigation",
+      "context",
+      "98"
+    ],
+    "description": [],
+    "changed_files_count": 19,
+    "changed_files": [
+      "app/__tests__/assert.test.ts",
+      "app/__tests__/home.test.ts",
+      "app/__tests__/login.test.ts",
+      "packages/shortest/CHANGELOG.md",
+      "packages/shortest/package.json",
+      "packages/shortest/src/ai/client.ts",
+      "packages/shortest/src/ai/prompts/index.ts",
+      "packages/shortest/src/ai/tools/index.ts",
+      "packages/shortest/src/browser/core/browser-tool.ts",
+      "packages/shortest/src/browser/integrations/github.ts",
+      "packages/shortest/src/browser/manager/index.ts",
+      "packages/shortest/src/cli/bin.ts",
+      "packages/shortest/src/core/builder/index.ts",
+      "packages/shortest/src/core/runner/index.ts",
+      "packages/shortest/src/index.ts",
+      "packages/shortest/src/types/browser.ts",
+      "packages/shortest/src/types/test.ts",
+      "packages/shortest/src/utils/logger.ts",
+      "shortest.config.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "3d4640ab9d238bebfabe9e70a4db491d66f61f9f"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "lifecycle",
+        "hook",
+        "improve",
+        "browser",
+        "navigation",
+        "context",
+        "98"
+      ],
+      "total_discussions": 3,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "version",
+                "0.0.3fixedfixed",
+                "execution",
+                "order",
+                "lifecycle",
+                "hooksfixed",
+                "cli",
+                "help",
+                "command",
+                "requiring",
+                "github",
+                "totp",
+                "secretimproved",
+                "browser",
+                "navigation",
+                "performance",
+                "using",
+                "'load",
+                "instead",
+                "'networkidle'fixed",
+                "github",
+                "tool",
+                "initialization",
+                "lazy-loadedimproved",
+                "error",
+                "handling",
+                "browser",
+                "navigationchangedreduced",
+                "navigation",
+                "timeouts",
+                "better",
+                "performancemade",
+                "github",
+                "totp",
+                "validation",
+                "flexibleimproved",
+                "browser",
+                "cleanup",
+                "process",
+                "termination"
+              ],
+              "author": "slavingia"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "m2radsis",
+                "attempting",
+                "deploy",
+                "commit",
+                "theantiworkteam",
+                "onvercel",
+                "member",
+                "team",
+                "first",
+                "need",
+                "toauthorize"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 3,
+          "comments": [
+            {
+              "content": [
+                "slavingiacomments",
+                "removed"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

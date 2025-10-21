@@ -1,0 +1,24 @@
+{
+  "commit_index": "9aa2a43",
+  "commit_url": "https://github.com/nestjs/nest/commit/9aa2a4337716ad1fdf72a584dd02769b3faf2c15",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "use",
+      "express",
+      "body-parser",
+      "reexports"
+    ],
+    "description": [],
+    "changed_files_count": 2,
+    "changed_files": [
+      "packages/platform-express/adapters/express-adapter.ts",
+      "packages/platform-express/package.json"
+    ],
+    "changed_files_content": [],
+    "parent": "ece3f344004d750b3046be16e48036fda93c28f6"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

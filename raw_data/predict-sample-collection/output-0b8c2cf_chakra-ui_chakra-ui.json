@@ -1,0 +1,162 @@
+{
+  "commit_index": "0b8c2cf",
+  "commit_url": "https://github.com/chakra-ui/chakra-ui/commit/0b8c2cf658d3ab5a9feecd8ceb891208ca0fe4ac",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "card",
+      "fix",
+      "theme",
+      "overidden",
+      "7114"
+    ],
+    "description": [
+      "fix",
+      "7109"
+    ],
+    "changed_files_count": 2,
+    "changed_files": [
+      ".changeset/chilly-dragons-sin.md",
+      "packages/components/card/src/card-footer.tsx"
+    ],
+    "changed_files_content": [],
+    "parent": "322a9f4240211876bfdbe170d18f43345da00fc6"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "card",
+        "fix",
+        "theme",
+        "overidden",
+        "7114"
+      ],
+      "total_discussions": 2,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "fix",
+                "theme",
+                "overiddenfixes",
+                "7109"
+              ],
+              "author": "segunadebayo"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "latest",
+                "commit:30a09bf",
+                "change",
+                "pr",
+                "included",
+                "next",
+                "version",
+                "bump",
+                "sure",
+                "mean",
+                "click",
+                "learn",
+                "changesets",
+                "click",
+                "'re",
+                "maintainer",
+                "want",
+                "add",
+                "another",
+                "changeset",
+                "pr"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "title": [
+        "theme",
+        "cardfooter",
+        "justifycontent",
+        "via",
+        "styleconfig"
+      ],
+      "labels": [],
+      "comments": [
+        {
+          "author": "jsvossen",
+          "content": [
+            "description",
+            "create",
+            "custom",
+            "style",
+            "config",
+            "card",
+            "component",
+            "expect",
+            "able",
+            "include",
+            "justify",
+            "justifycontent",
+            "way",
+            "style",
+            "style",
+            "get",
+            "applied",
+            "example",
+            "theme",
+            "config",
+            "export",
+            "const",
+            "card",
+            "definemultistyleconfig",
+            "basestyle",
+            "footer",
+            "justifycontent",
+            "'flex-end",
+            "issue",
+            "appears",
+            "l25",
+            "prop",
+            "justify",
+            "come",
+            "undefined",
+            "overwrites",
+            "justifycontent",
+            "style",
+            "applied",
+            "usecardstyles",
+            "issue",
+            "display",
+            "--",
+            "always",
+            "override",
+            "style",
+            "config",
+            "flex",
+            "link",
+            "reproduction",
+            "http",
+            "//codesandbox.io/s/divine-morning-7xyc1y",
+            "file=/src/theme.ts:304-335",
+            "chakra",
+            "ui",
+            "version",
+            "2.4.2"
+          ]
+        }
+      ]
+    }
+  ],
+  "security": null
+}

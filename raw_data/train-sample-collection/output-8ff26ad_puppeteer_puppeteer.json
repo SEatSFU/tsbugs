@@ -1,0 +1,97 @@
+{
+  "commit_index": "8ff26ad",
+  "commit_url": "https://github.com/puppeteer/puppeteer/commit/8ff26ad5aff0b366e54e6e85f71577de575ee31d",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "include",
+      "url",
+      "fragment",
+      "url",
+      "returned",
+      "httprequest/response",
+      "\u2026"
+    ],
+    "description": [],
+    "changed_files_count": 6,
+    "changed_files": [
+      "packages/puppeteer-core/src/cdp/HTTPRequest.ts",
+      "packages/puppeteer-core/src/cdp/HTTPResponse.ts",
+      "test/TestExpectations.json",
+      "test/src/navigation.spec.ts",
+      "test/src/requestinterception-experimental.spec.ts",
+      "test/src/requestinterception.spec.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "c072482032e828f87a4c98c1d01c72490cf7ba79"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "include",
+        "url",
+        "fragment",
+        "url",
+        "returned",
+        "httprequest/response",
+        "instance",
+        "13425"
+      ],
+      "total_discussions": 1,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "previously",
+                "http",
+                "request",
+                "response",
+                "would",
+                "include",
+                "url",
+                "without",
+                "fragment",
+                "pr",
+                "change",
+                "url",
+                "including",
+                "fragment",
+                "part",
+                "e.g.",
+                "hashinhttp",
+                "//example.com",
+                "hash",
+                "returned",
+                "interested",
+                "compute",
+                "url",
+                "actually",
+                "sent",
+                "server",
+                "would",
+                "need",
+                "parse",
+                "url",
+                "strip",
+                "fragment",
+                "part",
+                "fragment",
+                "transmitted",
+                "server",
+                "http",
+                "client"
+              ],
+              "author": "OrKoN"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

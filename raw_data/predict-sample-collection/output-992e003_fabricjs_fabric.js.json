@@ -1,0 +1,262 @@
+{
+  "commit_index": "992e003",
+  "commit_url": "https://github.com/fabricjs/fabric.js/commit/992e003f659d2801e901a2d9381dc1fd4b1c3a53",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "using",
+      "odd",
+      "number",
+      "element",
+      "strokedasharray",
+      "contam\u2026"
+    ],
+    "description": [],
+    "changed_files_count": 19,
+    "changed_files": [
+      "CHANGELOG.md",
+      "dist/index.min.js",
+      "dist/index.min.js.map",
+      "dist/index.min.mjs",
+      "dist/index.min.mjs.map",
+      "dist/index.mjs",
+      "dist/index.mjs.map",
+      "dist/index.node.mjs",
+      "dist/index.node.mjs.map",
+      "src/shapes/Object/Object.spec.ts",
+      "src/shapes/Object/Object.ts",
+      "test/unit/object.js",
+      "test/visual/golden/svg_stroke_2.png",
+      "test/visual/golden/svg_stroke_3.png",
+      "test/visual/golden/svg_stroke_4.png",
+      "test/visual/golden/svg_stroke_5.png",
+      "test/visual/golden/svg_stroke_6.png",
+      "test/visual/golden/svg_stroke_7.png",
+      "test/visual/golden/svg_stroke_8.png"
+    ],
+    "changed_files_content": [],
+    "parent": "880c321446961f96f506ebdef1d468221d278df8"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "using",
+        "odd",
+        "number",
+        "element",
+        "strokedasharray",
+        "contaminate",
+        "original",
+        "data",
+        "10293"
+      ],
+      "total_discussions": 4,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "close",
+                "10292i",
+                "found",
+                "native",
+                "canvas",
+                "api",
+                "setlinedash",
+                "support",
+                "odd-numbered",
+                "array",
+                "automatically",
+                "convert",
+                "even-numbered",
+                "array",
+                "remove",
+                "processing",
+                "logic",
+                "directly",
+                "pas",
+                "odd-numbered",
+                "array",
+                "without",
+                "additional",
+                "handling",
+                "current",
+                "modification",
+                "follows",
+                "previous",
+                "logic",
+                "without",
+                "changing",
+                "source",
+                "array"
+              ],
+              "author": "asturur"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "open",
+                "branch",
+                "inweb",
+                "editor\u2022vs",
+                "code\u2022insidersopenpreview"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 3,
+          "comments": [
+            {
+              "content": [
+                "would",
+                "try",
+                "remove",
+                "logic",
+                "see",
+                "node",
+                "canvas",
+                "happy",
+                "n't",
+                "need",
+                "keep",
+                "logic"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 4,
+          "comments": [
+            {
+              "content": [
+                "node",
+                "canvas",
+                "seems",
+                "ok",
+                "removing",
+                "full",
+                "logic"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "title": [
+        "bug",
+        "_setlinedash",
+        "method",
+        "additional",
+        "side",
+        "effect",
+        "altering",
+        "value",
+        "strokedasharray"
+      ],
+      "labels": [],
+      "comments": [
+        {
+          "author": "zhe-he",
+          "content": [
+            "checklist",
+            "agree",
+            "follow",
+            "project",
+            "'s",
+            "code",
+            "conduct",
+            "read",
+            "followed",
+            "contributing",
+            "guide",
+            "read",
+            "followed",
+            "issue",
+            "tracker",
+            "guide",
+            "searched",
+            "referenced",
+            "existing",
+            "issue",
+            "discussion",
+            "filing",
+            "bug",
+            "report",
+            "managed",
+            "reproduce",
+            "bug",
+            "upgrading",
+            "latest",
+            "version",
+            "created",
+            "accurate",
+            "minimal",
+            "reproduction",
+            "version",
+            "6.0.2",
+            "environment",
+            "experiencing",
+            "problem",
+            "response",
+            "node",
+            "version",
+            "applicable",
+            "none",
+            "link",
+            "reproduction",
+            "http",
+            "//codepen.io/zhe-he-the-vuer/pen/qbezymy",
+            "editors=1010",
+            "step",
+            "reproduce",
+            "define",
+            "constant",
+            "array",
+            "const",
+            "2",
+            "add",
+            "rectangle",
+            "b",
+            "canvas",
+            "set",
+            "strokedasharray",
+            "constant",
+            "array",
+            "also",
+            "set",
+            "stroke",
+            "color",
+            "rectangle",
+            "border",
+            "visible",
+            "print",
+            "constant",
+            "array",
+            "expected",
+            "behavior",
+            "2",
+            "actual",
+            "behavior",
+            "error",
+            "message",
+            "stack",
+            "trace",
+            "response"
+          ]
+        }
+      ]
+    }
+  ],
+  "security": null
+}

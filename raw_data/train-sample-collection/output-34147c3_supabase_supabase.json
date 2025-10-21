@@ -1,0 +1,70 @@
+{
+  "commit_index": "34147c3",
+  "commit_url": "https://github.com/supabase/supabase/commit/34147c3bd221e12dc381daa1f9404593f5047298",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "theme",
+      "mode",
+      "radio",
+      "item",
+      "large",
+      "35350"
+    ],
+    "description": [
+      "fix",
+      "theme",
+      "mode",
+      "radio",
+      "item",
+      "large",
+      "attempt",
+      "fix",
+      "logs.datepickers.test",
+      "fixing",
+      "date",
+      "test",
+      "revert"
+    ],
+    "changed_files_count": 4,
+    "changed_files": [
+      "apps/studio/components/interfaces/Account/Preferences/ThemeSettings.tsx",
+      "apps/studio/components/interfaces/Settings/Logs/Logs.DatePickers.tsx",
+      "apps/studio/components/interfaces/Settings/Logs/LogsQueryPanel.tsx",
+      "apps/studio/tests/pages/projects/Logs.Datepickers.test.tsx"
+    ],
+    "changed_files_content": [],
+    "parent": "4976a8de8202a78eef2093df8fe125099ebf6ff4"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "theme",
+        "mode",
+        "radio",
+        "item",
+        "large",
+        "35350"
+      ],
+      "total_discussions": 1,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "fix",
+                "fe-1616before"
+              ],
+              "author": "joshenlim"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

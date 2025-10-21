@@ -1,0 +1,45 @@
+{
+  "commit_index": "caccc06",
+  "commit_url": "https://github.com/type-challenges/type-challenges/commit/caccc068db5b88a563c8feff32688c8857b79f76",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "type",
+      "10280"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      "scripts/types.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "8ef518131d563b7edabad2974840c4b7234eb033"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "type",
+        "10280"
+      ],
+      "total_discussions": 1,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "description",
+                "provided"
+              ],
+              "author": "antfu"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

@@ -1,0 +1,21 @@
+{
+  "commit_index": "0eccfce",
+  "commit_url": "https://github.com/Kong/insomnia/commit/0eccfce9db9781bdcfae172af13501ea642a370d",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "stalebot",
+      "config"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      ".github/stale.yml"
+    ],
+    "changed_files_content": [],
+    "parent": "4e6f044b99b5790cb9239813405fbd639871cd4a"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

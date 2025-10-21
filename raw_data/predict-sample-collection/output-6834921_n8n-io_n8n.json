@@ -1,0 +1,65 @@
+{
+  "commit_index": "6834921",
+  "commit_url": "https://github.com/n8n-io/n8n/commit/683492155e9c647ef2ff8ad61c1f4ad4f614af32",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "isweekend",
+      "checking",
+      "datetime",
+      "5221",
+      "no-changelog"
+    ],
+    "description": [],
+    "changed_files_count": 3,
+    "changed_files": [
+      "packages/workflow/src/Extensions/DateExtensions.ts",
+      "packages/workflow/test/ExpressionExtensions/DateExtensions.test.ts",
+      "packages/workflow/test/ExpressionExtensions/Helpers.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "3ea83d872ee2f8326fc9cb898fdb05bbe3b827bf"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "isweekend",
+        "checking",
+        "datetime",
+        "5221"
+      ],
+      "total_discussions": 2,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "description",
+                "provided"
+              ],
+              "author": "netroy"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "got",
+                "released",
+                "withn8n",
+                "0.212.1"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

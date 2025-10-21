@@ -1,0 +1,193 @@
+{
+  "commit_index": "ae03034",
+  "commit_url": "https://github.com/hoppscotch/hoppscotch/commit/ae0303415a755e50d02636a3212b6a51bc317048",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "order",
+      "request",
+      "fetching",
+      "db",
+      "4814"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      "packages/hoppscotch-backend/src/team-request/team-request.service.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "36d71fc12703088cdc0b127ba3e3784599d2f2d7"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "order",
+        "request",
+        "fetching",
+        "db",
+        "4814"
+      ],
+      "total_discussions": 1,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "close",
+                "4567this",
+                "pr",
+                "fix",
+                "bug",
+                "re-ordering",
+                "request",
+                "inside",
+                "collection",
+                "persist",
+                "refreshing.what",
+                "'s",
+                "changedaddedorderbytogetrequestsincollectionfunction",
+                "fetch",
+                "request",
+                "sort",
+                "orderindex"
+              ],
+              "author": "jamesgeorge007"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "title": [
+        "bug",
+        "reordering",
+        "request",
+        "within",
+        "collection",
+        "save/restore",
+        "correctly"
+      ],
+      "labels": [
+        "need testing",
+        "bug"
+      ],
+      "comments": [
+        {
+          "author": "prathamesh-gharat",
+          "content": [
+            "existing",
+            "issue",
+            "searched",
+            "existing",
+            "issue",
+            "current",
+            "behavior",
+            "drag-drop",
+            "re-order",
+            "request",
+            "collection",
+            "get",
+            "message",
+            "saying",
+            "request",
+            "order",
+            "updated",
+            "refreshing",
+            "page",
+            "expected",
+            "order",
+            "restored",
+            "using",
+            "latest",
+            "docker",
+            "aio",
+            "image",
+            "time",
+            "writing",
+            "error",
+            "console",
+            "http",
+            "response",
+            "re-order",
+            "request",
+            "follows",
+            "data",
+            "updatelookuprequestorder",
+            "true",
+            "step",
+            "reproduce",
+            "create",
+            "collection",
+            "add",
+            "2",
+            "request",
+            "drag",
+            "drop",
+            "request",
+            "re-order",
+            "position",
+            "certain",
+            "request",
+            "refresh",
+            "page",
+            "check",
+            "request",
+            "expected",
+            "position",
+            "environment",
+            "production",
+            "version",
+            "self-hosted"
+          ]
+        },
+        {
+          "author": "KulikovaAnna",
+          "content": [
+            "hi",
+            "start",
+            "using",
+            "hoppscotch",
+            "get",
+            "error",
+            "complicates",
+            "work",
+            "need",
+            "change",
+            "order",
+            "query",
+            "collection",
+            "launch"
+          ]
+        },
+        {
+          "author": "ariados26",
+          "content": [
+            "faced",
+            "problem"
+          ]
+        },
+        {
+          "author": "jamesgeorge007",
+          "content": [
+            "hi",
+            "fixed",
+            "latest",
+            "release",
+            "please",
+            "let",
+            "u",
+            "know",
+            "issue",
+            "persists"
+          ]
+        }
+      ]
+    }
+  ],
+  "security": null
+}

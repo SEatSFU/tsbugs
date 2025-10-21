@@ -1,0 +1,27 @@
+{
+  "commit_index": "6a84d6e",
+  "commit_url": "https://github.com/nestjs/nest/commit/6a84d6e25e753447357483a303f9c4a6cbb18a18",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "core",
+      "set",
+      "distance",
+      "max",
+      "dont",
+      "override",
+      "calc"
+    ],
+    "description": [],
+    "changed_files_count": 2,
+    "changed_files": [
+      "packages/core/injector/container.ts",
+      "packages/core/scanner.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "648b438df1ad759222d4c52fdebf947d3893f738"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

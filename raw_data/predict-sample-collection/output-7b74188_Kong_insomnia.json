@@ -1,0 +1,231 @@
+{
+  "commit_index": "7b74188",
+  "commit_url": "https://github.com/Kong/insomnia/commit/7b74188e91f26f71a15bfd0a4c3a431701b84527",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "5976",
+      "set",
+      "content-type",
+      "openapi3",
+      "import",
+      "5982"
+    ],
+    "description": [
+      "fix",
+      "5976",
+      "set",
+      "content-type",
+      "openapi3",
+      "import",
+      "cr",
+      "improvement",
+      "fix",
+      "fix"
+    ],
+    "changed_files_count": 6,
+    "changed_files": [
+      "packages/insomnia/src/utils/importers/importers/fixtures/openapi3/dereferenced-output.json",
+      "packages/insomnia/src/utils/importers/importers/fixtures/openapi3/dereferenced-with-tags-output.json",
+      "packages/insomnia/src/utils/importers/importers/fixtures/openapi3/petstore-output.json",
+      "packages/insomnia/src/utils/importers/importers/fixtures/openapi3/petstore-readonly-output.json",
+      "packages/insomnia/src/utils/importers/importers/fixtures/openapi3/petstore-with-tags-output.json",
+      "packages/insomnia/src/utils/importers/importers/openapi-3.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "1b87404649475010c4538cf08a540ab7335bd28f"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "5976",
+        "set",
+        "content-type",
+        "openapi3",
+        "import",
+        "5982"
+      ],
+      "total_discussions": 1,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "close",
+                "5976related",
+                "similar",
+                "past",
+                "change",
+                "5812if",
+                "mime",
+                "type",
+                "set",
+                "body",
+                "openapi",
+                "imported",
+                "spec",
+                "set",
+                "content-type",
+                "generated",
+                "request",
+                "well.changelog",
+                "fix",
+                "added",
+                "fix",
+                "help",
+                "set",
+                "content-type",
+                "header",
+                "importing",
+                "request",
+                "openapi",
+                "3",
+                "spec",
+                "mime-type",
+                "already",
+                "specified"
+              ],
+              "author": "filfreire"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "title": [
+        "importing",
+        "openapi",
+        "v3",
+        "spec",
+        "set",
+        "content-type",
+        "json",
+        "request"
+      ],
+      "labels": [
+        "B-bug",
+        "S-verified"
+      ],
+      "comments": [
+        {
+          "author": "cogniveon",
+          "content": [
+            "expected",
+            "behavior",
+            "automatically",
+            "detect",
+            "content-type",
+            "request",
+            "medium",
+            "type",
+            "importing",
+            "openapi",
+            "v3",
+            "spec",
+            "actual",
+            "behavior",
+            "content-type",
+            "application/json",
+            "header",
+            "added",
+            "json",
+            "request",
+            "openapi",
+            "v3",
+            "spec",
+            "need",
+            "manually",
+            "switch",
+            "another",
+            "medium",
+            "type",
+            "switch",
+            "back",
+            "json",
+            "header",
+            "applied",
+            "reproduction",
+            "step",
+            "import",
+            "openapi",
+            "v3",
+            "spec",
+            "json",
+            "request",
+            "make",
+            "request",
+            "content-type",
+            "application/json",
+            "header",
+            "switch",
+            "content",
+            "type",
+            "switch",
+            "back",
+            "json",
+            "make",
+            "request",
+            "content-type",
+            "application/json",
+            "header",
+            "added",
+            "existing",
+            "issue",
+            "searched",
+            "issue",
+            "tracker",
+            "problem",
+            "additional",
+            "information",
+            "response",
+            "insomnia",
+            "version",
+            "2023.2.2",
+            "operating",
+            "system",
+            "using",
+            "ubuntu",
+            "operating",
+            "system",
+            "version",
+            "ubuntu",
+            "20.04.5",
+            "lts",
+            "installation",
+            "method",
+            "insomnia.rest",
+            "last",
+            "known",
+            "working",
+            "insomnia",
+            "version",
+            "response"
+          ]
+        },
+        {
+          "author": "filfreire",
+          "content": [
+            "alqa-holic",
+            "reporting",
+            "fix",
+            "ready",
+            "5982",
+            "hopefully",
+            "go",
+            "one",
+            "upcoming",
+            "patch",
+            "beta",
+            "release"
+          ]
+        }
+      ]
+    }
+  ],
+  "security": null
+}

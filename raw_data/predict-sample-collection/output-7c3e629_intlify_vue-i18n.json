@@ -1,0 +1,53 @@
+{
+  "commit_index": "7c3e629",
+  "commit_url": "https://github.com/intlify/vue-i18n/commit/7c3e6291920d90388e5ce337008d884ff6356cbc",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "core-base",
+      "ismessageast",
+      "strictly",
+      "1509"
+    ],
+    "description": [],
+    "changed_files_count": 2,
+    "changed_files": [
+      "packages/core-base/src/translate.ts",
+      "packages/core-base/test/translate.test.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "3846acd7f4dc5bde4b807e60f84c5c9d42ee1993"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "core-base",
+        "ismessageastmore",
+        "strictly",
+        "1509"
+      ],
+      "total_discussions": 1,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "noticed",
+                "issue",
+                "'ve",
+                "createdthis",
+                "pr"
+              ],
+              "author": "kazupon"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

@@ -1,0 +1,361 @@
+{
+  "commit_index": "6bc477b",
+  "commit_url": "https://github.com/n8n-io/n8n/commit/6bc477b50ebcb31eae6068b2218fea56349a64a9",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "html",
+      "node",
+      "add",
+      "paireditem",
+      "support",
+      "'convert",
+      "html",
+      "table"
+    ],
+    "description": [
+      "github",
+      "issue",
+      "community",
+      "forum",
+      "post",
+      "link",
+      "close",
+      "automatically",
+      "co-authored-by",
+      "michael",
+      "kret",
+      "michael.k",
+      "radency.com"
+    ],
+    "changed_files_count": 1,
+    "changed_files": [
+      "packages/nodes-base/nodes/Html/Html.node.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "321780d4a2a1f7e5e7ab0ea23e0b2fc28d539330"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "html",
+        "node",
+        "add",
+        "paireditem",
+        "support",
+        "'convert",
+        "html",
+        "table",
+        "operation",
+        "7196"
+      ],
+      "total_discussions": 6,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "github",
+                "issue",
+                "community",
+                "forum",
+                "post",
+                "link",
+                "close",
+                "automatically"
+              ],
+              "author": "maspio"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "great",
+                "pr",
+                "please",
+                "pay",
+                "attention",
+                "following",
+                "item",
+                "merging",
+                "file",
+                "matchingpackages/",
+                "file",
+                "matchingpackages/",
+                ".ts",
+                "file",
+                "matchingpackages/nodes-base/nodes/",
+                "make",
+                "sure",
+                "check",
+                "list",
+                "asking",
+                "review"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 3,
+          "comments": [
+            {
+              "content": [
+                "patch",
+                "coverage",
+                "change",
+                "project",
+                "coverage",
+                "change",
+                "-0.01",
+                "comparison",
+                "base",
+                "321780d",
+                "32.69",
+                "compared",
+                "head",
+                "5bd80d0",
+                "32.68",
+                "...",
+                "and3",
+                "file",
+                "indirect",
+                "coverage",
+                "change",
+                "view",
+                "full",
+                "report",
+                "codecov",
+                "feedback",
+                "report",
+                "share"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 4,
+          "comments": [
+            {
+              "content": [
+                "detail",
+                "viewoutputvideo",
+                "comment",
+                "generated",
+                "cypress-bot",
+                "result",
+                "project'sgithub",
+                "integration",
+                "setting"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 5,
+          "comments": [
+            {
+              "content": [
+                "cypress",
+                "e2e",
+                "spec",
+                "passed"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 6,
+          "comments": [
+            {
+              "content": [
+                "got",
+                "released",
+                "withn8n",
+                "1.8.1"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "title": [
+        "new",
+        "error",
+        "former",
+        "working",
+        "workflow",
+        "problem",
+        "node",
+        "1",
+        "invalid",
+        "type",
+        "format"
+      ],
+      "labels": [
+        "in linear"
+      ],
+      "comments": [
+        {
+          "author": "golere",
+          "content": [
+            "describe",
+            "bug",
+            "workflow",
+            "worked",
+            "fine",
+            "ca",
+            "n't",
+            "executed",
+            "giving",
+            "error",
+            "workflow",
+            "tested",
+            "0.221.2",
+            "work",
+            "fine",
+            "reproduce",
+            "step",
+            "reproduce",
+            "behavior",
+            "create",
+            "http",
+            "node",
+            "code",
+            "run",
+            "error",
+            "invalid",
+            "type",
+            "format",
+            "cause",
+            "status",
+            "rejected",
+            "reason",
+            "stack",
+            "nodeapierror",
+            "invalid",
+            "type",
+            "format",
+            "object.execute",
+            "/app/code/node_modules/n8n/node_modules/n8n-nodes-base/nodes/httprequest/v3/httprequestv3.node.ts:1437:12",
+            "processticksandrejections",
+            "node",
+            "internal/process/task_queues:95:5",
+            "workflow.runnode",
+            "/app/code/node_modules/n8n-workflow/src/workflow.ts:1284:8",
+            "/app/code/node_modules/n8n-core/src/workflowexecute.ts:1018:29",
+            "expected",
+            "behavior",
+            "worked",
+            "fine",
+            "last",
+            "time",
+            "checked",
+            "environment",
+            "please",
+            "complete",
+            "following",
+            "information",
+            "verion",
+            "1.6.1",
+            "cloudron",
+            "additional",
+            "context",
+            "meta",
+            "instanceid",
+            "node",
+            "parameter",
+            "url",
+            "=https",
+            "//api.carbone.io/render/",
+            "json.data.renderid",
+            "sendheaders",
+            "true",
+            "headerparameters",
+            "parameter",
+            "name",
+            "carbone-version",
+            "value",
+            "4",
+            "option",
+            "redirect",
+            "redirect",
+            "followredirects",
+            "true",
+            "response",
+            "response",
+            "responseformat",
+            "file",
+            "id",
+            "name",
+            "download",
+            "report1",
+            "type",
+            "n8n-nodes-base.httprequest",
+            "typeversion",
+            "3",
+            "position",
+            "1620",
+            "2600",
+            "connection"
+          ]
+        },
+        {
+          "author": "Joffcom",
+          "content": [
+            "hey",
+            "golere",
+            "share",
+            "full",
+            "workflow",
+            "output",
+            "data",
+            "node",
+            "http",
+            "request",
+            "looking",
+            "shared",
+            "far",
+            "n't",
+            "appear",
+            "issue",
+            "see",
+            "could",
+            "multiple",
+            "item",
+            "renderid",
+            "correctly",
+            "converted",
+            "string",
+            "also",
+            "run",
+            "migration",
+            "guide"
+          ]
+        },
+        {
+          "author": "that-one-tom",
+          "content": [
+            "documented",
+            "step",
+            "reproduce",
+            "node-790",
+            "start",
+            "happening",
+            "n8n",
+            "1.6.0"
+          ]
+        }
+      ]
+    }
+  ],
+  "security": null
+}

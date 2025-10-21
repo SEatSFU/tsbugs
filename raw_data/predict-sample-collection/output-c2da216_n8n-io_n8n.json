@@ -1,0 +1,80 @@
+{
+  "commit_index": "c2da216",
+  "commit_url": "https://github.com/n8n-io/n8n/commit/c2da21621fb08c676bd3dc5e2a9de613a4f135f3",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "add",
+      "temporary",
+      "slot",
+      "syntax",
+      "lint",
+      "exception",
+      "no-changelog",
+      "4652"
+    ],
+    "description": [
+      "add",
+      "temporary",
+      "slot",
+      "lint",
+      "exception"
+    ],
+    "changed_files_count": 2,
+    "changed_files": [
+      "packages/editor-ui/src/components/ResourceLocator/ResourceLocator.vue",
+      "packages/editor-ui/src/components/ResourceLocator/ResourceLocatorDropdown.vue"
+    ],
+    "changed_files_content": [],
+    "parent": "44182f23a5e62c53209b3fa19edd1727586551ff"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "add",
+        "temporary",
+        "slot",
+        "syntax",
+        "lint",
+        "exception",
+        "no-changelog",
+        "4652"
+      ],
+      "total_discussions": 2,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "remove",
+                "monday",
+                "alexgrozavcan",
+                "take",
+                "look"
+              ],
+              "author": "ivov"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "got",
+                "released",
+                "withn8n",
+                "0.204.0"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

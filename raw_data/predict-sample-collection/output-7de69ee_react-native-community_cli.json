@@ -1,0 +1,54 @@
+{
+  "commit_index": "7de69ee",
+  "commit_url": "https://github.com/react-native-community/cli/commit/7de69ee937a575d2fcf93d11abdab11dbf414f01",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "change",
+      "template",
+      "label",
+      "681"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      ".github/ISSUE_TEMPLATE/bug_report.md"
+    ],
+    "changed_files_content": [],
+    "parent": "05ef7bd6b0c4cadfe23f48cd38ff4c2d19c8eb1f"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "change",
+        "template",
+        "label",
+        "681"
+      ],
+      "total_discussions": 1,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "summary",
+                "correctbug",
+                "reportlabel",
+                "issue",
+                "template.test",
+                "plan",
+                "noop"
+              ],
+              "author": "thymikee"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

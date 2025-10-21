@@ -1,0 +1,23 @@
+{
+  "commit_index": "35b9130",
+  "commit_url": "https://github.com/refly-ai/refly/commit/35b9130b46f4e6abd9901e42f1fa647dabebe025",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "type",
+      "error",
+      "workflow",
+      "test"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      "packages/canvas-common/src/workflow.test.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "1c3fb25ba23067211b607bb774a5ec552b7f50c6"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

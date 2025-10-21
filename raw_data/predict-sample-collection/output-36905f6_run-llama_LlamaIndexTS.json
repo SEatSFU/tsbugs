@@ -1,0 +1,23 @@
+{
+  "commit_index": "36905f6",
+  "commit_url": "https://github.com/run-llama/LlamaIndexTS/commit/36905f6442a209243732c4ad79b40baf7d010791",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "ci",
+      "running",
+      "window"
+    ],
+    "description": [],
+    "changed_files_count": 2,
+    "changed_files": [
+      "packages/create-llama/package.json",
+      "pnpm-lock.yaml"
+    ],
+    "changed_files_content": [],
+    "parent": "ed509db04a5a049d10b786798bc1d0a55707ffc2"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

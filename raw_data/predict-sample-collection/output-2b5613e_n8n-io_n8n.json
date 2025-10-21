@@ -1,0 +1,96 @@
+{
+  "commit_index": "2b5613e",
+  "commit_url": "https://github.com/n8n-io/n8n/commit/2b5613ed68ecc6991ec68ca21807cbc1e976aa22",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "core",
+      "fix",
+      "workflow",
+      "hasing",
+      "mysql",
+      "4491"
+    ],
+    "description": [
+      "alphabetize",
+      "node",
+      "key",
+      "remove",
+      "excess",
+      "brace"
+    ],
+    "changed_files_count": 2,
+    "changed_files": [
+      "packages/cli/src/databases/entities/WorkflowEntity.ts",
+      "packages/cli/src/utils.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "e1a3f5665137e3bd423def0416d7a75c53179702"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "core",
+        "fix",
+        "workflow",
+        "hasing",
+        "mysql",
+        "4491"
+      ],
+      "total_discussions": 3,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "mysql",
+                "respect",
+                "original",
+                "order",
+                "key",
+                "enforcing",
+                "order",
+                "db",
+                "consistency.tested",
+                "three",
+                "db",
+                "pg",
+                "alt",
+                "schema"
+              ],
+              "author": "ivov"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "n8n-5330"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 3,
+          "comments": [
+            {
+              "content": [
+                "got",
+                "released",
+                "withn8n",
+                "0.201.0"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

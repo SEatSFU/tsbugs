@@ -1,0 +1,156 @@
+{
+  "commit_index": "691c5bc",
+  "commit_url": "https://github.com/run-llama/LlamaIndexTS/commit/691c5bcaf1a11661594dcc02bbf57f93fb6f7a0a",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "export",
+      "embeddings",
+      "utils",
+      "1387"
+    ],
+    "description": [],
+    "changed_files_count": 5,
+    "changed_files": [
+      ".changeset/spicy-dingos-perform.md",
+      "packages/core/src/embeddings/index.ts",
+      "packages/core/src/embeddings/utils.ts",
+      "packages/llamaindex/src/internal/utils.ts",
+      "packages/llamaindex/src/vector-store/SimpleVectorStore.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "9ab998c5d5ca04cf4515afe8d9eb8b92559de2d2"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "export",
+        "embeddings",
+        "utils",
+        "1387"
+      ],
+      "total_discussions": 3,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "fix",
+                "1054"
+              ],
+              "author": "himself65"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "latest",
+                "commit",
+                "b16f96d",
+                "change",
+                "pr",
+                "included",
+                "next",
+                "version",
+                "bump",
+                "sure",
+                "mean",
+                "click",
+                "learn",
+                "changesets",
+                "click",
+                "'re",
+                "maintainer",
+                "want",
+                "add",
+                "another",
+                "changeset",
+                "pr"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 3,
+          "comments": [
+            {
+              "content": [
+                "open",
+                "stackblitz",
+                "commit",
+                "b16f96d"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "title": [
+        "export",
+        "gettopkembeddings"
+      ],
+      "labels": [
+        "good first issue"
+      ],
+      "comments": [
+        {
+          "author": "parhammmm",
+          "content": [
+            "latest",
+            "release",
+            "gettopkembeddings",
+            "longer",
+            "exported",
+            "moved",
+            "/internals",
+            "'re",
+            "using",
+            "setup",
+            "question",
+            "make",
+            "pr",
+            "export",
+            "gettopkembeddings",
+            "would",
+            "want",
+            "placed"
+          ]
+        },
+        {
+          "author": "himself65",
+          "content": [
+            "could",
+            "expose",
+            "many",
+            "undocumented",
+            "apis",
+            "apis",
+            "n't",
+            "exported",
+            "propose",
+            "people",
+            "use",
+            "export",
+            "want",
+            "make",
+            "stable",
+            "please",
+            "write",
+            "test",
+            "stabilize"
+          ]
+        }
+      ]
+    }
+  ],
+  "security": null
+}

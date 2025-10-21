@@ -1,0 +1,27 @@
+{
+  "commit_index": "09984c0",
+  "commit_url": "https://github.com/type-challenges/type-challenges/commit/09984c07cfd91301d637dcf52fceb39fdf03dbda",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "answer",
+      "link"
+    ],
+    "description": [],
+    "changed_files_count": 7,
+    "changed_files": [
+      "questions/2-medium-return-type/README.md",
+      "questions/2-medium-return-type/README.zh-CN.md",
+      "questions/3-medium-omit/README.md",
+      "questions/4-easy-pick/README.md",
+      "questions/5-hard-readonly-keys/README.md",
+      "questions/6-extreme-simple-vue/README.md",
+      "scripts/readme.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "89564ded5be6e3da30473ea47b56887b8aacf033"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

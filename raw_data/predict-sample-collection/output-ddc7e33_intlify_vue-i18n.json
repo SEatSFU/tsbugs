@@ -1,0 +1,130 @@
+{
+  "commit_index": "ddc7e33",
+  "commit_url": "https://github.com/intlify/vue-i18n/commit/ddc7e331b55fd90f685af963103e12c7c3e39dd8",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "deps",
+      "update",
+      "dependency",
+      "monaco-editor",
+      "^0.52.0",
+      "1961"
+    ],
+    "description": [
+      "co-authored-by",
+      "renovate",
+      "bot",
+      "29139614+renovate",
+      "bot",
+      "users.noreply.github.com"
+    ],
+    "changed_files_count": 2,
+    "changed_files": [
+      "packages/format-explorer/package.json",
+      "pnpm-lock.yaml"
+    ],
+    "changed_files_content": [],
+    "parent": "7904fb0ffc2998aed717503ff5faab9ec6593a37"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "deps",
+        "update",
+        "dependency",
+        "monaco-editor",
+        "^0.52.0",
+        "1961"
+      ],
+      "total_discussions": 3,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "pr",
+                "contains",
+                "following",
+                "update",
+                "packagechangeageadoptionpassingconfidencemonaco-editor^0.51.0-",
+                "^0.52.0release",
+                "notesmicrosoft/monaco-editor",
+                "monaco-editor",
+                "v0.52.0compare",
+                "sourcecomment",
+                "added",
+                "inside",
+                "branch",
+                "creation",
+                "time",
+                "schedule",
+                "defined",
+                "automerge",
+                "time",
+                "schedule",
+                "defined",
+                "whenever",
+                "pr",
+                "behind",
+                "base",
+                "branch",
+                "tick",
+                "rebase/retry",
+                "close",
+                "pr",
+                "wo",
+                "n't",
+                "reminded",
+                "update",
+                "again.if",
+                "want",
+                "rebase/retry",
+                "pr",
+                "check",
+                "boxthis",
+                "pr",
+                "generated",
+                "bymend",
+                "renovate",
+                "view",
+                "therepository",
+                "job",
+                "log"
+              ],
+              "author": "renovate"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "view",
+                "log"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 3,
+          "comments": [
+            {
+              "content": [
+                "open",
+                "stackblitz",
+                "commit:7122760"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

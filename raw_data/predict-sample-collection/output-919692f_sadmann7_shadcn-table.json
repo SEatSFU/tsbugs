@@ -1,0 +1,111 @@
+{
+  "commit_index": "919692f",
+  "commit_url": "https://github.com/sadmann7/shadcn-table/commit/919692fbbda870f85300f29ed92e0c45f825b022",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "deps",
+      "update",
+      "dependency",
+      "lucide-react",
+      "^0.469.0",
+      "791"
+    ],
+    "description": [
+      "co-authored-by",
+      "renovate",
+      "bot",
+      "29139614+renovate",
+      "bot",
+      "users.noreply.github.com"
+    ],
+    "changed_files_count": 2,
+    "changed_files": [
+      "package.json",
+      "pnpm-lock.yaml"
+    ],
+    "changed_files_content": [],
+    "parent": "8d2c2dc8ecfd4a7111feb0151c7cba83e46b537f"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "deps",
+        "update",
+        "dependency",
+        "lucide-react",
+        "^0.469.0",
+        "791"
+      ],
+      "total_discussions": 1,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "pr",
+                "contains",
+                "following",
+                "update",
+                "packagechangeageadoptionpassingconfidencelucide-react",
+                "source",
+                "^0.468.0-",
+                "^0.469.0release",
+                "noteslucide-icons/lucide",
+                "lucide-react",
+                "v0.469.0",
+                "new",
+                "icon",
+                "0.469.0compare",
+                "sourcemodified",
+                "icon",
+                "branch",
+                "creation",
+                "time",
+                "schedule",
+                "defined",
+                "automerge",
+                "time",
+                "schedule",
+                "defined",
+                "whenever",
+                "pr",
+                "behind",
+                "base",
+                "branch",
+                "tick",
+                "rebase/retry",
+                "close",
+                "pr",
+                "wo",
+                "n't",
+                "reminded",
+                "update",
+                "again.if",
+                "want",
+                "rebase/retry",
+                "pr",
+                "check",
+                "boxthis",
+                "pr",
+                "generated",
+                "bymend",
+                "renovate",
+                "view",
+                "therepository",
+                "job",
+                "log"
+              ],
+              "author": "renovate"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

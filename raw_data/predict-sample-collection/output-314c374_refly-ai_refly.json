@@ -1,0 +1,25 @@
+{
+  "commit_index": "314c374",
+  "commit_url": "https://github.com/refly-ai/refly/commit/314c374e97beda299cef5a93ab8c3506ed93d0c1",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "translation",
+      "update",
+      "latestpublishedapp",
+      "key",
+      "clarity"
+    ],
+    "description": [],
+    "changed_files_count": 2,
+    "changed_files": [
+      "packages/i18n/src/en-US/ui.ts",
+      "packages/i18n/src/zh-Hans/ui.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "f572ee5099f0a1ae7ec7c88415554b8b8dea32c3"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

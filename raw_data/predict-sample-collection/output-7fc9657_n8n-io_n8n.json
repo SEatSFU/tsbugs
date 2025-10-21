@@ -1,0 +1,76 @@
+{
+  "commit_index": "7fc9657",
+  "commit_url": "https://github.com/n8n-io/n8n/commit/7fc96571e0ce294de3d643f5f29cc38211888a0a",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "mysql",
+      "migration",
+      "parses",
+      "database",
+      "content",
+      "necessary",
+      "fix"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      "packages/cli/src/databases/migrations/mysqldb/1675940580449-PurgeInvalidWorkflowConnections.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "b57ec1d6abbae9e23ae5f473d70674aa14701bce"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "mysql",
+        "migration",
+        "parses",
+        "database",
+        "content",
+        "necessary",
+        "fix",
+        "mariadb",
+        "5441"
+      ],
+      "total_discussions": 2,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "github",
+                "issue",
+                "community",
+                "forum",
+                "post",
+                "link",
+                "close",
+                "automatically"
+              ],
+              "author": "netroy"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "got",
+                "released",
+                "withn8n",
+                "0.214.3"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

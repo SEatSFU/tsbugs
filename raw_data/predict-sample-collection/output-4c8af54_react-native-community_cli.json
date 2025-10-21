@@ -1,0 +1,101 @@
+{
+  "commit_index": "4c8af54",
+  "commit_url": "https://github.com/react-native-community/cli/commit/4c8af54e29059af74b7edd813425f4ab0815eeb5",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "android",
+      "config",
+      "return",
+      "incorrect",
+      "path",
+      "1080"
+    ],
+    "description": [
+      "doc",
+      "update",
+      "android",
+      "config",
+      "typedef",
+      "fix",
+      "android",
+      "config",
+      "returning",
+      "incorrect",
+      "path"
+    ],
+    "changed_files_count": 3,
+    "changed_files": [
+      "docs/platforms.md",
+      "packages/platform-android/src/config/__tests__/getProjectConfig.test.ts",
+      "packages/platform-android/src/config/index.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "5503369b3b454580818d89e9c832e6bdfd292b9f"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "android",
+        "config",
+        "return",
+        "incorrect",
+        "path",
+        "1080"
+      ],
+      "total_discussions": 1,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "summary",
+                "1029the",
+                "android",
+                "config",
+                "correctly",
+                "resolving",
+                "default",
+                "value",
+                "forstringspath",
+                "assetspathandmainfilepath",
+                "also",
+                "returning",
+                "value",
+                "forpackagefolder",
+                "pr",
+                "also",
+                "update",
+                "android",
+                "config",
+                "typedef",
+                "docs.test",
+                "plan",
+                "added",
+                "jest",
+                "test",
+                "manually",
+                "linked",
+                "existing",
+                "project",
+                "verified",
+                "thatnpx",
+                "react-native",
+                "configwas",
+                "returning",
+                "correct",
+                "value"
+              ],
+              "author": "thymikee"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

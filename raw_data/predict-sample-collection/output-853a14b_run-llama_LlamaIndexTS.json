@@ -1,0 +1,29 @@
+{
+  "commit_index": "853a14b",
+  "commit_url": "https://github.com/run-llama/LlamaIndexTS/commit/853a14b7c7693e1ea3136a1596c8c7b10a702814",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "add",
+      "test",
+      "case",
+      "ensure",
+      "node",
+      "'s",
+      "metadata",
+      "modified"
+    ],
+    "description": [],
+    "changed_files_count": 3,
+    "changed_files": [
+      "packages/core/src/Node.ts",
+      "packages/core/src/storage/vectorStore/utils.ts",
+      "packages/core/src/tests/VectorStore.test.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "b31e2d42eb04be16662f94dd7f55da979ff22c9c"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

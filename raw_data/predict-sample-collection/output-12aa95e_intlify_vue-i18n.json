@@ -1,0 +1,30 @@
+{
+  "commit_index": "12aa95e",
+  "commit_url": "https://github.com/intlify/vue-i18n/commit/12aa95e40d54143c0e7d55fc24f71825039709a3",
+  "commit": {
+    "commit_message": [
+      "chore",
+      "fix",
+      "benchmark"
+    ],
+    "description": [],
+    "changed_files_count": 10,
+    "changed_files": [
+      "benchmark/compile.mjs",
+      "benchmark/complex-jit-aot.mjs",
+      "benchmark/complex-jit.mjs",
+      "benchmark/complex.mjs",
+      "benchmark/index.mjs",
+      "benchmark/simple-jit-aot.mjs",
+      "benchmark/simple-jit.mjs",
+      "benchmark/simple.mjs",
+      "benchmark/utils.mjs",
+      "package.json"
+    ],
+    "changed_files_content": [],
+    "parent": "959f271f302c1da09d23e15b82d9b6ab764ed628"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

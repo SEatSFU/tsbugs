@@ -1,0 +1,93 @@
+{
+  "commit_index": "e251439",
+  "commit_url": "https://github.com/n8n-io/n8n/commit/e2514393335e555af47c9aca4f81b31608df9cb5",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "discord",
+      "node",
+      "fix",
+      "wrong",
+      "error",
+      "message",
+      "displayed",
+      "5547"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      "packages/nodes-base/nodes/Discord/Discord.node.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "0fbb3f0f026432f1aea87b106a0c1f732f93c792"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "discord",
+        "node",
+        "fix",
+        "wrong",
+        "error",
+        "message",
+        "displayed",
+        "5547"
+      ],
+      "total_discussions": 3,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "display",
+                "currently",
+                "error",
+                "valid",
+                "json",
+                "valid",
+                "json",
+                "reason",
+                "actually",
+                "array",
+                "error",
+                "get",
+                "trhown",
+                "incorrect",
+                "way"
+              ],
+              "author": "janober"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "fast"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 3,
+          "comments": [
+            {
+              "content": [
+                "got",
+                "released",
+                "withn8n",
+                "0.217.1"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

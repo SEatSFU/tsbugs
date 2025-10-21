@@ -1,0 +1,347 @@
+{
+  "commit_index": "d7ebe49",
+  "commit_url": "https://github.com/Kong/insomnia/commit/d7ebe4928de184bab9171e0347192c585a718751",
+  "commit": {
+    "commit_message": [
+      "replace",
+      "font-manager",
+      "improved",
+      "font-scanner",
+      "module",
+      "fix",
+      "1453"
+    ],
+    "description": [],
+    "changed_files_count": 4,
+    "changed_files": [
+      "packages/insomnia-app/app/ui/components/settings/general.js",
+      "packages/insomnia-app/flow-typed/font-scanner.js",
+      "packages/insomnia-app/package-lock.json",
+      "packages/insomnia-app/package.json"
+    ],
+    "changed_files_content": [],
+    "parent": "f0b8356b11177d99016754626fc6b90a96eccb13"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "replace",
+        "font-manager",
+        "improved",
+        "font-scanner",
+        "module",
+        "1463"
+      ],
+      "total_discussions": 1,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "fix",
+                "1453this",
+                "change",
+                "replaces",
+                "thefont-managermodule",
+                "withfont-scanner",
+                "seem",
+                "issue",
+                "withfont-managercrashing",
+                "node",
+                "certain",
+                "devices.font-scanneris",
+                "improved",
+                "fork",
+                "seems",
+                "handle",
+                "issue",
+                "better.thefixhere",
+                "simply",
+                "show",
+                "font",
+                "selector",
+                "font",
+                "returned"
+              ],
+              "author": "gschier"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "title": [
+        "bug",
+        "click",
+        "preference",
+        "insomnia",
+        "show",
+        "white",
+        "page"
+      ],
+      "labels": [
+        "E-good-first-issue",
+        "N-help",
+        "N-investigation"
+      ],
+      "comments": [
+        {
+          "author": "317174106",
+          "content": [
+            "insomnia",
+            "version",
+            "6.4.1",
+            "operating",
+            "system",
+            "win7",
+            "64",
+            "detail",
+            "click",
+            "preference",
+            "insomnia",
+            "show",
+            "white",
+            "page",
+            "way",
+            "close",
+            "insomnia",
+            "restart",
+            "ca",
+            "n't",
+            "open",
+            "preference"
+          ]
+        },
+        {
+          "author": "welcome",
+          "content": [
+            "opening",
+            "first",
+            "issue",
+            "'re",
+            "reporting",
+            "bug",
+            "please",
+            "make",
+            "sure",
+            "include",
+            "step",
+            "reproduce",
+            "'re",
+            "requesting",
+            "feature",
+            "please",
+            "provide",
+            "real",
+            "use",
+            "case",
+            "would",
+            "benefit",
+            "help",
+            "make",
+            "smooth",
+            "process",
+            "please",
+            "sure",
+            "first",
+            "read",
+            "contributing",
+            "guideline",
+            "http",
+            "//github.com/getinsomnia/insomnia/blob/master/contributing.md"
+          ]
+        },
+        {
+          "author": "gschier",
+          "content": [
+            "check",
+            "view",
+            "toggle",
+            "devtools",
+            "console",
+            "see",
+            "error",
+            "come",
+            "sub",
+            "sent",
+            "href=",
+            "http",
+            "//githawk.com",
+            "githawk",
+            "/a",
+            "/sub"
+          ]
+        },
+        {
+          "author": "runofthemill",
+          "content": [
+            "issue",
+            "macos",
+            "insomnia",
+            "6.4.1.2725",
+            "macos",
+            "10.14.4",
+            "screen",
+            "recording",
+            "http",
+            "//www.dropbox.com/s/6vx8t9jse2w49b6/insomnia-bug.mov",
+            "dl=0",
+            "edit",
+            "seems",
+            "like",
+            "'s",
+            "bug",
+            "general",
+            "pane",
+            "specifically",
+            "choose",
+            "import/export",
+            "workspace",
+            "menu",
+            "open",
+            "data",
+            "pane",
+            "render",
+            "issue",
+            "switch",
+            "preference",
+            "pane",
+            "except",
+            "general",
+            "without",
+            "experiencing",
+            "render",
+            "issue"
+          ]
+        },
+        {
+          "author": "gschier",
+          "content": [
+            "'s",
+            "strange",
+            "devtools",
+            "would",
+            "disconnect",
+            "opening",
+            "preference",
+            "317174106",
+            "help",
+            "work",
+            "runofthemill",
+            "also",
+            "see",
+            "devtools",
+            "disconnect",
+            "error"
+          ]
+        },
+        {
+          "author": "runofthemill",
+          "content": [
+            "yep",
+            "see",
+            "disconnecting",
+            "end",
+            "clip",
+            "uploaded"
+          ]
+        },
+        {
+          "author": "gschier",
+          "content": [
+            "wow",
+            "sorry",
+            "n't",
+            "even",
+            "notice",
+            "screen",
+            "recording",
+            "link",
+            "long",
+            "day",
+            "'ve",
+            "ever",
+            "seen",
+            "devtools",
+            "disconnect",
+            "problem",
+            "linking",
+            "native",
+            "libcurl",
+            "module",
+            "try",
+            "running",
+            "following",
+            "command",
+            "within",
+            "console",
+            "see",
+            "trigger",
+            "issue",
+            "j",
+            "require",
+            "'insomnia-libcurl",
+            ".curl.getversion"
+          ]
+        },
+        {
+          "author": "leweohlsen",
+          "content": [
+            "experiencing",
+            "problem",
+            "insomnia",
+            "6.4.1.2725",
+            "macos",
+            "10.14.4",
+            "devtools",
+            "keep",
+            "disconnecting",
+            "preference",
+            "page",
+            "flip",
+            "white",
+            "begin",
+            "debug",
+            "issue"
+          ]
+        },
+        {
+          "author": "gschier",
+          "content": [
+            "okay",
+            "one",
+            "thing",
+            "try",
+            "view",
+            "toggle",
+            "devtools",
+            "console",
+            "try",
+            "running",
+            "following",
+            "j",
+            "require",
+            "'font-manager",
+            "work",
+            "take",
+            "one",
+            "step",
+            "j",
+            "require",
+            "'font-manager",
+            ".getavailablefonts",
+            "f",
+            "console.log",
+            "'fonts",
+            "f"
+          ]
+        }
+      ]
+    }
+  ],
+  "security": null
+}

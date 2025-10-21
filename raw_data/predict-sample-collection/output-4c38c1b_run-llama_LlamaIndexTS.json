@@ -1,0 +1,329 @@
+{
+  "commit_index": "4c38c1b",
+  "commit_url": "https://github.com/run-llama/LlamaIndexTS/commit/4c38c1be0b4d0b907d54e65941f6c4d3e8cf55c7",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "detect",
+      "file",
+      "type",
+      "sdk",
+      "1340"
+    ],
+    "description": [],
+    "changed_files_count": 5,
+    "changed_files": [
+      ".changeset/funny-dancers-listen.md",
+      "packages/cloud/package.json",
+      "packages/cloud/src/reader.ts",
+      "packages/llamaindex/tests/readers/llama-parser-reader.test.ts",
+      "pnpm-lock.yaml"
+    ],
+    "changed_files_content": [],
+    "parent": "0dde0ca27f9aba963b6d6b7082ec5c74c0180dd8"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "detect",
+        "file",
+        "type",
+        "sdk",
+        "1340"
+      ],
+      "total_discussions": 3,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "fix",
+                "1313"
+              ],
+              "author": "himself65"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "latest",
+                "commit",
+                "fc4343e",
+                "change",
+                "pr",
+                "included",
+                "next",
+                "version",
+                "bump",
+                "sure",
+                "mean",
+                "click",
+                "learn",
+                "changesets",
+                "click",
+                "'re",
+                "maintainer",
+                "want",
+                "add",
+                "another",
+                "changeset",
+                "pr"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 3,
+          "comments": [
+            {
+              "content": [
+                "open",
+                "stackblitz",
+                "commit",
+                "fc4343e"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "title": [
+        "llamaparse",
+        "error",
+        "parsing",
+        "msft",
+        "docx",
+        "pptx",
+        "file",
+        "suspect",
+        "llamaparsereader",
+        "applying",
+        "wrong",
+        "mime",
+        "type"
+      ],
+      "labels": [
+        "bug"
+      ],
+      "comments": [
+        {
+          "author": "ajpanyteam",
+          "content": [
+            "describe",
+            "bug",
+            "llamaparse",
+            "failing",
+            "pptx",
+            "docx",
+            "file",
+            "work",
+            "pdf",
+            "xlsx",
+            "file",
+            "using",
+            "llamaindex",
+            "t",
+            "sdk",
+            "v0.6.17",
+            "suspect",
+            "related",
+            "1007",
+            "write",
+            "concise",
+            "description",
+            "bug",
+            "using",
+            "following",
+            "code",
+            "return",
+            "error",
+            "parsing",
+            "file",
+            "failed",
+            "parse",
+            "file",
+            "const",
+            "file",
+            "storage.bucket",
+            "process.env.gcp_bucket",
+            ".file",
+            "fileid",
+            "const",
+            "buffer",
+            "await",
+            "file.download",
+            "const",
+            "getmetadata",
+            "await",
+            "file.getmetadata",
+            "console.log",
+            "getmetadata",
+            "0",
+            ".contenttype",
+            "const",
+            "reader",
+            "new",
+            "llamaparsereader",
+            "resulttype",
+            "markdown",
+            "skipdiagonaltext",
+            "true",
+            "verbose",
+            "true",
+            "const",
+            "unt8array",
+            "new",
+            "uint8array",
+            "buffer",
+            "const",
+            "document",
+            "await",
+            "reader.loaddataascontent",
+            "unt8array",
+            "//",
+            "error",
+            "parsing",
+            "file",
+            "failed",
+            "parse",
+            "file",
+            "c8e8b079-f3aa-4786-bfe3-e9b3981812cf",
+            "status",
+            "error",
+            "additional",
+            "context",
+            "digging",
+            "sdk",
+            "added",
+            "breakpoint",
+            "llamaparsereader",
+            "function",
+            "loaddataascontent",
+            "led",
+            "createjob",
+            "screenshot",
+            "pptx",
+            "file",
+            "mimetype",
+            "applied",
+            "application/vnd.oasis.opendocument.spreadsheet",
+            "sound",
+            "right",
+            "file",
+            "wget",
+            "http",
+            "//meetings.wmo.int/cg-19/publishingimages/sitepages/finac-43/7",
+            "20-",
+            "20ec-77-doc",
+            "205",
+            "20financial",
+            "20statements",
+            "20for",
+            "202022",
+            "20",
+            "finac",
+            ".pptx",
+            "-o",
+            "data/presentation.ppt",
+            "ppx",
+            "source",
+            "file",
+            "llamaparse",
+            "github",
+            "job",
+            "id",
+            "ac0c1b4a-915f-4d00-9340-25506d085f33",
+            "f8275764-361f-4fd9-ac6d-634193c556b2",
+            "c8e8b079-f3aa-4786-bfe3-e9b3981812cf",
+            "jobids",
+            "console",
+            "output",
+            "http",
+            "//cloud.llamaindex.ai/parse",
+            "history",
+            "tab",
+            "job"
+          ]
+        },
+        {
+          "author": "danielbank",
+          "content": [
+            "certain",
+            "file",
+            "example",
+            "code",
+            "fail",
+            "error",
+            "instead",
+            "produce",
+            "garbage",
+            "parse",
+            "based",
+            "data",
+            "related",
+            "original",
+            "file",
+            "see",
+            "example",
+            "repo",
+            "reproducing",
+            "http",
+            "//github.com/xaac-ai/llama-artifact"
+          ]
+        },
+        {
+          "author": "himself65",
+          "content": [
+            "seems",
+            "bug",
+            "llama",
+            "parse",
+            "side",
+            "also",
+            "remove",
+            "file",
+            "type",
+            "detect",
+            "sdk",
+            "side",
+            "beacuse",
+            "llama",
+            "parse",
+            "handle",
+            "correctly"
+          ]
+        },
+        {
+          "author": "jsmusgrave",
+          "content": [
+            "himself65",
+            "validate",
+            "docx",
+            "upload",
+            "via",
+            "website",
+            "assuming",
+            "'re",
+            "using",
+            "api",
+            "seems",
+            "unlikely",
+            "llama",
+            "parse",
+            "side"
+          ]
+        }
+      ]
+    }
+  ],
+  "security": null
+}

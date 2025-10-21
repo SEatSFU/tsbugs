@@ -1,0 +1,43 @@
+{
+  "commit_index": "e9b494c",
+  "commit_url": "https://github.com/refly-ai/refly/commit/e9b494cbcbcfa84466036b6cdfd6aa2b8ec14eb2",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "correct",
+      "syntax",
+      "cs",
+      "token",
+      "definition"
+    ],
+    "description": [
+      "added",
+      "missing",
+      "semicolon",
+      "'refly-colorful-orange-light",
+      "variable",
+      "tokens.css",
+      "ensure",
+      "proper",
+      "cs",
+      "syntax",
+      "ensured",
+      "adherence",
+      "tailwind",
+      "cs",
+      "styling",
+      "convention",
+      "throughout",
+      "change"
+    ],
+    "changed_files_count": 1,
+    "changed_files": [
+      "apps/web/src/tokens.css"
+    ],
+    "changed_files_content": [],
+    "parent": "24b1be94919abc889d8fae495ba1af17acdc3511"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

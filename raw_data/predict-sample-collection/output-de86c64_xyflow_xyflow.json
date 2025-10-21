@@ -1,0 +1,23 @@
+{
+  "commit_index": "de86c64",
+  "commit_url": "https://github.com/xyflow/xyflow/commit/de86c64128a232eb53957bde479c5f6340d4b14c",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "svelte",
+      "selection",
+      "sub",
+      "flow"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      "packages/svelte/src/lib/components/NodeSelection/NodeSelection.svelte"
+    ],
+    "changed_files_content": [],
+    "parent": "d562818f4cb91375d95f70f69186b4dd4423c577"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

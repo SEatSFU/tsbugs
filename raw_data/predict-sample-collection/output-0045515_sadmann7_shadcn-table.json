@@ -1,0 +1,22 @@
+{
+  "commit_index": "0045515",
+  "commit_url": "https://github.com/sadmann7/shadcn-table/commit/00455156f61999a5c10cddcb6e97b0dca153397a",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "debounce",
+      "search",
+      "seperately"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      "src/components/data-table/data-table.tsx"
+    ],
+    "changed_files_content": [],
+    "parent": "100ba0d1abfa3aebb154084d3424831e6209f3c9"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

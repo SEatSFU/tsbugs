@@ -1,0 +1,27 @@
+{
+  "commit_index": "4891e9c",
+  "commit_url": "https://github.com/xyflow/xyflow/commit/4891e9cc1c63d67853cf717dc60e1d947666ed39",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "react",
+      "svelte",
+      "prevent",
+      "pane",
+      "click",
+      "connection",
+      "progress"
+    ],
+    "description": [],
+    "changed_files_count": 2,
+    "changed_files": [
+      "packages/react/src/container/Pane/index.tsx",
+      "packages/svelte/src/lib/container/Pane/Pane.svelte"
+    ],
+    "changed_files_content": [],
+    "parent": "80177925425b630187a769f45a813da3cb623ee8"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

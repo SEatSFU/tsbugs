@@ -1,0 +1,21 @@
+{
+  "commit_index": "c89ebab",
+  "commit_url": "https://github.com/statelyai/xstate/commit/c89ebabf07007dd07bd9aba5c48deb073d0c0130",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "test",
+      "type"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      "packages/xstate-test/test/index.test.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "f63c226cb70cde461aa84ef4bae9292e249ce1b2"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

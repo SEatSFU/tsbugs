@@ -1,0 +1,26 @@
+{
+  "commit_index": "dd017bc",
+  "commit_url": "https://github.com/nestjs/nest/commit/dd017bc4a629f69a49d8882dc50b7f798a8b8d71",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "deps",
+      "update",
+      "dependency",
+      "light-my-request",
+      "v6.6.0"
+    ],
+    "description": [],
+    "changed_files_count": 3,
+    "changed_files": [
+      "package-lock.json",
+      "package.json",
+      "packages/platform-fastify/package.json"
+    ],
+    "changed_files_content": [],
+    "parent": "0ca6bbf8c9b898443ae8d6b822ec3a1eaafc7255"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

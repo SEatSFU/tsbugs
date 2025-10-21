@@ -1,0 +1,27 @@
+{
+  "commit_index": "ca76e69",
+  "commit_url": "https://github.com/nestjs/nest/commit/ca76e698f45701cfa604576d83103e736f025ce8",
+  "commit": {
+    "commit_message": [
+      "test",
+      "microservices",
+      "fix",
+      "client",
+      "mqtt",
+      "unit",
+      "test",
+      "use",
+      "endasync"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      "packages/microservices/test/client/client-mqtt.spec.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "d606466b37b09c3e9870a8d5ba65d3d0d238317f"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

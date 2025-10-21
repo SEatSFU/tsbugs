@@ -1,0 +1,24 @@
+{
+  "commit_index": "768c048",
+  "commit_url": "https://github.com/nestjs/nest/commit/768c048e433ea5343fff7506d847caf9e0a6bdef",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "deps",
+      "update",
+      "dependency",
+      "prisma/client",
+      "v6.4.1"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      "sample/22-graphql-prisma/package.json"
+    ],
+    "changed_files_content": [],
+    "parent": "b96d3d53a6f600e1485aec2bc0069250541c5c32"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

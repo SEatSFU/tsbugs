@@ -1,0 +1,326 @@
+{
+  "commit_index": "b6ccf0d",
+  "commit_url": "https://github.com/chakra-ui/chakra-ui/commit/b6ccf0dd2e3b72a5b50c9e1c00f1e6e3f3b68690",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "cli",
+      "add",
+      "failure",
+      "exit",
+      "code",
+      "5527"
+    ],
+    "description": [],
+    "changed_files_count": 2,
+    "changed_files": [
+      ".changeset/shy-cobras-wonder.md",
+      "tooling/cli/src/command/tokens/index.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "1d5a033d242e579ee128e875d3f6d5a84c91881c"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "cli",
+        "add",
+        "failure",
+        "exit",
+        "code",
+        "5527"
+      ],
+      "total_discussions": 6,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "close",
+                "5523\ud83d\udcdd",
+                "descriptionthis",
+                "pr",
+                "add",
+                "aprocess.exit",
+                "1",
+                "call",
+                "thetry/catchofgeneratethemetypings.\u26f3\ufe0f",
+                "current",
+                "behavior",
+                "update",
+                "process",
+                "exit",
+                "success",
+                "0",
+                "status",
+                "code",
+                "cases.\ud83d\ude80",
+                "new",
+                "behaviorprocess",
+                "exit",
+                "uncaught",
+                "fatal",
+                "exception",
+                "1",
+                "whengeneratethemetypingsfails.\ud83d\udca3",
+                "breaking",
+                "change",
+                "yes/no"
+              ],
+              "author": "TimKolberger"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "latest",
+                "commit:5b848fe",
+                "change",
+                "pr",
+                "included",
+                "next",
+                "version",
+                "bump",
+                "sure",
+                "mean",
+                "click",
+                "learn",
+                "changesets",
+                "click",
+                "'re",
+                "maintainer",
+                "want",
+                "add",
+                "another",
+                "changeset",
+                "pr"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 3,
+          "comments": [
+            {
+              "content": [
+                "pull",
+                "request",
+                "automatically",
+                "deployed",
+                "vercel",
+                "learn",
+                ".to",
+                "see",
+                "status",
+                "deployment",
+                "click",
+                "icon",
+                "next",
+                "commit",
+                "inspect",
+                "http",
+                "//vercel.com/chakra-ui/chakra-ui-storybook/dadycaqrbnay7higfve8uvwb85jz\u2705",
+                "preview",
+                "http",
+                "//chakra-ui-storybook-git-cli-failure-exit-code-chakra-ui.vercel.app"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 4,
+          "comments": [
+            {
+              "content": [
+                "pull",
+                "request",
+                "automatically",
+                "built",
+                "testable",
+                "incodesandbox",
+                "see",
+                "build",
+                "info",
+                "built",
+                "library",
+                "clickhereor",
+                "icon",
+                "next",
+                "commit",
+                "sha",
+                "latest",
+                "deployment",
+                "branch",
+                "based",
+                "commit5b848fe"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 5,
+          "comments": [
+            {
+              "content": [
+                "play",
+                "around",
+                "release",
+                "install",
+                "chakra-ui/react",
+                "0.0.0-pr-202215111823in",
+                "project",
+                "latest",
+                "commit:5b848fe"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 6,
+          "comments": [
+            {
+              "content": [
+                "with-heart\ud83d\udc96"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "title": [
+        "chakra",
+        "cli",
+        "return",
+        "exit",
+        "code",
+        "0",
+        "failing",
+        "parse",
+        "theme"
+      ],
+      "labels": [
+        "Type: Bug \ud83d\udc1b",
+        "CLI \u2699\ufe0f"
+      ],
+      "comments": [
+        {
+          "author": "lexanth",
+          "content": [
+            "description",
+            "code",
+            "chakra",
+            "cli",
+            "ca",
+            "n't",
+            "parse",
+            "command",
+            "exit",
+            "code",
+            "0",
+            "suggesting",
+            "success",
+            "link",
+            "reproduction",
+            "http",
+            "//codesandbox.io/s/nameless-moon-9ufmh",
+            "step",
+            "reproduce",
+            "download",
+            "sandbox",
+            "top",
+            "left",
+            "menu",
+            "button",
+            "file",
+            "export",
+            "zip",
+            "extract",
+            "install",
+            "dependency",
+            "used",
+            "yarn",
+            "run",
+            "generate",
+            "theme",
+            "script",
+            "chakra-cli",
+            "token",
+            "./src/theme.ts",
+            "chakra",
+            "ui",
+            "cli",
+            "v1.7.0",
+            "chakra",
+            "ui",
+            "generate",
+            "theme",
+            "typing",
+            "autocomplete",
+            "error",
+            "occurred",
+            "syntaxerror",
+            "invalid",
+            "unexpected",
+            "token",
+            "done",
+            "10.78s",
+            "check",
+            "exit",
+            "code",
+            "echo",
+            "bash",
+            "'ll",
+            "find",
+            "exited",
+            "zero",
+            "suggesting",
+            "success",
+            "failed",
+            "issue",
+            "e.g",
+            "ci",
+            "want",
+            "fail",
+            "build",
+            "fails",
+            "chakra",
+            "ui",
+            "version",
+            "1.8.1",
+            "browser",
+            "node",
+            "16",
+            "operating",
+            "system",
+            "macos",
+            "window",
+            "linux",
+            "additional",
+            "information",
+            "suspect",
+            "related",
+            "code",
+            "around",
+            "reading",
+            "theme",
+            "http",
+            "//github.com/chakra-ui/chakra-ui/blob/main/tooling/cli/src/command/tokens/index.ts",
+            "l15",
+            "dug",
+            "much"
+          ]
+        }
+      ]
+    }
+  ],
+  "security": null
+}

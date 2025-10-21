@@ -1,0 +1,158 @@
+{
+  "commit_index": "78bbe2b",
+  "commit_url": "https://github.com/n8n-io/n8n/commit/78bbe2ba27990127b1b6a6333361f35e2d3e7a65",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "schedule",
+      "trigger",
+      "node",
+      "change",
+      "scheduler",
+      "behaviour",
+      "interval"
+    ],
+    "description": [
+      "scheduler",
+      "interval",
+      "day",
+      "week",
+      "simplify",
+      "move",
+      "recurrency",
+      "rule",
+      "outside",
+      "trigger",
+      "node",
+      "remove",
+      "async",
+      "promise",
+      "recurency",
+      "rule",
+      "update",
+      "correctly",
+      "static",
+      "data",
+      "using",
+      "recurrency",
+      "rule",
+      "fix",
+      "logic",
+      "recurrency",
+      "activated",
+      "remove",
+      "useless",
+      "staticdata",
+      "fix",
+      "passed",
+      "reference",
+      "remove",
+      "duplicted",
+      "hour",
+      "cronjob",
+      "leading",
+      "2",
+      "execution",
+      "fix",
+      "handle",
+      "multiple",
+      "execution",
+      "fixing",
+      "dayofyear",
+      "recurency",
+      "check",
+      "fix",
+      "recurency",
+      "check",
+      "hours/days",
+      "equal",
+      "lastexecution",
+      "add",
+      "month",
+      "interval",
+      "scheduler",
+      "fix",
+      "flawed",
+      "logic",
+      "comparing",
+      "interval",
+      "fix",
+      "lint",
+      "issue",
+      "type",
+      "--",
+      "--",
+      "--",
+      "--",
+      "co-authored-by",
+      "marcus",
+      "marcus",
+      "n8n.io"
+    ],
+    "changed_files_count": 3,
+    "changed_files": [
+      "packages/nodes-base/nodes/Schedule/GenericFunctions.ts",
+      "packages/nodes-base/nodes/Schedule/ScheduleTrigger.node.ts",
+      "packages/nodes-base/nodes/Schedule/SchedulerInterface.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "ec7575b0321edf6e21e5ba5fb4094e9a36e65571"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "schedule",
+        "trigger",
+        "node",
+        "change",
+        "scheduler",
+        "behaviour",
+        "interval",
+        "day",
+        "hour",
+        "5133"
+      ],
+      "total_discussions": 2,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "github",
+                "issue",
+                "community",
+                "forum",
+                "post",
+                "link",
+                "close",
+                "automatically",
+                "http",
+                "//community.n8n.io/t/confused-re-schedule-node-executing-at-the-same-time-every-day/20324",
+                "u=mutedjam"
+              ],
+              "author": "agobrech"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "got",
+                "released",
+                "withn8n",
+                "0.214.0"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

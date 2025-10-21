@@ -1,0 +1,51 @@
+{
+  "commit_index": "0da05f7",
+  "commit_url": "https://github.com/type-challenges/type-challenges/commit/0da05f73e6a23842984605d4abfbf8535c5fd4ee",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "update",
+      "4260",
+      "allcombinations",
+      "5195"
+    ],
+    "description": [],
+    "changed_files_count": 3,
+    "changed_files": [
+      "questions/4260-medium-nomiwase/README.md",
+      "questions/4260-medium-nomiwase/info.ja.yml",
+      "questions/4260-medium-nomiwase/info.yml"
+    ],
+    "changed_files_content": [],
+    "parent": "61af1a341b5fdd3be931794e621d3ec49f53c897"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "update",
+        "4260",
+        "allcombinations",
+        "5195"
+      ],
+      "total_discussions": 1,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "description",
+                "provided"
+              ],
+              "author": "antfu"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

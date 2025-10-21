@@ -1,0 +1,211 @@
+{
+  "commit_index": "1b83ded",
+  "commit_url": "https://github.com/statelyai/xstate/commit/1b83ded7fffed596d1203ae782d160ba88b70c27",
+  "commit": {
+    "commit_message": [
+      "fixed",
+      "markdown",
+      "formatting",
+      "changelogs",
+      "3587"
+    ],
+    "description": [],
+    "changed_files_count": 8,
+    "changed_files": [
+      "packages/core/CHANGELOG.md",
+      "packages/xstate-fsm/CHANGELOG.md",
+      "packages/xstate-graph/CHANGELOG.md",
+      "packages/xstate-inspect/CHANGELOG.md",
+      "packages/xstate-react/CHANGELOG.md",
+      "packages/xstate-svelte/CHANGELOG.md",
+      "packages/xstate-test/CHANGELOG.md",
+      "packages/xstate-vue/CHANGELOG.md"
+    ],
+    "changed_files_content": [],
+    "parent": "7e43d521752a7b5bada2d754246acf33198dac7f"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fixed",
+        "markdown",
+        "formatting",
+        "changelogs",
+        "3587"
+      ],
+      "total_discussions": 4,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "combined",
+                "3586should",
+                "eliminate",
+                "unrelated",
+                "change",
+                "showing",
+                "pr",
+                "/changelog.mdfiles.the",
+                "problem",
+                "older",
+                "version",
+                "changesets",
+                "using",
+                "local",
+                "version",
+                "prettier",
+                "1.x",
+                "using",
+                "2.x",
+                "depending",
+                "script",
+                "formatting",
+                "file",
+                "got",
+                "different",
+                "result"
+              ],
+              "author": "Andarist"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "latest",
+                "commit",
+                "fd27622",
+                "merging",
+                "pr",
+                "cause",
+                "version",
+                "bump",
+                "package",
+                "change",
+                "result",
+                "new",
+                "version",
+                "'re",
+                "good",
+                "go.if",
+                "change",
+                "result",
+                "version",
+                "bump",
+                "need",
+                "add",
+                "changeset",
+                "changesets",
+                "added",
+                "pr",
+                "'ll",
+                "see",
+                "package",
+                "pr",
+                "includes",
+                "changesets",
+                "associated",
+                "semver",
+                "type",
+                "click",
+                "learn",
+                "changesets",
+                "add",
+                "one",
+                "click",
+                "'re",
+                "maintainer",
+                "want",
+                "add",
+                "changeset",
+                "pr"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 3,
+          "comments": [
+            {
+              "content": [
+                "make",
+                "big",
+                "change",
+                "easier",
+                "\u2014",
+                "review",
+                "code",
+                "small",
+                "group",
+                "related",
+                "file",
+                "know",
+                "start",
+                "\u2014",
+                "see",
+                "whole",
+                "change",
+                "glance",
+                "take",
+                "code",
+                "tour",
+                "\u2014",
+                "explore",
+                "change",
+                "interactive",
+                "tour",
+                "make",
+                "comment",
+                "review",
+                "\u2014",
+                "fully",
+                "sync",
+                "\u2019",
+                "ed",
+                "github",
+                "try"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 4,
+          "comments": [
+            {
+              "content": [
+                "pull",
+                "request",
+                "automatically",
+                "built",
+                "testable",
+                "incodesandbox",
+                "see",
+                "build",
+                "info",
+                "built",
+                "library",
+                "clickhereor",
+                "icon",
+                "next",
+                "commit",
+                "sha",
+                "latest",
+                "deployment",
+                "branch",
+                "based",
+                "commitfd27622"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

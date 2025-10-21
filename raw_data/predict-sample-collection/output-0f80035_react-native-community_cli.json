@@ -1,0 +1,323 @@
+{
+  "commit_index": "0f80035",
+  "commit_url": "https://github.com/react-native-community/cli/commit/0f800350530f84af95d823187e6697a4990b7d59",
+  "commit": {
+    "commit_message": [
+      "chore",
+      "revert",
+      "fix",
+      "metro",
+      "bundler",
+      "crashing",
+      "run-android"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      "packages/platform-android/src/commands/runAndroid/index.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "8abe16d8bba63e721eda602c26e5a5d779a9f0c1"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "chore",
+        "revert",
+        "temporary",
+        "fix",
+        "484",
+        "1052"
+      ],
+      "total_discussions": 1,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "summary",
+                "fix",
+                "included",
+                "rn",
+                "0.61",
+                "facebook/react-native",
+                "a162554ref",
+                "489test",
+                "plan",
+                "cc",
+                "thecodrr"
+              ],
+              "author": "Esemesek"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pr_title": [
+        "fix",
+        "metro",
+        "bundler",
+        "crashing",
+        "run-android",
+        "window",
+        "489"
+      ],
+      "total_discussions": 1,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "summary",
+                "temporary",
+                "fix",
+                "484untilthis",
+                "prget",
+                "approved",
+                "rn",
+                "repo",
+                "new",
+                "rn",
+                "version",
+                "released",
+                "removed",
+                "afterwards.i",
+                "basically",
+                "replace",
+                "content",
+                "oflaunchpackager.batto",
+                "fixed",
+                "version",
+                "everything",
+                "run",
+                "smoothly",
+                "afterwards.test",
+                "plan",
+                "tested",
+                "new",
+                "project",
+                "created",
+                "usingreact-native",
+                "initand",
+                "manually",
+                "editing",
+                "appropriate",
+                "file",
+                "implement",
+                "fix",
+                "seems",
+                "working",
+                "window",
+                "machine",
+                "tested",
+                "merge",
+                "though"
+              ],
+              "author": "thymikee"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "title": [
+        "metro",
+        "bundler",
+        "immediately",
+        "close",
+        "react-native",
+        "run-android"
+      ],
+      "labels": [
+        "bug",
+        "env: windows",
+        "help wanted"
+      ],
+      "comments": [
+        {
+          "author": "thecodrr",
+          "content": [
+            "environment",
+            "system",
+            "o",
+            "window",
+            "10",
+            "cpu",
+            "8",
+            "x64",
+            "intel",
+            "r",
+            "core",
+            "tm",
+            "i7-7700hq",
+            "cpu",
+            "2.80ghz",
+            "memory",
+            "8.99",
+            "gb",
+            "15.89",
+            "gb",
+            "binary",
+            "node",
+            "10.16.0",
+            "c",
+            "\\program",
+            "files\\nodejs\\node.exe",
+            "yarn",
+            "1.16.0",
+            "c",
+            "\\program",
+            "file",
+            "x86",
+            "\\yarn\\bin\\yarn.cmd",
+            "npm",
+            "6.9.0",
+            "c",
+            "\\program",
+            "files\\nodejs\\npm.cmd",
+            "sdks",
+            "android",
+            "sdk",
+            "android",
+            "ndk",
+            "18.1.5063045",
+            "ides",
+            "android",
+            "studio",
+            "version",
+            "3.3.0.0",
+            "ai-182.5107.16.33.5264788",
+            "react-native-cli",
+            "2.0.1",
+            "react-native",
+            "0.60.0",
+            "description",
+            "yarn",
+            "react-native",
+            "run-android",
+            "open",
+            "metro",
+            "bundler",
+            "immediately",
+            "close",
+            "n't",
+            "know",
+            "bug",
+            "cli",
+            "metro",
+            "happens",
+            "window",
+            "think",
+            "thing",
+            "tried",
+            "restarting",
+            "system",
+            "clearing",
+            "cache",
+            "etc",
+            "reproducible",
+            "demo",
+            "create",
+            "new",
+            "project",
+            "using",
+            "react-native",
+            "init",
+            "run",
+            "yarn",
+            "react-native",
+            "run-android"
+          ]
+        },
+        {
+          "author": "thymikee",
+          "content": [
+            "'ll",
+            "need",
+            "help",
+            "debugging",
+            "'s",
+            "causing",
+            "mean",
+            "close",
+            "share",
+            "detail"
+          ]
+        },
+        {
+          "author": "thymikee",
+          "content": [
+            "post",
+            "video",
+            "set",
+            "console.logs",
+            "commands/server/runserver.js"
+          ]
+        },
+        {
+          "author": "thymikee",
+          "content": [
+            "btw",
+            "running",
+            "yarn",
+            "react-native",
+            "start",
+            "work",
+            "without",
+            "issue",
+            "check",
+            "file",
+            "related",
+            "diff",
+            "http",
+            "//github.com/react-native-community/cli/pull/310"
+          ]
+        },
+        {
+          "author": "thymikee",
+          "content": [
+            "yea",
+            "removed",
+            "option",
+            "'s",
+            "necessary",
+            "remove",
+            "http",
+            "//github.com/facebook/react-native/blob/master/scripts/launchpackager.bat",
+            "see",
+            "work"
+          ]
+        },
+        {
+          "author": "thymikee",
+          "content": [
+            "yea",
+            "send",
+            "pr",
+            "rn",
+            "patch",
+            "release",
+            "make",
+            "take",
+            "cc",
+            "kelset",
+            "think",
+            "file",
+            "may",
+            "bit",
+            "bigger",
+            "change"
+          ]
+        }
+      ]
+    }
+  ],
+  "security": null
+}

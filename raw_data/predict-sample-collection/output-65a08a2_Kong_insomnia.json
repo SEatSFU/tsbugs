@@ -1,0 +1,380 @@
+{
+  "commit_index": "65a08a2",
+  "commit_url": "https://github.com/Kong/insomnia/commit/65a08a216382a0b49c5bfcaf6e824b3eb2ef8af4",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "682",
+      "support",
+      "postman",
+      "import",
+      "schema",
+      "v2.1.0",
+      "1233"
+    ],
+    "description": [],
+    "changed_files_count": 14,
+    "changed_files": [
+      "packages/insomnia-importers/src/__tests__/fixtures/postman/complex-input.json",
+      "packages/insomnia-importers/src/__tests__/fixtures/postman/complex-url-v2_0-input.json",
+      "packages/insomnia-importers/src/__tests__/fixtures/postman/complex-url-v2_0-output.json",
+      "packages/insomnia-importers/src/__tests__/fixtures/postman/complex-url-v2_1-input.json",
+      "packages/insomnia-importers/src/__tests__/fixtures/postman/complex-url-v2_1-output.json",
+      "packages/insomnia-importers/src/__tests__/fixtures/postman/complex-v2_0-input.json",
+      "packages/insomnia-importers/src/__tests__/fixtures/postman/complex-v2_0-output.json",
+      "packages/insomnia-importers/src/__tests__/fixtures/postman/complex-v2_1-input.json",
+      "packages/insomnia-importers/src/__tests__/fixtures/postman/complex-v2_1-output.json",
+      "packages/insomnia-importers/src/__tests__/fixtures/postman/minimal-v2_0-input.json",
+      "packages/insomnia-importers/src/__tests__/fixtures/postman/minimal-v2_0-output.json",
+      "packages/insomnia-importers/src/__tests__/fixtures/postman/minimal-v2_1-input.json",
+      "packages/insomnia-importers/src/__tests__/fixtures/postman/minimal-v2_1-output.json",
+      "packages/insomnia-importers/src/importers/postman.js"
+    ],
+    "changed_files_content": [],
+    "parent": "38a70e99143c8203bf28fadc583dd28ff9c88838"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "682",
+        "support",
+        "postman",
+        "import",
+        "schema",
+        "v2.1.0",
+        "1233"
+      ],
+      "total_discussions": 7,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "pr",
+                "implement",
+                "support",
+                "postman",
+                "import",
+                "schema",
+                "v2.1.0",
+                "extent",
+                "v2.0.0",
+                "supported",
+                "notably",
+                "mean",
+                "authentication",
+                "parameter",
+                "still",
+                "imported",
+                "either",
+                "version.closes",
+                "682"
+              ],
+              "author": "gschier"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "opening",
+                "pull",
+                "request",
+                "help",
+                "make",
+                "smooth",
+                "process",
+                "please",
+                "sure",
+                "first",
+                "read",
+                "thecontributing",
+                "guideline"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 3,
+          "comments": [
+            {
+              "content": [
+                "pr",
+                "considered",
+                "ok",
+                "'d",
+                "like",
+                "take",
+                "stab",
+                "adding",
+                "support",
+                "importing",
+                "authentication",
+                "parameter",
+                "postman",
+                "import",
+                "v2.0",
+                "v2.1"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 4,
+          "comments": [
+            {
+              "content": [
+                "oh",
+                "wow",
+                "look",
+                "like",
+                "much",
+                "changed",
+                "2.0",
+                "2.1",
+                "perhaps",
+                "thing",
+                "changed/added",
+                "n't",
+                "support",
+                "yet",
+                "either",
+                "way",
+                "look",
+                "awesome"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 5,
+          "comments": [
+            {
+              "content": [
+                "yes",
+                "please",
+                "go",
+                "ahead",
+                "extend",
+                "support",
+                "needed",
+                "'m",
+                "sure",
+                "lot",
+                "people",
+                "appreciate",
+                "improvement"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 6,
+          "comments": [
+            {
+              "content": [
+                "congrats",
+                "merging",
+                "first",
+                "pull",
+                "request",
+                "'re",
+                "helping",
+                "make",
+                "insomnia",
+                "awesome"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 7,
+          "comments": [
+            {
+              "content": [
+                "gschierper",
+                "suggestion",
+                "'ve",
+                "added",
+                "support",
+                "auth",
+                "method",
+                "use",
+                "personally",
+                "work",
+                "n't",
+                "authorization",
+                "method",
+                "supported",
+                "postman",
+                "'ll",
+                "find",
+                "pr",
+                "1244",
+                "help"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "title": [
+        "feature",
+        "request",
+        "support",
+        "import",
+        "postman",
+        "v2.1.0"
+      ],
+      "labels": [
+        "N-help"
+      ],
+      "comments": [
+        {
+          "author": "timrs2998",
+          "content": [
+            "insomnia",
+            "version",
+            "5.12.4",
+            "operating",
+            "system",
+            "macos",
+            "sierra",
+            "10.12.6",
+            "detail",
+            "'d",
+            "like",
+            "able",
+            "export",
+            "latest",
+            "postman",
+            "import",
+            "insomnia",
+            "new",
+            "v2.1.0",
+            "schema",
+            "postman",
+            "collection",
+            "available",
+            "http",
+            "//schema.getpostman.com/",
+            "looking",
+            "around",
+            "code",
+            "someone",
+            "probably",
+            "diff",
+            "change",
+            "v2.0.0",
+            "v2.1.0",
+            "add",
+            "another",
+            "branch",
+            "http",
+            "//github.com/getinsomnia/insomnia/blob/develop/packages/insomnia-importers/src/importers/postman.js",
+            "l17"
+          ]
+        },
+        {
+          "author": "welcome",
+          "content": [
+            "opening",
+            "first",
+            "issue",
+            "'re",
+            "reporting",
+            "bug",
+            "please",
+            "make",
+            "sure",
+            "include",
+            "step",
+            "reproduce",
+            "'re",
+            "requesting",
+            "feature",
+            "please",
+            "provide",
+            "real",
+            "use",
+            "case",
+            "would",
+            "benefit",
+            "help",
+            "make",
+            "smooth",
+            "process",
+            "please",
+            "sure",
+            "first",
+            "read",
+            "contributing",
+            "guideline",
+            "http",
+            "//github.com/getinsomnia/insomnia/blob/master/contributing.md"
+          ]
+        },
+        {
+          "author": "stale",
+          "content": [
+            "issue",
+            "automatically",
+            "marked",
+            "stale",
+            "recent",
+            "activity",
+            "closed",
+            "activity",
+            "occurs",
+            "contribution"
+          ]
+        },
+        {
+          "author": "stale",
+          "content": [
+            "issue",
+            "automatically",
+            "marked",
+            "stale",
+            "recent",
+            "activity",
+            "closed",
+            "activity",
+            "occurs",
+            "contribution"
+          ]
+        },
+        {
+          "author": "stale",
+          "content": [
+            "issue",
+            "automatically",
+            "marked",
+            "stale",
+            "recent",
+            "activity",
+            "closed",
+            "activity",
+            "occurs",
+            "contribution"
+          ]
+        },
+        {
+          "author": "gschier",
+          "content": [
+            "open"
+          ]
+        }
+      ]
+    }
+  ],
+  "security": null
+}

@@ -1,0 +1,21 @@
+{
+  "commit_index": "cf3597c",
+  "commit_url": "https://github.com/chakra-ui/chakra-ui/commit/cf3597cd563cb86ecca35ddd8c01ef329fa49c30",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "button",
+      "recipe"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      "packages/react/src/theme/recipes/button.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "49747c6d4c931c80402d075929de135274503629"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

@@ -1,0 +1,25 @@
+{
+  "commit_index": "4564503",
+  "commit_url": "https://github.com/nestjs/nest/commit/45645039362e381f8cea8fa6a75130bb75c37c9d",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "use",
+      "valid",
+      "reference",
+      "cancel",
+      "event",
+      "constant"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      "packages/microservices/server/server-grpc.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "30a6b52c501e0621c620ceeb45a2c4b851330033"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

@@ -1,0 +1,29 @@
+{
+  "commit_index": "b9c07dc",
+  "commit_url": "https://github.com/xyflow/xyflow/commit/b9c07dc211dea4f681f5cd42e96a19b9fc06eceb",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "lint",
+      "command",
+      "bump",
+      "eslint",
+      "package"
+    ],
+    "description": [],
+    "changed_files_count": 6,
+    "changed_files": [
+      "package.json",
+      "packages/react/src/components/NodeWrapper/index.tsx",
+      "packages/react/src/components/Panel/index.tsx",
+      "packages/system/src/xyhandle/types.ts",
+      "pnpm-lock.yaml",
+      "tooling/eslint-config/package.json"
+    ],
+    "changed_files_content": [],
+    "parent": "043c8120ace53b562c0b3ec8194ccdef64ccad0e"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

@@ -1,0 +1,39 @@
+{
+  "commit_index": "6a3c896",
+  "commit_url": "https://github.com/testing-library/user-event/commit/6a3c896bd2d77d284c6deab4f4f02c0fb366824b",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "remove",
+      "interop",
+      "deep",
+      "dtl",
+      "import"
+    ],
+    "description": [],
+    "changed_files_count": 16,
+    "changed_files": [
+      "src/_interop/dom-events.d.ts",
+      "src/_interop/dom-helpers.d.ts",
+      "src/_interop/dtl.ts",
+      "src/_interop/dtlEventMap.ts",
+      "src/_interop/dtlHelpers.ts",
+      "src/event/createEvent.ts",
+      "src/event/eventMap.ts",
+      "src/event/types.ts",
+      "src/event/wrapEvent.ts",
+      "src/setup/wrapAsync.ts",
+      "src/utility/selectOptions.ts",
+      "src/utils/misc/getWindow.ts",
+      "tests/_helpers/dom-events.d.ts",
+      "tests/_helpers/listeners.ts",
+      "tests/setup/index.ts",
+      "tests/utils/misc/isVisible.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "d7483f049a1ec2ebf1ca1e2c1f4367849fca5997"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

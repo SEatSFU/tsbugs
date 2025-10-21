@@ -1,0 +1,143 @@
+{
+  "commit_index": "24061f1",
+  "commit_url": "https://github.com/react-native-community/cli/commit/24061f183f33936e4cfa76f7f5ea67d60b27d2be",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "adding",
+      "back",
+      "projectroot",
+      "option",
+      "588"
+    ],
+    "description": [
+      "adding",
+      "projectroot",
+      "option",
+      "resolve",
+      "fixing",
+      "flow",
+      "error",
+      "adding",
+      "--",
+      "projectroot",
+      "commands.md"
+    ],
+    "changed_files_count": 2,
+    "changed_files": [
+      "docs/commands.md",
+      "packages/cli/src/commands/server/server.js"
+    ],
+    "changed_files_content": [],
+    "parent": "b1a0841aea7286898c33165a24c9724ad6def91d"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "adding",
+        "projectroot",
+        "option",
+        "resolve",
+        "588"
+      ],
+      "total_discussions": 2,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "summary",
+                "following",
+                "pr",
+                "yesterday",
+                "572",
+                "forgot",
+                "include",
+                "--",
+                "projectroot",
+                "option",
+                "descriptor",
+                "pr",
+                "make",
+                "non",
+                "usable",
+                "documented",
+                "--",
+                "help",
+                "pr",
+                "fix",
+                "it.i",
+                "also",
+                "went",
+                "ahead",
+                "added",
+                "path.resolve",
+                "parsing",
+                "--",
+                "watchfolders.test",
+                "plan",
+                "try",
+                "using",
+                "cli",
+                "start",
+                "custom",
+                "project",
+                "root",
+                "set",
+                "metro",
+                "config",
+                "load",
+                "custom",
+                "root",
+                "try",
+                "using",
+                "cli",
+                "start",
+                "--",
+                "projectroot",
+                "point",
+                "another",
+                "directory",
+                "also",
+                "check",
+                "relative",
+                "path",
+                "override",
+                "metro",
+                "config",
+                "try",
+                "using",
+                "cli",
+                "--",
+                "watchfolders",
+                "relative",
+                "path",
+                "folder",
+                "specified",
+                "resolved",
+                "merged",
+                "metro",
+                "config"
+              ],
+              "author": "thymikee"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "done"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

@@ -1,0 +1,37 @@
+{
+  "commit_index": "033048e",
+  "commit_url": "https://github.com/testing-library/user-event/commit/033048e9cb51fc49c5f703f713244d9445ef125c",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "n't",
+      "fire",
+      "event",
+      "clicking",
+      "disabled",
+      "radio",
+      "button"
+    ],
+    "description": [
+      "breaking",
+      "change",
+      "clicking",
+      "disabled",
+      "radio",
+      "button",
+      "longer",
+      "fire",
+      "event"
+    ],
+    "changed_files_count": 2,
+    "changed_files": [
+      "__tests__/click.js",
+      "src/index.js"
+    ],
+    "changed_files_content": [],
+    "parent": "68af3552d21d33d600d62239f97da1e2d76ce5e9"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

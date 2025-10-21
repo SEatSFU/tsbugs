@@ -1,0 +1,23 @@
+{
+  "commit_index": "4639591",
+  "commit_url": "https://github.com/chakra-ui/chakra-ui/commit/46395916735b5a2db83bfa47ec582707e4213a7d",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "checkbox",
+      "recipe",
+      "mobile"
+    ],
+    "description": [],
+    "changed_files_count": 2,
+    "changed_files": [
+      "packages/react/src/styled-system/preflight.ts",
+      "packages/react/src/theme/recipes/checkbox.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "11d4c100fee72891c3d43729618c953c5136f264"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

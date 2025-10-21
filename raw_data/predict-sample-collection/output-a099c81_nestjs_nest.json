@@ -1,0 +1,25 @@
+{
+  "commit_index": "a099c81",
+  "commit_url": "https://github.com/nestjs/nest/commit/a099c81b798391dd7b05d8e231b4c1856b692581",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "deps",
+      "update",
+      "dependency",
+      "ansis",
+      "v3.10.0"
+    ],
+    "description": [],
+    "changed_files_count": 2,
+    "changed_files": [
+      "package-lock.json",
+      "package.json"
+    ],
+    "changed_files_content": [],
+    "parent": "95920c5f9f57950174b38ca835fb078ffad89744"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

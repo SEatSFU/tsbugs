@@ -1,0 +1,106 @@
+{
+  "commit_index": "1c09669",
+  "commit_url": "https://github.com/n8n-io/n8n/commit/1c0966957d8aeaccb4ef0bd6c624ee0351442f92",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "editor",
+      "fix",
+      "adding",
+      "wrong",
+      "action",
+      "filtering",
+      "node"
+    ],
+    "description": [],
+    "changed_files_count": 4,
+    "changed_files": [
+      "cypress/e2e/4-node-creator.cy.ts",
+      "packages/editor-ui/src/components/Node.vue",
+      "packages/editor-ui/src/components/Node/NodeCreator/MainPanel.vue",
+      "packages/editor-ui/src/plugins/i18n/locales/en.json"
+    ],
+    "changed_files_content": [],
+    "parent": "75a094a8c03afc40b7872cd2115d82e69455286e"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "editor",
+        "fix",
+        "adding",
+        "wrong",
+        "action",
+        "filtering",
+        "node",
+        "action",
+        "panel",
+        "no-changelog",
+        "5518"
+      ],
+      "total_discussions": 2,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "filtering",
+                "inside",
+                "thecategorizeditemscomponent",
+                "'re",
+                "usingsearchitemsas",
+                "base",
+                "filtering",
+                "case",
+                "action",
+                "transformed",
+                "astype",
+                "'node'while",
+                "beactiontype",
+                "added",
+                "e2e",
+                "test",
+                "check",
+                "this.also",
+                "included",
+                "tooltip",
+                "trigger",
+                "node",
+                "canvas",
+                "icon",
+                "minor",
+                "addition.github",
+                "issue",
+                "community",
+                "forum",
+                "post",
+                "link",
+                "close",
+                "automatically"
+              ],
+              "author": "OlegIvaniv"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "got",
+                "released",
+                "withn8n",
+                "0.217.1"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

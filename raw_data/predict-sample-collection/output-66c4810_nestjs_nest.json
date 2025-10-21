@@ -1,0 +1,22 @@
+{
+  "commit_index": "66c4810",
+  "commit_url": "https://github.com/nestjs/nest/commit/66c4810b0feee8944a38599673bf6b17a44417ac",
+  "commit": {
+    "commit_message": [
+      "style",
+      "fix",
+      "linter",
+      "issue"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      "packages/common/services/console-logger.service.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "23e602b7122f0b2a8162065250b930b2fd7818c9"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

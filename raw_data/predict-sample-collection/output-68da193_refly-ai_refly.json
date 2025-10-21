@@ -1,0 +1,39 @@
+{
+  "commit_index": "68da193",
+  "commit_url": "https://github.com/refly-ai/refly/commit/68da193a89a0d818fd5a7f7400384e0bce697885",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "api",
+      "improve",
+      "logging",
+      "httpexception",
+      "handling"
+    ],
+    "description": [
+      "updated",
+      "globalexceptionfilter",
+      "log",
+      "warning",
+      "httpexceptions",
+      "except",
+      "status",
+      "401",
+      "enhancing",
+      "log",
+      "clarity",
+      "reducing",
+      "unnecessary",
+      "noise"
+    ],
+    "changed_files_count": 1,
+    "changed_files": [
+      "apps/api/src/utils/filters/global-exception.filter.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "45b6349fca9f2145249f35aefdd1bb4646e109e8"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

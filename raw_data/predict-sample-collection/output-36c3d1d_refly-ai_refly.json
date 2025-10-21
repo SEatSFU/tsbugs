@@ -1,0 +1,52 @@
+{
+  "commit_index": "36c3d1d",
+  "commit_url": "https://github.com/refly-ai/refly/commit/36c3d1d488710c6487803ad6486e826c172f3208",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "workflow",
+      "remove",
+      "unused",
+      "index",
+      "clean",
+      "comment"
+    ],
+    "description": [
+      "removed",
+      "unused",
+      "index",
+      "pilotstepid",
+      "actionresult",
+      "model",
+      "better",
+      "schema",
+      "clarity",
+      "cleaned",
+      "comment",
+      "skill.service.ts",
+      "enhance",
+      "code",
+      "readability",
+      "added",
+      "optional",
+      "executionid",
+      "parameter",
+      "workflow.service.ts",
+      "improved",
+      "workflow",
+      "execution",
+      "handling"
+    ],
+    "changed_files_count": 3,
+    "changed_files": [
+      "apps/api/prisma/sqlite-schema.prisma",
+      "apps/api/src/modules/skill/skill.service.ts",
+      "apps/api/src/modules/workflow/workflow.service.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "d7a88ebfb53cfd17684681945a572abfff561f2f"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

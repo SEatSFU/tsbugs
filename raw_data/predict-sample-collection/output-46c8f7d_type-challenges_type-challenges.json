@@ -1,0 +1,54 @@
+{
+  "commit_index": "46c8f7d",
+  "commit_url": "https://github.com/type-challenges/type-challenges/commit/46c8f7d0442192cc026fba42dc78ee14b4332b5d",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "author",
+      "info",
+      "22396"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      "questions/06228-extreme-json-parser/info.yml"
+    ],
+    "changed_files_content": [],
+    "parent": "f5725d63f4f9cd82151772d4fd8a44b6c1e2bf5f"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "author",
+        "info",
+        "22396"
+      ],
+      "total_discussions": 1,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "sorry",
+                "renamed",
+                "github",
+                "ca",
+                "n't",
+                "redirect",
+                "link",
+                "personal",
+                "page"
+              ],
+              "author": "antfu"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

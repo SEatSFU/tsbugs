@@ -1,0 +1,28 @@
+{
+  "commit_index": "efa1632",
+  "commit_url": "https://github.com/xyflow/xyflow/commit/efa163203ccfebc119a589aef78f8b5c5c352fd3",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "hook",
+      "fix",
+      "dragndrop",
+      "example"
+    ],
+    "description": [],
+    "changed_files_count": 6,
+    "changed_files": [
+      "examples/svelte/src/routes/examples/add-node-on-drop/Flow.svelte",
+      "examples/svelte/src/routes/examples/drag-n-drop/Flow.svelte",
+      "examples/svelte/src/routes/examples/drag-n-drop/Sidebar.svelte",
+      "packages/svelte/src/lib/hooks/useConnection.ts",
+      "packages/svelte/src/lib/hooks/useHandleEdgeSelect.ts",
+      "packages/svelte/src/lib/index.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "d2fd846c6747184ba6d71c43b6c2c15efca2405b"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

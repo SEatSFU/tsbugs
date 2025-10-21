@@ -1,0 +1,154 @@
+{
+  "commit_index": "16514e4",
+  "commit_url": "https://github.com/statelyai/xstate/commit/16514e4663deba95731a84deaee94c17edec1e06",
+  "commit": {
+    "commit_message": [
+      "fixed",
+      "issue",
+      "emittedfrom",
+      "type",
+      "helper",
+      "could",
+      "prevent",
+      "it\u2026"
+    ],
+    "description": [
+      "fixed",
+      "issue",
+      "emittedfrom",
+      "type",
+      "helper",
+      "could",
+      "prevent",
+      "inferring",
+      "desired",
+      "type",
+      "service",
+      "special",
+      "case",
+      "interpreter",
+      "emittedfrom"
+    ],
+    "changed_files_count": 3,
+    "changed_files": [
+      ".changeset/popular-wolves-tap.md",
+      "packages/core/src/types.ts",
+      "packages/core/test/typeHelpers.test.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "542417822fb50714df89a8ca302a37b8610409e0"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fixed",
+        "issue",
+        "theemittedfromtype",
+        "helper",
+        "could",
+        "prevent",
+        "inferring",
+        "desired",
+        "type",
+        "service",
+        "3292"
+      ],
+      "total_discussions": 4,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "fix",
+                "issue",
+                "reported",
+                "http",
+                "//discord.com/channels/795785288994652170/809564589880639548/974402582393024562"
+              ],
+              "author": "Andarist"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "latest",
+                "commit:8b96e09",
+                "change",
+                "pr",
+                "included",
+                "next",
+                "version",
+                "bump",
+                "sure",
+                "mean",
+                "click",
+                "learn",
+                "changesets",
+                "click",
+                "'re",
+                "maintainer",
+                "want",
+                "add",
+                "another",
+                "changeset",
+                "pr"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 3,
+          "comments": [
+            {
+              "content": [
+                "reviewin",
+                "interactive",
+                "map",
+                "viewmore",
+                "codesee",
+                "map"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 4,
+          "comments": [
+            {
+              "content": [
+                "pull",
+                "request",
+                "automatically",
+                "built",
+                "testable",
+                "incodesandbox",
+                "see",
+                "build",
+                "info",
+                "built",
+                "library",
+                "clickhereor",
+                "icon",
+                "next",
+                "commit",
+                "sha",
+                "latest",
+                "deployment",
+                "branch",
+                "based",
+                "commit8b96e09"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

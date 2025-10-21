@@ -1,0 +1,144 @@
+{
+  "commit_index": "beef9b8",
+  "commit_url": "https://github.com/Kong/insomnia/commit/beef9b852a5e7520649670ec816f28183e52856e",
+  "commit": {
+    "commit_message": [
+      "close",
+      "959",
+      "fix",
+      "copy",
+      "curl",
+      "respect",
+      "encode",
+      "url",
+      "option",
+      "979"
+    ],
+    "description": [
+      "issue-959",
+      "fix",
+      "copy",
+      "curl",
+      "respect",
+      "encode",
+      "url",
+      "option",
+      "issue-959",
+      "fix",
+      "test",
+      "issue-959",
+      "fix",
+      "review",
+      "comment"
+    ],
+    "changed_files_count": 4,
+    "changed_files": [
+      "packages/insomnia-app/app/common/__tests__/har.test.js",
+      "packages/insomnia-app/app/common/har.js",
+      "packages/insomnia-app/app/plugins/context/__tests__/data.test.js",
+      "packages/insomnia-httpsnippet/src/index.js"
+    ],
+    "changed_files_content": [],
+    "parent": "b11f5a5c6909bdb8b87f93a9b822cdc923e1f125"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "close",
+        "959",
+        "fix",
+        "copy",
+        "curl",
+        "respect",
+        "encode",
+        "url",
+        "option",
+        "979"
+      ],
+      "total_discussions": 1,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "close",
+                "959",
+                "bug",
+                "'copy",
+                "curl",
+                "feature",
+                "n't",
+                "respect",
+                "automatically",
+                "encode",
+                "special",
+                "character",
+                "url",
+                "option"
+              ],
+              "author": "gschier"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "title": [
+        "bug",
+        "'copy",
+        "curl",
+        "feature",
+        "n't",
+        "respect",
+        "automatically",
+        "encode",
+        "special",
+        "character",
+        "url",
+        "option"
+      ],
+      "labels": [],
+      "comments": [
+        {
+          "author": "besolov",
+          "content": [
+            "insomnia",
+            "version",
+            "5.16.6",
+            "5.16.6.2073",
+            "operating",
+            "system",
+            "macos",
+            "detail",
+            "'copy",
+            "curl",
+            "feature",
+            "n't",
+            "respect",
+            "automatically",
+            "encode",
+            "special",
+            "character",
+            "url",
+            "option",
+            "option",
+            "disabled",
+            "'copy",
+            "curl",
+            "continues",
+            "generate",
+            "curl",
+            "string",
+            "encoded",
+            "url"
+          ]
+        }
+      ]
+    }
+  ],
+  "security": null
+}

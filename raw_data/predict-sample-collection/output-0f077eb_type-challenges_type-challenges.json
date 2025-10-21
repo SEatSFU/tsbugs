@@ -1,0 +1,62 @@
+{
+  "commit_index": "0f077eb",
+  "commit_url": "https://github.com/type-challenges/type-challenges/commit/0f077ebbb60dd8c2c49c30054280fb5d15e74bde",
+  "commit": {
+    "commit_message": [
+      "enhance",
+      "fix",
+      "test",
+      "case",
+      "02757-medium-partialbykeys",
+      "17332"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      "questions/02757-medium-partialbykeys/test-cases.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "20c2f03ae1460aced4c60dd18d81f0f6e421beb2"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "enhance",
+        "fix",
+        "test",
+        "case",
+        "02757-medium-partialbykeys",
+        "17332"
+      ],
+      "total_discussions": 1,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "description",
+                "problem",
+                "say",
+                "thatkspecify",
+                "set",
+                "property",
+                "oftso",
+                "think",
+                "would",
+                "better",
+                "validate",
+                "thekgeneric",
+                "parameter"
+              ],
+              "author": "antfu"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

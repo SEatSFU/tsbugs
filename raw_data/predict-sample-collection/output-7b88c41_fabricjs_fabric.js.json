@@ -1,0 +1,63 @@
+{
+  "commit_index": "7b88c41",
+  "commit_url": "https://github.com/fabricjs/fabric.js/commit/7b88c416db49ad0116c16d60af9471c6637ce7ad",
+  "commit": {
+    "commit_message": [
+      "doc",
+      "fix",
+      "cdn",
+      "link",
+      "readme",
+      "10208"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      "README.md"
+    ],
+    "changed_files_content": [],
+    "parent": "b00491e24b49a903b9502d04fbbe34b82568b3e3"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "cdn",
+        "link",
+        "10208"
+      ],
+      "total_discussions": 2,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "descriptionin",
+                "action"
+              ],
+              "author": "asturur"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "open",
+                "branch",
+                "inweb",
+                "editor\u2022vs",
+                "code\u2022insidersopenpreview"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

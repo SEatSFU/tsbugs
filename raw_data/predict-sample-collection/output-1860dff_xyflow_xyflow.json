@@ -1,0 +1,24 @@
+{
+  "commit_index": "1860dff",
+  "commit_url": "https://github.com/xyflow/xyflow/commit/1860dff666287636ba6385e791976df34abc5d5a",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "minimap",
+      "sub",
+      "flow",
+      "node",
+      "position"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      "packages/svelte/src/lib/plugins/Minimap/Minimap.svelte"
+    ],
+    "changed_files_content": [],
+    "parent": "de86c64128a232eb53957bde479c5f6340d4b14c"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

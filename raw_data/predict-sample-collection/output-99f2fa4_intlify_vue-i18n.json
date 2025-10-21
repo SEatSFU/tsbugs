@@ -1,0 +1,26 @@
+{
+  "commit_index": "99f2fa4",
+  "commit_url": "https://github.com/intlify/vue-i18n/commit/99f2fa43073e331d1fadc0c1903d337cb2649d49",
+  "commit": {
+    "commit_message": [
+      "doc",
+      "fix",
+      "miss-take",
+      "maintainance",
+      "roadmap"
+    ],
+    "description": [],
+    "changed_files_count": 4,
+    "changed_files": [
+      "docs/guide/maintenance.md",
+      "docs/public/lifecycle2025.excalidraw",
+      "docs/public/lifecycle2025.png",
+      "docs/public/lifecycle2025.svg"
+    ],
+    "changed_files_content": [],
+    "parent": "46cea82fdf0aa122a39e7ec1244d643ad6316ea0"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

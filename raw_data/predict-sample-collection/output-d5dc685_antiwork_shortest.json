@@ -1,0 +1,126 @@
+{
+  "commit_index": "d5dc685",
+  "commit_url": "https://github.com/antiwork/shortest/commit/d5dc6853a2370214c86781b3308ee11a856fc53b",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "cli",
+      "issue",
+      "110"
+    ],
+    "description": [],
+    "changed_files_count": 10,
+    "changed_files": [
+      ".gitignore",
+      "README.md",
+      "package.json",
+      "packages/shortest/.npmignore",
+      "packages/shortest/CHANGELOG.md",
+      "packages/shortest/README.md",
+      "packages/shortest/package.json",
+      "pnpm-lock.yaml",
+      "test-cli/package-lock.json",
+      "test-cli/package.json"
+    ],
+    "changed_files_content": [],
+    "parent": "ea2b989a5d1a0e81fe312c2afb5c8a970213cdcd"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "cli",
+        "issue",
+        "110"
+      ],
+      "total_discussions": 2,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "v0.0.6",
+                "address",
+                "issue",
+                "109fixed",
+                "cli",
+                "installation",
+                "issuesupdated",
+                "readme",
+                "detailed",
+                "instructionsadded",
+                "new",
+                "test",
+                "folder",
+                "specifically",
+                "simulating",
+                "testing",
+                "shortest",
+                "cli",
+                "prod",
+                "like",
+                "env"
+              ],
+              "author": "slavingia"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "m2radsis",
+                "attempting",
+                "deploy",
+                "commit",
+                "theantiworkteam",
+                "onvercel",
+                "member",
+                "team",
+                "first",
+                "need",
+                "toauthorize"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "title": [
+        "cli",
+        "issue",
+        "shortest",
+        "command",
+        "found"
+      ],
+      "labels": [],
+      "comments": [
+        {
+          "author": "m2rads",
+          "content": [
+            "installing",
+            "shortest",
+            "package",
+            "via",
+            "npm",
+            "shortest",
+            "cli",
+            "properly",
+            "registered",
+            "found",
+            "installed",
+            "different",
+            "machine"
+          ]
+        }
+      ]
+    }
+  ],
+  "security": null
+}

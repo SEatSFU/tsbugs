@@ -1,0 +1,571 @@
+{
+  "commit_index": "0dd387e",
+  "commit_url": "https://github.com/testing-library/user-event/commit/0dd387e2be5b7c74c27e81be2e0d56e3b73a1279",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "add",
+      "message",
+      "type/paste",
+      "function",
+      "called",
+      "invalid"
+    ],
+    "description": [
+      "test",
+      "add",
+      "failing",
+      "test",
+      "fix",
+      "add",
+      "explicit",
+      "error",
+      "type",
+      "function",
+      "user",
+      "try",
+      "call",
+      "type",
+      "function",
+      "invalid",
+      "element",
+      "explicit",
+      "error",
+      "thrown",
+      "error",
+      "better",
+      "'typeerror",
+      "read",
+      "property",
+      "'length",
+      "undefined",
+      "refactor",
+      "replace",
+      "error",
+      "typerror",
+      "test",
+      "add",
+      "fail",
+      "test",
+      "paste",
+      "fix",
+      "throw",
+      "typeerror",
+      "paste",
+      "type",
+      "function"
+    ],
+    "changed_files_count": 6,
+    "changed_files": [
+      "README.md",
+      "src/__tests__/paste.js",
+      "src/__tests__/type.js",
+      "src/paste.js",
+      "src/type.js",
+      "src/utils.js"
+    ],
+    "changed_files_content": [],
+    "parent": "2e55359bad5b832521eaee9516260e9d669595c2"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "add",
+        "message",
+        "type/paste",
+        "function",
+        "called",
+        "invalid",
+        "element",
+        "375"
+      ],
+      "total_discussions": 10,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "thrown",
+                "newtypeerrorif",
+                "user",
+                "callsuserevent.typeoruserevent.pastewith",
+                "element",
+                "value.this",
+                "pr",
+                "part",
+                "issue",
+                "356.why",
+                "pr",
+                "error",
+                "helpfulhow",
+                "checking",
+                "currentelement",
+                "value",
+                "property.the",
+                "message",
+                "thrown",
+                "like",
+                "thisthe",
+                "current",
+                "element",
+                "type",
+                "body",
+                "n't",
+                "valid",
+                "valuechecklist",
+                "documentationteststypingsready",
+                "merged"
+              ],
+              "author": "kentcdodds"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "merging",
+                "375intomasterwillnot",
+                "changecoverage.the",
+                "diff",
+                "coverage",
+                "is100.00",
+                "continue",
+                "review",
+                "full",
+                "report",
+                "codecov",
+                "legend-click",
+                "learn",
+                "absolute",
+                "relative",
+                "impact",
+                "affected",
+                "missing",
+                "datapowered",
+                "bycodecov",
+                "last",
+                "update2e55359",
+                "...",
+                "a3e3249",
+                "read",
+                "thecomment",
+                "doc"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 3,
+          "comments": [
+            {
+              "content": [
+                "'m",
+                "looking",
+                "code",
+                "better",
+                "maybe",
+                "could",
+                "problem",
+                "like",
+                "maybe",
+                "usecurrentvaluealso",
+                "part"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 4,
+          "comments": [
+            {
+              "content": [
+                "whatever",
+                "think",
+                "make",
+                "sense"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 5,
+          "comments": [
+            {
+              "content": [
+                "made",
+                "change",
+                "updated",
+                "also",
+                "paste",
+                "function",
+                "logic"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 6,
+          "comments": [
+            {
+              "content": [
+                "all-contributorsplease",
+                "add",
+                "marcosvega91for",
+                "code",
+                "test"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 7,
+          "comments": [
+            {
+              "content": [
+                "kentcdodds",
+                "'ve",
+                "put",
+                "upa",
+                "pull",
+                "requestto",
+                "add",
+                "marcosvega91"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 8,
+          "comments": [
+            {
+              "content": [
+                "much",
+                "help",
+                "'ve",
+                "added",
+                "collaborator",
+                "project",
+                "please",
+                "make",
+                "sure",
+                "review",
+                "theother/maintaining.mdandcontributing.mdfiles",
+                "specifically",
+                "bit",
+                "commit",
+                "message",
+                "git",
+                "hook",
+                "familiarize",
+                "code",
+                "conduct",
+                "'re",
+                "usingthe",
+                "contributor",
+                "covenant",
+                "might",
+                "also",
+                "want",
+                "towatch",
+                "repoto",
+                "notified",
+                "someone",
+                "file",
+                "issue/pr",
+                "please",
+                "continue",
+                "make",
+                "pr",
+                "feel",
+                "need",
+                "make",
+                "branch",
+                "directly",
+                "repo",
+                "rather",
+                "fork",
+                "want",
+                "welcome",
+                "team"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 9,
+          "comments": [
+            {
+              "content": [
+                "pr",
+                "included",
+                "version",
+                "12.0.6",
+                "release",
+                "available",
+                "yoursemantic-releasebot"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 10,
+          "comments": [
+            {
+              "content": [
+                "kentcdodds",
+                "'s",
+                "awesome",
+                "'m",
+                "really",
+                "happy",
+                "part",
+                "another",
+                "team",
+                "testing",
+                "library",
+                ".i",
+                "like",
+                "lot",
+                "project",
+                "hope",
+                "always",
+                "good",
+                "thing",
+                "thing",
+                "community",
+                "opportunity",
+                "give",
+                "u"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "title": [
+        "activeelement",
+        "might",
+        "change",
+        "userevent.type",
+        "causing",
+        "runtime",
+        "error"
+      ],
+      "labels": [
+        "bug"
+      ],
+      "comments": [
+        {
+          "author": "beckerei",
+          "content": [
+            "testing-library/user-event",
+            "version",
+            "11.1.0",
+            "testing-library/dom",
+            "version",
+            "5.10.1",
+            "testing",
+            "framework",
+            "version",
+            "jest",
+            "26.0.1",
+            "dom",
+            "environment",
+            "jsdom",
+            "jest-environment-jsdom-global",
+            "2.0.2",
+            "node",
+            "13.7.0",
+            "using",
+            "userevent.type",
+            "like",
+            "1k",
+            "test",
+            "mostly",
+            "use",
+            "fireevent",
+            "slowly",
+            "upgrading",
+            "userevent",
+            "run",
+            "fine",
+            "execept",
+            "one",
+            "encountered",
+            "updating",
+            "dependency",
+            "tmp",
+            "fix",
+            "one",
+            "use",
+            "fireevent.change",
+            "happened",
+            "narrowed",
+            "start",
+            "release",
+            "http",
+            "//github.com/testing-library/user-event/releases/tag/v11.1.0",
+            "typeerror",
+            "read",
+            "property",
+            "'length",
+            "undefined",
+            "calculatenewvalue",
+            "node_modules/",
+            "testing-library/user-event/dist/type.js:312:43",
+            "typecharacter",
+            "node_modules/",
+            "testing-library/user-event/dist/type.js:366:43",
+            "typeimpl",
+            "node_modules/",
+            "testing-library/user-event/dist/type.js:230:29",
+            "node_modules/",
+            "testing-library/user-event/dist/type.js:20:14",
+            "node_modules/",
+            "testing-library/react/dist/pure.js:58:16",
+            "reproduction",
+            "problem",
+            "description",
+            "currently",
+            "90",
+            "occurrence",
+            "await",
+            "userevent.type",
+            "codebase",
+            "yet",
+            "single",
+            "one",
+            "issue",
+            "n't",
+            "understand",
+            "yet",
+            "could",
+            "cause",
+            "figured",
+            "activeelement",
+            "always",
+            "body",
+            "calling",
+            "currentvalue",
+            "undefined",
+            "body",
+            "value",
+            "prop",
+            "provide",
+            "detail",
+            "find"
+          ]
+        },
+        {
+          "author": "kentcdodds",
+          "content": [
+            "active",
+            "element",
+            "value",
+            "property",
+            "probably",
+            "going",
+            "pretty",
+            "common",
+            "probably",
+            "improve",
+            "error",
+            "message",
+            "could",
+            "give",
+            "u",
+            "detail",
+            "testing",
+            "may",
+            "able",
+            "help"
+          ]
+        },
+        {
+          "author": "tsmithATX",
+          "content": [
+            "'m",
+            "seeing",
+            "happen",
+            "portal",
+            "portal",
+            "component",
+            "open",
+            "active",
+            "element",
+            "try",
+            "focus",
+            "back",
+            "text",
+            "area",
+            "type",
+            "activeelement",
+            "root",
+            "portal"
+          ]
+        },
+        {
+          "author": "tsmithATX",
+          "content": [
+            "v12.0.14",
+            "addressed",
+            "issue",
+            "longer",
+            "seeing",
+            "happen"
+          ]
+        },
+        {
+          "author": "Junhao6503",
+          "content": [
+            "still",
+            "encountering",
+            "issue",
+            "due",
+            "portal",
+            "give",
+            "error",
+            "like",
+            "typeerror",
+            "read",
+            "property",
+            "'length",
+            "undefined",
+            "setselectionrange",
+            "node_modules/",
+            "testing-library/user-event/dist/type.js:240:70",
+            "fireinputeventifneeded",
+            "node_modules/",
+            "testing-library/user-event/dist/type.js:269:5",
+            "handledel",
+            "node_modules/",
+            "testing-library/user-event/dist/type.js:613:5",
+            "node_modules/",
+            "testing-library/user-event/dist/type.js:144:29",
+            "typeimpl",
+            "node_modules/",
+            "testing-library/user-event/dist/type.js:159:4",
+            "type",
+            "node_modules/",
+            "testing-library/user-event/dist/type.js:73:14",
+            "object.clear",
+            "node_modules/",
+            "testing-library/user-event/dist/clear.js:26:18",
+            "object.",
+            "anonymous",
+            "src/__tests__/userprofile/userprofileedit.test.js:148:17"
+          ]
+        }
+      ]
+    }
+  ],
+  "security": null
+}

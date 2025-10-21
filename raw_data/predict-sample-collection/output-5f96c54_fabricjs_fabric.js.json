@@ -1,0 +1,531 @@
+{
+  "commit_index": "5f96c54",
+  "commit_url": "https://github.com/fabricjs/fabric.js/commit/5f96c549abf833fb948e699a1bbfe96b5758e955",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "canvas",
+      "allowtouchscrolling",
+      "interaction",
+      "10078"
+    ],
+    "description": [],
+    "changed_files_count": 5,
+    "changed_files": [
+      "CHANGELOG.md",
+      "e2e/tests/controls/touch-scrolling/index.ts",
+      "src/canvas/Canvas.spec.ts",
+      "src/canvas/Canvas.ts",
+      "src/canvas/StaticCanvasOptions.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "33b6fca7d53bc8e677168ce8cd85278b5796b49f"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "canvas",
+        "allowtouchscrolling",
+        "interaction",
+        "10078"
+      ],
+      "total_discussions": 6,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "descriptionthe",
+                "current",
+                "canvas.allowtouchscrolling",
+                "n't",
+                "really",
+                "work.close",
+                "5903close",
+                "3869close",
+                "9724this",
+                "pr",
+                "change",
+                "behaviour",
+                "follow",
+                "allowtouchscrolling",
+                "enabled",
+                "set",
+                "truepriority",
+                "given",
+                "enable",
+                "scroll",
+                "canvas",
+                "touch",
+                "event.a",
+                "touchstart",
+                "event",
+                "prevented",
+                "unless",
+                "drawing",
+                "mode",
+                "confirm",
+                "selection",
+                "object.if",
+                "drawing",
+                "never",
+                "scrollif",
+                "select",
+                "object",
+                "action",
+                "scrollif",
+                "deselect",
+                "object",
+                "scrollif",
+                "click",
+                "object",
+                "already",
+                "selected",
+                "scroll.if",
+                "want",
+                "touch",
+                "scrolling",
+                "drag",
+                "object",
+                "around",
+                "select",
+                "event",
+                "drag",
+                "object",
+                "another",
+                "event.in",
+                "mobile",
+                "device",
+                "allowtouchscrolling",
+                "se",
+                "true",
+                "multi",
+                "selection",
+                "dragging",
+                "wo",
+                "n't",
+                "work.when",
+                "touchstart",
+                "prevented",
+                "scroll",
+                "action",
+                "start",
+                "touch",
+                "move",
+                "event",
+                "ignore",
+                "wo",
+                "n't",
+                "trigger",
+                "canvas",
+                "specific",
+                "event.everything",
+                "let",
+                "browser",
+                "touchup",
+                "firesallowtouchscrolling",
+                "disabledeverything",
+                "continue",
+                "normal"
+              ],
+              "author": "asturur"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "open",
+                "branch",
+                "inweb",
+                "editor\u2022vs",
+                "code\u2022insiders"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 3,
+          "comments": [
+            {
+              "content": [
+                "build",
+                "stats"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 4,
+          "comments": [
+            {
+              "content": [
+                "need",
+                "playwright",
+                "test"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 5,
+          "comments": [
+            {
+              "content": [
+                "coverage",
+                "mergingallow-touch-scrollingintomasterwill"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 6,
+          "comments": [
+            {
+              "content": [
+                "hopefully",
+                "welcome",
+                "improvement.if",
+                "revert",
+                "think",
+                "better",
+                "fix"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "title": [
+        "touch",
+        "touchmove",
+        "related",
+        "problem"
+      ],
+      "labels": [
+        "browser_bug",
+        "bug"
+      ],
+      "comments": [
+        {
+          "author": "asturur",
+          "content": [
+            "touch",
+            "device",
+            "debugging",
+            "process",
+            "getting",
+            "one",
+            "buying",
+            "one",
+            "reference",
+            "issue",
+            "verify",
+            "fix",
+            "please",
+            "add",
+            "new",
+            "issue",
+            "related",
+            "touch"
+          ]
+        },
+        {
+          "author": "ncou",
+          "content": [
+            "http",
+            "//github.com/kangax/fabric.js/issues/3886"
+          ]
+        },
+        {
+          "author": "p3ndu",
+          "content": [
+            "hi",
+            "asturur",
+            "update",
+            "issue",
+            "fixed",
+            "basic",
+            "functionality",
+            "would",
+            "great",
+            "least",
+            "simple",
+            "way",
+            "set",
+            "event",
+            "listener",
+            "passive",
+            "violation",
+            "added",
+            "non-passive",
+            "event",
+            "listener",
+            "scroll-blocking",
+            "'touchmove",
+            "event",
+            "consider",
+            "marking",
+            "event",
+            "handler",
+            "'passive",
+            "make",
+            "page",
+            "responsive",
+            "zone.js:472",
+            "violation",
+            "'mousedown",
+            "handler",
+            "took",
+            "180ms",
+            "6zone.js:1157",
+            "violation",
+            "added",
+            "non-passive",
+            "event",
+            "listener",
+            "scroll-blocking",
+            "'touchmove",
+            "event",
+            "consider",
+            "marking",
+            "event",
+            "handler",
+            "'passive",
+            "make",
+            "page",
+            "responsive",
+            "zone.js:472",
+            "violation",
+            "'mousedown",
+            "handler",
+            "took",
+            "157ms",
+            "2zone.js:1157",
+            "violation",
+            "added",
+            "non-passive",
+            "event",
+            "listener",
+            "scroll-blocking",
+            "'touchmove",
+            "event",
+            "consider",
+            "marking",
+            "event",
+            "handler",
+            "'passive",
+            "make",
+            "page",
+            "responsive",
+            "zone.js:472",
+            "violation",
+            "'load",
+            "handler",
+            "took",
+            "157ms",
+            "zone.js:472",
+            "violation",
+            "'load",
+            "handler",
+            "took",
+            "344ms",
+            "zone.js:472",
+            "violation",
+            "'load",
+            "handler",
+            "took",
+            "283ms",
+            "regard",
+            "alex"
+          ]
+        }
+      ]
+    },
+    {
+      "title": [
+        "allowtouchscrolling",
+        "n't",
+        "work"
+      ],
+      "labels": [
+        "bug"
+      ],
+      "comments": [
+        {
+          "author": "0ro",
+          "content": [
+            "version",
+            "3.4.0",
+            "test",
+            "case",
+            "http",
+            "//codepen.io/den-bogdanov/pen/eyowbpj",
+            "information",
+            "environment",
+            "mobile",
+            "browser",
+            "chrome",
+            "safari",
+            "step",
+            "reproduce",
+            "open",
+            "test",
+            "case",
+            "try",
+            "scroll",
+            "help",
+            "device",
+            "emulation",
+            "devtools",
+            "mobile",
+            "device",
+            "expected",
+            "behavior",
+            "must",
+            "scrolling",
+            "actual",
+            "behavior",
+            "touch",
+            "scrolling"
+          ]
+        },
+        {
+          "author": "Rumthorp",
+          "content": [
+            "anyone",
+            "able",
+            "merge"
+          ]
+        },
+        {
+          "author": "asturur",
+          "content": [
+            "got",
+            "stuck",
+            "understanding",
+            "something",
+            "fundamentally",
+            "wrong",
+            "last",
+            "touch",
+            "event",
+            "pr"
+          ]
+        },
+        {
+          "author": "Lyqxyz",
+          "content": [
+            "solve",
+            "problem",
+            "asturur"
+          ]
+        },
+        {
+          "author": "Lyqxyz",
+          "content": [
+            "line",
+            "_onmousemove",
+            "event",
+            "sentence",
+            "mean",
+            "0ro"
+          ]
+        },
+        {
+          "author": "asturur",
+          "content": [
+            "oro",
+            "pr",
+            "probably",
+            "good",
+            "forget",
+            "'m",
+            "currently",
+            "busy",
+            "getting",
+            "pr",
+            "uppercanvas",
+            "retina",
+            "scaling",
+            "sub",
+            "target",
+            "mouse",
+            "in/out",
+            "event",
+            "taking",
+            "free",
+            "time"
+          ]
+        },
+        {
+          "author": "asturur",
+          "content": [
+            "look",
+            "soon",
+            "back",
+            "touch",
+            "device",
+            "point",
+            "preventing",
+            "default",
+            "avoid",
+            "mousedown",
+            "mouseup",
+            "fire",
+            "touchstart",
+            "touchend",
+            "firing",
+            "preventdefault",
+            "would",
+            "mean",
+            "add",
+            "back",
+            "removal",
+            "mousedown",
+            "listener",
+            "touchstart",
+            "fire",
+            "stuff",
+            "happy",
+            "removed",
+            "seems",
+            "silly",
+            "possible",
+            "stop",
+            "mouse",
+            "event",
+            "fire",
+            "cost",
+            "preventing",
+            "everything"
+          ]
+        },
+        {
+          "author": "stale",
+          "content": [
+            "issue",
+            "automatically",
+            "marked",
+            "stale",
+            "recent",
+            "activity",
+            "closed",
+            "activity",
+            "occurs",
+            "contribution"
+          ]
+        }
+      ]
+    }
+  ],
+  "security": null
+}

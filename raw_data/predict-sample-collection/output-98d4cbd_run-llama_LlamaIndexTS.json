@@ -1,0 +1,93 @@
+{
+  "commit_index": "98d4cbd",
+  "commit_url": "https://github.com/run-llama/LlamaIndexTS/commit/98d4cbdf958d9407ccc6e373c457b9733959c40e",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "support",
+      "import",
+      "subdirectory",
+      "655"
+    ],
+    "description": [],
+    "changed_files_count": 14,
+    "changed_files": [
+      ".changeset/quick-fans-battle.md",
+      "examples/readers/src/assemblyai.ts",
+      "examples/readers/src/csv.ts",
+      "examples/readers/src/custom-simple-directory-reader.ts",
+      "examples/readers/src/docx.ts",
+      "examples/readers/src/html.ts",
+      "examples/readers/src/llamaparse.ts",
+      "examples/readers/src/markdown.ts",
+      "examples/readers/src/notion.ts",
+      "examples/readers/src/pdf.ts",
+      "examples/readers/src/pdf_fw.ts",
+      "examples/readers/src/pdf_fw_openai.ts",
+      "examples/readers/src/simple-directory-reader.ts",
+      "packages/core/package.json"
+    ],
+    "changed_files_content": [],
+    "parent": "6cb75b54a0e1da2bb0819d3586ad1a72a2c2c8aa"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "support",
+        "import",
+        "subdirectory",
+        "655"
+      ],
+      "total_discussions": 2,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "description",
+                "provided"
+              ],
+              "author": "himself65"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "latest",
+                "commit",
+                "bf1a741",
+                "change",
+                "pr",
+                "included",
+                "next",
+                "version",
+                "bump",
+                "sure",
+                "mean",
+                "click",
+                "learn",
+                "changesets",
+                "click",
+                "'re",
+                "maintainer",
+                "want",
+                "add",
+                "another",
+                "changeset",
+                "pr"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

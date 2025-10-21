@@ -1,0 +1,52 @@
+{
+  "commit_index": "9d5b10d",
+  "commit_url": "https://github.com/refly-ai/refly/commit/9d5b10d0a6861abf8f30eafcb2aa0dd7189bce81",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "medium",
+      "enhance",
+      "input",
+      "parameter",
+      "handling",
+      "medium",
+      "generator"
+    ],
+    "description": [
+      "improved",
+      "validation",
+      "logic",
+      "skip",
+      "empty",
+      "value",
+      "empty",
+      "string",
+      "empty",
+      "array",
+      "input",
+      "parameter",
+      "removed",
+      "unused",
+      "medium",
+      "generation",
+      "skill",
+      "node",
+      "creation",
+      "context",
+      "menu",
+      "better",
+      "clarity",
+      "maintainability"
+    ],
+    "changed_files_count": 2,
+    "changed_files": [
+      "apps/api/src/modules/media-generator/media-generator.service.ts",
+      "packages/ai-workspace-common/src/components/canvas/context-menu/index.tsx"
+    ],
+    "changed_files_content": [],
+    "parent": "e33ede709cd5baac0c2c041b3ca05db5aa539a82"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

@@ -1,0 +1,193 @@
+{
+  "commit_index": "9ec4117",
+  "commit_url": "https://github.com/chakra-ui/chakra-ui/commit/9ec4117440544b95208c45f96a59740ff435d6be",
+  "commit": {
+    "commit_message": [
+      "doc",
+      "fix",
+      "password",
+      "doc",
+      "import",
+      "9060"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      "apps/www/content/docs/components/password-input.mdx"
+    ],
+    "changed_files_content": [],
+    "parent": "438d93078e71265bb8cf0d5c9b168e89e80d6a75"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "doc",
+        "fix",
+        "password",
+        "doc",
+        "import",
+        "9060"
+      ],
+      "total_discussions": 4,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "replacedpasswordstrengthindicatorwithpasswordstrengthmeter"
+              ],
+              "author": "segunadebayo"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "latest",
+                "commit:861d807",
+                "merging",
+                "pr",
+                "cause",
+                "version",
+                "bump",
+                "package",
+                "change",
+                "result",
+                "new",
+                "version",
+                "'re",
+                "good",
+                "go.if",
+                "change",
+                "result",
+                "version",
+                "bump",
+                "need",
+                "add",
+                "changeset",
+                "changesets",
+                "added",
+                "pr",
+                "'ll",
+                "see",
+                "package",
+                "pr",
+                "includes",
+                "changesets",
+                "associated",
+                "semver",
+                "type",
+                "click",
+                "learn",
+                "changesets",
+                "add",
+                "one",
+                "click",
+                "'re",
+                "maintainer",
+                "want",
+                "add",
+                "changeset",
+                "pr"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 3,
+          "comments": [
+            {
+              "content": [
+                "harshmangalamis",
+                "attempting",
+                "deploy",
+                "commit",
+                "thechakra",
+                "uiteam",
+                "onvercel",
+                "member",
+                "team",
+                "first",
+                "need",
+                "toauthorize"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 4,
+          "comments": [
+            {
+              "content": [
+                "9059"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "title": [
+        "password",
+        "doc",
+        "wrong",
+        "import",
+        "issue"
+      ],
+      "labels": [],
+      "comments": [
+        {
+          "author": "harshmangalam",
+          "content": [
+            "description",
+            "currently",
+            "password",
+            "doc",
+            "importing",
+            "passwordstrengthindicator",
+            "passwordstrengthmeter",
+            "import",
+            "passwordinput",
+            "passwordstrengthindicator",
+            "/components/ui/password-input",
+            "link",
+            "reproduction",
+            "http",
+            "//github.com/chakra-ui/chakra-ui/blob/main/apps/www/content/docs/components/password-input.mdx",
+            "step",
+            "reproduce",
+            "http",
+            "//www.chakra-ui.com/docs/components/password-input",
+            "chakra",
+            "ui",
+            "version",
+            "3.0.2",
+            "browser",
+            "response",
+            "operating",
+            "system",
+            "macos",
+            "window",
+            "linux",
+            "additional",
+            "information",
+            "response"
+          ]
+        },
+        {
+          "author": "segunadebayo",
+          "content": [
+            "fixed"
+          ]
+        }
+      ]
+    }
+  ],
+  "security": null
+}

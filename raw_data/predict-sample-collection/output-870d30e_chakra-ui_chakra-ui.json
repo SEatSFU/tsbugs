@@ -1,0 +1,165 @@
+{
+  "commit_index": "870d30e",
+  "commit_url": "https://github.com/chakra-ui/chakra-ui/commit/870d30eac13b77d8db7f2f98468e453b69b38407",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "export",
+      "missing",
+      "type",
+      "9217"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      "packages/react/src/styled-system/index.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "a3ba8e630fba4743d0a9384a7d3ea011c66c3a9a"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "export",
+        "missing",
+        "type",
+        "9217"
+      ],
+      "total_discussions": 2,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "type",
+                "used",
+                "styled",
+                "system",
+                "utility",
+                "expored",
+                "causing",
+                "inferred",
+                "type",
+                "named",
+                "type",
+                "error",
+                "used",
+                "saas-ui/react",
+                "build",
+                "src/theme/animation-styles.ts",
+                "3,14",
+                "error",
+                "ts2742",
+                "inferred",
+                "type",
+                "'animationstyles",
+                "named",
+                "without",
+                "reference",
+                "..",
+                "..",
+                "..",
+                "..",
+                "/node_modules/",
+                "chakra-ui/react/dist/types/styled-system/composition",
+                "likely",
+                "portable",
+                "type",
+                "annotation",
+                "necessary",
+                "saas-ui/react",
+                "build",
+                "src/theme/layer-styles.ts",
+                "3,14",
+                "error",
+                "ts2742",
+                "inferred",
+                "type",
+                "'layerstyles",
+                "named",
+                "without",
+                "reference",
+                "..",
+                "..",
+                "..",
+                "..",
+                "/node_modules/",
+                "chakra-ui/react/dist/types/styled-system/composition",
+                "likely",
+                "portable",
+                "type",
+                "annotation",
+                "necessary",
+                "saas-ui/react",
+                "build",
+                "src/theme/text-styles.ts",
+                "3,14",
+                "error",
+                "ts2742",
+                "inferred",
+                "type",
+                "'textstyles",
+                "named",
+                "without",
+                "reference",
+                "..",
+                "..",
+                "..",
+                "..",
+                "/node_modules/",
+                "chakra-ui/react/dist/types/styled-system/composition",
+                "likely",
+                "portable",
+                "type",
+                "annotation",
+                "necessary",
+                "saas-ui/react",
+                "build",
+                "src/theme/tokens/keyframes.ts",
+                "3,14",
+                "error",
+                "ts2742",
+                "inferred",
+                "type",
+                "'keyframes",
+                "named",
+                "without",
+                "reference",
+                "..",
+                "..",
+                "..",
+                "..",
+                "..",
+                "/node_modules/",
+                "chakra-ui/react/dist/types/styled-system/css.types",
+                "likely",
+                "portable",
+                "type",
+                "annotation",
+                "necessary"
+              ],
+              "author": "segunadebayo"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "open",
+                "stackblitz",
+                "commit:25d6c3f"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

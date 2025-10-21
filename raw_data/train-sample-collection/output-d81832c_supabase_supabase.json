@@ -1,0 +1,77 @@
+{
+  "commit_index": "d81832c",
+  "commit_url": "https://github.com/supabase/supabase/commit/d81832c549bceed6d60b1d6a3b316543fef76dde",
+  "commit": {
+    "commit_message": [
+      "check",
+      "value",
+      "converting",
+      "bytea",
+      "hex",
+      "foreignkeyformatter\u2026"
+    ],
+    "description": [
+      "minor",
+      "fix"
+    ],
+    "changed_files_count": 1,
+    "changed_files": [
+      "apps/studio/components/grid/components/formatter/ForeignKeyFormatter.tsx"
+    ],
+    "changed_files_content": [],
+    "parent": "467b0de9532fb435d330385bd7493d1600b527f5"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "check",
+        "value",
+        "converting",
+        "bytea",
+        "hex",
+        "foreignkeyformatter",
+        "33355"
+      ],
+      "total_discussions": 2,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "per",
+                "title",
+                "cause",
+                "issue",
+                "column",
+                "bytea",
+                "data",
+                "type",
+                "foreign",
+                "key",
+                "null"
+              ],
+              "author": "joshenlim"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "checked",
+                "preview",
+                "look",
+                "good"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

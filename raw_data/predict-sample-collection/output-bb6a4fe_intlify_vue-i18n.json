@@ -1,0 +1,19 @@
+{
+  "commit_index": "bb6a4fe",
+  "commit_url": "https://github.com/intlify/vue-i18n/commit/bb6a4feb6340c3a57425723c9cbe83a5eb1f278b",
+  "commit": {
+    "commit_message": [
+      "fix"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      "test-dts/core-base/runtime.test-d.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "1417c1bb551fdde3f92a2fba1f57db2b8991a494"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

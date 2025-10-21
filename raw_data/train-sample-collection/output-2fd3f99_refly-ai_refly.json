@@ -1,0 +1,58 @@
+{
+  "commit_index": "2fd3f99",
+  "commit_url": "https://github.com/refly-ai/refly/commit/2fd3f99cffece6f7b8e181463f5025a409e1a1b8",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "subscription",
+      "refine",
+      "monthly",
+      "credit",
+      "recharge",
+      "process"
+    ],
+    "description": [
+      "enhanced",
+      "distributed",
+      "lock",
+      "mechanism",
+      "prevent",
+      "duplicate",
+      "monthly",
+      "credit",
+      "recharges",
+      "added",
+      "check",
+      "ensure",
+      "recharges",
+      "still",
+      "active",
+      "expired",
+      "processing",
+      "improved",
+      "error",
+      "handling",
+      "logging",
+      "subscription",
+      "recharge",
+      "processing",
+      "ensured",
+      "proper",
+      "release",
+      "lock",
+      "processing",
+      "maintain",
+      "system",
+      "integrity"
+    ],
+    "changed_files_count": 1,
+    "changed_files": [
+      "apps/api/src/modules/subscription/subscription.service.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "4f174009acc3b1d4bf27c9550dad60fc61867de5"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

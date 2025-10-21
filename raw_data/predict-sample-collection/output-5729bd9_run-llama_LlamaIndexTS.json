@@ -1,0 +1,101 @@
+{
+  "commit_index": "5729bd9",
+  "commit_url": "https://github.com/run-llama/LlamaIndexTS/commit/5729bd92fd639d11dd17ca011249ce3de33d3a96",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "llamacloud",
+      "api",
+      "call",
+      "ensuring",
+      "index",
+      "file"
+    ],
+    "description": [],
+    "changed_files_count": 3,
+    "changed_files": [
+      ".changeset/bright-bags-grin.md",
+      "packages/llamaindex/src/cloud/LLamaCloudFileService.ts",
+      "packages/llamaindex/src/cloud/LlamaCloudIndex.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "e0e52cf87996477b3bd4c1bd9cd2bc75abec678c"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "llamacloud",
+        "api",
+        "call",
+        "ensuring",
+        "index",
+        "file",
+        "uploads",
+        "1332"
+      ],
+      "total_discussions": 3,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "description",
+                "provided"
+              ],
+              "author": "marcusschiesser"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "latest",
+                "commit",
+                "bfdf2ca",
+                "change",
+                "pr",
+                "included",
+                "next",
+                "version",
+                "bump",
+                "sure",
+                "mean",
+                "click",
+                "learn",
+                "changesets",
+                "click",
+                "'re",
+                "maintainer",
+                "want",
+                "add",
+                "another",
+                "changeset",
+                "pr"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 3,
+          "comments": [
+            {
+              "content": [
+                "open",
+                "stackblitz",
+                "commit",
+                "bfdf2ca"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

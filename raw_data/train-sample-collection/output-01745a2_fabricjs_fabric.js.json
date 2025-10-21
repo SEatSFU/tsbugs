@@ -1,0 +1,277 @@
+{
+  "commit_index": "01745a2",
+  "commit_url": "https://github.com/fabricjs/fabric.js/commit/01745a233f04a6461fe306de82bb5a6db82269d6",
+  "commit": {
+    "commit_message": [
+      "type",
+      "make",
+      "event",
+      "type",
+      "explicit",
+      "non",
+      "generic",
+      "fix",
+      "pattern",
+      "from\u2026"
+    ],
+    "description": [],
+    "changed_files_count": 5,
+    "changed_files": [
+      "CHANGELOG.md",
+      "src/EventTypeDefs.ts",
+      "src/Pattern/Pattern.ts",
+      "src/Pattern/types.ts",
+      "src/shapes/IText/ITextBehavior.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "6fe775e5ec53c2b82d685d65e24ae27622a1e7aa"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "type",
+        "make",
+        "event",
+        "type",
+        "explicit",
+        "non",
+        "generic",
+        "fix",
+        "pattern",
+        "fromobject",
+        "type",
+        "9907"
+      ],
+      "total_discussions": 4,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "descriptionjust",
+                "type",
+                "fixes.closes",
+                "9900closes",
+                "9906"
+              ],
+              "author": "asturur"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "open",
+                "branch",
+                "inweb",
+                "editor\u2022vs",
+                "code\u2022insiders"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 3,
+          "comments": [
+            {
+              "content": [
+                "build",
+                "stats"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 4,
+          "comments": [
+            {
+              "content": [
+                "coverage",
+                "mergingtypes-issuesintomasterwill"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "title": [
+        "bug",
+        "canvasevents",
+        "object",
+        "modified",
+        "type",
+        "incorrect",
+        "property"
+      ],
+      "labels": [
+        "types"
+      ],
+      "comments": [
+        {
+          "author": "piotrkulpinski",
+          "content": [
+            "checklist",
+            "agree",
+            "follow",
+            "project",
+            "'s",
+            "code",
+            "conduct",
+            "read",
+            "followed",
+            "contributing",
+            "guide",
+            "read",
+            "followed",
+            "issue",
+            "tracker",
+            "guide",
+            "searched",
+            "referenced",
+            "existing",
+            "issue",
+            "discussion",
+            "filing",
+            "bug",
+            "report",
+            "managed",
+            "reproduce",
+            "bug",
+            "upgrading",
+            "latest",
+            "version",
+            "created",
+            "accurate",
+            "minimal",
+            "reproduction",
+            "version",
+            "6.0.0-rc1",
+            "environment",
+            "experiencing",
+            "problem",
+            "response",
+            "node",
+            "version",
+            "applicable",
+            "none",
+            "link",
+            "reproduction",
+            "http",
+            "//codesandbox.io/p/devbox/fabric-vanillajs-sandbox-forked-xs7c9w",
+            "workspaceid=1d1df649-1361-4e7f-b676-3d1aa87c1970",
+            "step",
+            "reproduce",
+            "add",
+            "object",
+            "modified",
+            "event",
+            "listener",
+            "use",
+            "canvasevents",
+            "object",
+            "modified",
+            "type",
+            "expected",
+            "behavior",
+            "include",
+            "e",
+            "property",
+            "tpointerevent",
+            "type",
+            "like",
+            "object",
+            "moving",
+            "type",
+            "actual",
+            "behavior",
+            "e",
+            "property",
+            "passed",
+            "callback",
+            "type",
+            "incorrect",
+            "error",
+            "message",
+            "stack",
+            "trace",
+            "property",
+            "e",
+            "exist",
+            "type",
+            "modifiedevent",
+            "tpointerevent",
+            "target",
+            "fabricobject",
+            "partial",
+            "fabricobjectprops",
+            "serializedobjectprops",
+            "objectevents"
+          ]
+        }
+      ]
+    },
+    {
+      "title": [
+        "serializedpatternoptions",
+        "type",
+        "union",
+        "instead",
+        "intersection"
+      ],
+      "labels": [
+        "types"
+      ],
+      "comments": [
+        {
+          "author": "asturur",
+          "content": [
+            "discussed",
+            "9903",
+            "originally",
+            "posted",
+            "owlcode",
+            "june",
+            "2",
+            "2024",
+            "looking",
+            "serializedpatternoptions",
+            "type",
+            "n't",
+            "union",
+            "instead",
+            "intersection",
+            "currently",
+            "'m",
+            "trying",
+            "pattern.fromobject",
+            "type",
+            "'pattern",
+            "source",
+            "'data",
+            "image/png",
+            "base64",
+            "ivborw0kggoaaaansu",
+            "....",
+            "typescript",
+            "complaining",
+            "source",
+            "need",
+            "type",
+            "canvasimagesource",
+            "'m",
+            "using",
+            "6.0.0-rc1"
+          ]
+        }
+      ]
+    }
+  ],
+  "security": null
+}

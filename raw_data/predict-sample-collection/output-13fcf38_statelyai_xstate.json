@@ -1,0 +1,27 @@
+{
+  "commit_index": "13fcf38",
+  "commit_url": "https://github.com/statelyai/xstate/commit/13fcf387cc73a202a62cd4e85a4768b7ab6d83d9",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "example",
+      "declare",
+      "todo.machine",
+      "'delete",
+      "state",
+      "final",
+      "way",
+      "to\u2026"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      "examples/todo-mvc-react/src/todo.machine.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "e58857fbae87d4987ecbc336bfbfc952de6ce1af"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

@@ -1,0 +1,82 @@
+{
+  "commit_index": "4212b93",
+  "commit_url": "https://github.com/react-native-community/cli/commit/4212b930ea1cebbb85d2619bd95efa8ea17f04f2",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "improve",
+      "match",
+      "threshold",
+      "1001"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      "packages/cli/src/index.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "f1209fca4e2f3dbf57909170ff08213c7c230372"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "chore",
+        "use",
+        "better",
+        "threshold",
+        "factor",
+        "find",
+        "closest",
+        "match",
+        "1001"
+      ],
+      "total_discussions": 2,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "summary",
+                "follow",
+                "960react-native",
+                "inf",
+                "error",
+                "unrecognizedcommand",
+                "inf",
+                "mean",
+                "init",
+                "set",
+                "threshold",
+                "40",
+                "thatinfoshows",
+                "instead",
+                "scenario"
+              ],
+              "author": "thymikee"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "ig",
+                "land",
+                "one",
+                "shoot",
+                "follow",
+                "pr",
+                "suggested"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

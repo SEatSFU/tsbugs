@@ -1,0 +1,517 @@
+{
+  "commit_index": "736912c",
+  "commit_url": "https://github.com/antiwork/shortest/commit/736912c871a89035b06504436130551e4f469aa1",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "consider",
+      "package",
+      "manager",
+      "user",
+      "us",
+      "installing"
+    ],
+    "description": [],
+    "changed_files_count": 5,
+    "changed_files": [
+      "packages/shortest/package.json",
+      "packages/shortest/src/browser/manager/index.ts",
+      "packages/shortest/src/cli/setup.ts",
+      "packages/shortest/src/utils/platform.ts",
+      "pnpm-lock.yaml"
+    ],
+    "changed_files_content": [],
+    "parent": "4cc1ec7feb44b1df06cebe18fa16aed651932f9d"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "consider",
+        "package",
+        "manager",
+        "user",
+        "us",
+        "installing",
+        "browser",
+        "via",
+        "playwright",
+        "173"
+      ],
+      "total_discussions": 9,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "fix",
+                "144changesconsider",
+                "package",
+                "manager",
+                "user",
+                "using",
+                "installing",
+                "chromium",
+                "playwright.the",
+                "current",
+                "package",
+                "manager",
+                "execute",
+                "command",
+                "determinded",
+                "usingantfu-collective/package-manager-detectorremoves",
+                "thesetup.tsas",
+                "discussedherecleans",
+                "thepackage.jsonscripts",
+                "usessetup.ts"
+              ],
+              "author": "slavingia"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "amk-devis",
+                "attempting",
+                "deploy",
+                "commit",
+                "theantiworkteam",
+                "onvercel",
+                "member",
+                "team",
+                "first",
+                "need",
+                "toauthorize"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 3,
+          "comments": [
+            {
+              "content": [
+                "committers",
+                "signed",
+                "cla"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 4,
+          "comments": [
+            {
+              "content": [
+                "waiting",
+                "review",
+                "soon"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 5,
+          "comments": [
+            {
+              "content": [
+                "merge",
+                "conflict",
+                "resolve"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 6,
+          "comments": [
+            {
+              "content": [
+                "failed",
+                "due",
+                "anthropic",
+                "key",
+                "sure"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 7,
+          "comments": [
+            {
+              "content": [
+                "failed",
+                "due",
+                "anthropic",
+                "key",
+                "sure",
+                "'ve",
+                "tested",
+                "locally",
+                "issue",
+                "found",
+                "might",
+                "config",
+                "issue"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 8,
+          "comments": [
+            {
+              "content": [
+                "'ll",
+                "published",
+                "right",
+                "included",
+                "version",
+                "note"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 9,
+          "comments": [
+            {
+              "content": [
+                "'ll",
+                "published",
+                "right",
+                "included",
+                "version",
+                "note",
+                "adding",
+                "two",
+                "cent",
+                "usually",
+                "library",
+                "include",
+                "even",
+                "tiny",
+                "change",
+                "example",
+                "might",
+                "hurt",
+                "even",
+                "might",
+                "helpful",
+                "reading",
+                "back",
+                "sometime",
+                "bugfixs",
+                "'re",
+                "communicating",
+                "user",
+                "social",
+                "channel",
+                "like",
+                "twitter",
+                "blog",
+                "make",
+                "sense",
+                "skip",
+                "focus",
+                "major",
+                "thing",
+                "github",
+                "since",
+                "mostly",
+                "devs",
+                "reading",
+                "everything",
+                "good",
+                "include",
+                "imo"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "title": [
+        "playwright",
+        "browser",
+        "installation",
+        "consider",
+        "package",
+        "manger",
+        "used"
+      ],
+      "labels": [],
+      "comments": [
+        {
+          "author": "amk-dev",
+          "content": [
+            "reproduce",
+            "make",
+            "sure",
+            "remove",
+            "playwright",
+            "cache",
+            "even",
+            "uninstall",
+            "playwright",
+            "cache",
+            "may",
+            "still",
+            "mac",
+            "~/library/caches/ms-playwright",
+            "platform",
+            "check",
+            "playwright",
+            "doc",
+            "make",
+            "new",
+            "directory",
+            "shortest-test",
+            "cd",
+            "init",
+            "install",
+            "antiwork/shortest",
+            "using",
+            "pnpm",
+            "create",
+            "shortest.config.ts",
+            "'s",
+            "mine",
+            "import",
+            "type",
+            "shortestconfig",
+            "antiwork/shortest",
+            "export",
+            "default",
+            "headless",
+            "false",
+            "baseurl",
+            "http",
+            "//localhost:3000",
+            "testdir",
+            "app/__tests__",
+            "anthropickey",
+            "sample-key",
+            "satisfies",
+            "shortestconfig",
+            "create",
+            "sample",
+            "test",
+            "file",
+            "app/__tests__/helloworld.test.ts",
+            "doesnt",
+            "matter",
+            "empty",
+            "run",
+            "pnpm",
+            "shortest",
+            "'ll",
+            "get",
+            "error",
+            "screen",
+            "make",
+            "pr",
+            "fix",
+            "guy",
+            "confirms",
+            "bug",
+            "lmk"
+          ]
+        },
+        {
+          "author": "m2rads",
+          "content": [
+            "reporting",
+            "issue",
+            "could",
+            "please",
+            "run",
+            "npx",
+            "playwright",
+            "install",
+            "project",
+            "directory",
+            "let",
+            "know",
+            "see",
+            "issue",
+            "improve",
+            "handling",
+            "package",
+            "manager",
+            "separately",
+            "instead",
+            "using",
+            "npx",
+            "please",
+            "let",
+            "know"
+          ]
+        },
+        {
+          "author": "slavingia",
+          "content": [
+            "reopen"
+          ]
+        },
+        {
+          "author": "slavingia",
+          "content": [
+            "change",
+            "fix",
+            "issue",
+            "worth",
+            "pr",
+            "imo"
+          ]
+        },
+        {
+          "author": "m2rads",
+          "content": [
+            "hey",
+            "amk-dev",
+            "please",
+            "take",
+            "look",
+            "packages/shortest/src/browser/manager",
+            "issue",
+            "happening",
+            "lmk",
+            "question",
+            "specific",
+            "look",
+            "async",
+            "launch"
+          ]
+        },
+        {
+          "author": "m2rads",
+          "content": [
+            "also",
+            "looking",
+            "error",
+            "'re",
+            "getting",
+            "seems",
+            "like",
+            "pnpm",
+            "install",
+            "playwright",
+            "package",
+            "along",
+            "shortest",
+            "might",
+            "happen",
+            "since",
+            "label",
+            "playwright",
+            "peerdependecny",
+            "internally",
+            "help",
+            "troubleshoot",
+            "cause",
+            "please",
+            "try",
+            "installing",
+            "playwright",
+            "manually",
+            "like",
+            "pnpm",
+            "add",
+            "playwright",
+            "run",
+            "shortest",
+            "command",
+            "issue",
+            "still",
+            "happens",
+            "implement",
+            "fix",
+            "otherwise",
+            "might",
+            "simple",
+            "marking",
+            "playwright",
+            "dependency",
+            "bundling",
+            "package"
+          ]
+        },
+        {
+          "author": "slavingia",
+          "content": [
+            "would",
+            "help",
+            "switch",
+            "shortest",
+            "using",
+            "npm"
+          ]
+        },
+        {
+          "author": "m2rads",
+          "content": [
+            "amk-dev",
+            "bring",
+            "good",
+            "point",
+            "peerdependencies",
+            "key",
+            "error",
+            "playwright",
+            "command",
+            "found",
+            "even",
+            "implement",
+            "solution",
+            "user",
+            "use",
+            "pnpm",
+            "still",
+            "get",
+            "issue",
+            "found",
+            "discussion",
+            "http",
+            "//news.ycombinator.com/item",
+            "id=30920611",
+            "hacker",
+            "news",
+            "might",
+            "helpful",
+            "think",
+            "best",
+            "way",
+            "address",
+            "change",
+            "doc",
+            "way",
+            "shell",
+            "pnpm",
+            "add",
+            "-d",
+            "antiwork/shortest",
+            "pnpm",
+            "add",
+            "playwright",
+            "trade",
+            "flexibility",
+            "convenience",
+            "slavingia",
+            "think"
+          ]
+        }
+      ]
+    }
+  ],
+  "security": null
+}

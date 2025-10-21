@@ -1,0 +1,26 @@
+{
+  "commit_index": "508adc6",
+  "commit_url": "https://github.com/antiwork/shortest/commit/508adc6769b3de4996def6a2b2131828224a1c44",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "improve",
+      "assertion",
+      "handling",
+      "error",
+      "propagation",
+      "test",
+      "builder"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      "packages/shortest/src/ui-test-builder.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "47d7c06bec30b39e69db9a3431d9580da243e883"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

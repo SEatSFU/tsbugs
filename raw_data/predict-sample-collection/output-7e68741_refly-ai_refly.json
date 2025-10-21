@@ -1,0 +1,63 @@
+{
+  "commit_index": "7e68741",
+  "commit_url": "https://github.com/refly-ai/refly/commit/7e68741492b7d41371be3cc77bb188f6d68eeaa4",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "api",
+      "improve",
+      "start",
+      "node",
+      "handling",
+      "workflowservice"
+    ],
+    "description": [
+      "refactored",
+      "start",
+      "node",
+      "logic",
+      "use",
+      "default",
+      "empty",
+      "array",
+      "start",
+      "node",
+      "present",
+      "ensuring",
+      "safer",
+      "access",
+      "preventing",
+      "error",
+      "updated",
+      "reference",
+      "start",
+      "node",
+      "throughout",
+      "service",
+      "utilize",
+      "new",
+      "variable",
+      "consistency",
+      "enhanced",
+      "error",
+      "handling",
+      "case",
+      "start",
+      "node",
+      "found",
+      "maintaining",
+      "robust",
+      "workflow",
+      "execution"
+    ],
+    "changed_files_count": 1,
+    "changed_files": [
+      "apps/api/src/modules/workflow/workflow.service.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "b3be9ad9ac2ed04fc1909751311bb74ab724a64d"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

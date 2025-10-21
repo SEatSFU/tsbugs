@@ -1,0 +1,206 @@
+{
+  "commit_index": "e347a3c",
+  "commit_url": "https://github.com/socketio/socket.io/commit/e347a3c24e773cf59f589110989fd56703a9057c",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "sio",
+      "correctly",
+      "await",
+      "async",
+      "close",
+      "adapter",
+      "4971"
+    ],
+    "description": [
+      "following",
+      "bf64870"
+    ],
+    "changed_files_count": 1,
+    "changed_files": [
+      "packages/socket.io/lib/index.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "b5ccfd4838b901c7c4efd1e5e07a0bd083620619"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "correctly",
+        "await",
+        "async",
+        "close",
+        "adapter",
+        "4971"
+      ],
+      "total_discussions": 6,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "kind",
+                "change",
+                "pr",
+                "introducea",
+                "bug",
+                "fixa",
+                "new",
+                "featurean",
+                "update",
+                "documentationa",
+                "code",
+                "change",
+                "improves",
+                "performanceothercurrent",
+                "behaviorthe",
+                "close",
+                "server",
+                "await",
+                "async",
+                "close",
+                "operation",
+                "adapter",
+                "like",
+                "mongoadapter",
+                "leading",
+                "error",
+                "due",
+                "premature",
+                "closing",
+                "underlying",
+                "connection.new",
+                "behaviorthe",
+                "close",
+                "awaits",
+                "async",
+                "operation",
+                "adapter",
+                "different",
+                "namespaces",
+                "allows",
+                "sure",
+                "e.g",
+                "mongo",
+                "connection",
+                "safely",
+                "disposed",
+                "of.other",
+                "information",
+                "e.g",
+                "related",
+                "issue",
+                "'ve",
+                "chose",
+                "thepromise.allsettledto",
+                "avoid",
+                "disruptive",
+                "since",
+                "current",
+                "synchronous",
+                "implementation",
+                "already",
+                "disregard",
+                "error",
+                "closing",
+                "adapter",
+                "might",
+                "raise"
+              ],
+              "author": "darrachequesne"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "hi",
+                "pull",
+                "request",
+                "case",
+                "think",
+                "would",
+                "make",
+                "sense",
+                "wait",
+                "completion",
+                "ofthis.httpserver.close",
+                "reference",
+                "http",
+                "//nodejs.org/api/http.html",
+                "serverclosecallback"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 3,
+          "comments": [
+            {
+              "content": [
+                "already",
+                "done",
+                "way",
+                "wait",
+                "pas",
+                "callback",
+                "function",
+                "current",
+                "code",
+                "already",
+                "awaitable",
+                "function",
+                "since",
+                "return",
+                "promise"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 4,
+          "comments": [
+            {
+              "content": [
+                "darrachequesnewhat",
+                "else",
+                "needed",
+                "get",
+                "merged"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 5,
+          "comments": [
+            {
+              "content": [
+                "darrachequesnei",
+                "resynced",
+                "branch",
+                "approve"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 6,
+          "comments": [
+            {
+              "content": [
+                "marknelissenthanks"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

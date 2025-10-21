@@ -1,0 +1,21 @@
+{
+  "commit_index": "787ad3c",
+  "commit_url": "https://github.com/type-challenges/type-challenges/commit/787ad3c57acee86df8fd49a1ef6de607415eaa3e",
+  "commit": {
+    "commit_message": [
+      "chore",
+      "try",
+      "fix"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      "scripts/actions/loader.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "52e40477e86e412774150638c83d5d8ada0a2faf"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

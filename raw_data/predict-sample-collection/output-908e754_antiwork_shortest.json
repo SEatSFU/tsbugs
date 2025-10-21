@@ -1,0 +1,26 @@
+{
+  "commit_index": "908e754",
+  "commit_url": "https://github.com/antiwork/shortest/commit/908e754be2a94fd91415c8944c8c4e3f9cd7ba41",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "enhance",
+      "browser",
+      "interaction",
+      "handling",
+      "test",
+      "framework"
+    ],
+    "description": [],
+    "changed_files_count": 2,
+    "changed_files": [
+      "packages/shortest/src/browser-use/browser.ts",
+      "packages/shortest/src/browser-use/types.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "76b70746e91b2576c149cf1e4c6c3fb771962e68"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

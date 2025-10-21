@@ -1,0 +1,25 @@
+{
+  "commit_index": "04d1902",
+  "commit_url": "https://github.com/nestjs/nest/commit/04d190236e9a84428ede4657f2e707ccc6552c1e",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "deps",
+      "update",
+      "dependency",
+      "uuid",
+      "v11.0.4"
+    ],
+    "description": [],
+    "changed_files_count": 2,
+    "changed_files": [
+      "package-lock.json",
+      "package.json"
+    ],
+    "changed_files_content": [],
+    "parent": "b0f2f7a107bd6e57ba2916c166ebc9660b7f6bcc"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

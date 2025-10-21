@@ -1,0 +1,334 @@
+{
+  "commit_index": "508fd37",
+  "commit_url": "https://github.com/testing-library/user-event/commit/508fd37d8e9f172d47c48c33dbc5b1079176f917",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "focus/blur",
+      "event",
+      "related",
+      "target",
+      "431",
+      "432"
+    ],
+    "description": [],
+    "changed_files_count": 4,
+    "changed_files": [
+      "src/__tests__/click.js",
+      "src/__tests__/tab.js",
+      "src/click.js",
+      "src/tab.js"
+    ],
+    "changed_files_content": [],
+    "parent": "6fa71631f8273c59023b59ba3befd204b8cd47d9"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "focusevents",
+        "432"
+      ],
+      "total_discussions": 6,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "click",
+                "andtab",
+                "n't",
+                "trigger",
+                "focusevents",
+                "like",
+                "browser",
+                "does.",
+                "431previous",
+                "implementation",
+                "calledblur",
+                "active",
+                "element",
+                "thus",
+                "removing",
+                "focus",
+                "element",
+                "decoupling",
+                "theblurandfocus.focus",
+                "therefore",
+                "movedpreviouselement",
+                "document",
+                "nextelementinstead",
+                "ofpreviouselement",
+                "nextelementelement.focus",
+                "already",
+                "triggersblurandfocusoutevents",
+                "previously",
+                "active",
+                "element.blur",
+                "need",
+                "called",
+                "whenelement.focus",
+                "skipped.checklist",
+                "testsready",
+                "merged"
+              ],
+              "author": "kentcdodds"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "merging",
+                "432intomasterwillnot",
+                "changecoverage.the",
+                "diff",
+                "coverage",
+                "is100.00",
+                "continue",
+                "review",
+                "full",
+                "report",
+                "codecov",
+                "legend-click",
+                "learn",
+                "absolute",
+                "relative",
+                "impact",
+                "affected",
+                "missing",
+                "datapowered",
+                "bycodecov",
+                "last",
+                "update6fa7163",
+                "...",
+                "5523d41",
+                "read",
+                "thecomment",
+                "doc"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 3,
+          "comments": [
+            {
+              "content": [
+                "all-contributorsplease",
+                "add",
+                "ph-fritschefor",
+                "code",
+                "test"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 4,
+          "comments": [
+            {
+              "content": [
+                "kentcdodds",
+                "'ve",
+                "put",
+                "upa",
+                "pull",
+                "requestto",
+                "add",
+                "ph-fritsche"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 5,
+          "comments": [
+            {
+              "content": [
+                "much",
+                "help",
+                "'ve",
+                "added",
+                "collaborator",
+                "project",
+                "please",
+                "make",
+                "sure",
+                "review",
+                "theother/maintaining.mdandcontributing.mdfiles",
+                "specifically",
+                "bit",
+                "commit",
+                "message",
+                "git",
+                "hook",
+                "familiarize",
+                "code",
+                "conduct",
+                "'re",
+                "usingthe",
+                "contributor",
+                "covenant",
+                "might",
+                "also",
+                "want",
+                "towatch",
+                "repoto",
+                "notified",
+                "someone",
+                "file",
+                "issue/pr",
+                "please",
+                "continue",
+                "make",
+                "pr",
+                "feel",
+                "need",
+                "make",
+                "branch",
+                "directly",
+                "repo",
+                "rather",
+                "fork",
+                "want",
+                "welcome",
+                "team"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 6,
+          "comments": [
+            {
+              "content": [
+                "pr",
+                "included",
+                "version",
+                "12.1.2",
+                "release",
+                "available",
+                "yoursemantic-releasebot"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "title": [
+        "relatedtarget",
+        "focus/blur",
+        "event",
+        "jsdom"
+      ],
+      "labels": [
+        "enhancement"
+      ],
+      "comments": [
+        {
+          "author": "ph-fritsche",
+          "content": [
+            "feature",
+            "request",
+            "would",
+            "nice",
+            "click",
+            "would",
+            "trigger",
+            "focus/blur",
+            "event",
+            "relatedtarget",
+            "property",
+            "set",
+            "previously",
+            "active",
+            "respectively",
+            "subsequently",
+            "active",
+            "element",
+            "like",
+            "browser",
+            "current",
+            "workaround",
+            "trigger",
+            "per",
+            "fireevent",
+            "blur",
+            "element",
+            "relatedtarget",
+            "nextactive",
+            "fireevent",
+            "focus",
+            "element",
+            "relatedtarget",
+            "previousactive",
+            "reason",
+            "implement",
+            "user-event/src/click.js",
+            "line",
+            "64",
+            "67",
+            "6fa7163",
+            "continuedefaulthandling",
+            "previouselement",
+            "blur",
+            "previouselement",
+            "init",
+            "shouldfocus",
+            "focus",
+            "element",
+            "init",
+            "user-event/src/blur.js",
+            "line",
+            "9",
+            "6fa7163",
+            "eventwrapper",
+            "element",
+            "blur",
+            "user-event/src/focus.js",
+            "line",
+            "9",
+            "6fa7163",
+            "eventwrapper",
+            "element",
+            "focus"
+          ]
+        },
+        {
+          "author": "kentcdodds",
+          "content": [
+            "absolutely",
+            "browser",
+            "something",
+            "well",
+            "would",
+            "willing",
+            "make",
+            "pull",
+            "request",
+            "http",
+            "//makeapullrequest.com",
+            "implement"
+          ]
+        },
+        {
+          "author": "krutoo",
+          "content": [
+            "behavior",
+            "drag",
+            "event"
+          ]
+        }
+      ]
+    }
+  ],
+  "security": null
+}

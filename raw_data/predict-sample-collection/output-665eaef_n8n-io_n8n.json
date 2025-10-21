@@ -1,0 +1,112 @@
+{
+  "commit_index": "665eaef",
+  "commit_url": "https://github.com/n8n-io/n8n/commit/665eaef925d2e311377ecb09859f69f5fddc54b5",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "editor",
+      "execution",
+      "page",
+      "bug",
+      "fix",
+      "5122"
+    ],
+    "description": [
+      "fix",
+      "editor",
+      "global",
+      "exec",
+      "list",
+      "adding",
+      "tooltips",
+      "fix",
+      "editor",
+      "global",
+      "exec",
+      "list",
+      "fix",
+      "indefinite",
+      "waiting",
+      "status",
+      "display",
+      "fix",
+      "editor",
+      "global",
+      "exec",
+      "list",
+      "fix",
+      "indefinite",
+      "waiting",
+      "status",
+      "display",
+      "fix",
+      "editor",
+      "global",
+      "exec",
+      "list",
+      "remove",
+      "ellipsis",
+      "menu",
+      "running",
+      "exec"
+    ],
+    "changed_files_count": 3,
+    "changed_files": [
+      "packages/editor-ui/src/components/ExecutionsList.vue",
+      "packages/editor-ui/src/components/ExecutionsView/ExecutionCard.vue",
+      "packages/editor-ui/src/plugins/i18n/locales/en.json"
+    ],
+    "changed_files_content": [],
+    "parent": "14454243e7e0b40fc766cdb05c6b34756fb59109"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "editor",
+        "execution",
+        "page",
+        "bug",
+        "fix",
+        "5122"
+      ],
+      "total_discussions": 2,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "github",
+                "issue",
+                "community",
+                "forum",
+                "post",
+                "link",
+                "close",
+                "automatically"
+              ],
+              "author": "cstuncsik"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "got",
+                "released",
+                "withn8n",
+                "0.211.0"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

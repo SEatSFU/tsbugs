@@ -1,0 +1,23 @@
+{
+  "commit_index": "634a30b",
+  "commit_url": "https://github.com/type-challenges/type-challenges/commit/634a30b0c8c9b9345138b2ed5d6e0b0aa7058c84",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "12",
+      "update",
+      "test",
+      "case"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      "questions/12-medium-chainable-options/test-cases.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "074b6f2affaf4b235711d307caa2a5a40d716289"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

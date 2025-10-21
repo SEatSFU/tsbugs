@@ -1,0 +1,28 @@
+{
+  "commit_index": "f3421b3",
+  "commit_url": "https://github.com/refly-ai/refly/commit/f3421b33cb2939201a69d5184b8ec759fc43c549",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "pilot",
+      "update",
+      "running1",
+      "icon",
+      "animate",
+      "executing",
+      "status"
+    ],
+    "description": [],
+    "changed_files_count": 3,
+    "changed_files": [
+      "packages/ai-workspace-common/src/components/canvas/index.tsx",
+      "packages/ai-workspace-common/src/components/pilot/pilot-step-item.tsx",
+      "packages/ai-workspace-common/src/components/pilot/session-status-tag.tsx"
+    ],
+    "changed_files_content": [],
+    "parent": "e80ded27d17059882095ad78bb2fbcd84a19e017"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

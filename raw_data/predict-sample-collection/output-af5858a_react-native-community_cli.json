@@ -1,0 +1,329 @@
+{
+  "commit_index": "af5858a",
+  "commit_url": "https://github.com/react-native-community/cli/commit/af5858a50f45d51fb6ac6619822bfc782e2105ca",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "correct",
+      "derivation",
+      "fully",
+      "specified",
+      "android",
+      "launch",
+      "activity"
+    ],
+    "description": [
+      "main",
+      "activity",
+      "package",
+      "fully",
+      "specified",
+      "used",
+      "work",
+      "regressed",
+      "adding",
+      "auto-activity",
+      "detection",
+      "launcher",
+      "main",
+      "activity",
+      "either",
+      "specified",
+      "--",
+      "main-activity",
+      "androidmanifest.xml",
+      "fully",
+      "specified",
+      "example",
+      "like",
+      "com.zoontek.rnbootsplash.rnbootsplashactivity",
+      "need",
+      "launch",
+      "example",
+      "com.kullki.kscore.dev/com.zoontek.rnbootsplash.rnbootsplashactivity",
+      "com.kullki.kscore.dev/com.kullki.kscore.dev.com.zoontek.rnbootsplash.rnbootsplashactivity"
+    ],
+    "changed_files_count": 2,
+    "changed_files": [
+      "packages/cli-platform-android/src/commands/runAndroid/__tests__/tryLaunchAppOnDevice.test.ts",
+      "packages/cli-platform-android/src/commands/runAndroid/tryLaunchAppOnDevice.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "35ffa2e50564e66c35647c6ecab8d9e4ef052918"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "correct",
+        "derivation",
+        "fully",
+        "specified",
+        "android",
+        "launch",
+        "activity",
+        "2388"
+      ],
+      "total_discussions": 8,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "summary",
+                "main",
+                "activity",
+                "package",
+                "fully",
+                "specified",
+                "used",
+                "work",
+                "regressed",
+                "adding",
+                "auto-activity",
+                "detectionif",
+                "launcher",
+                "/mainactivity",
+                "either",
+                "specified",
+                "--",
+                "main-activity",
+                "androidmanifest.xml",
+                "fully",
+                "specified",
+                "example",
+                "like",
+                "com.zoontek.rnbootsplash.rnbootsplashactivity",
+                "need",
+                "launch",
+                "example",
+                "com.kullki.kscore.dev/com.zoontek.rnbootsplash.rnbootsplashactivity",
+                "com.kullki.kscore.dev/com.kullki.kscore.dev.com.zoontek.rnbootsplash.rnbootsplashactivity",
+                "basically",
+                "added",
+                "first",
+                "conditional",
+                "chunk",
+                "us",
+                "themainactivityas-is",
+                "allow",
+                "mainactivity.startswith",
+                "mainactivity.includes",
+                "think",
+                "capture",
+                "spirit",
+                "previous",
+                "code",
+                "spot",
+                "trying",
+                "build",
+                "component",
+                "nametest",
+                "plan",
+                "added",
+                "test",
+                "case",
+                "failure",
+                "runyarn",
+                "testbefore",
+                "fails",
+                "test",
+                "passi",
+                "ran",
+                "app",
+                "builttrylaunchappondevice.jsfile",
+                "fix",
+                "failed",
+                "fix",
+                "worked",
+                "fixchecklistdocumentation",
+                "date",
+                "reflect",
+                "changes.follows",
+                "commit",
+                "message",
+                "convention",
+                "described",
+                "incontributing.md"
+              ],
+              "author": "thymikee"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "adding",
+                "test",
+                "case",
+                "would",
+                "great",
+                "really",
+                "need",
+                "test",
+                "function"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 3,
+          "comments": [
+            {
+              "content": [
+                "cortinicowhat",
+                "'s",
+                "way",
+                "run",
+                "single",
+                "jest",
+                "test",
+                "test/debug",
+                "loop",
+                "quick",
+                "'d",
+                "add",
+                "new",
+                "androidmanifest",
+                "run",
+                "--",
+                "main-activity",
+                "specified",
+                "match",
+                "case",
+                "fails-without-patch",
+                "works-with-patch",
+                "test",
+                "actually",
+                "case",
+                "think",
+                "one",
+                "allowed",
+                "regression",
+                "slip"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 4,
+          "comments": [
+            {
+              "content": [
+                "cortinicowhat",
+                "'s",
+                "way",
+                "run",
+                "single",
+                "jest",
+                "test",
+                "usejest",
+                "-t",
+                "...",
+                "doc",
+                "herehttps",
+                "//jestjs.io/docs/cli",
+                "--",
+                "testnamepatternregex"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 5,
+          "comments": [
+            {
+              "content": [
+                "cortinicogot",
+                "wrote",
+                "new",
+                "test",
+                "re-pushed",
+                "branch",
+                ".here",
+                "'s",
+                "test",
+                "patch",
+                "mirror",
+                "regression",
+                "saw",
+                "'s",
+                "failure",
+                "pass",
+                "patch",
+                "test",
+                "fail",
+                "without",
+                "patch",
+                "hopefully",
+                "n't",
+                "regressed",
+                "something",
+                "else",
+                "..."
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 6,
+          "comments": [
+            {
+              "content": [
+                "persistent",
+                "windows-2019",
+                "node20",
+                "ci",
+                "test",
+                "failure",
+                "appears",
+                "unrelated"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 7,
+          "comments": [
+            {
+              "content": [
+                "cortinicojust",
+                "gentle",
+                "ping",
+                "change",
+                "small",
+                "maybe",
+                "satisfying",
+                "review",
+                "'ve",
+                "backed",
+                "test"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 8,
+          "comments": [
+            {
+              "content": [
+                "logic",
+                "getting",
+                "hand",
+                "glad",
+                "test",
+                "though"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

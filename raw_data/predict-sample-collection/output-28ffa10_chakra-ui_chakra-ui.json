@@ -1,0 +1,212 @@
+{
+  "commit_index": "28ffa10",
+  "commit_url": "https://github.com/chakra-ui/chakra-ui/commit/28ffa10ded221d7f65dcfead1411639909cc5c97",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "accordion",
+      "allowmultiple",
+      "warning",
+      "condition",
+      "6742"
+    ],
+    "description": [],
+    "changed_files_count": 2,
+    "changed_files": [
+      ".changeset/young-chicken-remember.md",
+      "packages/components/accordion/src/use-accordion.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "db552c6c05cacffe6498adf18e753aa972730864"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "accordion",
+        "allowmultiple",
+        "warning",
+        "condition",
+        "6742"
+      ],
+      "total_discussions": 3,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "fix",
+                "6734fixedallowmultiplewarning",
+                "condition",
+                "logic"
+              ],
+              "author": "segunadebayo"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "latest",
+                "commit:82ea85b",
+                "change",
+                "pr",
+                "included",
+                "next",
+                "version",
+                "bump",
+                "sure",
+                "mean",
+                "click",
+                "learn",
+                "changesets",
+                "click",
+                "'re",
+                "maintainer",
+                "want",
+                "add",
+                "another",
+                "changeset",
+                "pr"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 3,
+          "comments": [
+            {
+              "content": [
+                "pull",
+                "request",
+                "automatically",
+                "built",
+                "testable",
+                "incodesandbox",
+                "see",
+                "build",
+                "info",
+                "built",
+                "library",
+                "clickhereor",
+                "icon",
+                "next",
+                "commit",
+                "sha",
+                "latest",
+                "deployment",
+                "branch",
+                "based",
+                "commit82ea85b"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "title": [
+        "accordion",
+        "allowmultiple",
+        "allowtoggle",
+        "without",
+        "defaultindex"
+      ],
+      "labels": [],
+      "comments": [
+        {
+          "author": "jimmi-rbn",
+          "content": [
+            "description",
+            "warning",
+            "console",
+            "allowmultiple",
+            "allowtoggle",
+            "without",
+            "setting",
+            "defaultindex",
+            "link",
+            "reproduction",
+            "http",
+            "//codesandbox.io/s/muddy-brook-eiq1lp",
+            "file=/src/index.js",
+            "step",
+            "reproduce",
+            "insert",
+            "accordion",
+            "chakra",
+            "example",
+            "set",
+            "allowmultiple",
+            "allowtoggle",
+            "without",
+            "defaultindex",
+            "open",
+            "console",
+            "example",
+            "chakra-ui",
+            "documentation",
+            "without",
+            "warning",
+            "http",
+            "//chakra-ui.com/docs/components/accordion/usage",
+            "accessing-the-internal-state",
+            "chakra",
+            "ui",
+            "version",
+            "2.3.4",
+            "browser",
+            "105",
+            "operating",
+            "system",
+            "macos",
+            "window",
+            "linux",
+            "additional",
+            "information",
+            "response"
+          ]
+        },
+        {
+          "author": "anubra266",
+          "content": [
+            "jimmi-rbn",
+            "warning",
+            "allowtoggle",
+            "expected",
+            "'s",
+            "need",
+            "allowtoggle",
+            "allowmultiple",
+            "true",
+            "img",
+            "width=",
+            "569",
+            "alt=",
+            "cleanshot",
+            "2022-09-21",
+            "10",
+            "19",
+            "29",
+            "2x",
+            "src=",
+            "http",
+            "//user-images.githubusercontent.com/30869823/191466709-0f540454-71d9-40fb-9d88-045aae62ab36.png",
+            "'ll",
+            "look",
+            "allowmultiple",
+            "log",
+            "though"
+          ]
+        }
+      ]
+    }
+  ],
+  "security": null
+}

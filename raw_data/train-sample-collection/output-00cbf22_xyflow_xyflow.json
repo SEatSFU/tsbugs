@@ -1,0 +1,25 @@
+{
+  "commit_index": "00cbf22",
+  "commit_url": "https://github.com/xyflow/xyflow/commit/00cbf2246c2afaf22e20c6f1dd55893d9775a132",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "svelte",
+      "update",
+      "node",
+      "dimension",
+      "attribute",
+      "necessary"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      "packages/svelte/src/lib/store/index.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "d4bfea9b27b2e4e357ace7bbed88099a58ca4727"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

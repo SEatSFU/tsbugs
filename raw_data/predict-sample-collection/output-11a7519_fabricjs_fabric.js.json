@@ -1,0 +1,156 @@
+{
+  "commit_index": "11a7519",
+  "commit_url": "https://github.com/fabricjs/fabric.js/commit/11a75197f543f27663cbc564f74cd9032020e4d0",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "canvas",
+      "todataurl",
+      "tocanvaselement",
+      "draw",
+      "control",
+      "de\u2026"
+    ],
+    "description": [],
+    "changed_files_count": 4,
+    "changed_files": [
+      "CHANGELOG.md",
+      "src/canvas/StaticCanvas.ts",
+      "test/visual/generic_rendering.js",
+      "test/visual/golden/toCanvasElementAndControls.png"
+    ],
+    "changed_files_content": [],
+    "parent": "1025c81c1d91e22df0c93ad3daea99d94e4435f0"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "canvas",
+        "todataurl",
+        "tocanvaselement",
+        "draw",
+        "control",
+        "default",
+        "skipcontrolsdrawing",
+        "9896"
+      ],
+      "total_discussions": 4,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "descriptionclose",
+                "9846add",
+                "override",
+                "canvas",
+                "hide",
+                "active",
+                "object",
+                "controlsleft",
+                "option.this",
+                "completely",
+                "useless",
+                "control",
+                "moved",
+                "upper",
+                "canvas"
+              ],
+              "author": "asturur"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "open",
+                "branch",
+                "inweb",
+                "editor\u2022vs",
+                "code\u2022insiders"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 3,
+          "comments": [
+            {
+              "content": [
+                "build",
+                "stats"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 4,
+          "comments": [
+            {
+              "content": [
+                "coverage",
+                "mergingtocanvaselement-controlsintomasterwill"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "title": [
+        "v6",
+        "todataurl",
+        "draw",
+        "control"
+      ],
+      "labels": [
+        "v6",
+        "bug"
+      ],
+      "comments": [
+        {
+          "author": "asturur",
+          "content": [
+            "discussed",
+            "9837",
+            "originally",
+            "posted",
+            "clemweb",
+            "april",
+            "30",
+            "2024",
+            "hi",
+            "normal",
+            "v6",
+            "todataurl",
+            "return",
+            "image",
+            "object",
+            "control",
+            "n't",
+            "see",
+            "v5",
+            "n't",
+            "find",
+            "option",
+            "disabled",
+            "behavior",
+            "want",
+            "canvas",
+            "object",
+            "without",
+            "control"
+          ]
+        }
+      ]
+    }
+  ],
+  "security": null
+}

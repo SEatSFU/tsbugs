@@ -1,0 +1,72 @@
+{
+  "commit_index": "bae1487",
+  "commit_url": "https://github.com/n8n-io/n8n/commit/bae1487a537f118860b031df8cee113d3ba35964",
+  "commit": {
+    "commit_message": [
+      "test",
+      "fix",
+      "e2e",
+      "test",
+      "inline",
+      "expression",
+      "editor",
+      "5108"
+    ],
+    "description": [
+      "fix",
+      "e2e",
+      "test",
+      "inline",
+      "expression",
+      "editor"
+    ],
+    "changed_files_count": 1,
+    "changed_files": [
+      "cypress/e2e/11-inline-expression-editor.cy.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "9e7a9bfe2096b880e265700437b76e51d9be545f"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "test",
+        "fix",
+        "e2e",
+        "test",
+        "inline",
+        "expression",
+        "editor",
+        "5108"
+      ],
+      "total_discussions": 2,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [],
+              "author": "ivov"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "got",
+                "released",
+                "withn8n",
+                "0.210.2"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

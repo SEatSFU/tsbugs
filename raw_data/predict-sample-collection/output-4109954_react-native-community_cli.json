@@ -1,0 +1,91 @@
+{
+  "commit_index": "4109954",
+  "commit_url": "https://github.com/react-native-community/cli/commit/4109954c88cd3328aac1b2a24bda95dada5ff838",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "add",
+      "content-type",
+      "header",
+      "index",
+      "debugger",
+      "page",
+      "617"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      "packages/cli/src/commands/server/middleware/indexPage.js"
+    ],
+    "changed_files_content": [],
+    "parent": "f976b4cda64f7736712214078e84a4dbca5c0587"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "add",
+        "content-type",
+        "header",
+        "index",
+        "page",
+        "617"
+      ],
+      "total_discussions": 1,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "summary",
+                "content-type",
+                "http",
+                "header",
+                "set",
+                "index",
+                "page",
+                "chrome",
+                "render",
+                "page",
+                "plain",
+                "text",
+                "safari",
+                "trigger",
+                "download",
+                "unknown.dms",
+                "file",
+                "instead.test",
+                "plan",
+                "start",
+                "server",
+                "open",
+                "server",
+                "index",
+                "page",
+                "web",
+                "browser",
+                "see",
+                "page",
+                "rendered",
+                "html",
+                "plain",
+                "text",
+                "n't",
+                "trigger",
+                "download",
+                "case",
+                "safari",
+                ".beforeafter"
+              ],
+              "author": "thymikee"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

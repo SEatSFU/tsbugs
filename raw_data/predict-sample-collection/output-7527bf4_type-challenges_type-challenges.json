@@ -1,0 +1,47 @@
+{
+  "commit_index": "7527bf4",
+  "commit_url": "https://github.com/type-challenges/type-challenges/commit/7527bf46efc896bbbd2a0cc3fca05e76a9fa515a",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "highlight",
+      "t",
+      "28422"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      "questions/08640-medium-number-range/README.md"
+    ],
+    "changed_files_content": [],
+    "parent": "7f5ac0cdb662efd17b4fb6093c1140dbda97d716"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "highlight",
+        "t",
+        "28422"
+      ],
+      "total_discussions": 1,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "description",
+                "provided"
+              ],
+              "author": "antfu"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

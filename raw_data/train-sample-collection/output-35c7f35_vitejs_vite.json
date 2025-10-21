@@ -1,0 +1,155 @@
+{
+  "commit_index": "35c7f35",
+  "commit_url": "https://github.com/vitejs/vite/commit/35c7f35e2b67f2158ededf2af58ecec53b3f16c5",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "avoid",
+      "using",
+      "promise.allsettled",
+      "preload",
+      "function",
+      "19805"
+    ],
+    "description": [],
+    "changed_files_count": 2,
+    "changed_files": [
+      "packages/vite/src/node/plugins/importAnalysisBuild.ts",
+      "playground/js-sourcemap/__tests__/js-sourcemap.spec.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "9abe82f55b5c6ba8825409b3bc23df9819655fb3"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "avoid",
+        "usingpromise.allsettledin",
+        "preload",
+        "function",
+        "19805"
+      ],
+      "total_discussions": 6,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "descriptionadd",
+                "polyfill",
+                "promise.allsettled",
+                "legacy",
+                "browser"
+              ],
+              "author": "sapphi-red"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "sapphi-red"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 3,
+          "comments": [
+            {
+              "content": [
+                "sapphi-redsorry",
+                "bother",
+                "pr",
+                "merged",
+                "release"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 4,
+          "comments": [
+            {
+              "content": [
+                "hey",
+                "novlan1",
+                "n't",
+                "definite",
+                "time",
+                "merge",
+                "pr",
+                "release",
+                "avoid",
+                "blocked",
+                "vite",
+                "release",
+                "process",
+                "project",
+                "patch",
+                "package",
+                "use",
+                "pr",
+                "see",
+                "pnpm",
+                "patch",
+                "examplehttps",
+                "//pnpm.io/cli/patch"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 5,
+          "comments": [
+            {
+              "content": [
+                "hey",
+                "novlan1",
+                "n't",
+                "definite",
+                "time",
+                "merge",
+                "pr",
+                "release",
+                "avoid",
+                "blocked",
+                "vite",
+                "release",
+                "process",
+                "project",
+                "patch",
+                "package",
+                "use",
+                "pr",
+                "see",
+                "pnpm",
+                "patch",
+                "examplehttps",
+                "//pnpm.io/cli/patch",
+                "got"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 6,
+          "comments": [
+            {
+              "content": [
+                "wow"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

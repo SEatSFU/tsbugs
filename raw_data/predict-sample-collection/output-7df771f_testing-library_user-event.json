@@ -1,0 +1,213 @@
+{
+  "commit_index": "7df771f",
+  "commit_url": "https://github.com/testing-library/user-event/commit/7df771f33de48fd87d4b67eb86bdf4b3b1262ade",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "t",
+      "add",
+      "typescript",
+      "userevent.clear",
+      "definition",
+      "250"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      "typings/index.d.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "bc6a0036d4c9819500b104afdc3e18d4485f1331"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "add",
+        "typescript",
+        "userevent.clear",
+        "definition",
+        "250"
+      ],
+      "total_discussions": 10,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "found",
+                "userevent.clear",
+                "type",
+                "definition",
+                "version",
+                "10.1.0",
+                "233",
+                "added",
+                "userevcent.clear"
+              ],
+              "author": "kentcdodds"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "merging",
+                "250intomasterwillnot",
+                "changecoverage.the",
+                "diff",
+                "coverage",
+                "isn/a",
+                "continue",
+                "review",
+                "full",
+                "report",
+                "codecov",
+                "legend-click",
+                "learn",
+                "absolute",
+                "relative",
+                "impact",
+                "affected",
+                "missing",
+                "datapowered",
+                "bycodecov",
+                "last",
+                "updatebc6a003",
+                "...",
+                "214de26",
+                "read",
+                "thecomment",
+                "doc"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 3,
+          "comments": [
+            {
+              "content": [
+                "cc",
+                "kentcdoddscould",
+                "merged"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 4,
+          "comments": [
+            {
+              "content": [
+                "all-contributorsplease",
+                "add",
+                "bdh1011for",
+                "code"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 5,
+          "comments": [
+            {
+              "content": [
+                "kentcdodds",
+                "'ve",
+                "put",
+                "upa",
+                "pull",
+                "requestto",
+                "add",
+                "bdh1011"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 6,
+          "comments": [
+            {
+              "content": [
+                "all-contributorsplease",
+                "add",
+                "calebebyfor",
+                "review"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 7,
+          "comments": [
+            {
+              "content": [
+                "kentcdodds",
+                "'ve",
+                "put",
+                "upa",
+                "pull",
+                "requestto",
+                "add",
+                "calebeby"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 8,
+          "comments": [
+            {
+              "content": [
+                "all-contributorsplease",
+                "add",
+                "meemawfor",
+                "review"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 9,
+          "comments": [
+            {
+              "content": [
+                "kentcdodds",
+                "'ve",
+                "put",
+                "upa",
+                "pull",
+                "requestto",
+                "add",
+                "meemaw"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 10,
+          "comments": [
+            {
+              "content": [
+                "pr",
+                "included",
+                "version",
+                "10.1.1",
+                "release",
+                "available",
+                "yoursemantic-releasebot"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

@@ -1,0 +1,95 @@
+{
+  "commit_index": "f555501",
+  "commit_url": "https://github.com/ueberdosis/hocuspocus/commit/f5555016785019913846448b9a11186397c65473",
+  "commit": {
+    "commit_message": [
+      "upgrade",
+      "w",
+      "fix",
+      "186"
+    ],
+    "description": [],
+    "changed_files_count": 7,
+    "changed_files": [
+      "demos/backend/package.json",
+      "docs/src/docPages/api/hooks/on-upgrade.md",
+      "packages/monitor/package.json",
+      "packages/monitor/src/Dashboard.ts",
+      "packages/server/package.json",
+      "packages/server/src/Hocuspocus.ts",
+      "yarn.lock"
+    ],
+    "changed_files_content": [],
+    "parent": "efc7ab57010a6642470a0b92aaf28482619dee9d"
+  },
+  "pull_requests": null,
+  "issues": [
+    {
+      "title": [
+        "upgrade",
+        "w",
+        "8"
+      ],
+      "labels": [
+        "feature request"
+      ],
+      "comments": [
+        {
+          "author": "hanspagel",
+          "content": [
+            "v8",
+            "seems",
+            "breaking",
+            "change",
+            "incorporate",
+            "make",
+            "double",
+            "sure",
+            "break",
+            "anything",
+            "http",
+            "//github.com/websockets/ws/releases/tag/8.0.0"
+          ]
+        },
+        {
+          "author": "ViktorQvarfordt",
+          "content": [
+            "upgrading",
+            "would",
+            "fix",
+            "typescript",
+            "error",
+            "code",
+            "app.ws",
+            "'/collaboration/",
+            "document",
+            "w",
+            "req",
+            "server.handleconnection",
+            "w",
+            "request",
+            "req.params.document",
+            "types/express-ws",
+            "us",
+            "recent",
+            "version",
+            "w",
+            "hocuspocus/server"
+          ]
+        },
+        {
+          "author": "ChasLui",
+          "content": [
+            "try",
+            "using",
+            "higher",
+            "performance",
+            "http",
+            "//github.com/unetworking/uwebsockets.js/"
+          ]
+        }
+      ]
+    }
+  ],
+  "security": null
+}

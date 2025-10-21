@@ -1,0 +1,179 @@
+{
+  "commit_index": "6422078",
+  "commit_url": "https://github.com/n8n-io/n8n/commit/6422078a5d07309529ed33f3705af89b9d4ed2fd",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "editor",
+      "revert",
+      "fix",
+      "telemetry",
+      "initialization",
+      "no-changelog",
+      "6968"
+    ],
+    "description": [
+      "reverts",
+      "commit",
+      "b312f2e",
+      "808a928"
+    ],
+    "changed_files_count": 7,
+    "changed_files": [
+      "cypress.config.js",
+      "package.json",
+      "packages/editor-ui/index.html",
+      "packages/editor-ui/src/plugins/telemetry/index.ts",
+      "packages/editor-ui/src/plugins/telemetry/telemetry.types.ts",
+      "packages/editor-ui/vite.config.ts",
+      "pnpm-lock.yaml"
+    ],
+    "changed_files_content": [],
+    "parent": "9455bcfef5383ee351b620f12a0f5fba2447a839"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "editor",
+        "revert",
+        "fix",
+        "telemetry",
+        "initialization",
+        "no-changelog",
+        "6968"
+      ],
+      "total_discussions": 6,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "reverts",
+                "commitb312f2eand808a928"
+              ],
+              "author": "netroy"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "great",
+                "pr",
+                "please",
+                "pay",
+                "attention",
+                "following",
+                "item",
+                "merging",
+                "file",
+                "matchingpackages/",
+                "file",
+                "matchingpackages/",
+                ".ts",
+                "make",
+                "sure",
+                "check",
+                "list",
+                "asking",
+                "review"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 3,
+          "comments": [
+            {
+              "content": [
+                "patch",
+                "coverage:42.30",
+                "project",
+                "coverage",
+                "change",
+                "-0.03",
+                "comparison",
+                "base",
+                "60a1ef0",
+                "25.14",
+                "compared",
+                "head",
+                "8ac2b14",
+                "25.12",
+                ".report",
+                "2",
+                "commits",
+                "behind",
+                "head",
+                "master",
+                "...",
+                "and4",
+                "file",
+                "indirect",
+                "coverage",
+                "change",
+                "view",
+                "full",
+                "report",
+                "codecov",
+                "feedback",
+                "report",
+                "share"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 4,
+          "comments": [
+            {
+              "content": [
+                "detail",
+                "comment",
+                "generated",
+                "cypress-bot",
+                "result",
+                "project'sgithub",
+                "integration",
+                "setting"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 5,
+          "comments": [
+            {
+              "content": [
+                "cypress",
+                "e2e",
+                "spec",
+                "passed"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 6,
+          "comments": [
+            {
+              "content": [
+                "got",
+                "released",
+                "withn8n",
+                "1.3.1"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

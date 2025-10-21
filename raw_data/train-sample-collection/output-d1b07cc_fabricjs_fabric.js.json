@@ -1,0 +1,65 @@
+{
+  "commit_index": "d1b07cc",
+  "commit_url": "https://github.com/fabricjs/fabric.js/commit/d1b07ccb9a3dcd3aa0380232c9f1fa8472ff8bfe",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "allow",
+      "field",
+      "access",
+      "pencilbrush",
+      "subclass"
+    ],
+    "description": [],
+    "changed_files_count": 2,
+    "changed_files": [
+      "CHANGELOG.md",
+      "src/brushes/PencilBrush.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "a88ad1ac2d20f627c0592156d9bbbbfeb19c65af"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "allow",
+        "field",
+        "access",
+        "pencilbrush",
+        "subclass"
+      ],
+      "total_discussions": 1,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "descriptionsubclasses",
+                "ofpencilbrushdo",
+                "n't",
+                "access",
+                "private",
+                "field",
+                "pr",
+                "allow",
+                "method",
+                "override",
+                "work",
+                "currently",
+                "private",
+                "field",
+                "without",
+                "hack"
+              ],
+              "author": "asturur"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

@@ -1,0 +1,220 @@
+{
+  "commit_index": "605df05",
+  "commit_url": "https://github.com/intlify/vue-i18n/commit/605df058db5e4953bdd9d747ecb14248cf455d63",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "te",
+      "logic",
+      "strictly",
+      "1612"
+    ],
+    "description": [],
+    "changed_files_count": 2,
+    "changed_files": [
+      "packages/vue-i18n-core/src/composer.ts",
+      "packages/vue-i18n-core/test/issues.test.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "337c00937e5153f89fbdd89969561809990d60c0"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "moretelogic",
+        "strictly",
+        "1612"
+      ],
+      "total_discussions": 3,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "resolve",
+                "1610"
+              ],
+              "author": "kazupon"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "view",
+                "log"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 3,
+          "comments": [
+            {
+              "content": [
+                "would",
+                "nice",
+                "previous",
+                "logic",
+                "well",
+                "'s",
+                "useful",
+                "case"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "title": [
+        "te",
+        "working",
+        "anymore"
+      ],
+      "labels": [
+        "Status: Review Needed"
+      ],
+      "comments": [
+        {
+          "author": "plehnen",
+          "content": [
+            "reporting",
+            "bug",
+            "since",
+            "9.6.0",
+            "1602",
+            "te",
+            "function",
+            "return",
+            "false",
+            "even",
+            "key",
+            "exists",
+            "please",
+            "see",
+            "reproduction",
+            "link",
+            "expected",
+            "behavior",
+            "break",
+            "reproduction",
+            "http",
+            "//stackblitz.com/edit/vitejs-vite-tykujb",
+            "file=src",
+            "2fapp.vue",
+            "system",
+            "info",
+            "system",
+            "o",
+            "window",
+            "10",
+            "10.0.22621",
+            "cpu",
+            "16",
+            "x64",
+            "intel",
+            "r",
+            "core",
+            "tm",
+            "i9-9880h",
+            "cpu",
+            "2.30ghz",
+            "memory",
+            "70.75",
+            "gb",
+            "95.78",
+            "gb",
+            "binary",
+            "node",
+            "18.17.0",
+            "c",
+            "\\p",
+            "rogram",
+            "file",
+            "\\n",
+            "odejs",
+            "\\n",
+            "ode.exe",
+            "yarn",
+            "1.22.19",
+            "c",
+            "\\p",
+            "rogram",
+            "file",
+            "x86",
+            "\\y",
+            "arn",
+            "\\b",
+            "\\y",
+            "arn.cmd",
+            "npm",
+            "9.8.1",
+            "c",
+            "\\p",
+            "rogram",
+            "file",
+            "\\n",
+            "odejs",
+            "\\n",
+            "pm.cmd",
+            "pnpm",
+            "8.6.12",
+            "\\a",
+            "ppdata",
+            "\\r",
+            "oaming",
+            "\\n",
+            "pm",
+            "\\p",
+            "npm.cmd",
+            "browser",
+            "chrome",
+            "118.0.5993.89",
+            "edge",
+            "chromium",
+            "118.0.2088.57",
+            "internet",
+            "explorer",
+            "11.0.22621.1",
+            "screenshot",
+            "response",
+            "additional",
+            "context",
+            "response",
+            "validation",
+            "read",
+            "contributing",
+            "guideline",
+            "read",
+            "documentation",
+            "check",
+            "n't",
+            "already",
+            "issue",
+            "report",
+            "bug",
+            "avoid",
+            "creating",
+            "duplicate",
+            "check",
+            "concrete",
+            "bug",
+            "q",
+            "open",
+            "github",
+            "discussion"
+          ]
+        }
+      ]
+    }
+  ],
+  "security": null
+}

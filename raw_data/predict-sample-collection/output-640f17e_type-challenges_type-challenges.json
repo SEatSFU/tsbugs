@@ -1,0 +1,70 @@
+{
+  "commit_index": "640f17e",
+  "commit_url": "https://github.com/type-challenges/type-challenges/commit/640f17e657cb5d0f018388f9f0725db7143cdf0f",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "add",
+      "test",
+      "case",
+      "730",
+      "5258"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      "questions/730-hard-union-to-tuple/test-cases.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "33fca85031a0d7e6dac924cab597db6bdc35cc6d"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "add",
+        "test",
+        "case",
+        "730",
+        "5258"
+      ],
+      "total_discussions": 1,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "used",
+                "case",
+                "passed",
+                "test",
+                "however",
+                "expected",
+                "whichuniontotuple",
+                "b",
+                "a'|",
+                "b",
+                "typeuniontotuple",
+                "exclude",
+                "undefined",
+                "add",
+                "new",
+                "case",
+                "check",
+                "tuplelengthnow",
+                "case",
+                "pas",
+                "test"
+              ],
+              "author": "antfu"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

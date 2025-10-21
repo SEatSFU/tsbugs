@@ -1,0 +1,52 @@
+{
+  "commit_index": "a9f165f",
+  "commit_url": "https://github.com/type-challenges/type-challenges/commit/a9f165f5106d1fc81ba872bd7d517f973f23e4d8",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "built-in",
+      "awaited",
+      "conflict",
+      "4757"
+    ],
+    "description": [],
+    "changed_files_count": 3,
+    "changed_files": [
+      "questions/189-easy-awaited/info.yml",
+      "questions/189-easy-awaited/template.ts",
+      "questions/189-easy-awaited/test-cases.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "1bf18cd7d4d4ed6b19495ddd6c2b851396ee9ea3"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "built-in",
+        "awaited",
+        "conflict",
+        "4757"
+      ],
+      "total_discussions": 1,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "http",
+                "//www.typescriptlang.org/docs/handbook/release-notes/typescript-4-5.html",
+                "the-awaited-type-and-promise-improvements"
+              ],
+              "author": "antfu"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

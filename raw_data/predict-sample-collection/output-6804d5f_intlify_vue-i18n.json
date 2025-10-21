@@ -1,0 +1,25 @@
+{
+  "commit_index": "6804d5f",
+  "commit_url": "https://github.com/intlify/vue-i18n/commit/6804d5f800f66a7fc46599fd37d1a99a490f8730",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "release",
+      "script"
+    ],
+    "description": [],
+    "changed_files_count": 5,
+    "changed_files": [
+      ".github/workflows/ci.yml",
+      "docs/guide/installation.md",
+      "scripts/bump.ts",
+      "scripts/release-nightly.sh",
+      "scripts/release.sh"
+    ],
+    "changed_files_content": [],
+    "parent": "ebf2f8156852917cfcc6ed402ddad46c1b86e7ea"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

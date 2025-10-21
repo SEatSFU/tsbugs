@@ -1,0 +1,361 @@
+{
+  "commit_index": "edec141",
+  "commit_url": "https://github.com/fabricjs/fabric.js/commit/edec141df0f1f14c4e70ba60509d6ad18433f8c9",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "avoid",
+      "error",
+      "restoring",
+      "custom",
+      "property",
+      "pas",
+      "lazy\u2026"
+    ],
+    "description": [],
+    "changed_files_count": 2,
+    "changed_files": [
+      "CHANGELOG.md",
+      "src/util/misc/objectEnlive.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "9383593c5f0a02b270efeeeacc0257d0fd471f1e"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "avoid",
+        "error",
+        "restoring",
+        "custom",
+        "property",
+        "pas",
+        "lazy",
+        "detection",
+        "shadow",
+        "gradient",
+        "pattern",
+        "clippath",
+        "10017"
+      ],
+      "total_discussions": 13,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "importing",
+                "property",
+                "object",
+                "iterated",
+                "property",
+                "type",
+                "source",
+                "additional",
+                "logic",
+                "executed",
+                "user",
+                "custom-exported",
+                "additional",
+                "property",
+                "property",
+                "object",
+                "type",
+                "source",
+                "keywords",
+                "user",
+                "need",
+                "output"
+              ],
+              "author": "asturur"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "open",
+                "branch",
+                "inweb",
+                "editor\u2022vs",
+                "code\u2022insidersopenpreview"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 3,
+          "comments": [
+            {
+              "content": [
+                "ok",
+                "see",
+                "point",
+                "ca",
+                "n't",
+                "return",
+                "value",
+                "catch",
+                "make",
+                "unparsed",
+                "pattern",
+                "returned",
+                "error",
+                "later.we",
+                "need",
+                "make",
+                "stronger",
+                "check",
+                "try",
+                "make",
+                "example"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 4,
+          "comments": [
+            {
+              "content": [
+                "maybe",
+                "change",
+                "use",
+                "'gradient",
+                "'shadow",
+                "'clippath",
+                ".includes",
+                "key",
+                "value.type",
+                "make",
+                "custom",
+                "property",
+                "safe",
+                "pattern"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 5,
+          "comments": [
+            {
+              "content": [
+                "done"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 6,
+          "comments": [
+            {
+              "content": [
+                "adding",
+                "test",
+                "merging"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 7,
+          "comments": [
+            {
+              "content": [
+                "second",
+                "thought",
+                "wrong",
+                "fix"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 8,
+          "comments": [
+            {
+              "content": [
+                "zhe-helook",
+                "changed",
+                "let",
+                "know"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 9,
+          "comments": [
+            {
+              "content": [
+                "astururthe",
+                "previous",
+                "commit",
+                "modification",
+                "clear",
+                "noticed",
+                "last",
+                "commit",
+                "marked",
+                "'ok",
+                "reverted",
+                "n't",
+                "understand",
+                "whether",
+                "due",
+                "change",
+                "causing",
+                "bug",
+                "due",
+                "error",
+                "merge",
+                "conflict"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 10,
+          "comments": [
+            {
+              "content": [
+                "fix",
+                "made",
+                "property",
+                "making",
+                "impossible",
+                "extend",
+                "class",
+                "restorable",
+                "property",
+                "added",
+                "custom",
+                "property",
+                "like",
+                "'mask",
+                "restorable",
+                "object",
+                "allow",
+                "list",
+                "built",
+                "would",
+                "blocked"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 11,
+          "comments": [
+            {
+              "content": [
+                "using",
+                "hasclass",
+                "reliable",
+                "either",
+                "might",
+                "custom",
+                "attribute",
+                "whose",
+                "type",
+                "value",
+                "happens",
+                "exist",
+                "fabric",
+                "'s",
+                "type",
+                "rect",
+                "textbox",
+                "path",
+                "etc",
+                "first",
+                "check",
+                "key",
+                "fabric",
+                "property",
+                "check",
+                "value",
+                "exists",
+                "classregistry"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 12,
+          "comments": [
+            {
+              "content": [
+                "would",
+                "bad",
+                "design",
+                "implementer",
+                "side.in",
+                "fabric",
+                "object",
+                "type",
+                "rect",
+                "rect",
+                "period.we",
+                "ca",
+                "n't",
+                "block",
+                "everyone",
+                "adding",
+                "rects",
+                "custom",
+                "property",
+                "someone",
+                "could",
+                "use",
+                "object",
+                "'type",
+                "rect",
+                "rects",
+                "shoud",
+                "block",
+                "someone",
+                "adding",
+                "custom",
+                "property",
+                "correctly",
+                "enlivable"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 13,
+          "comments": [
+            {
+              "content": [
+                "okay",
+                "reasonable",
+                "indeed",
+                "unnecessary",
+                "over-design",
+                "agree",
+                "allowing",
+                "user",
+                "customize",
+                "property",
+                "built-in",
+                "object",
+                "good",
+                "idea"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

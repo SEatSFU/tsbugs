@@ -1,0 +1,25 @@
+{
+  "commit_index": "3def411",
+  "commit_url": "https://github.com/Kong/insomnia/commit/3def41113deec8502f07292fafdc4a19b07f4313",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "wsdl",
+      "importer",
+      "fixture"
+    ],
+    "description": [],
+    "changed_files_count": 4,
+    "changed_files": [
+      "packages/insomnia-importers/src/__tests__/fixtures/wsdl/addition-output.json",
+      "packages/insomnia-importers/src/__tests__/fixtures/wsdl/calculator-output.json",
+      "packages/insomnia-importers/src/importers/postman.js",
+      "packages/insomnia-importers/src/importers/wsdl.js"
+    ],
+    "changed_files_content": [],
+    "parent": "705876ace92b6c851ec7b00cd52f339f857bdcd6"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

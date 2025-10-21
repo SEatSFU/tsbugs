@@ -1,0 +1,26 @@
+{
+  "commit_index": "24ee18e",
+  "commit_url": "https://github.com/chakra-ui/chakra-ui/commit/24ee18e58fb665496628136ff8484fcac5523fc7",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "doc",
+      "update",
+      "default",
+      "value",
+      "lazymount",
+      "unmountonexit",
+      "menu"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      "apps/www/public/types/ark/menu.json"
+    ],
+    "changed_files_content": [],
+    "parent": "7b9564a88c3793d34c7714ffbbfd865c02433627"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

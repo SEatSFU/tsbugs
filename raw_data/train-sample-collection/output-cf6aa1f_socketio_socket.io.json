@@ -1,0 +1,25 @@
+{
+  "commit_index": "cf6aa1f",
+  "commit_url": "https://github.com/socketio/socket.io/commit/cf6aa1f43c27a56c076bf26fddfce74bfeb65040",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "webtransport",
+      "properly",
+      "handle",
+      "abruptly",
+      "closed",
+      "connection"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      "lib/transports/webtransport.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "01804d59c3351f1c87d62ca0c9f942792f4f52e5"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

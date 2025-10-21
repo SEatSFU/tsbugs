@@ -1,0 +1,278 @@
+{
+  "commit_index": "ed59735",
+  "commit_url": "https://github.com/testing-library/user-event/commit/ed59735ffe9c8f9d322ae540182c51c233bbdefd",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "click",
+      "correct",
+      "focus",
+      "change",
+      "based",
+      "mousedown",
+      "result",
+      "192"
+    ],
+    "description": [],
+    "changed_files_count": 2,
+    "changed_files": [
+      "__tests__/react/click.js",
+      "src/index.js"
+    ],
+    "changed_files_content": [],
+    "parent": "d9a7bdc526bedce10af6993a0388da16224d5321"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "correct",
+        "focus",
+        "change",
+        "based",
+        "mousedown",
+        "result",
+        "192"
+      ],
+      "total_discussions": 9,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "becauseuserevent.clickshould",
+                "simulate",
+                "real",
+                "browser",
+                "behavior",
+                "need",
+                "take",
+                "account",
+                "result",
+                "event.in",
+                "particular",
+                "case",
+                "ifmousedownevent",
+                "haspreventdefault",
+                "stop",
+                "focus",
+                "event.here",
+                "source",
+                "code",
+                "google",
+                "chrome",
+                "blink",
+                "reference",
+                "others",
+                "follow",
+                "convention",
+                "http",
+                "//chromium.googlesource.com/chromium/blink/+/master/source/core/input/eventhandler.cpp",
+                "972bool",
+                "swallowevent",
+                "dispatchmouseevent",
+                "eventtypenames",
+                ":mousedown",
+                "mev.innernode",
+                "m_clickcount",
+                "mouseevent",
+                "dispatchmouseeventreturn",
+                "value",
+                "mean",
+                "continue",
+                "default",
+                "handling",
+                "soswalloweventistruein",
+                "case",
+                "ofpreventdefaultusage.just",
+                "call",
+                "focus",
+                "event",
+                "triggered",
+                "ifswallowevent",
+                "===",
+                "falseswallowevent",
+                "swallowevent",
+                "||",
+                "handlemousefocus",
+                "mouseeventwithhittestresults",
+                "mouseevent",
+                "hittestresult",
+                "sourcecapabilities",
+                "heavily",
+                "rely",
+                "case",
+                "developing",
+                "complex",
+                "component",
+                "design",
+                "system",
+                "focus",
+                "management.another",
+                "moment",
+                "probably",
+                "usefireevent.focus",
+                "instead",
+                "ofelement.focus",
+                "also",
+                "understand",
+                "ifonfocuswas",
+                "canceled",
+                "'s",
+                "another",
+                "change",
+                "related",
+                "scrollbar",
+                "behavior",
+                "focus"
+              ],
+              "author": "kentcdodds"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "merging",
+                "192intomasterwillincreasecoverage",
+                "by0.06",
+                ".the",
+                "diff",
+                "coverage",
+                "is100",
+                "continue",
+                "review",
+                "full",
+                "report",
+                "codecov",
+                "legend-click",
+                "learn",
+                "absolute",
+                "relative",
+                "impact",
+                "affected",
+                "missing",
+                "datapowered",
+                "bycodecov",
+                "last",
+                "update9ab5b2b",
+                "...",
+                "a8d2a5b",
+                "read",
+                "thecomment",
+                "doc"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 3,
+          "comments": [
+            {
+              "content": [
+                "pr",
+                "mind",
+                "adding",
+                "test",
+                "use-case"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 4,
+          "comments": [
+            {
+              "content": [
+                "gpxsure",
+                "thing",
+                "done"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 5,
+          "comments": [
+            {
+              "content": [
+                "pr",
+                "included",
+                "version",
+                "8.0.7",
+                "release",
+                "available",
+                "yoursemantic-releasebot"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 6,
+          "comments": [
+            {
+              "content": [
+                "kentcdoddsthanks",
+                "merging",
+                "would",
+                "add",
+                "via",
+                "contributor",
+                "bot",
+                "please"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 7,
+          "comments": [
+            {
+              "content": [
+                "bad",
+                "sorry",
+                "forgot"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 8,
+          "comments": [
+            {
+              "content": [
+                "all-contributorsplease",
+                "add",
+                "ilyamkinfor",
+                "code",
+                "test"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 9,
+          "comments": [
+            {
+              "content": [
+                "kentcdodds",
+                "'ve",
+                "put",
+                "upa",
+                "pull",
+                "requestto",
+                "add",
+                "ilyamkin"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

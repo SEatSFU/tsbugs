@@ -1,0 +1,79 @@
+{
+  "commit_index": "0e3467e",
+  "commit_url": "https://github.com/vitejs/vite/commit/0e3467e503aef45119260fe75b399b26f7a80b66",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "incorrect",
+      "environment",
+      "consumer",
+      "option",
+      "resolution",
+      "18079"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      "packages/vite/src/node/config.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "587ad7b17beba50279eaf46b06c5bf5559c4f36e"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "fix",
+        "incorrect",
+        "environment",
+        "consumer",
+        "option",
+        "resolution",
+        "18079"
+      ],
+      "total_discussions": 2,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "descriptionin",
+                "theresolveenvironmentoptionsfunction",
+                "seem",
+                "expression",
+                "incorrectly",
+                "resolve",
+                "environmentconsumeroptions",
+                "set",
+                "toservertoclientinstead",
+                "pr",
+                "address",
+                "issue"
+              ],
+              "author": "patak-dev"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "run",
+                "review",
+                "pull",
+                "request",
+                "instackblitz",
+                "codeflow"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

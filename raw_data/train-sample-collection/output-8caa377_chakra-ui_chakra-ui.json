@@ -1,0 +1,20 @@
+{
+  "commit_index": "8caa377",
+  "commit_url": "https://github.com/chakra-ui/chakra-ui/commit/8caa377b760e37b7b6d2d4a95a2409bdbc8374a4",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "typecheck"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      "packages/react/src/components/download-trigger/index.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "e91ec7e9a393a791743636e934d28bc75a0e6dc8"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

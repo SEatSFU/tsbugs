@@ -1,0 +1,120 @@
+{
+  "commit_index": "c030976",
+  "commit_url": "https://github.com/type-challenges/type-challenges/commit/c03097627255c614717f86bbd04e0b5cbc8a0a69",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "add",
+      "suite",
+      "case",
+      "allow",
+      "recursive",
+      "replacing",
+      "656"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      "questions/119-medium-replaceall/test-cases.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "754987a346735a89ff3075256d24d8f02b02917a"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "add",
+        "suite",
+        "case",
+        "allow",
+        "recursive",
+        "replacing",
+        "119",
+        "656"
+      ],
+      "total_discussions": 1,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "aim",
+                "tofix",
+                "654"
+              ],
+              "author": "antfu"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "title": [
+        "answer",
+        "n't",
+        "fully",
+        "comply",
+        "question"
+      ],
+      "labels": [
+        "bug"
+      ],
+      "comments": [
+        {
+          "author": "turtleflyer",
+          "content": [
+            "following",
+            "test",
+            "case",
+            "added",
+            "expect",
+            "equal",
+            "replaceall",
+            "'foobarfoobar",
+            "'ob",
+            "b",
+            "'fobarfobar",
+            "would",
+            "reveal",
+            "wrong",
+            "answer",
+            "like",
+            "one",
+            "type",
+            "replaceall",
+            "extends",
+            "string",
+            "extends",
+            "string",
+            "extends",
+            "string",
+            "extends",
+            "infer",
+            "u",
+            "infer",
+            "r",
+            "extends",
+            "replaceall",
+            "u",
+            "r"
+          ]
+        },
+        {
+          "author": "antfu",
+          "content": [
+            "would",
+            "mind",
+            "create",
+            "pr"
+          ]
+        }
+      ]
+    }
+  ],
+  "security": null
+}

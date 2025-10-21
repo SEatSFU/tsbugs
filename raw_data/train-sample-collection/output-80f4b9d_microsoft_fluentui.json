@@ -1,0 +1,124 @@
+{
+  "commit_index": "80f4b9d",
+  "commit_url": "https://github.com/microsoft/fluentui/commit/80f4b9d4f6eefda53f7c0d38743c78f898f28e24",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "react-charting",
+      "respect",
+      "bargap",
+      "width",
+      "property",
+      "plotly",
+      "ba\u2026"
+    ],
+    "description": [],
+    "changed_files_count": 3,
+    "changed_files": [
+      "change/@fluentui-react-charting-7404a3fc-ae59-4461-bef8-a8b2838b4655.json",
+      "packages/charts/react-charting/src/components/DeclarativeChart/PlotlySchemaAdapter.ts",
+      "packages/charts/react-charting/src/components/DeclarativeChart/__snapshots__/PlotlySchemaAdapterUT.test.tsx.snap"
+    ],
+    "changed_files_content": [],
+    "parent": "1cf477588a8d5fdc41208a7a7f753ba0306caa15"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "react-charting",
+        "respect",
+        "bargap",
+        "width",
+        "property",
+        "plotly",
+        "bar",
+        "trace",
+        "34887"
+      ],
+      "total_discussions": 5,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "previous",
+                "behaviornew",
+                "behavior"
+              ],
+              "author": "krkshitij"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "change",
+                "found"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 3,
+          "comments": [
+            {
+              "content": [
+                "pull",
+                "request",
+                "demo",
+                "site",
+                "url"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 4,
+          "comments": [
+            {
+              "content": [
+                "let",
+                "add",
+                "test",
+                "example",
+                "test",
+                "set"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 5,
+          "comments": [
+            {
+              "content": [
+                "let",
+                "add",
+                "test",
+                "example",
+                "test",
+                "set",
+                "already",
+                "example",
+                "test",
+                "app",
+                "playwright",
+                "test",
+                "report",
+                "http",
+                "//github.com/microsoft/fluentui-charting-contrib/actions/runs/16426277798"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

@@ -1,0 +1,51 @@
+{
+  "commit_index": "de5e139",
+  "commit_url": "https://github.com/intlify/vue-i18n/commit/de5e139555c8522426478d3f2ec0aea213cb6a5a",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "prepare",
+      "drop",
+      "'allowcomposition",
+      "option",
+      "1496"
+    ],
+    "description": [],
+    "changed_files_count": 3,
+    "changed_files": [
+      "docs/guide/migration/vue3.md",
+      "packages/vue-i18n-core/src/i18n.ts",
+      "packages/vue-i18n-core/src/warnings.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "1bf6495535e10967610014f2eeb2f1b29eef3013"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "prepare",
+        "dropallowcompositionoption",
+        "1496"
+      ],
+      "total_discussions": 1,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "description",
+                "provided"
+              ],
+              "author": "kazupon"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

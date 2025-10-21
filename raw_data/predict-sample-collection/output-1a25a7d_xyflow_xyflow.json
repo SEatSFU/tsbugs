@@ -1,0 +1,25 @@
+{
+  "commit_index": "1a25a7d",
+  "commit_url": "https://github.com/xyflow/xyflow/commit/1a25a7da485e7e9155080f4b16503188d1ac3d1d",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "store",
+      "calc",
+      "handle",
+      "po"
+    ],
+    "description": [],
+    "changed_files_count": 3,
+    "changed_files": [
+      "packages/system/src/utils/dom.ts",
+      "packages/system/src/utils/general.ts",
+      "packages/system/src/utils/store.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "8ad1797f98129e023bfeda7a81953fc33eb17f4e"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

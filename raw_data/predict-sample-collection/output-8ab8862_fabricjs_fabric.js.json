@@ -1,0 +1,409 @@
+{
+  "commit_index": "8ab8862",
+  "commit_url": "https://github.com/fabricjs/fabric.js/commit/8ab886292b8a58c5b428ea8de1970e000449bc93",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "canvas",
+      "fix",
+      "searchpossibletargets",
+      "non-interactive",
+      "nested",
+      "tar\u2026"
+    ],
+    "description": [
+      "co-authored-by",
+      "andrea",
+      "bogazzi",
+      "andreabogazzi79",
+      "gmail.com",
+      "co-authored-by",
+      "shachar",
+      "34343793+shaman123",
+      "users.noreply.github.com"
+    ],
+    "changed_files_count": 3,
+    "changed_files": [
+      "CHANGELOG.md",
+      "src/canvas/SelectableCanvas.spec.ts",
+      "src/canvas/SelectableCanvas.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "9ec5a3dd66c3733a4aefca9bf022671dabf87d0a"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "searchpossibletargets",
+        "non-interactive",
+        "nested",
+        "target",
+        "9762"
+      ],
+      "total_discussions": 14,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "searchpossibletargetsshould",
+                "return",
+                "innermost",
+                "subtarget",
+                "respecting",
+                "intermediateinteractivegroups",
+                "currently",
+                "thetargetis",
+                "interactive",
+                "automatically",
+                "returnthis.targets",
+                "0",
+                "innermost",
+                "subtarget",
+                "even",
+                "though",
+                "could",
+                "belong",
+                "non",
+                "interactive",
+                "group",
+                "see",
+                "test.this",
+                "correctly",
+                "allows",
+                "subselection",
+                "enter",
+                "automatically",
+                "innermost",
+                "child",
+                "rather",
+                "determined",
+                "stack",
+                "interactive",
+                "group"
+              ],
+              "author": "asturur"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "open",
+                "branch",
+                "inweb",
+                "editor\u2022vs",
+                "code\u2022insidersopenpreview"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 3,
+          "comments": [
+            {
+              "content": [
+                "thing",
+                "would",
+                "liked",
+                "think",
+                "thinking",
+                "interactive",
+                "group",
+                "doable.this",
+                "go",
+                "fix",
+                "soon",
+                "correct",
+                "prone",
+                "interpretation",
+                "should/could/would",
+                "correct",
+                "behaviour",
+                "correct",
+                "behaviour",
+                "exists.i",
+                "put",
+                "timeaside",
+                "tuesday",
+                "monday",
+                "already",
+                "filled",
+                "fabricjs",
+                "thing"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 4,
+          "comments": [
+            {
+              "content": [
+                "second",
+                "inline",
+                "typing",
+                "pr",
+                "want",
+                "understand",
+                "id",
+                "need",
+                "get",
+                "release"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 5,
+          "comments": [
+            {
+              "content": [
+                "think",
+                "fix",
+                "belong",
+                "release",
+                "since",
+                "fix",
+                "bug",
+                "intended",
+                "behaviour",
+                "limited",
+                "scope"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 6,
+          "comments": [
+            {
+              "content": [
+                "agree"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 7,
+          "comments": [
+            {
+              "content": [
+                "think",
+                "fix",
+                "belong",
+                "release",
+                "since",
+                "fix",
+                "bug",
+                "intended",
+                "behaviour",
+                "limited",
+                "scope",
+                "yeah",
+                "read",
+                "deeply.i",
+                "n't"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 8,
+          "comments": [
+            {
+              "content": [
+                "ok",
+                "understanding",
+                "agree",
+                "bug",
+                "updated",
+                "discussion",
+                "tomorrow",
+                "morning",
+                "get",
+                "back",
+                "edge",
+                "case",
+                "easily",
+                "fixed",
+                "solution",
+                "n't",
+                "bad.i",
+                "read",
+                "shaman123point",
+                "mentioned",
+                "theory",
+                "onselect",
+                "post",
+                "selection",
+                "issue",
+                "something",
+                "selected",
+                "selection",
+                "onselect",
+                "cancel",
+                "selection",
+                "let",
+                "selection",
+                "process",
+                "take",
+                "alternative",
+                "road",
+                "want",
+                "set",
+                "object",
+                "'evented",
+                "false",
+                "would",
+                "n't",
+                "consider",
+                "case",
+                "measure",
+                "fix",
+                "bad",
+                "good",
+                "idea"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 9,
+          "comments": [
+            {
+              "content": [
+                "would",
+                "lead",
+                "possible",
+                "bug",
+                "interactive",
+                "group",
+                "shielded",
+                "non",
+                "interactive",
+                "one",
+                "still",
+                "sub-selected",
+                "click",
+                "yes",
+                "exactly"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 10,
+          "comments": [
+            {
+              "content": [
+                "regarding",
+                "naming",
+                "issue",
+                "discussing",
+                "target",
+                "array",
+                "ordered",
+                "ordered",
+                "innermost",
+                "outermost.where",
+                "target",
+                "0",
+                "innermost",
+                "target",
+                "target",
+                "length-1",
+                "outermost",
+                "n't",
+                "think",
+                "front/back",
+                "appropriate"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 11,
+          "comments": [
+            {
+              "content": [
+                "please",
+                "let",
+                "'s",
+                "examine",
+                "correctness",
+                "code",
+                "let",
+                "'s",
+                "move",
+                "forward",
+                "think",
+                "board"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 12,
+          "comments": [
+            {
+              "content": [
+                "pushed",
+                "suggestion",
+                "slight",
+                "change",
+                "make",
+                "t",
+                "happy"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 13,
+          "comments": [
+            {
+              "content": [
+                "add",
+                "test",
+                "verify",
+                "thinking",
+                "correct",
+                "complains",
+                "merge",
+                "tomorrow",
+                "morning",
+                "complains",
+                "post",
+                "merge",
+                "still",
+                "fix"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 14,
+          "comments": [
+            {
+              "content": [
+                "assigned",
+                "cover",
+                "question",
+                "syntetich",
+                "test"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

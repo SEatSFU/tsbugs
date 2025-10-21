@@ -1,0 +1,24 @@
+{
+  "commit_index": "402d76e",
+  "commit_url": "https://github.com/sadmann7/shadcn-table/commit/402d76e4e156dcf859b9d501d40909857b3311ca",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "deps",
+      "update",
+      "dependency",
+      "nanoid",
+      "v5.0.6"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      "pnpm-lock.yaml"
+    ],
+    "changed_files_content": [],
+    "parent": "ce62ca1f5234bfa2fb09895b7d1f305e483d59b6"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

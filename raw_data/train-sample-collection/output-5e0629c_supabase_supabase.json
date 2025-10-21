@@ -1,0 +1,76 @@
+{
+  "commit_index": "5e0629c",
+  "commit_url": "https://github.com/supabase/supabase/commit/5e0629cc09cca0a86f3003ee138a0d1762fc14db",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "local",
+      "version",
+      "popover",
+      "version",
+      "35375"
+    ],
+    "description": [],
+    "changed_files_count": 2,
+    "changed_files": [
+      "apps/studio/components/layouts/ProjectLayout/LayoutHeader/LocalVersionPopover.tsx",
+      "apps/studio/pages/api/cli-release-version.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "4a5e1a8bd4e6931e2b1590309d3863426ce84c52"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "local",
+        "version",
+        "popover",
+        "version",
+        "35375"
+      ],
+      "total_discussions": 1,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "contextnoticed",
+                "incorrectly",
+                "showing",
+                "update",
+                "available",
+                "version",
+                "seemingly",
+                "matchrealised",
+                "latestfromcli-release-version.tsendpoint",
+                "returned",
+                "gh",
+                "avprependedcurrentfrom",
+                "env",
+                "var",
+                "currently",
+                "doesntthis",
+                "lead",
+                "equality",
+                "check",
+                "mismatch",
+                "need",
+                "add",
+                "avtocurrentto",
+                "ensure",
+                "syntax",
+                "aligns"
+              ],
+              "author": "joshenlim"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

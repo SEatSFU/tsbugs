@@ -1,0 +1,183 @@
+{
+  "commit_index": "72bc65a",
+  "commit_url": "https://github.com/ReactiveX/rxjs/commit/72bc65ac3dcf8c658171597dd24628209fa552e7",
+  "commit": {
+    "commit_message": [
+      "test",
+      "audittime",
+      "fix",
+      "imperfect",
+      "test",
+      "5798"
+    ],
+    "description": [
+      "test",
+      "audittime",
+      "adjust",
+      "imperfect",
+      "test",
+      "case",
+      "test",
+      "audittime",
+      "refactor",
+      "fix",
+      "test"
+    ],
+    "changed_files_count": 1,
+    "changed_files": [
+      "spec/operators/auditTime-spec.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "43d17311a521234375146029aa5c4709cb221344"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "test",
+        "audittime",
+        "fix",
+        "imperfect",
+        "test",
+        "5798"
+      ],
+      "total_discussions": 2,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "description",
+                "fix",
+                "one",
+                "imperfectaudittimetests",
+                "could",
+                "mislead",
+                "theaudittimeactual",
+                "behavior.related",
+                "issue",
+                "exists",
+                "5730"
+              ],
+              "author": "benlesh"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "alexsherekin"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "title": [
+        "bug",
+        "audit",
+        "end",
+        "audit",
+        "period",
+        "emit",
+        "source",
+        "completes"
+      ],
+      "labels": [
+        "bug"
+      ],
+      "comments": [
+        {
+          "author": "benlesh",
+          "content": [
+            "would",
+            "expect",
+            "audit",
+            "source",
+            "close",
+            "duration",
+            "end",
+            "'d",
+            "get",
+            "last",
+            "value",
+            "captured",
+            "whatever",
+            "reason",
+            "decided",
+            "age",
+            "ago",
+            "ca",
+            "n't",
+            "imagine",
+            "source",
+            "completes",
+            "think",
+            "either",
+            "seen",
+            "value",
+            "wait",
+            "duration",
+            "end",
+            "emit",
+            "value",
+            "complete",
+            "result",
+            "immediately",
+            "emit",
+            "last",
+            "value",
+            "saw",
+            "complete",
+            "result",
+            "'m",
+            "inclined",
+            "say",
+            "1",
+            "make",
+            "sense",
+            "'s",
+            "also",
+            "behavior",
+            "throttle"
+          ]
+        },
+        {
+          "author": "alexsherekin",
+          "content": [
+            "1",
+            "seen",
+            "value",
+            "wait",
+            "duration",
+            "end",
+            "emit",
+            "value",
+            "complete",
+            "result",
+            "would",
+            "mean",
+            "never",
+            "emit",
+            "never",
+            "complete",
+            "duration",
+            "never",
+            "neither",
+            "emits",
+            "completes",
+            "desired",
+            "behavior"
+          ]
+        }
+      ]
+    }
+  ],
+  "security": null
+}

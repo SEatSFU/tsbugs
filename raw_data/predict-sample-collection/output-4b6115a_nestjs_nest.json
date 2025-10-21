@@ -1,0 +1,25 @@
+{
+  "commit_index": "4b6115a",
+  "commit_url": "https://github.com/nestjs/nest/commit/4b6115a92a6235374ccc2b47a7ecdd318467569b",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "microservices",
+      "server",
+      "send",
+      "drop",
+      "emitted",
+      "value"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      "packages/microservices/server/server.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "3c276c9821decdc184ee81852bfc3be4f879bc13"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

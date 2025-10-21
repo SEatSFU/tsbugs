@@ -1,0 +1,111 @@
+{
+  "commit_index": "cc53d4f",
+  "commit_url": "https://github.com/fabricjs/fabric.js/commit/cc53d4f87932cd80f9d4ac37ab5668c235379483",
+  "commit": {
+    "commit_message": [
+      "doc",
+      "perf",
+      "reorder",
+      "caching",
+      "condition",
+      "common",
+      "scenario",
+      "an\u2026"
+    ],
+    "description": [],
+    "changed_files_count": 6,
+    "changed_files": [
+      "CHANGELOG.md",
+      "src/shapes/ActiveSelection.ts",
+      "src/shapes/Group.ts",
+      "src/shapes/Image.ts",
+      "src/shapes/Object/Object.ts",
+      "src/shapes/Object/ObjectGeometry.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "682c7609efb22154de627e8d05dc72787125c5d0"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "doc",
+        "perf",
+        "reorder",
+        "caching",
+        "condition",
+        "common",
+        "scenario",
+        "doc",
+        "fixes.",
+        "10366"
+      ],
+      "total_discussions": 4,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "descriptionlikely",
+                "object",
+                "objectcaching",
+                "set",
+                "true.this",
+                "short",
+                "circuit",
+                "check",
+                "wo",
+                "n't",
+                "need",
+                "check",
+                "rest",
+                "conditions.in",
+                "action"
+              ],
+              "author": "asturur"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "open",
+                "branch",
+                "inweb",
+                "editor\u2022vs",
+                "code\u2022insiders"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 3,
+          "comments": [
+            {
+              "content": [
+                "build",
+                "stats"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 4,
+          "comments": [
+            {
+              "content": [
+                "coverage",
+                "mergingsmall-caching-correctionintomasterwill"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

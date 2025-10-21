@@ -1,0 +1,101 @@
+{
+  "commit_index": "2d5b637",
+  "commit_url": "https://github.com/ueberdosis/hocuspocus/commit/2d5b637832e7d0cfd01c588f88ed8fce5672e415",
+  "commit": {
+    "commit_message": [
+      "server",
+      "fix",
+      "memory",
+      "leak",
+      "websocket",
+      "disconnect"
+    ],
+    "description": [
+      "test",
+      "memory",
+      "leak",
+      "client",
+      "disconnect",
+      "oncreatedocument",
+      "fix",
+      "cleanup",
+      "connection",
+      "closed",
+      "oncreatedocument"
+    ],
+    "changed_files_count": 3,
+    "changed_files": [
+      "packages/server/src/Connection.ts",
+      "packages/server/src/Hocuspocus.ts",
+      "tests/server/onConnect.js"
+    ],
+    "changed_files_content": [],
+    "parent": "fac888f8325bc9bd5d10d550c53e73d57391e3bf"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "memory",
+        "leak",
+        "websocket",
+        "disconnect",
+        "beforeoncreatedocumenthooks",
+        "complete",
+        "205"
+      ],
+      "total_discussions": 2,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "close",
+                "204"
+              ],
+              "author": "hanspagel"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "issue",
+                "hocuspocus/server"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "title": [
+        "server",
+        "leak",
+        "memory",
+        "websocket",
+        "disconnect",
+        "oncreatedocument"
+      ],
+      "labels": [
+        "bug"
+      ],
+      "comments": [
+        {
+          "author": "tommoor",
+          "content": [
+            "description",
+            "provided"
+          ]
+        }
+      ]
+    }
+  ],
+  "security": null
+}

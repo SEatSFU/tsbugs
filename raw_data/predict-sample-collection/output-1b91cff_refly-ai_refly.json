@@ -1,0 +1,54 @@
+{
+  "commit_index": "1b91cff",
+  "commit_url": "https://github.com/refly-ai/refly/commit/1b91cff9c5df8b129f7018a4faac35c1c8ecbb72",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "api",
+      "simplify",
+      "syncstate",
+      "invokeskill",
+      "logging"
+    ],
+    "description": [
+      "updated",
+      "logging",
+      "canvassyncservice",
+      "include",
+      "version",
+      "information",
+      "transaction",
+      "id",
+      "better",
+      "traceability",
+      "enhanced",
+      "logging",
+      "skillinvokerservice",
+      "provide",
+      "detailed",
+      "input",
+      "result",
+      "information",
+      "skill",
+      "invocation",
+      "ensured",
+      "proper",
+      "handling",
+      "optional",
+      "property",
+      "array",
+      "check",
+      "service"
+    ],
+    "changed_files_count": 2,
+    "changed_files": [
+      "apps/api/src/modules/canvas-sync/canvas-sync.service.ts",
+      "apps/api/src/modules/skill/skill-invoker.service.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "166129bd7000da9aac5a02ae6d09d895163084c1"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

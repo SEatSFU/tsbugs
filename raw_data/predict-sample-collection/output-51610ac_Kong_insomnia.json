@@ -1,0 +1,159 @@
+{
+  "commit_index": "51610ac",
+  "commit_url": "https://github.com/Kong/insomnia/commit/51610ac6bcf815e9c96b966a8102b2d584335468",
+  "commit": {
+    "commit_message": [
+      "add",
+      "support",
+      "default",
+      "value",
+      "graphql",
+      "fix",
+      "2000",
+      "2001"
+    ],
+    "description": [],
+    "changed_files_count": 2,
+    "changed_files": [
+      "packages/insomnia-app/app/ui/components/graph-ql-explorer/graph-ql-explorer-field.js",
+      "packages/insomnia-app/app/ui/components/graph-ql-explorer/graph-ql-explorer-type.js"
+    ],
+    "changed_files_content": [],
+    "parent": "2f8b0b66021a9856d03969531581935d413cbe3d"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "add",
+        "support",
+        "default",
+        "value",
+        "graphql",
+        "fix",
+        "2000",
+        "2001"
+      ],
+      "total_discussions": 4,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "close",
+                "2000here",
+                "attempt",
+                "fix",
+                "missing",
+                "default",
+                "value",
+                "graphql"
+              ],
+              "author": "gschier"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "taking",
+                "crack",
+                "one",
+                "emerzh",
+                "since",
+                "ui",
+                "involved",
+                "change",
+                "post",
+                "screenshot",
+                "final",
+                "result"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 3,
+          "comments": [
+            {
+              "content": [
+                "course",
+                "....",
+                "look",
+                "like"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 4,
+          "comments": [
+            {
+              "content": [
+                "...",
+                "sorry",
+                "n't",
+                "saw",
+                "flow",
+                "issue",
+                "...",
+                "try",
+                "fix",
+                "hour"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "title": [
+        "feature",
+        "request",
+        "add",
+        "support",
+        "graphql",
+        "defaultvalues"
+      ],
+      "labels": [
+        "E-good-first-issue"
+      ],
+      "comments": [
+        {
+          "author": "eMerzh",
+          "content": [
+            "trying",
+            "browse",
+            "documentation",
+            "input",
+            "mutation",
+            "seems",
+            "insomnia",
+            "display",
+            "default",
+            "value",
+            "look",
+            "like",
+            "isglobal",
+            "boolean",
+            "false",
+            "would",
+            "great",
+            "could",
+            "displayed",
+            "least",
+            "code",
+            "pane",
+            "currently"
+          ]
+        }
+      ]
+    }
+  ],
+  "security": null
+}

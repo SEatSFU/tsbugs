@@ -1,0 +1,635 @@
+{
+  "commit_index": "e429094",
+  "commit_url": "https://github.com/testing-library/user-event/commit/e4290948650a6925f549f4ec35ff74b3e81a0c64",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "prevent",
+      "click",
+      "event",
+      "non-focusable",
+      "control",
+      "1130"
+    ],
+    "description": [],
+    "changed_files_count": 3,
+    "changed_files": [
+      "CONTRIBUTING.md",
+      "src/event/behavior/click.ts",
+      "tests/pointer/click.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "f681f7bbfe4938540d4f2504d32e7f45b3ab50b6"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "prevent",
+        "click",
+        "event",
+        "non-focusable",
+        "control",
+        "1130"
+      ],
+      "total_discussions": 5,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "resolve",
+                "1057",
+                "change",
+                "stop",
+                "click",
+                "event",
+                "forwarded",
+                "non-focusable",
+                "input",
+                "labels.why",
+                "currently",
+                "click",
+                "event",
+                "forwarded",
+                "input",
+                "label",
+                "expected",
+                "behavior",
+                "unless",
+                "input",
+                "disabled",
+                "hidden",
+                "otherwise",
+                "focusable",
+                "behavior",
+                "break",
+                "test",
+                "rely",
+                "clicking",
+                "label",
+                "disabled",
+                "inputs.how",
+                "function",
+                "call",
+                "forwarding",
+                "click",
+                "moved",
+                "inside",
+                "conditional",
+                "checking",
+                "control",
+                "focusable.checklist",
+                "n/a",
+                "documentationtestsready",
+                "mergedalso",
+                "updating",
+                "contribute",
+                "egghead",
+                "tutorial",
+                "link",
+                "contributing.md.based",
+                "nknapp'ssuggestion"
+              ],
+              "author": "ph-fritsche"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "pull",
+                "request",
+                "automatically",
+                "built",
+                "testable",
+                "incodesandbox",
+                "see",
+                "build",
+                "info",
+                "built",
+                "library",
+                "clickhereor",
+                "icon",
+                "next",
+                "commit",
+                "sha"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 3,
+          "comments": [
+            {
+              "content": [
+                "waiting",
+                "contributor",
+                "update",
+                "tl",
+                "team",
+                "approve",
+                "would",
+                "love",
+                "get",
+                "implemented",
+                "currently",
+                "blocking",
+                "u",
+                "using",
+                "14.x"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 4,
+          "comments": [
+            {
+              "content": [
+                "pr",
+                "included",
+                "version",
+                "14.6.1",
+                "release",
+                "available",
+                "yoursemantic-releasebot"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 5,
+          "comments": [
+            {
+              "content": [
+                "error",
+                "warning",
+                "instead",
+                "ignoring",
+                "click"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "title": [
+        "checkbox",
+        "checked",
+        "clicking",
+        "label",
+        "disabled",
+        "checkbox"
+      ],
+      "labels": [
+        "bug",
+        "released"
+      ],
+      "comments": [
+        {
+          "author": "JesseCheng77",
+          "content": [
+            "reproduction",
+            "example",
+            "http",
+            "//codesandbox.io/s/sparkling-sky-5g3t2j",
+            "file=/src/app.test.js",
+            "prerequisite",
+            "render",
+            "label",
+            "input",
+            "type=",
+            "checkbox",
+            "disabled",
+            "disabled",
+            "checkbox",
+            "/label",
+            "click",
+            "label",
+            "element",
+            "expected",
+            "behavior",
+            "checkbox",
+            "checked",
+            "actual",
+            "behavior",
+            "checkbox",
+            "checked",
+            "user-event",
+            "version",
+            "14.4.3",
+            "environment",
+            "testing",
+            "library",
+            "framework",
+            "j",
+            "framework",
+            "test",
+            "environment",
+            "dom",
+            "implementation",
+            "additional",
+            "context",
+            "response"
+          ]
+        },
+        {
+          "author": "bradlocking",
+          "content": [
+            "also",
+            "able",
+            "replicate",
+            "using",
+            "v14.3.3",
+            "working",
+            "example",
+            "http",
+            "//codesandbox.io/s/sleepy-jerry-jw0gss",
+            "file=/src/app.test.tsx",
+            "test",
+            "passing",
+            "selecting",
+            "text",
+            "input",
+            "text",
+            "input",
+            "label",
+            "hitting",
+            "checkbox",
+            "directly",
+            "'s",
+            "isolated",
+            "label",
+            "checkbox",
+            "input"
+          ]
+        },
+        {
+          "author": "shdq",
+          "content": [
+            "hey",
+            "confirm",
+            "problem",
+            "testing-library/user-event",
+            "^14.4.3",
+            "test",
+            "sample",
+            "typescript",
+            "const",
+            "user",
+            "userevent.setup",
+            "test",
+            "unchecked",
+            "click",
+            "disabled",
+            "label",
+            "async",
+            "//",
+            "arrange",
+            "render",
+            "checkbox",
+            "disabled",
+            "label=",
+            "label",
+            "const",
+            "label",
+            "screen.getbytext",
+            "label",
+            "const",
+            "checkbox",
+            "screen.getbylabeltext",
+            "label",
+            "//",
+            "act",
+            "assert",
+            "expect",
+            "checkbox",
+            ".not.tobechecked",
+            "await",
+            "user.click",
+            "label",
+            "expect",
+            "checkbox",
+            ".not.tobechecked",
+            "//",
+            "fails",
+            "line",
+            "..."
+          ]
+        },
+        {
+          "author": "mt144",
+          "content": [
+            "hi",
+            "got",
+            "issue",
+            "radio",
+            "testing-library/user-event",
+            "^14.4.3"
+          ]
+        },
+        {
+          "author": "nknapp",
+          "content": [
+            "similar",
+            "example",
+            "plain",
+            "jsdom",
+            "http",
+            "//stackblitz.com/edit/vitest-dev-vitest-azkvzh",
+            "file=test/basic.test.ts",
+            "naive",
+            "point",
+            "view",
+            "would",
+            "say",
+            "line",
+            "12",
+            "13",
+            "click.ts",
+            "http",
+            "//github.com/testing-library/user-event/blob/main/src/event/behavior/click.ts",
+            "l12-l13",
+            "swapped",
+            "click",
+            "dispatched",
+            "control",
+            "successfully",
+            "focused"
+          ]
+        },
+        {
+          "author": "alexander-xyz",
+          "content": [
+            "problem",
+            "upgraded",
+            "last",
+            "version",
+            "14.4.3",
+            "13.5.0",
+            "13.5.0",
+            "work",
+            "expected",
+            "fix",
+            "please"
+          ]
+        },
+        {
+          "author": "sean6bucks",
+          "content": [
+            "downgrade",
+            "13.5.0",
+            "unblock",
+            "test",
+            "instead",
+            "using",
+            "fireevent",
+            "work",
+            "would",
+            "love",
+            "posted",
+            "mr",
+            "fix",
+            "could",
+            "get",
+            "love"
+          ]
+        }
+      ]
+    },
+    {
+      "title": [
+        "checkbox",
+        "checked",
+        "clicking",
+        "label",
+        "disabled",
+        "checkbox"
+      ],
+      "labels": [
+        "bug",
+        "released"
+      ],
+      "comments": [
+        {
+          "author": "JesseCheng77",
+          "content": [
+            "reproduction",
+            "example",
+            "http",
+            "//codesandbox.io/s/sparkling-sky-5g3t2j",
+            "file=/src/app.test.js",
+            "prerequisite",
+            "render",
+            "label",
+            "input",
+            "type=",
+            "checkbox",
+            "disabled",
+            "disabled",
+            "checkbox",
+            "/label",
+            "click",
+            "label",
+            "element",
+            "expected",
+            "behavior",
+            "checkbox",
+            "checked",
+            "actual",
+            "behavior",
+            "checkbox",
+            "checked",
+            "user-event",
+            "version",
+            "14.4.3",
+            "environment",
+            "testing",
+            "library",
+            "framework",
+            "j",
+            "framework",
+            "test",
+            "environment",
+            "dom",
+            "implementation",
+            "additional",
+            "context",
+            "response"
+          ]
+        },
+        {
+          "author": "bradlocking",
+          "content": [
+            "also",
+            "able",
+            "replicate",
+            "using",
+            "v14.3.3",
+            "working",
+            "example",
+            "http",
+            "//codesandbox.io/s/sleepy-jerry-jw0gss",
+            "file=/src/app.test.tsx",
+            "test",
+            "passing",
+            "selecting",
+            "text",
+            "input",
+            "text",
+            "input",
+            "label",
+            "hitting",
+            "checkbox",
+            "directly",
+            "'s",
+            "isolated",
+            "label",
+            "checkbox",
+            "input"
+          ]
+        },
+        {
+          "author": "shdq",
+          "content": [
+            "hey",
+            "confirm",
+            "problem",
+            "testing-library/user-event",
+            "^14.4.3",
+            "test",
+            "sample",
+            "typescript",
+            "const",
+            "user",
+            "userevent.setup",
+            "test",
+            "unchecked",
+            "click",
+            "disabled",
+            "label",
+            "async",
+            "//",
+            "arrange",
+            "render",
+            "checkbox",
+            "disabled",
+            "label=",
+            "label",
+            "const",
+            "label",
+            "screen.getbytext",
+            "label",
+            "const",
+            "checkbox",
+            "screen.getbylabeltext",
+            "label",
+            "//",
+            "act",
+            "assert",
+            "expect",
+            "checkbox",
+            ".not.tobechecked",
+            "await",
+            "user.click",
+            "label",
+            "expect",
+            "checkbox",
+            ".not.tobechecked",
+            "//",
+            "fails",
+            "line",
+            "..."
+          ]
+        },
+        {
+          "author": "mt144",
+          "content": [
+            "hi",
+            "got",
+            "issue",
+            "radio",
+            "testing-library/user-event",
+            "^14.4.3"
+          ]
+        },
+        {
+          "author": "nknapp",
+          "content": [
+            "similar",
+            "example",
+            "plain",
+            "jsdom",
+            "http",
+            "//stackblitz.com/edit/vitest-dev-vitest-azkvzh",
+            "file=test/basic.test.ts",
+            "naive",
+            "point",
+            "view",
+            "would",
+            "say",
+            "line",
+            "12",
+            "13",
+            "click.ts",
+            "http",
+            "//github.com/testing-library/user-event/blob/main/src/event/behavior/click.ts",
+            "l12-l13",
+            "swapped",
+            "click",
+            "dispatched",
+            "control",
+            "successfully",
+            "focused"
+          ]
+        },
+        {
+          "author": "alexander-xyz",
+          "content": [
+            "problem",
+            "upgraded",
+            "last",
+            "version",
+            "14.4.3",
+            "13.5.0",
+            "13.5.0",
+            "work",
+            "expected",
+            "fix",
+            "please"
+          ]
+        },
+        {
+          "author": "sean6bucks",
+          "content": [
+            "downgrade",
+            "13.5.0",
+            "unblock",
+            "test",
+            "instead",
+            "using",
+            "fireevent",
+            "work",
+            "would",
+            "love",
+            "posted",
+            "mr",
+            "fix",
+            "could",
+            "get",
+            "love"
+          ]
+        }
+      ]
+    }
+  ],
+  "security": null
+}

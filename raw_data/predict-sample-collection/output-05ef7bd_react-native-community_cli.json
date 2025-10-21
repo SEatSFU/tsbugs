@@ -1,0 +1,208 @@
+{
+  "commit_index": "05ef7bd",
+  "commit_url": "https://github.com/react-native-community/cli/commit/05ef7bd6b0c4cadfe23f48cd38ff4c2d19c8eb1f",
+  "commit": {
+    "commit_message": [
+      "doctor",
+      "fix",
+      "window",
+      "issue",
+      "675"
+    ],
+    "description": [
+      "doctor",
+      "n't",
+      "check",
+      "watchman",
+      "window",
+      "doctor",
+      "handle",
+      "android",
+      "sdk",
+      "installed",
+      "doctor",
+      "fix",
+      "android",
+      "sdk",
+      "check",
+      "working",
+      "window",
+      "doctor",
+      "improve",
+      "manual",
+      "fix",
+      "message",
+      "android",
+      "sdk",
+      "change",
+      "style",
+      "android_sdk",
+      "check",
+      "reject",
+      "change",
+      "use",
+      "execa",
+      "instead",
+      "exec"
+    ],
+    "changed_files_count": 2,
+    "changed_files": [
+      "packages/cli/src/commands/doctor/healthchecks/androidSDK.js",
+      "packages/cli/src/commands/doctor/healthchecks/index.js"
+    ],
+    "changed_files_content": [],
+    "parent": "5ed671f8be68be37bfa8a1490ad05fb3f88ca572"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "doctor/windows",
+        "675"
+      ],
+      "total_discussions": 2,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "summary",
+                "fix",
+                "multiple",
+                "issue",
+                "window",
+                "crashing",
+                "checking",
+                "android",
+                "sdks",
+                "android",
+                "sdks",
+                "installed.it",
+                "checking",
+                "watchman",
+                "part",
+                "install",
+                "guide",
+                "windows.there",
+                "bug",
+                "envinfo",
+                "get",
+                "android",
+                "studio",
+                "info",
+                "correctly",
+                "fix",
+                "android",
+                "sdk",
+                "info",
+                "working",
+                "windowstabrindle/envinfo",
+                "119",
+                "workaround",
+                "fixed.test",
+                "plan",
+                "rundoctoron",
+                "window",
+                "machine",
+                "android",
+                "sdks",
+                "installed",
+                "see",
+                "1",
+                "install",
+                "android",
+                "sdks",
+                "see",
+                "still",
+                "showing",
+                "error"
+              ],
+              "author": "thymikee"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "changed",
+                "reject",
+                "failure",
+                "set",
+                "sdks",
+                "'not",
+                "found",
+                "catch",
+                "'s",
+                "one",
+                "place",
+                "better",
+                "n't",
+                "think",
+                "makesdksundefined",
+                "goal",
+                "fix",
+                "output",
+                "broken",
+                "call",
+                "envinfo",
+                "'s",
+                "fixed",
+                "block",
+                "removed",
+                "envinfo",
+                "set",
+                "'not",
+                "found",
+                "replicate"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "title": [
+        "release",
+        "checklist"
+      ],
+      "labels": [],
+      "comments": [
+        {
+          "author": "grabbou",
+          "content": [
+            "using",
+            "issue",
+            "keep",
+            "track",
+            "different",
+            "thing",
+            "happen",
+            "order",
+            "ship",
+            "note",
+            "list",
+            "definitive",
+            "expect",
+            "position",
+            "added",
+            "time",
+            "work",
+            "new",
+            "file",
+            "structure",
+            "possibly",
+            "yarn",
+            "workspace",
+            "..."
+          ]
+        }
+      ]
+    }
+  ],
+  "security": null
+}

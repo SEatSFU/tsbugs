@@ -1,0 +1,101 @@
+{
+  "commit_index": "999f6e1",
+  "commit_url": "https://github.com/fabricjs/fabric.js/commit/999f6e13c7863894ff9ad2291278dfabbb76154c",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "t",
+      "type",
+      "fix",
+      "improved",
+      "jsdocs",
+      "9978"
+    ],
+    "description": [],
+    "changed_files_count": 7,
+    "changed_files": [
+      "CHANGELOG.md",
+      "package-lock.json",
+      "package.json",
+      "src/Observable.ts",
+      "src/shapes/Object/Object.ts",
+      "src/shapes/Text/Text.ts",
+      "src/util/misc/objectEnlive.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "106d50828a564d329f89e7d7e1cad58d1a0a3fca"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "t",
+        "type",
+        "fix",
+        "improved",
+        "jsdocs.",
+        "9978"
+      ],
+      "total_discussions": 4,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "descriptionclarify",
+                "fontweight",
+                "numberclarify",
+                "event",
+                "name",
+                "possible",
+                "bad.in",
+                "action"
+              ],
+              "author": "asturur"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "open",
+                "branch",
+                "inweb",
+                "editor\u2022vs",
+                "code\u2022insiders"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 3,
+          "comments": [
+            {
+              "content": [
+                "build",
+                "stats"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 4,
+          "comments": [
+            {
+              "content": [
+                "coverage",
+                "mergingfontweight-typeintomasterwill"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

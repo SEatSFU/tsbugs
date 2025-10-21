@@ -1,0 +1,22 @@
+{
+  "commit_index": "38b9b3c",
+  "commit_url": "https://github.com/microsoft/vscode/commit/38b9b3c6d2252d07e761090b0f6515d25e3d6816",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "regex",
+      "test"
+    ],
+    "description": [],
+    "changed_files_count": 2,
+    "changed_files": [
+      "src/vs/workbench/contrib/terminalContrib/chatAgentTools/browser/runInTerminalTool.ts",
+      "src/vs/workbench/contrib/terminalContrib/chatAgentTools/test/browser/runInTerminalTool.test.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "5ff88c2b6556072baaabe88f5294567b7b667245"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

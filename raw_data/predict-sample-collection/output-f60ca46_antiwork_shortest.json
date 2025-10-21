@@ -1,0 +1,22 @@
+{
+  "commit_index": "f60ca46",
+  "commit_url": "https://github.com/antiwork/shortest/commit/f60ca46226936a7ba4bf41798e6d3f93d9fb296d",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "export",
+      "shortest",
+      "config"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      "packages/shortest/index.d.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "f5e6f0824d661e9c1b3ce8669f68d6b8002d8739"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

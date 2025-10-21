@@ -1,0 +1,24 @@
+{
+  "commit_index": "3bb10ef",
+  "commit_url": "https://github.com/sadmann7/shadcn-table/commit/3bb10ef1bfaa33401c82a3fd746df6c1b06badb9",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "deps",
+      "update",
+      "dependency",
+      "zod",
+      "v3.23.7"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      "pnpm-lock.yaml"
+    ],
+    "changed_files_content": [],
+    "parent": "bada33c0196e2f666f007daa90655697f7207ad8"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

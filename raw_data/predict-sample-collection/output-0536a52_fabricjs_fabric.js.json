@@ -1,0 +1,204 @@
+{
+  "commit_index": "0536a52",
+  "commit_url": "https://github.com/fabricjs/fabric.js/commit/0536a527608215dcbb2540391bf61d75f31c47f6",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "align-guidelines",
+      "remove",
+      "unused",
+      "code",
+      "parameter",
+      "10056"
+    ],
+    "description": [],
+    "changed_files_count": 5,
+    "changed_files": [
+      "CHANGELOG.md",
+      "extensions/aligning_guidelines/README.MD",
+      "extensions/aligning_guidelines/constant.ts",
+      "extensions/aligning_guidelines/typedefs.ts",
+      "extensions/aligning_guidelines/util/make.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "4dd0ef7a674f2a15d72d37f8dcb74f917b4b5659"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "update",
+        "align-guidelines",
+        "remove",
+        "offset",
+        "line",
+        "10056"
+      ],
+      "total_discussions": 4,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "new",
+                "version",
+                "endpoint",
+                "us",
+                "x",
+                "instead",
+                "extending",
+                "line",
+                "like",
+                "old",
+                "version",
+                "old",
+                "'offset",
+                "parameter",
+                "removed"
+              ],
+              "author": "asturur"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "open",
+                "branch",
+                "inweb",
+                "editor\u2022vs",
+                "code\u2022insidersopenpreview"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 3,
+          "comments": [
+            {
+              "content": [
+                "hi",
+                "zhe-he",
+                "hope",
+                "'re",
+                "well",
+                "\u2019",
+                "find",
+                "email",
+                "\u2019",
+                "reaching",
+                "instead",
+                "first",
+                "want",
+                "say",
+                "work",
+                "aligning",
+                "guideline",
+                "plugin",
+                "fabric.js\u2014it",
+                "'s",
+                "awesome",
+                "addition",
+                "really",
+                "appreciate",
+                "effort",
+                "\u2019",
+                "put",
+                "noticed",
+                "plugin",
+                "currently",
+                "support",
+                "fabric.js",
+                "v6",
+                "people",
+                "community",
+                "90",
+                "included",
+                "still",
+                "using",
+                "v5",
+                "since",
+                "v6",
+                "still",
+                "new",
+                "lot",
+                "u",
+                "would",
+                "love",
+                "version",
+                "work",
+                "v5",
+                "would",
+                "open",
+                "maybe",
+                "releasing",
+                "v5",
+                "version",
+                "think",
+                "would",
+                "super",
+                "helpful",
+                "many",
+                "developer",
+                "looking",
+                "forward",
+                "hearing",
+                "thought"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 4,
+          "comments": [
+            {
+              "content": [
+                "code-axionversion",
+                "5",
+                "already",
+                "version",
+                "alignment",
+                "line",
+                "time",
+                "considering",
+                "adding",
+                "feature",
+                "fix",
+                "made",
+                "older",
+                "version.i",
+                "checked",
+                "npm",
+                "download",
+                "statistic",
+                "past",
+                "two",
+                "month",
+                "version",
+                "6",
+                "downloaded",
+                "49k",
+                "time",
+                "version",
+                "5",
+                "downloaded",
+                "28k",
+                "times.my",
+                "email",
+                "iszhe-he",
+                "qq.com",
+                "see",
+                "homepage"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

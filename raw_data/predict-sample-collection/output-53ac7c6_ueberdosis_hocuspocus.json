@@ -1,0 +1,22 @@
+{
+  "commit_index": "53ac7c6",
+  "commit_url": "https://github.com/ueberdosis/hocuspocus/commit/53ac7c6db6c5da6b2b4bf98f8f413cd2fb24915d",
+  "commit": {
+    "commit_message": [
+      "dashboard",
+      "fix",
+      "parcel",
+      "build"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      "packages/monitor/dashboard/.htmlnanorc"
+    ],
+    "changed_files_content": [],
+    "parent": "708d68a2ba7ffac7dd1bc4469efe2ccd74867583"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

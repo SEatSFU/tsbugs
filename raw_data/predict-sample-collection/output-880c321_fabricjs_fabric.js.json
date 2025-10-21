@@ -1,0 +1,180 @@
+{
+  "commit_index": "880c321",
+  "commit_url": "https://github.com/fabricjs/fabric.js/commit/880c321446961f96f506ebdef1d468221d278df8",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "object",
+      "caching",
+      "over-invalidating",
+      "cache",
+      "10294"
+    ],
+    "description": [],
+    "changed_files_count": 2,
+    "changed_files": [
+      "CHANGELOG.md",
+      "src/shapes/Object/Object.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "c92531a769d7a0ab61366e5688c8431b3d6bdafa"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "object",
+        "caching",
+        "over-invalidating",
+        "cache",
+        "10294"
+      ],
+      "total_discussions": 4,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "descriptionworking",
+                "demo",
+                "website",
+                "noticed",
+                "demo",
+                "rotating",
+                "tiger",
+                "extremely",
+                "choppy.i",
+                "debugged",
+                "cache",
+                "always",
+                "invalidated.the",
+                "culprit",
+                "line",
+                "http",
+                "//github.com/fabricjs/fabric.js/pull/10294/files",
+                "diff-4be7e8bea1e16b55606e7a9b175fc2a6e2e6290a82f3aec65b39425510ca73a6l488the",
+                "cache",
+                "canvas",
+                "always",
+                "integer",
+                "cache",
+                "width/height",
+                "could",
+                "number.on",
+                "top",
+                "scaling",
+                "cache",
+                "optimization",
+                "adding",
+                "extra",
+                "pixel",
+                "canvas",
+                "making",
+                "size",
+                "needed",
+                "canvas",
+                "always",
+                "different",
+                "actual",
+                "size",
+                "assigning",
+                "happening",
+                "every",
+                "object",
+                "n't",
+                "integer",
+                "size",
+                "integer",
+                "sized",
+                "object",
+                "scaled.unless",
+                "seeing",
+                "something",
+                "wrong",
+                "cache",
+                "broken",
+                "long",
+                "time.in",
+                "action"
+              ],
+              "author": "asturur"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "open",
+                "branch",
+                "inweb",
+                "editor\u2022vs",
+                "code\u2022insiders"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 3,
+          "comments": [
+            {
+              "content": [
+                "build",
+                "stats"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 4,
+          "comments": [
+            {
+              "content": [
+                "checked",
+                "code",
+                "best",
+                "ability",
+                "bit",
+                "confused",
+                "caching",
+                "broken",
+                "3+",
+                "year",
+                "n't",
+                "notice",
+                "drawing",
+                "time",
+                "hopefully",
+                "n't",
+                "break",
+                "anything",
+                "ca",
+                "n't",
+                "find",
+                "anything",
+                "broken.now",
+                "scale",
+                "object",
+                "invalidate",
+                "cache",
+                "step",
+                "10",
+                "time",
+                "rule",
+                "invalidate",
+                "cache",
+                "still",
+                "apply"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

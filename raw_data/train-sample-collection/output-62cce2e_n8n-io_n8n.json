@@ -1,0 +1,100 @@
+{
+  "commit_index": "62cce2e",
+  "commit_url": "https://github.com/n8n-io/n8n/commit/62cce2e518451f6057e316208828539f26868c18",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "run",
+      "every",
+      "db",
+      "migration",
+      "inside",
+      "transaction",
+      "5129"
+    ],
+    "description": [
+      "always",
+      "db",
+      "migration",
+      "transaction",
+      "vacuum",
+      "n't",
+      "allowed",
+      "inside",
+      "transaction",
+      "pragma",
+      "foreign_keys",
+      "automatically",
+      "toggled",
+      "every",
+      "migration"
+    ],
+    "changed_files_count": 5,
+    "changed_files": [
+      "packages/cli/src/Db.ts",
+      "packages/cli/src/databases/migrations/sqlite/1621707690587-AddWaitColumn.ts",
+      "packages/cli/src/databases/migrations/sqlite/1652367743993-AddUserSettings.ts",
+      "packages/cli/src/databases/migrations/sqlite/1652905585850-AddAPIKeyColumn.ts",
+      "packages/cli/src/databases/migrations/sqlite/1673268682475-DeleteExecutionsWithWorkflows.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "a573db2ef78024a4254ff0f468dc47b12148aa28"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "run",
+        "every",
+        "db",
+        "migration",
+        "inside",
+        "transaction",
+        "5129"
+      ],
+      "total_discussions": 3,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "n8n-5953"
+              ],
+              "author": "netroy"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "postgres",
+                "mysql",
+                "test",
+                "runninghere"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 3,
+          "comments": [
+            {
+              "content": [
+                "got",
+                "released",
+                "withn8n",
+                "0.211.0"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

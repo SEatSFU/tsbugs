@@ -1,0 +1,619 @@
+{
+  "commit_index": "f23fb92",
+  "commit_url": "https://github.com/n8n-io/n8n/commit/f23fb9269660721aadd34cbb5bb958d7aaf0bcb2",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "core",
+      "stop",
+      "copying",
+      "icon",
+      "cache",
+      "5419"
+    ],
+    "description": [
+      "fix",
+      "4973",
+      "5274",
+      "http",
+      "//community.n8n.io/t/starting-n8n-fails-with-ebusy-error/21243",
+      "http",
+      "//community.n8n.io/t/problem-executing-workflow-ebusy-resource-busy-or-locked-copyfile/21280",
+      "replaces",
+      "5052",
+      "5401"
+    ],
+    "changed_files_count": 6,
+    "changed_files": [
+      "packages/cli/src/LoadNodesAndCredentials.ts",
+      "packages/cli/src/NodeTypes.ts",
+      "packages/cli/src/Server.ts",
+      "packages/core/bin/generate-ui-types",
+      "packages/core/src/DirectoryLoader.ts",
+      "packages/workflow/src/NodeHelpers.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "1f924e3c3d7bdb4ac080f807f1c74a3549232857"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "cli",
+        "fix",
+        "permission",
+        "error",
+        "copying",
+        "node",
+        "icon",
+        "5052"
+      ],
+      "total_discussions": 4,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "n't",
+                "copy",
+                "duplicate",
+                "icon",
+                "avoid",
+                "deal",
+                "racesensure",
+                "icon",
+                "writable",
+                "next",
+                "time",
+                "want",
+                "overwrite",
+                "themfixes",
+                "4973"
+              ],
+              "author": "K900"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "committers",
+                "signed",
+                "cla"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 3,
+          "comments": [
+            {
+              "content": [
+                "pr",
+                "instead",
+                "removed",
+                "code",
+                "causing",
+                "issue",
+                "change",
+                "n't",
+                "needed",
+                "anymore"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 4,
+          "comments": [
+            {
+              "content": [
+                "work"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pr_title": [
+        "fix",
+        "handle",
+        "exception",
+        "copying",
+        "icon",
+        "cache",
+        "5401"
+      ],
+      "total_discussions": 3,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "unhandled",
+                "exception",
+                "copying",
+                "icon",
+                "file",
+                "cache",
+                "introduced",
+                "4865causes",
+                "workflow",
+                "run",
+                "handle",
+                "copy-file",
+                "exception",
+                "logger",
+                "workflow",
+                "continue",
+                "uninterrupted.github",
+                "issue",
+                "community",
+                "forum",
+                "post",
+                "link",
+                "close",
+                "automatically",
+                "forum",
+                "discussion",
+                "http",
+                "//community.n8n.io/t/n8n-webhook-empty/22279resolves",
+                "5274"
+              ],
+              "author": "MajesticPotatoe"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "committers",
+                "signed",
+                "cla"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 3,
+          "comments": [
+            {
+              "content": [
+                "pr",
+                "instead",
+                "removed",
+                "code",
+                "causing",
+                "issue",
+                "change",
+                "n't",
+                "needed",
+                "anymore"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pr_title": [
+        "fix",
+        "core",
+        "stop",
+        "copying",
+        "icon",
+        "cache",
+        "5419"
+      ],
+      "total_discussions": 2,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "fixescopying",
+                "icon",
+                "fails",
+                "second",
+                "run",
+                "source",
+                "directory",
+                "read-only",
+                "4973",
+                "0.204.0",
+                "ebusy",
+                "error",
+                "cache",
+                "5274https",
+                "//community.n8n.io/t/starting-n8n-fails-with-ebusy-error/21243https",
+                "//community.n8n.io/t/problem-executing-workflow-ebusy-resource-busy-or-locked-copyfile/21280replacesfix",
+                "cli",
+                "fix",
+                "permission",
+                "error",
+                "copying",
+                "node",
+                "icon",
+                "5052fix",
+                "handle",
+                "exception",
+                "copying",
+                "icon",
+                "cache",
+                "5401"
+              ],
+              "author": "netroy"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "got",
+                "released",
+                "withn8n",
+                "0.215.0"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "title": [
+        "0.204.0",
+        "ebusy",
+        "error",
+        "cache"
+      ],
+      "labels": [],
+      "comments": [
+        {
+          "author": "lublak",
+          "content": [
+            "describe",
+            "bug",
+            "since",
+            "version",
+            "0.204.0",
+            "lot",
+            "problem",
+            "ebusy",
+            "cache",
+            "lazy",
+            "loading",
+            "implementation",
+            "based",
+            "http",
+            "//community.n8n.io/t/n8n-webhook-empty/22279/9",
+            "__type",
+            "eventmessageworkflow",
+            "id",
+            "7df56903-962c-47c9-8a77-c5ac9e3955d6",
+            "t",
+            "2023-01-27t15:14:28.515+01:00",
+            "eventname",
+            "n8n.workflow.started",
+            "message",
+            "n8n.workflow.started",
+            "payload",
+            "executionid",
+            "4",
+            "userid",
+            "4f10ffaf-1caf-40e9-9a88-8b692f368904",
+            "workflowid",
+            "1",
+            "ismanual",
+            "false",
+            "workflowname",
+            "workflow",
+            "__type",
+            "eventmessageconfirm",
+            "confirm",
+            "7df56903-962c-47c9-8a77-c5ac9e3955d6",
+            "t",
+            "2023-01-27t15:14:28.515+01:00",
+            "source",
+            "id",
+            "0",
+            "name",
+            "eventbus",
+            "__type",
+            "eventmessageworkflow",
+            "id",
+            "309ed921-db1f-41f7-a2b6-1e932e265bd6",
+            "t",
+            "2023-01-27t15:14:30.957+01:00",
+            "eventname",
+            "n8n.workflow.failed",
+            "message",
+            "n8n.workflow.failed",
+            "payload",
+            "executionid",
+            "4",
+            "success",
+            "false",
+            "userid",
+            "4f10ffaf-1caf-40e9-9a88-8b692f368904",
+            "workflowid",
+            "1",
+            "errormessage",
+            "ebusy",
+            "resource",
+            "busy",
+            "locked",
+            "copyfile",
+            "c",
+            "\\\\",
+            "programdata",
+            "\\\\",
+            "npm",
+            "\\\\",
+            "npm",
+            "\\\\",
+            "node_modules",
+            "\\\\",
+            "n8n",
+            "\\\\",
+            "node_modules",
+            "\\\\",
+            "n8n-nodes-base",
+            "\\\\",
+            "dist",
+            "\\\\",
+            "node",
+            "\\\\",
+            "google",
+            "\\\\",
+            "sheet",
+            "\\\\",
+            "googlesheets.svg",
+            "c",
+            "\\\\",
+            "user",
+            "\\\\",
+            "testadmin",
+            "\\\\",
+            ".cache",
+            "\\\\",
+            "n8n",
+            "\\\\",
+            "public",
+            "\\\\",
+            "icon",
+            "\\\\",
+            "node",
+            "\\\\",
+            "n8n-nodes-base.googlesheets.svg",
+            "ismanual",
+            "false",
+            "workflowname",
+            "workflow",
+            "__type",
+            "eventmessageconfirm",
+            "confirm",
+            "309ed921-db1f-41f7-a2b6-1e932e265bd6",
+            "t",
+            "2023-01-27t15:14:30.958+01:00",
+            "source",
+            "id",
+            "0",
+            "name",
+            "eventbus",
+            "reproduce",
+            "install",
+            "n8n",
+            "via",
+            "npm",
+            "window",
+            "expected",
+            "behavior",
+            "error",
+            "environment",
+            "please",
+            "complete",
+            "following",
+            "information",
+            "o",
+            "window",
+            "server",
+            "2016",
+            "n8n",
+            "version",
+            "0.212.1",
+            "node.js",
+            "version",
+            "v16.15.0",
+            "database",
+            "system",
+            "postgres",
+            "operation",
+            "mode"
+          ]
+        },
+        {
+          "author": "MajesticPotatoe",
+          "content": [
+            "guess",
+            "probably",
+            "something",
+            "caused",
+            "4865",
+            "specifically",
+            "http",
+            "//github.com/n8n-io/n8n/blob/9efcf19082413e3a886144e4c178f80f5e24ee27/packages/cli/src/loadnodesandcredentials.ts",
+            "l412"
+          ]
+        },
+        {
+          "author": "Joffcom",
+          "content": [
+            "hey",
+            "lublak",
+            "resolved",
+            "0.215.0",
+            "going",
+            "het",
+            "one",
+            "marked",
+            "closed",
+            "still",
+            "seeing",
+            "issue",
+            "open"
+          ]
+        }
+      ]
+    },
+    {
+      "title": [
+        "copying",
+        "icon",
+        "fails",
+        "second",
+        "run",
+        "source",
+        "directory",
+        "read-only"
+      ],
+      "labels": [],
+      "comments": [
+        {
+          "author": "K900",
+          "content": [
+            "describe",
+            "bug",
+            "node_modules",
+            "directory",
+            "read-only",
+            "icon",
+            "copying",
+            "code",
+            "also",
+            "copy",
+            "icon",
+            "file",
+            "read-only",
+            "fail",
+            "overwrite",
+            "next",
+            "startup",
+            "reproduce",
+            "step",
+            "reproduce",
+            "behavior",
+            "chmod",
+            "-r",
+            "-w",
+            "node_modules",
+            "run",
+            "n8n",
+            "stop",
+            "n8n",
+            "run",
+            "n8n",
+            "expected",
+            "behavior",
+            "n8n",
+            "start",
+            "correctly",
+            "environment",
+            "please",
+            "complete",
+            "following",
+            "information",
+            "o",
+            "e.g",
+            "ubuntu",
+            "linux",
+            "22.04",
+            "nixos",
+            "unstable",
+            "n8n",
+            "version",
+            "e.g",
+            "0.200.1",
+            "0.208.1",
+            "node.js",
+            "version",
+            "e.g",
+            "16.17.0",
+            "16.18.1",
+            "database",
+            "system",
+            "e.g",
+            "sqlite",
+            "n8n",
+            "us",
+            "sqlite",
+            "default",
+            "otherwise",
+            "changed",
+            "sqlite",
+            "operation",
+            "mode",
+            "e.g",
+            "operation",
+            "mode",
+            "main",
+            "queue",
+            "default",
+            "additional",
+            "context",
+            "nixos",
+            "packaging",
+            "model",
+            "requires",
+            "thing",
+            "read",
+            "currently",
+            "ca",
+            "n't",
+            "update",
+            "n8n",
+            "version",
+            "added",
+            "icon",
+            "copying",
+            "code"
+          ]
+        },
+        {
+          "author": "Joffcom",
+          "content": [
+            "hey",
+            "k900",
+            "look",
+            "like",
+            "resolved",
+            "going",
+            "mark",
+            "closed",
+            "still",
+            "seeing",
+            "issue",
+            "let",
+            "know",
+            "look"
+          ]
+        }
+      ]
+    }
+  ],
+  "security": null
+}

@@ -1,0 +1,26 @@
+{
+  "commit_index": "4ce246e",
+  "commit_url": "https://github.com/antiwork/shortest/commit/4ce246e9d01324aea775c2607e84fcbaf93eba10",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "hook"
+    ],
+    "description": [],
+    "changed_files_count": 7,
+    "changed_files": [
+      "app/__tests__/home.test.ts",
+      "app/__tests__/login.test.ts",
+      "packages/shortest/src/core/builder/index.ts",
+      "packages/shortest/src/core/runner/index.ts",
+      "packages/shortest/src/index.ts",
+      "packages/shortest/src/utils/logger.ts",
+      "shortest.config.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "3d4640ab9d238bebfabe9e70a4db491d66f61f9f"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

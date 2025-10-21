@@ -1,0 +1,113 @@
+{
+  "commit_index": "074e742",
+  "commit_url": "https://github.com/react-native-community/cli/commit/074e742aa23985f1d499cb856052f8da91bdce41",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "better",
+      "package",
+      "class",
+      "name",
+      "regex",
+      "android",
+      "525"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      "packages/platform-android/src/config/findPackageClassName.js"
+    ],
+    "changed_files_content": [],
+    "parent": "2fe51156cf27fd71212db32eec0ee6122c1c49f3"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "better",
+        "package",
+        "class",
+        "name",
+        "regex",
+        "android",
+        "525"
+      ],
+      "total_discussions": 1,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "summary",
+                "regex",
+                "used",
+                "finding",
+                "class",
+                "name",
+                "reactpackage",
+                "n't",
+                "support",
+                "custom",
+                "formatting",
+                "implementation",
+                "one",
+                "interfacecurrent",
+                "regex",
+                "n't",
+                "work",
+                "code",
+                "like",
+                "classreactnativesamplepackage",
+                "reactpackage",
+                "whitespace",
+                "betweenreactnativesamplepackageand",
+                "module",
+                "linked",
+                "also",
+                "package",
+                "class",
+                "implement",
+                "interface",
+                "reactpackage",
+                "oneclassreactnativesamplepackage",
+                "someinterface",
+                "nextinterface",
+                "reactpackage",
+                "test",
+                "plan",
+                "green",
+                "teststry",
+                "autolink",
+                "module",
+                "package",
+                "class",
+                "like",
+                "belowclassreactnativepackage",
+                "reactpackage",
+                "overridefuncreateviewmanagers",
+                "reactcontext",
+                "reactapplicationcontext",
+                "mutablelist",
+                "viewmanager",
+                "view",
+                "reactshadownode",
+                "returncollections.emptylist",
+                "overridefuncreatenativemodules",
+                "reactcontext",
+                "reactapplicationcontext",
+                "mutablelist",
+                "nativemodule",
+                "returncollections.emptylist"
+              ],
+              "author": "thymikee"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

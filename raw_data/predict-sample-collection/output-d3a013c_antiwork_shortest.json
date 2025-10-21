@@ -1,0 +1,20 @@
+{
+  "commit_index": "d3a013c",
+  "commit_url": "https://github.com/antiwork/shortest/commit/d3a013c7c34174e5deaa51b703a451560fff23c4",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "build"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      "app/api/github/webhook/route.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "ad1e477e358f91d048b3a5296f03e67f05d0d349"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

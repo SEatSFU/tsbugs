@@ -1,0 +1,24 @@
+{
+  "commit_index": "b33bfb3",
+  "commit_url": "https://github.com/sadmann7/shadcn-table/commit/b33bfb395c7733cc757c52da58b49bd9ae18ee46",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "deps",
+      "update",
+      "dependency",
+      "drizzle-orm",
+      "v0.30.3"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      "pnpm-lock.yaml"
+    ],
+    "changed_files_content": [],
+    "parent": "1be994592fb0991e56372df7ab7ef50baed35de9"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

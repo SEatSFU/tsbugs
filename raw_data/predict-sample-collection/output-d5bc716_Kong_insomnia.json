@@ -1,0 +1,96 @@
+{
+  "commit_index": "d5bc716",
+  "commit_url": "https://github.com/Kong/insomnia/commit/d5bc7169186f217e52694e92c61861227b3b8255",
+  "commit": {
+    "commit_message": [
+      "charcode",
+      "webview",
+      "fix",
+      "1045"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      "packages/insomnia-app/app/ui/components/viewers/response-viewer.js"
+    ],
+    "changed_files_content": [],
+    "parent": "794646f2ac9614cc445b3eef3bd8da796297f409"
+  },
+  "pull_requests": null,
+  "issues": [
+    {
+      "title": [
+        "visual",
+        "preview",
+        "chinese",
+        "garbled"
+      ],
+      "labels": [],
+      "comments": [
+        {
+          "author": "i6u",
+          "content": [
+            "insomnia",
+            "version",
+            "5.16.6",
+            "5.16.6.2073",
+            "osx",
+            "version",
+            "10.13.5",
+            "17f77",
+            "source",
+            "garbled"
+          ]
+        },
+        {
+          "author": "welcome",
+          "content": [
+            "opening",
+            "first",
+            "issue",
+            "'re",
+            "reporting",
+            "bug",
+            "please",
+            "make",
+            "sure",
+            "include",
+            "step",
+            "reproduce",
+            "'re",
+            "requesting",
+            "feature",
+            "please",
+            "provide",
+            "real",
+            "use",
+            "case",
+            "would",
+            "benefit",
+            "help",
+            "make",
+            "smooth",
+            "process",
+            "please",
+            "sure",
+            "first",
+            "read",
+            "contributing",
+            "guideline",
+            "http",
+            "//github.com/getinsomnia/insomnia/blob/master/contributing.md"
+          ]
+        },
+        {
+          "author": "gschier",
+          "content": [
+            "image",
+            "http",
+            "//user-images.githubusercontent.com/587576/42759739-0cadfcbe-88d6-11e8-9876-d9c84ad132ee.png"
+          ]
+        }
+      ]
+    }
+  ],
+  "security": null
+}

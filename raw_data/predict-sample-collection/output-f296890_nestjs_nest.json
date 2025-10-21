@@ -1,0 +1,26 @@
+{
+  "commit_index": "f296890",
+  "commit_url": "https://github.com/nestjs/nest/commit/f29689078d00ed73ebc611a173f3f12e3b3a6012",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "deps",
+      "update",
+      "dependency",
+      "fastify/static",
+      "v8.1.1"
+    ],
+    "description": [],
+    "changed_files_count": 3,
+    "changed_files": [
+      "package-lock.json",
+      "package.json",
+      "sample/17-mvc-fastify/package.json"
+    ],
+    "changed_files_content": [],
+    "parent": "99e6ba624b665dfa3cc7e9aa0c5b1fb4318f8efa"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

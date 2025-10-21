@@ -1,0 +1,21 @@
+{
+  "commit_index": "a55cf8d",
+  "commit_url": "https://github.com/run-llama/LlamaIndexTS/commit/a55cf8d87036b6d5dbdbe9dade64d42561e0a685",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "type",
+      "import"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      "packages/core/src/llm/anthropic.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "cf4244fd3af70d4b1575d363362559aee98c2715"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

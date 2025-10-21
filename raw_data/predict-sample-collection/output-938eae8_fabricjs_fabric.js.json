@@ -1,0 +1,123 @@
+{
+  "commit_index": "938eae8",
+  "commit_url": "https://github.com/fabricjs/fabric.js/commit/938eae8a6919b63ec9078f6248bc7fb63819806f",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "control",
+      "corner",
+      "coords",
+      "definition",
+      "order",
+      "9884"
+    ],
+    "description": [],
+    "changed_files_count": 3,
+    "changed_files": [
+      "CHANGELOG.md",
+      "src/controls/Control.spec.ts",
+      "src/controls/Control.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "ca171ae194d307700d98d4447f29804ee37e920b"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "control",
+        "corner",
+        "coords",
+        "definition",
+        "order",
+        "9884"
+      ],
+      "total_discussions": 3,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "control.calccornercoordsreturns",
+                "corner",
+                "order",
+                "make",
+                "incorrect",
+                "polygon",
+                "whereas",
+                "rect",
+                "'s",
+                "becauseblis",
+                "defined",
+                "beforebr.since",
+                "es2015",
+                "object",
+                "key",
+                "returned",
+                "insertion-order",
+                "spec",
+                "http",
+                "//stackoverflow.com/a/23202095/6860493",
+                "believe",
+                "fix",
+                "incalccornercoordsinstead",
+                "manually",
+                "sorting",
+                "coords",
+                "callingintersection.ispointinpolygon",
+                "'s",
+                "convenient",
+                "work",
+                "correctly",
+                "out-of-the-box.if",
+                "revert",
+                "fix",
+                "'ll",
+                "see",
+                "test",
+                "failing"
+              ],
+              "author": "asturur"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "open",
+                "branch",
+                "inweb",
+                "editor\u2022vs",
+                "code\u2022insidersopenpreview"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 3,
+          "comments": [
+            {
+              "content": [
+                "think",
+                "good",
+                "also",
+                "somehow",
+                "aligns",
+                "getcoords",
+                "return",
+                "array",
+                "'order"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

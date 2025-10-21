@@ -1,0 +1,22 @@
+{
+  "commit_index": "7fc79d7",
+  "commit_url": "https://github.com/microsoft/vscode/commit/7fc79d701d6a45a6f385cf15020c476dae58fef9",
+  "commit": {
+    "commit_message": [
+      "copilot",
+      "attempt",
+      "fix",
+      "test"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      "src/vs/workbench/contrib/terminalContrib/chatAgentTools/test/browser/runInTerminalTool.test.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "8c408e88186363af33f5af4a5b5fea18b929ca49"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

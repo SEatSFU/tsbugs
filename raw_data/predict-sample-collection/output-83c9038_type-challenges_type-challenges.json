@@ -1,0 +1,55 @@
+{
+  "commit_index": "83c9038",
+  "commit_url": "https://github.com/type-challenges/type-challenges/commit/83c90387470f3b670dc2c8ba46b47d1ffdace25f",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "update",
+      "test-cases",
+      "02759-medium-requiredbykeys",
+      "18475"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      "questions/02759-medium-requiredbykeys/test-cases.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "8316fc4441f568f694b179adfb934fc587a57f1b"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "update",
+        "test-cases",
+        "02759-medium-requiredbykeys",
+        "18475"
+      ],
+      "total_discussions": 1,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "challenge",
+                "similar",
+                "02757-medium-partialbykeys",
+                "think",
+                "test-cases",
+                "also",
+                "consistentreference\uff1a",
+                "17332"
+              ],
+              "author": "antfu"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

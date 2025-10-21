@@ -1,0 +1,25 @@
+{
+  "commit_index": "70c2769",
+  "commit_url": "https://github.com/sadmann7/shadcn-table/commit/70c27696d419e81722e90865f21018d653040cce",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "deps",
+      "update",
+      "dependency",
+      "t3-oss/env-nextjs",
+      "^0.10.0"
+    ],
+    "description": [],
+    "changed_files_count": 2,
+    "changed_files": [
+      "package.json",
+      "pnpm-lock.yaml"
+    ],
+    "changed_files_content": [],
+    "parent": "1fe9c616f5f0784c9f374b21d7d3f5a71edaed67"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

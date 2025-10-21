@@ -1,0 +1,121 @@
+{
+  "commit_index": "f9322a3",
+  "commit_url": "https://github.com/react-native-community/cli/commit/f9322a32f93bf55b52f000cfed1d2a72faec48f8",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "jsappdir",
+      "window",
+      "850"
+    ],
+    "description": [
+      "fix",
+      "jsappdir",
+      "window",
+      "use",
+      "regex"
+    ],
+    "changed_files_count": 1,
+    "changed_files": [
+      "packages/platform-android/native_modules.gradle"
+    ],
+    "changed_files_content": [],
+    "parent": "887b372b216fc9faa954d60dac6e1cfc5c024fe6"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "jsappdir",
+        "window",
+        "850"
+      ],
+      "total_discussions": 4,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "summary",
+                "apparently",
+                "gradle",
+                "return",
+                "backslashes",
+                "window",
+                "forbuildscript.sourcefile.tostring",
+                "a3a70a1",
+                "r35970970",
+                "need",
+                "account",
+                "thattest",
+                "plan",
+                "supported",
+                "/node_modules/",
+                "react-native-community/cli-platform-android/",
+                "\\node_modules\\",
+                "react-native-community\\cli-platform-android\\"
+              ],
+              "author": "grabbou"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "cc",
+                "miginmrscan",
+                "verify"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 3,
+          "comments": [
+            {
+              "content": [
+                "test",
+                "failing",
+                "one",
+                "verify"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 4,
+          "comments": [
+            {
+              "content": [
+                "test",
+                "n't",
+                "run",
+                "android",
+                "code",
+                "init",
+                "'ll",
+                "need",
+                "window",
+                "machine",
+                "yarn",
+                "link",
+                "package",
+                "runrun-androidon",
+                "sample",
+                "project",
+                "linked",
+                "cli"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

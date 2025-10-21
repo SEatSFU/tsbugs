@@ -1,0 +1,25 @@
+{
+  "commit_index": "79e335f",
+  "commit_url": "https://github.com/antiwork/shortest/commit/79e335f6b38dc734a813b5303a6db9de8b8cdb7c",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "update",
+      "type",
+      "definition",
+      "test",
+      "framework",
+      "component"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      "packages/shortest/src/types/index.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "908e754be2a94fd91415c8944c8c4e3f9cd7ba41"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

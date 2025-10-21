@@ -1,0 +1,81 @@
+{
+  "commit_index": "c58f3c1",
+  "commit_url": "https://github.com/react-native-community/cli/commit/c58f3c116fd5505acd19800376e102161ca622b6",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "n't",
+      "copy",
+      "node_modules",
+      "template",
+      "519"
+    ],
+    "description": [],
+    "changed_files_count": 8,
+    "changed_files": [
+      "packages/cli/src/commands/init/__tests__/template.test.js",
+      "packages/cli/src/commands/init/template.js",
+      "packages/cli/src/tools/__tests__/__fixtures__/binary.keystore",
+      "packages/cli/src/tools/__tests__/__fixtures__/extraDir/file3",
+      "packages/cli/src/tools/__tests__/__fixtures__/file1.js",
+      "packages/cli/src/tools/__tests__/__fixtures__/file2.txt",
+      "packages/cli/src/tools/__tests__/copyFiles.test.js",
+      "packages/cli/src/tools/copyFiles.js"
+    ],
+    "changed_files_content": [],
+    "parent": "3a17d449d89766e3332419bbe75d715ce5de3c9d"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "n't",
+        "copy",
+        "node_modules",
+        "template",
+        "519"
+      ],
+      "total_discussions": 2,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "summary",
+                "using",
+                "local",
+                "template",
+                "often",
+                "happens",
+                "includesnode_modules",
+                "n't",
+                "want",
+                "copy",
+                "hence",
+                "excluding.test",
+                "plan",
+                "added",
+                "basic",
+                "test",
+                "forcopyfilesfn"
+              ],
+              "author": "thymikee"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

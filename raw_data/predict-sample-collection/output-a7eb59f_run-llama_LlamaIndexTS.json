@@ -1,0 +1,21 @@
+{
+  "commit_index": "a7eb59f",
+  "commit_url": "https://github.com/run-llama/LlamaIndexTS/commit/a7eb59f4727d0f7cd22f48c9b098c13af443c90e",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "update",
+      "pnpm-lock.yaml"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      "pnpm-lock.yaml"
+    ],
+    "changed_files_content": [],
+    "parent": "e99448481c84a7c123253bf2b5b00fcaedd6b774"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

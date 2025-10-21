@@ -1,0 +1,187 @@
+{
+  "commit_index": "33ad8cc",
+  "commit_url": "https://github.com/intlify/vue-i18n/commit/33ad8ccdf441b4100b1e5d3352f8e2ab8b587e80",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "wrong",
+      "source",
+      "getting",
+      "1624"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      "packages/core-base/src/translate.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "c37f6f03b72ba7ff3c340c058bd5037757013f73"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "wrong",
+        "source",
+        "getting",
+        "1624"
+      ],
+      "total_discussions": 2,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "resolve",
+                "1622"
+              ],
+              "author": "kazupon"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "view",
+                "log"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "title": [
+        "wrong",
+        "compilation",
+        "bundler"
+      ],
+      "labels": [
+        "Type: Bug",
+        "🔨 p3-minor-bug"
+      ],
+      "comments": [
+        {
+          "author": "vladstarikov88",
+          "content": [
+            "reporting",
+            "bug",
+            "project",
+            "used",
+            "vue-i18n",
+            "ca",
+            "n't",
+            "compiled",
+            "bug",
+            "else",
+            "block",
+            "start",
+            "wrong",
+            "expected",
+            "behavior",
+            "expect",
+            "error",
+            "block",
+            "reproduction",
+            "http",
+            "//github.com/vladstarikov88/vue-i18n-build-bug/",
+            "system",
+            "info",
+            "system",
+            "o",
+            "linux",
+            "6.4",
+            "manjaro",
+            "linux",
+            "cpu",
+            "8",
+            "x64",
+            "intel",
+            "r",
+            "core",
+            "tm",
+            "i7-8565u",
+            "cpu",
+            "1.80ghz",
+            "memory",
+            "5.16",
+            "gb",
+            "15.44",
+            "gb",
+            "container",
+            "yes",
+            "shell",
+            "5.1.16",
+            "/bin/bash",
+            "binary",
+            "node",
+            "16.19.0",
+            "/.nvm/versions/node/v16.19.0/bin/node",
+            "yarn",
+            "1.22.19",
+            "/usr/bin/yarn",
+            "npm",
+            "8.19.3",
+            "/.nvm/versions/node/v16.19.0/bin/npm",
+            "browser",
+            "firefox",
+            "115.0.2",
+            "npmpackages",
+            "vue/cli-plugin-babel",
+            "4.5.12",
+            "4.5.19",
+            "vue/cli-plugin-eslint",
+            "4.5.12",
+            "4.5.19",
+            "vue/cli-service",
+            "4.5.12",
+            "4.5.19",
+            "vue/compiler-sfc",
+            "^3.0.0",
+            "3.3.7",
+            "vue",
+            "^3.0.0",
+            "3.3.7",
+            "vue-i18n",
+            "^9.6.2",
+            "9.6.2",
+            "screenshot",
+            "response",
+            "additional",
+            "context",
+            "response",
+            "validation",
+            "read",
+            "contributing",
+            "guideline",
+            "read",
+            "documentation",
+            "check",
+            "n't",
+            "already",
+            "issue",
+            "report",
+            "bug",
+            "avoid",
+            "creating",
+            "duplicate",
+            "check",
+            "concrete",
+            "bug",
+            "q",
+            "open",
+            "github",
+            "discussion"
+          ]
+        }
+      ]
+    }
+  ],
+  "security": null
+}

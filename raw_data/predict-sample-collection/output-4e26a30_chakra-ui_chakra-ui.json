@@ -1,0 +1,27 @@
+{
+  "commit_index": "4e26a30",
+  "commit_url": "https://github.com/chakra-ui/chakra-ui/commit/4e26a300caa60b4739e09520a3112802ebe535b9",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "cli",
+      "use",
+      "latest",
+      "tag",
+      "pkg",
+      "version"
+    ],
+    "description": [],
+    "changed_files_count": 3,
+    "changed_files": [
+      ".changeset/dirty-ravens-drum.md",
+      ".changeset/modern-parents-raise.md",
+      "tooling/cli/package.json"
+    ],
+    "changed_files_content": [],
+    "parent": "b5d1efbe1c4fd3d003d811110052c826fab42be1"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

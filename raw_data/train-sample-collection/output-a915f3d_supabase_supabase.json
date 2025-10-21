@@ -1,0 +1,103 @@
+{
+  "commit_index": "a915f3d",
+  "commit_url": "https://github.com/supabase/supabase/commit/a915f3d7e73bf319a68398c2cceaa301ad48c2be",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "delay",
+      "autofocus",
+      "input",
+      "treeview",
+      "35270"
+    ],
+    "description": [
+      "remove",
+      "leftover",
+      "resizable",
+      "group",
+      "n't",
+      "interactive",
+      "put",
+      "input",
+      "focus",
+      "settimeout",
+      "alternative",
+      "solution",
+      "small",
+      "fix",
+      "bump",
+      "threshold",
+      "400ms",
+      "final",
+      "fix",
+      "hopefully",
+      "--",
+      "--",
+      "--",
+      "--",
+      "co-authored-by",
+      "joshen",
+      "lim",
+      "joshenlimek",
+      "gmail.com"
+    ],
+    "changed_files_count": 4,
+    "changed_files": [
+      "apps/studio/components/interfaces/SQLEditor/SQLEditor.tsx",
+      "apps/studio/lib/constants/index.ts",
+      "apps/studio/state/sql-editor-v2.ts",
+      "packages/ui/src/components/TreeView/TreeView.tsx"
+    ],
+    "changed_files_content": [],
+    "parent": "c136ee4c193f5c6a36e75d6cc4b2f3898902f506"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "delay",
+        "autofocus",
+        "input",
+        "treeview",
+        "35270"
+      ],
+      "total_discussions": 1,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "removedresizablepanelgroupcomponents",
+                "since",
+                "n't",
+                "used",
+                "dynamic",
+                "panel",
+                "removed",
+                "thesql_editor_ai_panel_split_sizeconstant",
+                "also.improved",
+                "reliability",
+                "input",
+                "focus",
+                "behavior",
+                "introducing",
+                "doublesettimeoutmechanism",
+                "address",
+                "intermittent",
+                "focus",
+                "loss",
+                "initial",
+                "render"
+              ],
+              "author": "ivasilov"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

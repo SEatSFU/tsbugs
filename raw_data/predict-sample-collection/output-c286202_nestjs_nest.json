@@ -1,0 +1,24 @@
+{
+  "commit_index": "c286202",
+  "commit_url": "https://github.com/nestjs/nest/commit/c286202321be509fc7c4d8ff6c00ce32f6bc4183",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "deps",
+      "update",
+      "dependency",
+      "mercurius",
+      "v16.1.0"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      "sample/33-graphql-mercurius/package.json"
+    ],
+    "changed_files_content": [],
+    "parent": "963c20140909b46831144e704b09dd70fe5e8e9e"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

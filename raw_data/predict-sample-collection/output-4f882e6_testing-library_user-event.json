@@ -1,0 +1,192 @@
+{
+  "commit_index": "4f882e6",
+  "commit_url": "https://github.com/testing-library/user-event/commit/4f882e63ec53146ae33215e646912f73b42b5bdc",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "prevent",
+      "typeerror",
+      "globalthis.window",
+      "undefined",
+      "1176"
+    ],
+    "description": [
+      "co-authored-by",
+      "abarajithan",
+      "ramachandran",
+      "abarajithan",
+      "users.noreply.github.com"
+    ],
+    "changed_files_count": 1,
+    "changed_files": [
+      "src/utils/dataTransfer/Clipboard.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "3d7005a70b59c4a0de00eed514678bd2e61e4908"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "verify",
+        "window",
+        "exists",
+        "resetting",
+        "clipboard",
+        "stub",
+        "1176"
+      ],
+      "total_discussions": 4,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "ensure",
+                "thatglobalthis.windowexists",
+                "resetting/detaching",
+                "clipboard",
+                "stub",
+                "theaftereach/afterallhooks.why",
+                "using",
+                "library",
+                "test",
+                "suite",
+                "imply",
+                "every",
+                "test",
+                "suite",
+                "run",
+                "browser-like",
+                "environment",
+                "test",
+                "suite",
+                "initializesjsdomto",
+                "test",
+                "client-side",
+                "code",
+                "tear",
+                "test",
+                "wanted",
+                "use",
+                "library",
+                "could",
+                "n't",
+                "soon",
+                "test",
+                "ran",
+                "n't",
+                "initializejsdom",
+                "thisaftereachhook",
+                "would",
+                "run",
+                "throw",
+                "error",
+                "becauseglobalthis.windowwas",
+                "undefined.how",
+                "verify",
+                "thatglobalthis.windowexists",
+                "inside",
+                "hook",
+                "n't",
+                "want",
+                "put",
+                "check",
+                "inside",
+                "ofresetclipboardstubonviewbecause",
+                "file",
+                "meant",
+                "run",
+                "browser-like",
+                "environment",
+                "seemed",
+                "appropriate",
+                "put",
+                "check",
+                "inside",
+                "hook.checklist",
+                "n/a",
+                "documentation",
+                "n/a",
+                "testsready",
+                "mergedthere",
+                "existing",
+                "test",
+                "related",
+                "theaftereach/afterallhooks",
+                "n't",
+                "sure",
+                "go",
+                "writing",
+                "test",
+                "code",
+                "unit",
+                "test",
+                "around"
+              ],
+              "author": "ph-fritsche"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "pull",
+                "request",
+                "automatically",
+                "built",
+                "testable",
+                "incodesandbox",
+                "see",
+                "build",
+                "info",
+                "built",
+                "library",
+                "clickhereor",
+                "icon",
+                "next",
+                "commit",
+                "sha"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 3,
+          "comments": [
+            {
+              "content": [
+                "closing",
+                "'m",
+                "assuming",
+                "wo",
+                "n't",
+                "ever",
+                "merged"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 4,
+          "comments": [
+            {
+              "content": [
+                "chance",
+                "get",
+                "fix",
+                "released",
+                "soon"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

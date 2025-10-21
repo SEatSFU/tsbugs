@@ -1,0 +1,157 @@
+{
+  "commit_index": "750b613",
+  "commit_url": "https://github.com/antiwork/shortest/commit/750b61346884314d7022cc3de22f7370b2800c4c",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "cli",
+      "handle",
+      "browser",
+      "initialization",
+      "failure",
+      "298"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      "packages/shortest/src/core/runner/index.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "ad7202313fbef4e9b2532d2f808d7970dfe9d2ac"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "cli",
+        "handle",
+        "browser",
+        "initialization",
+        "failure",
+        "298"
+      ],
+      "total_discussions": 1,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "resolve",
+                "293"
+              ],
+              "author": "rmarescu"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "title": [
+        "error",
+        "baseurl",
+        "accessible"
+      ],
+      "labels": [
+        "good first issue"
+      ],
+      "comments": [
+        {
+          "author": "rmarescu",
+          "content": [
+            "version",
+            "0.4.2",
+            "repository",
+            "url",
+            "http",
+            "//github.com/rmarescu/shortest-bug-baseurl",
+            "actual",
+            "behavior",
+            "npm",
+            "run",
+            "test",
+            "debug",
+            "shortest-example",
+            "1.0.0",
+            "test",
+            "debug",
+            "./bin/test.sh",
+            "--",
+            "debug-ai",
+            "20:23:46",
+            "example.test.ts",
+            "20:23:47",
+            "20:23:47",
+            "error",
+            "current",
+            "test",
+            "initialized",
+            "expected",
+            "behavior",
+            "erorr",
+            "related",
+            "able",
+            "reach",
+            "baseurl",
+            "system",
+            "info",
+            "system",
+            "o",
+            "macos",
+            "15.2",
+            "cpu",
+            "16",
+            "arm64",
+            "apple",
+            "m3",
+            "max",
+            "memory",
+            "869.00",
+            "mb",
+            "128.00",
+            "gb",
+            "shell",
+            "3.6.4",
+            "/opt/homebrew/bin/fish",
+            "binary",
+            "node",
+            "21.6.1",
+            "/.asdf/installs/nodejs/21.6.1/bin/node",
+            "npm",
+            "10.2.4",
+            "/.asdf/plugins/nodejs/shims/npm",
+            "pnpm",
+            "9.1.1",
+            "/.asdf/shims/pnpm",
+            "browser",
+            "brave",
+            "browser",
+            "132.1.74.48",
+            "chrome",
+            "132.0.6834.110",
+            "safari",
+            "18.2",
+            "npmpackages",
+            "antiwork/shortest",
+            "^0.4.2",
+            "0.4.2",
+            "validation",
+            "'ve",
+            "checked",
+            "existing",
+            "issue",
+            "concrete",
+            "bug",
+            "q",
+            "use",
+            "discussion"
+          ]
+        }
+      ]
+    }
+  ],
+  "security": null
+}

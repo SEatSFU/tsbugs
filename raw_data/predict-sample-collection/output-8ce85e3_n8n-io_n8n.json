@@ -1,0 +1,77 @@
+{
+  "commit_index": "8ce85e3",
+  "commit_url": "https://github.com/n8n-io/n8n/commit/8ce85e37592da061164db18af52852e8ed1d2046",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "notion",
+      "beta",
+      "node",
+      "fix",
+      "create",
+      "database",
+      "page",
+      "multiple"
+    ],
+    "description": [
+      "fix"
+    ],
+    "changed_files_count": 1,
+    "changed_files": [
+      "packages/nodes-base/nodes/Notion/GenericFunctions.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "99e35f1e94c3fee2702bc47d1a5f63714b68140d"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "notion",
+        "beta",
+        "node",
+        "fix",
+        "create",
+        "database",
+        "page",
+        "multiple",
+        "relation",
+        "id",
+        "working",
+        "5260"
+      ],
+      "total_discussions": 2,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "fix",
+                "http",
+                "//community.n8n.io/t/error-with-multiple-relations-in-notion-node/22267"
+              ],
+              "author": "maspio"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "got",
+                "released",
+                "withn8n",
+                "0.213.0"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

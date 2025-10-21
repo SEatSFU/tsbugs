@@ -1,0 +1,172 @@
+{
+  "commit_index": "1c220aa",
+  "commit_url": "https://github.com/chakra-ui/chakra-ui/commit/1c220aa31ea2dd09b96b32cdee03abfe27e636ce",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "align",
+      "input",
+      "radius",
+      "9425"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      "packages/react/src/theme/recipes/number-input.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "61214195cba258d6d88561a367ed3f1be35055df"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "align",
+        "input",
+        "radius",
+        "9425"
+      ],
+      "total_discussions": 4,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "descriptionthe",
+                "input",
+                "using",
+                "semantic",
+                "token",
+                "radius",
+                "l2",
+                "number",
+                "input",
+                "trigger",
+                "using",
+                "token",
+                "radii.xs\u26f3\ufe0f",
+                "current",
+                "behavior",
+                "update",
+                "decide",
+                "increase/decrease",
+                "radius",
+                "semantic",
+                "token",
+                "input",
+                "trigger",
+                "adjusted",
+                "using",
+                "semantic",
+                "token\ud83d\ude80",
+                "new",
+                "behaviorusing",
+                "semantic",
+                "token",
+                "number",
+                "input",
+                "triggers\ud83d\udca3",
+                "breaking",
+                "change",
+                "yes/no"
+              ],
+              "author": "segunadebayo"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "alexpuertasris",
+                "attempting",
+                "deploy",
+                "commit",
+                "thechakra",
+                "uiteam",
+                "onvercel",
+                "member",
+                "team",
+                "first",
+                "need",
+                "toauthorize"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 3,
+          "comments": [
+            {
+              "content": [
+                "latest",
+                "commit:2188865",
+                "merging",
+                "pr",
+                "cause",
+                "version",
+                "bump",
+                "package",
+                "change",
+                "result",
+                "new",
+                "version",
+                "'re",
+                "good",
+                "go.if",
+                "change",
+                "result",
+                "version",
+                "bump",
+                "need",
+                "add",
+                "changeset",
+                "changesets",
+                "added",
+                "pr",
+                "'ll",
+                "see",
+                "package",
+                "pr",
+                "includes",
+                "changesets",
+                "associated",
+                "semver",
+                "type",
+                "click",
+                "learn",
+                "changesets",
+                "add",
+                "one",
+                "click",
+                "'re",
+                "maintainer",
+                "want",
+                "add",
+                "changeset",
+                "pr"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 4,
+          "comments": [
+            {
+              "content": [
+                "open",
+                "stackblitz",
+                "commit:2188865"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

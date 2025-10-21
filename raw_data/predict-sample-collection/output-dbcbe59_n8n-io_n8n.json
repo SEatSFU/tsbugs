@@ -1,0 +1,94 @@
+{
+  "commit_index": "dbcbe59",
+  "commit_url": "https://github.com/n8n-io/n8n/commit/dbcbe595ccec2075b5aded5cb00b11aafd61db02",
+  "commit": {
+    "commit_message": [
+      "ci",
+      "core",
+      "fix",
+      "docker",
+      "nightly/custom",
+      "image",
+      "build",
+      "no-changelog",
+      "5284"
+    ],
+    "description": [
+      "ci",
+      "core",
+      "copy",
+      "patch",
+      "dir",
+      "docker",
+      "no-changelog",
+      "update",
+      "patch",
+      "update",
+      "package-lock",
+      "reapply",
+      "patch",
+      "skip",
+      "patcheddependencies",
+      "frontend",
+      "built",
+      "--",
+      "--",
+      "--",
+      "--",
+      "co-authored-by",
+      "aditya",
+      "netroy.in"
+    ],
+    "changed_files_count": 3,
+    "changed_files": [
+      "docker/images/n8n-custom/Dockerfile",
+      "patches/element-ui@2.15.12.patch",
+      "pnpm-lock.yaml"
+    ],
+    "changed_files_content": [],
+    "parent": "911d656f995a9a7f50db7e97ae25fcc3230ae4a5"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "ci",
+        "core",
+        "fix",
+        "docker",
+        "nightly/custom",
+        "image",
+        "build",
+        "no-changelog",
+        "5284"
+      ],
+      "total_discussions": 2,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [],
+              "author": "OlegIvaniv"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "got",
+                "released",
+                "withn8n",
+                "0.214.0"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

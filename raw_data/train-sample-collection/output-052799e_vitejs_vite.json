@@ -1,0 +1,71 @@
+{
+  "commit_index": "052799e",
+  "commit_url": "https://github.com/vitejs/vite/commit/052799e8939cfcdd7a7ff48daf45a766bf6cc546",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "define",
+      "environment",
+      "config",
+      "working",
+      "18515"
+    ],
+    "description": [],
+    "changed_files_count": 6,
+    "changed_files": [
+      "packages/vite/src/node/config.ts",
+      "packages/vite/src/node/plugins/clientInjections.ts",
+      "packages/vite/src/node/plugins/define.ts",
+      "playground/define/__tests__/define.spec.ts",
+      "playground/define/index.html",
+      "playground/define/vite.config.js"
+    ],
+    "changed_files_content": [],
+    "parent": "5da78a6859f3b5c677d896144b915381e4497432"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "definein",
+        "environment",
+        "config",
+        "working",
+        "18515"
+      ],
+      "total_discussions": 2,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "descriptionpassingdefineto",
+                "environment",
+                "config",
+                "working"
+              ],
+              "author": "patak-dev"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "nate",
+                "also",
+                "needed",
+                "one"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

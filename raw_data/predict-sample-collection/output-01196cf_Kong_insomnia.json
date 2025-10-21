@@ -1,0 +1,212 @@
+{
+  "commit_index": "01196cf",
+  "commit_url": "https://github.com/Kong/insomnia/commit/01196cf45753a19c03d92bb337a26279fb80676d",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "prompt",
+      "plugin",
+      "close",
+      "1063"
+    ],
+    "description": [],
+    "changed_files_count": 3,
+    "changed_files": [
+      "packages/insomnia-app/app/models/plugin-data.js",
+      "packages/insomnia-app/app/plugins/context/store.js",
+      "plugins/insomnia-plugin-prompt/index.js"
+    ],
+    "changed_files_content": [],
+    "parent": "0aa842ca5f44dc16e224e7685c6cab4fd8b21099"
+  },
+  "pull_requests": null,
+  "issues": [
+    {
+      "title": [
+        "bug",
+        "prompt",
+        "default",
+        "n't",
+        "prompt",
+        "expected"
+      ],
+      "labels": [],
+      "comments": [
+        {
+          "author": "jsolt",
+          "content": [
+            "insomnia",
+            "version",
+            "6.0.0",
+            "operating",
+            "system",
+            "window",
+            "10",
+            "detail",
+            "got",
+            "updated",
+            "v6.0",
+            "prompt",
+            "default",
+            "value",
+            "stopped",
+            "prompting",
+            "create",
+            "request",
+            "prompt",
+            "add",
+            "prompt",
+            "send",
+            "request",
+            "fill",
+            "prompt",
+            "window",
+            "edit",
+            "prompt",
+            "add",
+            "default",
+            "value",
+            "send",
+            "request",
+            "prompt",
+            "n't",
+            "open",
+            "edit",
+            "prompt",
+            "remove",
+            "default",
+            "value",
+            "send",
+            "request",
+            "prompt",
+            "n't",
+            "open"
+          ]
+        },
+        {
+          "author": "welcome",
+          "content": [
+            "opening",
+            "first",
+            "issue",
+            "'re",
+            "reporting",
+            "bug",
+            "please",
+            "make",
+            "sure",
+            "include",
+            "step",
+            "reproduce",
+            "'re",
+            "requesting",
+            "feature",
+            "please",
+            "provide",
+            "real",
+            "use",
+            "case",
+            "would",
+            "benefit",
+            "help",
+            "make",
+            "smooth",
+            "process",
+            "please",
+            "sure",
+            "first",
+            "read",
+            "contributing",
+            "guideline",
+            "http",
+            "//github.com/getinsomnia/insomnia/blob/master/contributing.md"
+          ]
+        },
+        {
+          "author": "DazedNConfused-",
+          "content": [
+            "chiming",
+            "exact",
+            "issue",
+            "rendered",
+            "'prompt",
+            "template",
+            "tag",
+            "useless",
+            "_prompt-once_",
+            "scenario",
+            "behavior",
+            "started",
+            "6.0",
+            "update"
+          ]
+        },
+        {
+          "author": "gschier",
+          "content": [
+            "fixing",
+            "soon"
+          ]
+        },
+        {
+          "author": "gschier",
+          "content": [
+            "sorry",
+            "'ve",
+            "away",
+            "bit",
+            "due",
+            "personal",
+            "issue",
+            "back",
+            "though",
+            "try",
+            "get",
+            "done",
+            "week"
+          ]
+        },
+        {
+          "author": "DazedNConfused-",
+          "content": [
+            "update",
+            "issue",
+            "since",
+            "update",
+            "july",
+            "feature",
+            "disabled",
+            "practical",
+            "sense",
+            "early",
+            "beta",
+            "release",
+            "addressed",
+            "either",
+            "large",
+            "collection",
+            "multiple",
+            "prompt",
+            "whose",
+            "value",
+            "change",
+            "daily",
+            "basis",
+            "current",
+            "state",
+            "affair",
+            "highly",
+            "disruptive",
+            "normal",
+            "test",
+            "workflow",
+            "point",
+            "almost",
+            "unbearable"
+          ]
+        }
+      ]
+    }
+  ],
+  "security": null
+}

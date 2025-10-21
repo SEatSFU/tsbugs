@@ -1,0 +1,186 @@
+{
+  "commit_index": "9358054",
+  "commit_url": "https://github.com/react-native-community/cli/commit/935805419ce9c1c0a5ad60e57482158857a63f50",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "respect",
+      "--",
+      "directory",
+      "init",
+      "run",
+      "instruction",
+      "918"
+    ],
+    "description": [
+      "fix",
+      "respect",
+      "--",
+      "directory",
+      "printing",
+      "run",
+      "instruction",
+      "test",
+      "ensure",
+      "run",
+      "instruction",
+      "contain",
+      "custom",
+      "directory"
+    ],
+    "changed_files_count": 3,
+    "changed_files": [
+      "__e2e__/init.test.ts",
+      "docs/commands.md",
+      "packages/cli/src/commands/init/init.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "51757572c704279c2ae9774cdfb719662a500318"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "respect",
+        "--",
+        "directory",
+        "init",
+        "run",
+        "instruction",
+        "918"
+      ],
+      "total_discussions": 1,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "fix",
+                "917"
+              ],
+              "author": "grabbou"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "title": [
+        "project",
+        "directory",
+        "incorrect",
+        "using",
+        "--",
+        "directory",
+        "argument"
+      ],
+      "labels": [
+        "bug report"
+      ],
+      "comments": [
+        {
+          "author": "Li357",
+          "content": [
+            "environment",
+            "react",
+            "16.9.0",
+            "16.9.0",
+            "react-native",
+            "0.61.5",
+            "0.61.5",
+            "react-native-community/cli",
+            "3.0.4",
+            "latest",
+            "description",
+            "specifying",
+            "--",
+            "directory",
+            "init",
+            "printed",
+            "project",
+            "directory",
+            "based",
+            "project",
+            "name",
+            "actual",
+            "directory",
+            "name",
+            "reproducible",
+            "demo",
+            "create",
+            "new",
+            "project",
+            "via",
+            "npx",
+            "react-native",
+            "init",
+            "foo",
+            "--",
+            "directory",
+            "bar",
+            "finishing",
+            "output",
+            "cd",
+            "/users/",
+            "...",
+            "/foo",
+            "npx",
+            "react-native",
+            "run-ios",
+            "cd",
+            "/users/",
+            "...",
+            "/foo",
+            "npx",
+            "react-native",
+            "run-android",
+            "even",
+            "though",
+            "project",
+            "created",
+            "bar",
+            "i.e",
+            "/users/",
+            "...",
+            "/bar",
+            "cd",
+            "/users/",
+            "...",
+            "/bar",
+            "npx",
+            "react-native",
+            "run-ios",
+            "cd",
+            "/users/",
+            "...",
+            "/bar",
+            "npx",
+            "react-native",
+            "run-android",
+            "'s",
+            "simple",
+            "change",
+            "init.ts",
+            "projectname",
+            "directoryname",
+            "cli/packages/cli/src/commands/init/init.ts",
+            "line",
+            "232",
+            "5724d29",
+            "const",
+            "projectfolder",
+            "path",
+            "join",
+            "root",
+            "projectname"
+          ]
+        }
+      ]
+    }
+  ],
+  "security": null
+}

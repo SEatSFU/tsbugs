@@ -1,0 +1,70 @@
+{
+  "commit_index": "f9d9f88",
+  "commit_url": "https://github.com/n8n-io/n8n/commit/f9d9f88f8a9d217101c2f5c67f3d3db6aa6b9b92",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "update",
+      "e2e",
+      "testing",
+      "env",
+      "variable",
+      "4556"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      "package.json"
+    ],
+    "changed_files_content": [],
+    "parent": "d7459a7145026b4046138668b7161e101fca293d"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "update",
+        "e2e",
+        "testing",
+        "env",
+        "variable",
+        "4556"
+      ],
+      "total_discussions": 2,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "fix",
+                "env",
+                "variable",
+                "3490as",
+                "pointed",
+                "netroy"
+              ],
+              "author": "alexgrozav"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "got",
+                "released",
+                "withn8n",
+                "0.202.0"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

@@ -1,0 +1,25 @@
+{
+  "commit_index": "d43a171",
+  "commit_url": "https://github.com/xyflow/xyflow/commit/d43a1716e5123beddbfd9e006e2ce07cbe5410bb",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "connectionlookup",
+      "key",
+      "prevent",
+      "overlap"
+    ],
+    "description": [],
+    "changed_files_count": 3,
+    "changed_files": [
+      "examples/react/src/examples/UseNodeConnections/MultiHandleNode.tsx",
+      "examples/react/src/examples/UseNodeConnections/index.tsx",
+      "packages/system/src/utils/store.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "56a3d886cd5e94a587c134f7a1a258a0cb4dfe01"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

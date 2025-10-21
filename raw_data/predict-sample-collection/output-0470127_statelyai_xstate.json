@@ -1,0 +1,23 @@
+{
+  "commit_index": "0470127",
+  "commit_url": "https://github.com/statelyai/xstate/commit/04701275ba5a7b9e04734197d03806b9a2ec6036",
+  "commit": {
+    "commit_message": [
+      "doc",
+      "fix",
+      "roadmap",
+      "broken",
+      "link"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      "docs/updates/2022-03-24.md"
+    ],
+    "changed_files_content": [],
+    "parent": "106e3c48ed3ccdadc7a25640e8077a59c3a898ca"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

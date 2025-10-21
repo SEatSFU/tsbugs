@@ -1,0 +1,142 @@
+{
+  "commit_index": "ba1f6e4",
+  "commit_url": "https://github.com/Kong/insomnia/commit/ba1f6e4190a6d1842131991a08d4a61ded4012b5",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "import",
+      "spec",
+      "6097"
+    ],
+    "description": [],
+    "changed_files_count": 2,
+    "changed_files": [
+      "packages/insomnia/src/common/import.ts",
+      "packages/insomnia/src/ui/components/modals/import-modal.tsx"
+    ],
+    "changed_files_content": [],
+    "parent": "bd0aaf3717b8effe19dcc8348e0cdbe18f589960"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "import",
+        "spec",
+        "6097"
+      ],
+      "total_discussions": 1,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "changelog",
+                "fix",
+                "fixed",
+                "issue",
+                "related",
+                "importing",
+                "api",
+                "spec",
+                "yaml",
+                "files.fix",
+                "issue",
+                "6088"
+              ],
+              "author": "jackkav"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "title": [
+        "import",
+        "cosmosdk",
+        "swagger"
+      ],
+      "labels": [
+        "S-unverified",
+        "B-bug"
+      ],
+      "comments": [
+        {
+          "author": "gmesika-coti",
+          "content": [
+            "expected",
+            "behavior",
+            "able",
+            "import",
+            "via",
+            "insomnia",
+            "actual",
+            "behavior",
+            "getting",
+            "error",
+            "ca",
+            "n't",
+            "insert",
+            "key",
+            "req_9d10840553674ec3a6f67be095919d67",
+            "violates",
+            "unique",
+            "constraint",
+            "reproduction",
+            "step",
+            "click",
+            "+create",
+            "select",
+            "import",
+            "select",
+            "url",
+            "option",
+            "insert",
+            "http",
+            "//docs.cosmos.network/swagger/swagger.yaml",
+            "url",
+            "click",
+            "scan",
+            "click",
+            "import",
+            "existing",
+            "issue",
+            "searched",
+            "issue",
+            "tracker",
+            "problem",
+            "additional",
+            "information",
+            "response",
+            "insomnia",
+            "version",
+            "2023.2.0",
+            "operating",
+            "system",
+            "using",
+            "ubuntu",
+            "operating",
+            "system",
+            "version",
+            "ubuntu",
+            "installation",
+            "method",
+            "downloaded",
+            "insomnia",
+            "last",
+            "known",
+            "working",
+            "insomnia",
+            "version",
+            "response"
+          ]
+        }
+      ]
+    }
+  ],
+  "security": null
+}

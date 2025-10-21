@@ -1,0 +1,24 @@
+{
+  "commit_index": "6d9a9e0",
+  "commit_url": "https://github.com/Kong/insomnia/commit/6d9a9e0acd8da96eea0282279f2964ca14602ec2",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "oauth",
+      "1.0",
+      "auth",
+      "updating"
+    ],
+    "description": [],
+    "changed_files_count": 2,
+    "changed_files": [
+      "packages/insomnia-app/app/ui/components/editors/auth/o-auth-1-auth.js",
+      "packages/insomnia-app/package.json"
+    ],
+    "changed_files_content": [],
+    "parent": "ccf0abe02dad965518e42af6c4cd816514d41ad2"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

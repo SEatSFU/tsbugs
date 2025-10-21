@@ -1,0 +1,140 @@
+{
+  "commit_index": "a4c20b1",
+  "commit_url": "https://github.com/xyflow/xyflow/commit/a4c20b192c7daea1111c6a17ea4005627dee2ad5",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "background",
+      "start",
+      "pattern",
+      "0,0",
+      "4615"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      "packages/react/src/additional-components/Background/Background.tsx"
+    ],
+    "changed_files_content": [],
+    "parent": "cff3fdd0cc921c0cf26902ad87e1b4f4ba44b223"
+  },
+  "pull_requests": null,
+  "issues": [
+    {
+      "title": [
+        "background",
+        "grid",
+        "snapping",
+        "misaligned"
+      ],
+      "labels": [],
+      "comments": [
+        {
+          "author": "sebdvd",
+          "content": [
+            "platform",
+            "using",
+            "found",
+            "bug",
+            "react",
+            "flow",
+            "svelte",
+            "flow",
+            "version",
+            "since",
+            "xyflow/react",
+            "12.1.0",
+            "browser",
+            "version",
+            "firefox",
+            "130",
+            "o",
+            "version",
+            "macos",
+            "14.6.1",
+            "live",
+            "code",
+            "example",
+            "http",
+            "//stackblitz.com/edit/vitejs-vite-xgdnyt",
+            "file=src",
+            "2fapp.jsx",
+            "describe",
+            "bug",
+            "since",
+            "xyflow/react",
+            "12.1.0",
+            "background",
+            "grid",
+            "snapping",
+            "misaligned",
+            "step",
+            "reproduce",
+            "bug",
+            "issue",
+            "go",
+            "http",
+            "//stackblitz.com/edit/vitejs-vite-xgdnyt",
+            "file=src",
+            "2fapp.jsx",
+            "background",
+            "grid",
+            "snapping",
+            "misaligned",
+            "expected",
+            "behavior",
+            "grid",
+            "snapping",
+            "background",
+            "well",
+            "working",
+            "xyflow/react",
+            "12.1.0",
+            "screenshots",
+            "video",
+            "screen.recording.2024-09-02.at.17.39.46.mov",
+            "additional",
+            "context",
+            "dot",
+            "background",
+            "look",
+            "fine",
+            "one",
+            "misaligned",
+            "confirm",
+            "regression",
+            "introduced",
+            "change",
+            "http",
+            "//github.com/xyflow/xyflow/pull/4501/files",
+            "tested",
+            "grid",
+            "without",
+            "change",
+            "coming",
+            "packages/react/src/additional-components/background/background.tsx",
+            "file",
+            "context",
+            "great",
+            "lib",
+            "btw"
+          ]
+        },
+        {
+          "author": "moklick",
+          "content": [
+            "fixed",
+            "12.2.1"
+          ]
+        },
+        {
+          "author": "moklick",
+          "content": [
+            "report"
+          ]
+        }
+      ]
+    }
+  ],
+  "security": null
+}

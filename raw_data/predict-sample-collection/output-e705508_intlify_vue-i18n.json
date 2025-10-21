@@ -1,0 +1,22 @@
+{
+  "commit_index": "e705508",
+  "commit_url": "https://github.com/intlify/vue-i18n/commit/e7055084e3b1f03aafed6556404e521e97527a81",
+  "commit": {
+    "commit_message": [
+      "doc",
+      "fix",
+      "wrong",
+      "code"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      "docs/guide/migration/breaking10.md"
+    ],
+    "changed_files_content": [],
+    "parent": "cf6e9c0b7217dcd6d91540c57efccc5bd881da57"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

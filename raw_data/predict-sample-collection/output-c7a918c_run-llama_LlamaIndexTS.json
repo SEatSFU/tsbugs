@@ -1,0 +1,92 @@
+{
+  "commit_index": "c7a918c",
+  "commit_url": "https://github.com/run-llama/LlamaIndexTS/commit/c7a918c3f5cf4ee066b37c42de5e839889712e4f",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "export",
+      "postprocessors",
+      "core",
+      "1419"
+    ],
+    "description": [],
+    "changed_files_count": 2,
+    "changed_files": [
+      ".changeset/purple-mangos-smoke.md",
+      "packages/llamaindex/src/index.edge.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "00e681d43b7fe3ef2221b60573f809ac40e8e851"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "export",
+        "postprocessors",
+        "core",
+        "1419"
+      ],
+      "total_discussions": 3,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "description",
+                "provided"
+              ],
+              "author": "himself65"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "latest",
+                "commit:4f622eb",
+                "change",
+                "pr",
+                "included",
+                "next",
+                "version",
+                "bump",
+                "sure",
+                "mean",
+                "click",
+                "learn",
+                "changesets",
+                "click",
+                "'re",
+                "maintainer",
+                "want",
+                "add",
+                "another",
+                "changeset",
+                "pr"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 3,
+          "comments": [
+            {
+              "content": [
+                "open",
+                "stackblitz",
+                "commit:4f622eb"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

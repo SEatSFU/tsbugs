@@ -1,0 +1,26 @@
+{
+  "commit_index": "5823847",
+  "commit_url": "https://github.com/chakra-ui/chakra-ui/commit/5823847e29c0db020ad10f737481c47b8c71e1e7",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "doc",
+      "move",
+      "theme",
+      "link",
+      "navigation",
+      "utility",
+      "section"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      "apps/www/docs.config.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "7a1dc7d6c4d790890ab1874fa69b1526ad7a2249"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

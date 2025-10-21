@@ -1,0 +1,115 @@
+{
+  "commit_index": "3e471d1",
+  "commit_url": "https://github.com/testing-library/user-event/commit/3e471d1feb2ab08c34650a9d51b4b29555122663",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "keyboard",
+      "add",
+      "contextmenu",
+      "defaultkeymap",
+      "1079"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      "src/keyboard/keyMap.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "a344ad4dfea07b854513705d9e5ef7b3ef10919d"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "keymap",
+        "add",
+        "contextmenu",
+        "key",
+        "1079"
+      ],
+      "total_discussions": 3,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "add",
+                "contextmenu",
+                "key",
+                "default",
+                "keyboard",
+                "layoutwhy",
+                "menu",
+                "key",
+                "part",
+                "standard",
+                "104",
+                "key",
+                "layout.how",
+                "researched",
+                "ensure",
+                "key",
+                "standard",
+                "looked",
+                "key",
+                "code",
+                "mdn.checklist",
+                "n/a",
+                "documentation",
+                "n/a",
+                "testsready",
+                "merged"
+              ],
+              "author": "ph-fritsche"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "pull",
+                "request",
+                "automatically",
+                "built",
+                "testable",
+                "incodesandbox",
+                "see",
+                "build",
+                "info",
+                "built",
+                "library",
+                "clickhereor",
+                "icon",
+                "next",
+                "commit",
+                "sha"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 3,
+          "comments": [
+            {
+              "content": [
+                "pr",
+                "included",
+                "version",
+                "14.6.1",
+                "release",
+                "available",
+                "yoursemantic-releasebot"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

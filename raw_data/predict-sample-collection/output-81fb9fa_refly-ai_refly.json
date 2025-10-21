@@ -1,0 +1,61 @@
+{
+  "commit_index": "81fb9fa",
+  "commit_url": "https://github.com/refly-ai/refly/commit/81fb9fa5ac59172b8bca763559d212a74588048c",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "rich-chat-input",
+      "enhance",
+      "mention",
+      "parsing",
+      "variable",
+      "metadata"
+    ],
+    "description": [
+      "improved",
+      "mention",
+      "parsing",
+      "logic",
+      "handle",
+      "variable",
+      "name",
+      "efficiently",
+      "sorting",
+      "matching",
+      "utilized",
+      "optional",
+      "chaining",
+      "nullish",
+      "coalescing",
+      "safer",
+      "access",
+      "object",
+      "property",
+      "updated",
+      "dependency",
+      "useeffect",
+      "include",
+      "allitems",
+      "better",
+      "performance",
+      "accuracy",
+      "rendering",
+      "mention",
+      "refactored",
+      "code",
+      "structure",
+      "improved",
+      "readability",
+      "maintainability"
+    ],
+    "changed_files_count": 1,
+    "changed_files": [
+      "packages/ai-workspace-common/src/components/canvas/launchpad/rich-chat-input.tsx"
+    ],
+    "changed_files_content": [],
+    "parent": "885d7cfa898bdde9cb73a3a3bc4a9a660a9c65f1"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

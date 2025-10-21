@@ -1,0 +1,473 @@
+{
+  "commit_index": "4b67ebd",
+  "commit_url": "https://github.com/react-native-community/cli/commit/4b67ebd9424cdde27e23a43142c8150505d25701",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "use",
+      "execa",
+      "spawn",
+      "jetifier",
+      "cross-platform",
+      "way",
+      "541"
+    ],
+    "description": [],
+    "changed_files_count": 2,
+    "changed_files": [
+      "packages/platform-android/package.json",
+      "packages/platform-android/src/commands/runAndroid/index.js"
+    ],
+    "changed_files_content": [],
+    "parent": "672986873848e15f29d60cc0daa1c7b5d795d390"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "use",
+        "execa",
+        "spawn",
+        "jetifier",
+        "541"
+      ],
+      "total_discussions": 6,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "summary",
+                "hopefully",
+                "resolve",
+                "window",
+                "issue",
+                "cc",
+                "theweavrsfixesfacebook/react-native",
+                "25667test",
+                "plan",
+                "work",
+                "window"
+              ],
+              "author": "thymikee"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "thymikeechecking"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 3,
+          "comments": [
+            {
+              "content": [
+                "anxious",
+                "resolution"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 4,
+          "comments": [
+            {
+              "content": [
+                "thymikeeconfirmed",
+                "work",
+                "like",
+                "charm"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 5,
+          "comments": [
+            {
+              "content": [
+                "live"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 6,
+          "comments": [
+            {
+              "content": [
+                "'s",
+                "already",
+                "published",
+                "cli",
+                "v2.6.2"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "title": [
+        "new",
+        "project",
+        "rn",
+        "0.60.3",
+        "return",
+        "enoent"
+      ],
+      "labels": [
+        "Resolution: Locked",
+        "Bug"
+      ],
+      "comments": [
+        {
+          "author": "kempoo",
+          "content": [
+            "clean",
+            "install",
+            "react-native",
+            "init",
+            "awesomeapp",
+            "result",
+            "enonet",
+            "error",
+            "react-native",
+            "run-android",
+            "react",
+            "native",
+            "version",
+            "0.60.3",
+            "ide",
+            "visual",
+            "studio",
+            "code",
+            "system",
+            "o",
+            "window",
+            "10",
+            "cpu",
+            "8",
+            "x64",
+            "intel",
+            "r",
+            "core",
+            "tm",
+            "i7-7700hq",
+            "cpu",
+            "2.80ghz",
+            "memory",
+            "2.47",
+            "gb",
+            "7.95",
+            "gb",
+            "binary",
+            "node",
+            "10.3.0",
+            "c",
+            "\\program",
+            "files\\nodejs\\node.exe",
+            "npm",
+            "6.1.0",
+            "c",
+            "\\program",
+            "files\\nodejs\\npm.cmd",
+            "ides",
+            "android",
+            "studio",
+            "version",
+            "3.4.0.0",
+            "ai-183.6156.11.34.5692245",
+            "step",
+            "reproduce",
+            "run",
+            "react-native",
+            "init",
+            "awesomeapp",
+            "run",
+            "react-native",
+            "run-android",
+            "describe",
+            "expected",
+            "happen",
+            "command",
+            "execute",
+            "successfully",
+            "error",
+            "error",
+            "failed",
+            "run",
+            "jetifier",
+            "error",
+            "spawnsync",
+            "e",
+            "\\dev\\awesomeapp\\node_modules\\jetifier\\bin\\jetify",
+            "enoent",
+            "object.spawnsync",
+            "internal/child_process.js:981:20",
+            "spawnsync",
+            "child_process.js:588:24",
+            "execfilesync",
+            "child_process.js:616:13",
+            "object.runandroid",
+            "func",
+            "e",
+            "\\dev\\awesomeapp\\node_modules\\",
+            "react-native-community\\cli-platform-android\\build\\commands\\runandroid\\index.js:101:41",
+            "command.handleaction",
+            "e",
+            "\\dev\\awesomeapp\\node_modules\\react-native\\node_modules\\",
+            "react-native-community\\cli\\build\\clientry.js:160:21",
+            "command.listener",
+            "e",
+            "\\dev\\awesomeapp\\node_modules\\commander\\index.js:315:8",
+            "command.emit",
+            "events.js:182:13",
+            "command.parseargs",
+            "e",
+            "\\dev\\awesomeapp\\node_modules\\commander\\index.js:651:12",
+            "command.parse",
+            "e",
+            "\\dev\\awesomeapp\\node_modules\\commander\\index.js:474:21",
+            "setupandrun",
+            "e",
+            "\\dev\\awesomeapp\\node_modules\\react-native\\node_modules\\",
+            "react-native-community\\cli\\build\\clientry.js:210:24"
+          ]
+        },
+        {
+          "author": "HamitEnes",
+          "content": [
+            "info",
+            "running",
+            "react-native",
+            "run-android",
+            "command",
+            "like",
+            "_info",
+            "running",
+            "jetifier",
+            "migrate",
+            "library",
+            "androidx",
+            "disable",
+            "using",
+            "--",
+            "no-jetifier",
+            "flag._",
+            "react-native",
+            "run-android",
+            "--",
+            "no-jetifier",
+            "command",
+            "project",
+            "open",
+            "correctly",
+            "dont",
+            "know",
+            "happens",
+            "jetifier",
+            "stopped"
+          ]
+        },
+        {
+          "author": "yang200258",
+          "content": [
+            "run",
+            "react-native",
+            "run-android",
+            "--",
+            "no-jetifier"
+          ]
+        },
+        {
+          "author": "niedem",
+          "content": [
+            "run",
+            "react-native",
+            "run-android",
+            "--",
+            "no-jetifier",
+            "yeah",
+            "libs",
+            "require",
+            "jetifier"
+          ]
+        },
+        {
+          "author": "Inovassist-dev",
+          "content": [
+            "hey",
+            "guy",
+            "nothing",
+            "working",
+            "yet",
+            "reason",
+            "receive",
+            "following",
+            "error",
+            "failed",
+            "run",
+            "jetifier",
+            "environment",
+            "following",
+            "node",
+            "12.6.0",
+            "npm",
+            "6.9.0",
+            "react",
+            "native",
+            "cli",
+            "2.0.1",
+            "react",
+            "native",
+            "0.60.1",
+            "o",
+            "window",
+            "10",
+            "someone",
+            "please",
+            "help",
+            "need",
+            "jetifier",
+            "project"
+          ]
+        },
+        {
+          "author": "damianjakubiuk",
+          "content": [
+            "maybe",
+            "help",
+            "someone",
+            "1.",
+            "npm",
+            "jetifier",
+            "-d",
+            "2.",
+            "add",
+            "script",
+            "jetify",
+            "jetify",
+            "3.",
+            "npm",
+            "run",
+            "jetify",
+            "4.",
+            "react-native",
+            "run-android",
+            "--",
+            "no-jetifier"
+          ]
+        },
+        {
+          "author": "thymikee",
+          "content": [
+            "issue",
+            "cli",
+            "look",
+            "like",
+            "jetifier/bin/jetify",
+            "found",
+            "window",
+            "somebody",
+            "window",
+            "machine",
+            "investigate",
+            "'s",
+            "code",
+            "responsible",
+            "http",
+            "//github.com/react-native-community/cli/blob/672986873848e15f29d60cc0daa1c7b5d795d390/packages/platform-android/src/commands/runandroid/index.js",
+            "l71"
+          ]
+        },
+        {
+          "author": "Inovassist-dev",
+          "content": [
+            "jaycobbs",
+            "tried",
+            "change",
+            "worked",
+            "run",
+            "npx",
+            "jetify",
+            "followed",
+            "react-native",
+            "run-android",
+            "--",
+            "no-jetifier",
+            "compiled",
+            "successfully",
+            "update",
+            "downgraded",
+            "react",
+            "native",
+            "0.59.8",
+            "worked",
+            "like",
+            "charm",
+            "n't",
+            "us",
+            "jetifier",
+            "migrate",
+            "plugins",
+            "androidx",
+            "'s",
+            "clearly",
+            "problem",
+            "jetifier",
+            "...",
+            "ca",
+            "n't",
+            "understand",
+            "script",
+            "run",
+            "npx",
+            "directly",
+            "compiler",
+            "...",
+            "'ll",
+            "check",
+            "code",
+            "try",
+            "find",
+            "something",
+            "...",
+            "anyway",
+            "guy",
+            "helping"
+          ]
+        },
+        {
+          "author": "thymikee",
+          "content": [
+            "kindly",
+            "request",
+            "reviewing",
+            "testing",
+            "proposal",
+            "fix",
+            "http",
+            "//github.com/react-native-community/cli/pull/541",
+            "n't",
+            "window",
+            "machine",
+            "set",
+            "currently"
+          ]
+        }
+      ]
+    }
+  ],
+  "security": null
+}

@@ -1,0 +1,291 @@
+{
+  "commit_index": "9c73f0a",
+  "commit_url": "https://github.com/run-llama/LlamaIndexTS/commit/9c73f0a53036410c878b8bb4834a6a45499001bb",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "core",
+      "async",
+      "local",
+      "storage",
+      "setting.with",
+      "api",
+      "1413"
+    ],
+    "description": [],
+    "changed_files_count": 7,
+    "changed_files": [
+      ".changeset/tall-badgers-melt.md",
+      "packages/core/src/global/settings/chunk-size.ts",
+      "packages/core/src/global/settings/llm.ts",
+      "packages/core/src/global/settings/tokenizer.ts",
+      "pnpm-lock.yaml",
+      "unit/package.json",
+      "unit/settings/global.test.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "52a4d2b83d2371fd782f39b907f04eeaf507722c"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "core",
+        "async",
+        "local",
+        "storage",
+        "insetting.withapi",
+        "1413"
+      ],
+      "total_discussions": 4,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "fix",
+                "1359"
+              ],
+              "author": "himself65"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "latest",
+                "commit",
+                "c5335a9",
+                "change",
+                "pr",
+                "included",
+                "next",
+                "version",
+                "bump",
+                "sure",
+                "mean",
+                "click",
+                "learn",
+                "changesets",
+                "click",
+                "'re",
+                "maintainer",
+                "want",
+                "add",
+                "another",
+                "changeset",
+                "pr"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 3,
+          "comments": [
+            {
+              "content": [
+                "himself65is",
+                "attempting",
+                "deploy",
+                "commit",
+                "thellamaindexteam",
+                "onvercel",
+                "member",
+                "team",
+                "first",
+                "need",
+                "toauthorize"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 4,
+          "comments": [
+            {
+              "content": [
+                "open",
+                "stackblitz",
+                "commit",
+                "c5335a9"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "title": [
+        "settings.llm",
+        "ignoring",
+        "settings.withllm",
+        "using",
+        "default",
+        "llm",
+        "e.g",
+        "simplechatengine"
+      ],
+      "labels": [
+        "bug"
+      ],
+      "comments": [
+        {
+          "author": "parhammmm",
+          "content": [
+            "using",
+            "settings.withllm",
+            "//",
+            "working",
+            "const",
+            "engine",
+            "setting",
+            "withllm",
+            "llm",
+            "return",
+            "new",
+            "simplechatengine",
+            "//",
+            "http",
+            "//github.com/run-llama/llamaindexts/blob/76b925e62a74a3df89205d5412671b5c52006f24/packages/llamaindex/src/engines/chat/simplechatengine.ts",
+            "l26",
+            "export",
+            "class",
+            "simplechatengine",
+            "implement",
+            "basechatengine",
+            "...",
+            "constructor",
+            "init",
+            "partial",
+            "simplechatengine",
+            "memory",
+            "init",
+            "memory",
+            "new",
+            "chatmemorybuffer",
+            "llm",
+            "init",
+            "llm",
+            "setting",
+            "llm",
+            "console",
+            "log",
+            "llm",
+            "//",
+            "default",
+            "llm",
+            "one",
+            "gave",
+            "withllm",
+            "...",
+            "using",
+            "simplechatengine",
+            "following",
+            "way",
+            "work",
+            "//",
+            "working",
+            "const",
+            "engine",
+            "new",
+            "simplechatengine",
+            "llm",
+            "//",
+            "working",
+            "setting",
+            "llm",
+            "llm",
+            "const",
+            "engine",
+            "new",
+            "simplechatengine",
+            "note",
+            "best",
+            "guess",
+            "object",
+            "reference",
+            "issue",
+            "something",
+            "todo",
+            "asynclocalstorage",
+            "agent",
+            "work",
+            "fine",
+            "guess",
+            "context",
+            "saved",
+            "store"
+          ]
+        },
+        {
+          "author": "himself65",
+          "content": [
+            "n't",
+            "time",
+            "debug",
+            "maybe",
+            "bundler",
+            "issue",
+            "'s",
+            "two",
+            "setting",
+            "code"
+          ]
+        },
+        {
+          "author": "himself65",
+          "content": [
+            "ok",
+            "minimal",
+            "reproduce",
+            "t",
+            "import",
+            "openai",
+            "setting",
+            "'llamaindex",
+            "//",
+            "update",
+            "chunk",
+            "size",
+            "settings.chunksize",
+            "512",
+            "const",
+            "llm",
+            "new",
+            "openai",
+            "async",
+            "function",
+            "main",
+            "//",
+            "working",
+            "settings.withllm",
+            "llm",
+            "console.log",
+            "settings.llm",
+            "===",
+            "llm",
+            "main",
+            ".catch",
+            "console.error"
+          ]
+        },
+        {
+          "author": "himself65",
+          "content": [
+            "ok",
+            "'s",
+            "dumb",
+            "bug"
+          ]
+        }
+      ]
+    }
+  ],
+  "security": null
+}

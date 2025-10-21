@@ -1,0 +1,23 @@
+{
+  "commit_index": "5cedf92",
+  "commit_url": "https://github.com/Kong/insomnia/commit/5cedf92f0eeb7e720c3b06c38a22edfb5aa51514",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "deps"
+    ],
+    "description": [],
+    "changed_files_count": 4,
+    "changed_files": [
+      "package-lock.json",
+      "package.json",
+      "packages/insomnia-app/package-lock.json",
+      "packages/insomnia-app/package.json"
+    ],
+    "changed_files_content": [],
+    "parent": "b3e473071824f0e48e7c26507163182acbe01703"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

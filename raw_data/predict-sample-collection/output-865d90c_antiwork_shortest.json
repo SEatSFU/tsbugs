@@ -1,0 +1,26 @@
+{
+  "commit_index": "865d90c",
+  "commit_url": "https://github.com/antiwork/shortest/commit/865d90c1a9b41f520f81fc04fba5b01213099dd4",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "mock",
+      "entire",
+      "github.ts",
+      "logic",
+      "order",
+      "better",
+      "mock"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      "lib/__tests__/github.test.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "40c7e1f5ecd3c7d0f82df82ab46effbfd4219375"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

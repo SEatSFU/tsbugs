@@ -1,0 +1,20 @@
+{
+  "commit_index": "29e9356",
+  "commit_url": "https://github.com/Kong/insomnia/commit/29e93565f74863161a26f4f9409ee7234b2abd4a",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "test"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      "packages/insomnia-app/app/sync/types.js"
+    ],
+    "changed_files_content": [],
+    "parent": "74d5de69a1365dccd86a668aa815d1e7c4187dd2"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

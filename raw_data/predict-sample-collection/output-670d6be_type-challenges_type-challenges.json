@@ -1,0 +1,21 @@
+{
+  "commit_index": "670d6be",
+  "commit_url": "https://github.com/type-challenges/type-challenges/commit/670d6be7c280ae79eee4ac149c6acf424cfcfd03",
+  "commit": {
+    "commit_message": [
+      "chore",
+      "fix",
+      "detail"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      "scripts/locales/ja.json"
+    ],
+    "changed_files_content": [],
+    "parent": "c7ae352785f56ee5d90a8d364fe3f692a665664d"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

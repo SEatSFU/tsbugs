@@ -1,0 +1,278 @@
+{
+  "commit_index": "04e59aa",
+  "commit_url": "https://github.com/type-challenges/type-challenges/commit/04e59aab032c70f79ddb27550212c4cb6f706f21",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "add",
+      "test",
+      "case",
+      "110",
+      "medium",
+      "capitalize",
+      "4778"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      "questions/110-medium-capitalize/test-cases.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "358d93401195a95d229e11868f2c3de0e7f74ae1"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "add",
+        "test",
+        "case",
+        "110",
+        "medium",
+        "capitalize",
+        "4778"
+      ],
+      "total_discussions": 4,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "test",
+                "26",
+                "alphabet"
+              ],
+              "author": "antfu"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "necessary",
+                "tho"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 3,
+          "comments": [
+            {
+              "content": [
+                "saw",
+                "solution",
+                "like",
+                "haha"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 4,
+          "comments": [
+            {
+              "content": [
+                "generally",
+                "ca",
+                "n't",
+                "prevent",
+                "ppl",
+                "overfitting",
+                "test",
+                "case",
+                "matter",
+                "many",
+                "test",
+                "case",
+                "provides",
+                "p"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "title": [
+        "capitalize"
+      ],
+      "labels": [
+        "new-challenge",
+        "ts4.1"
+      ],
+      "comments": [
+        {
+          "author": "antfu",
+          "content": [
+            "requires",
+            "microsoft/typescript",
+            "40336",
+            "work",
+            "try",
+            "preview",
+            "badge",
+            "info",
+            "basic",
+            "info",
+            "challenge",
+            "question",
+            "difficulty",
+            "medium",
+            "title",
+            "capitalize",
+            "tag",
+            "template-string",
+            "tsconfig",
+            "t",
+            "4.1.0-pr-40336-88",
+            "question",
+            "implement",
+            "capitalize",
+            "convert",
+            "first",
+            "letter",
+            "string",
+            "uppercase",
+            "leave",
+            "rest",
+            "as-is",
+            "example",
+            "type",
+            "capitalized",
+            "capitalize",
+            "'hello",
+            "world",
+            "//",
+            "expected",
+            "'hello",
+            "world",
+            "template",
+            "template",
+            "challenger",
+            "start",
+            "coding",
+            "basically",
+            "need",
+            "change",
+            "name",
+            "generic/function",
+            "leave",
+            "implementation",
+            "type",
+            "capitalize",
+            "extends",
+            "string",
+            "test",
+            "case",
+            "provide",
+            "test",
+            "case",
+            "challenge",
+            "use",
+            "utils",
+            "type-challenges/utils",
+            "asserting",
+            "import",
+            "equal",
+            "expect",
+            "type-challenges/utils",
+            "type",
+            "case",
+            "expect",
+            "equal",
+            "capitalize",
+            "'foobar",
+            "'foobar",
+            "expect",
+            "equal",
+            "capitalize",
+            "'foobar",
+            "'foobar",
+            "expect",
+            "equal",
+            "capitalize",
+            "'foo",
+            "bar",
+            "'foo",
+            "bar",
+            "expect",
+            "equal",
+            "capitalize"
+          ]
+        },
+        {
+          "author": "github-actions",
+          "content": [
+            "111",
+            "pull",
+            "request",
+            "updated",
+            "2020-09-04t06:26:00.567z",
+            "http",
+            "//img.shields.io/date/1599200761",
+            "color=green",
+            "label=",
+            "href=",
+            "http",
+            "//www.typescriptlang.org/play",
+            "ts=4.1.0-pr-40336-88",
+            "code/pqkguabbcm0awqlqqmiemaoblalmgnlgf4cmapacob8ksi9dtargj4qccadjgbyd2nngdearhaauaattcaziicueamqbbegbmsi1spwlvgfgn2iazjgbowtghnatzu4gbfesqtybdqaeld+ayk3baabujyeisklfsheadupfgaxjwqkqiabiswogyqvcqqsliwfhcbopqwehyyeggqftz2hxwqihgyuslozsuygpukadmfpmwwhjinzohyzgb0alc0a1bcflukab5oasqbemehz-nhocw9gzi4bmsaeac8qhdrj2qa5jp4+b0jbb4drfkgqydacb7hopftdhadjjfl4acrifwbqjbpzopggyiaalgsak6pwiabxxaokrmabceb41qwzjpepyaswactlttbmbyhawcbggaxaaiab9auy2uyiaatt4ilqkd4gmkaomurluslebfyqunwi92i5aaylddvpoboci0blywa8zcwxwajxrdrakdm3gmct65qbrvhdntzgbvcaauqajiicaaaoo7ggzac+jusff0x0kxpiidsbecdg8wbeocw+dmxzwaylt0dlwgag1jrh0yrywqe0n8grtr8yl9zhw+ew0jzqamvlspzpqvrk12e32bwrh+8hmohab5a8aixyacu5xaf0ftxeqkv1xn+4ntyo9+rx5oinpz6ur4vv2xe811obsny3ic33nb5ly+fcqiaxq9l1g3luq8kmwolx0fkdvq-vdvawgwqthgz2kfhlvqmw+hwasve4vlgwzvl2tmtkeswpkbxgyazdmbjcmiiairjzpapogqmkzhawtzyaor4bleusflbwagi6jrkthiaww2youdiv5glsdwgrkus2i4lt7enmaga",
+            "target=",
+            "_blank",
+            "img",
+            "src=",
+            "http",
+            "//img.shields.io/badge/-preview",
+            "20in",
+            "20playground-3178c6",
+            "logo=typescript",
+            "alt=",
+            "preview",
+            "playground",
+            "/a"
+          ]
+        },
+        {
+          "author": "Manu1400",
+          "content": [
+            "antfu",
+            "quick",
+            "solution",
+            "http",
+            "//www.typescriptlang.org/play",
+            "ts=4.1.0-dev.20200929",
+            "code/c4twdgpgbayglgjwm7amiascgca8blybkcad2agdsatjkfbocgcwd4obekao0862gayasan6mazhclxkwal6ijurhadgae2pybuapxrhimsm1qaxfabelgfchiuaopxg6dqfdgxtflzdizjq0dismrbxchaf8wyzk0ogmihssrhhqmlsm+obpglo6fty2dudqqjhglpgannaaxhd40ug09gfsniyaqmcqckqyse3egnj4lcwkis6uhl6jpun4uwilapqavfaa+nv7b-tqacoqkfavw7shn3tqm+s2cac2yooiwfaiuaciai7uwoagl+jegqk+cig4gq6meuaa5aabewqac0qiwnrqlcyz3wnjgnsqcjkqkgaceihuqsbag0mgiajdudzykgilhkspqqzxciabrsufb4oaoh+gjqobp1tqjrwcpe6nuacnsjyqqiycr1qhoswgclrwpxzlajlknkgyqyab5o0ugccacvnyj7y7xqajskfmdtrkarbzxt5yzleoohr3dqvdgnznfsaiugpzbafsfqjyz7jf6xwmq1awzbmazaqgoybeqbjivsvmaxrsqa"
+          ]
+        },
+        {
+          "author": "Manu1400",
+          "content": [
+            "could",
+            "add",
+            "test",
+            "case",
+            "unicode",
+            "expect",
+            "equal",
+            "capitalize",
+            "'\u00e9douard",
+            "'\u00e9douard",
+            "expect",
+            "equal",
+            "capitalize",
+            "'\ud83c\udfa2",
+            "'\ud83c\udfa2"
+          ]
+        }
+      ]
+    }
+  ],
+  "security": null
+}

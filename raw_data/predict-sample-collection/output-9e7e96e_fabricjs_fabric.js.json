@@ -1,0 +1,202 @@
+{
+  "commit_index": "9e7e96e",
+  "commit_url": "https://github.com/fabricjs/fabric.js/commit/9e7e96e5d10203ded43b07e2916762c27c620e7f",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "filter",
+      "pixelate",
+      "behaves",
+      "differently",
+      "webgl",
+      "\u2026"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      "src/filters/shaders/pixelate.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "19e20e6e02892aa35c1f3492a4c5d388b26a01f8"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "filter",
+        "pixelate",
+        "behaves",
+        "differently",
+        "webgl",
+        "square",
+        "rather",
+        "image",
+        "scale",
+        "10081"
+      ],
+      "total_discussions": 8,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "descriptioninpixelate.applyto2d",
+                "pixel",
+                "squared",
+                "consistent",
+                "expected",
+                "performancebut",
+                "webgl",
+                "pixel",
+                "follow",
+                "width",
+                "height",
+                "image.in",
+                "action"
+              ],
+              "author": "asturur"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "open",
+                "branch",
+                "inweb",
+                "editor\u2022vs",
+                "code\u2022insidersopenpreview"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 3,
+          "comments": [
+            {
+              "content": [
+                "remember",
+                "noticing",
+                "reason",
+                "thought",
+                "fix",
+                "eventually",
+                "n't"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 4,
+          "comments": [
+            {
+              "content": [
+                "post",
+                "screenshot",
+                "non",
+                "square",
+                "image",
+                "pixelate",
+                "filter",
+                "applied"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 5,
+          "comments": [
+            {
+              "content": [
+                "http",
+                "//jsfiddle.net/5vojyagl/5/",
+                "200",
+                "100",
+                "gradient",
+                "example",
+                "photo"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 6,
+          "comments": [
+            {
+              "content": [
+                "fix",
+                "without"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 7,
+          "comments": [
+            {
+              "content": [
+                "fiddle",
+                "example",
+                "6.3.0",
+                "isnot",
+                "fixed",
+                "applied",
+                "change",
+                "made",
+                "pull",
+                "directly",
+                "index.min.mjs",
+                "worked",
+                "fine",
+                "believe",
+                "pull",
+                "change",
+                "also",
+                "applies",
+                "source",
+                "code",
+                "character",
+                "change",
+                "affected",
+                "compilation"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 8,
+          "comments": [
+            {
+              "content": [
+                "good",
+                "merge",
+                "would",
+                "nice",
+                "add",
+                "visual",
+                "test",
+                "regression",
+                "changelog.the",
+                "changelog",
+                "figure",
+                "looking",
+                "changelog.md",
+                "file",
+                "test",
+                "soon",
+                "minute",
+                "free"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

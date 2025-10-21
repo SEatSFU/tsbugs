@@ -1,0 +1,44 @@
+{
+  "commit_index": "370295c",
+  "commit_url": "https://github.com/type-challenges/type-challenges/commit/370295c959a9773af70354b6c1a0ed378b452731",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "naming"
+    ],
+    "description": [],
+    "changed_files_count": 25,
+    "changed_files": [
+      "README.md",
+      "README.zh-CN.md",
+      "questions/11-easy-restrict-key/test-cases.ts",
+      "questions/11-easy-tuple-to-object/README.md",
+      "questions/11-easy-tuple-to-object/info.yml",
+      "questions/11-easy-tuple-to-object/info.zh-CN.yml",
+      "questions/11-easy-tuple-to-object/template.ts",
+      "questions/11-easy-tuple-to-object/test-cases.ts",
+      "questions/14-easy-first/README.md",
+      "questions/14-easy-first/info.yml",
+      "questions/14-easy-first/info.zh-CN.yml",
+      "questions/14-easy-first/template.ts",
+      "questions/14-easy-first/test-cases.ts",
+      "questions/14-easy-head/README.md",
+      "questions/14-easy-head/info.zh-CN.yml",
+      "questions/14-easy-head/template.ts",
+      "questions/14-easy-head/test-cases.ts",
+      "questions/15-medium-last/README.md",
+      "questions/15-medium-last/info.yml",
+      "questions/15-medium-last/info.zh-CN.yml",
+      "questions/15-medium-last/template.ts",
+      "questions/15-medium-last/test-cases.ts",
+      "questions/15-medium-tail/info.zh-CN.yml",
+      "questions/15-medium-tail/template.ts",
+      "questions/15-medium-tail/test-cases.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "df6e22f105b8a1cc79786435c20f95e0d53db45d"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

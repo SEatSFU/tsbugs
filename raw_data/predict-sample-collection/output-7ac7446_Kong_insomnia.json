@@ -1,0 +1,20 @@
+{
+  "commit_index": "7ac7446",
+  "commit_url": "https://github.com/Kong/insomnia/commit/7ac74469a34611027f3640a2b08fe1b6e8653114",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "test"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      "packages/insomnia-app/app/plugins/context/__tests__/store.test.js"
+    ],
+    "changed_files_content": [],
+    "parent": "6cbe8821416fda246a4b3c0bff8535435c633ea4"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

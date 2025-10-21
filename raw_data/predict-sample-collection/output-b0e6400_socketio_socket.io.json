@@ -1,0 +1,32 @@
+{
+  "commit_index": "b0e6400",
+  "commit_url": "https://github.com/socketio/socket.io/commit/b0e6400c93b5c4aa25e6a629d6448b8627275213",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "properly",
+      "detect",
+      "plain",
+      "object"
+    ],
+    "description": [
+      "typeof",
+      "check",
+      "sufficient",
+      "also",
+      "match",
+      "array",
+      "null"
+    ],
+    "changed_files_count": 2,
+    "changed_files": [
+      "lib/index.ts",
+      "test/parser.js"
+    ],
+    "changed_files_content": [],
+    "parent": "d9db4737a3c8ce5f1f49ecc8d928a74f3da591f7"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

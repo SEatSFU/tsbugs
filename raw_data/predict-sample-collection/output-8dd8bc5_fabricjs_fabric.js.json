@@ -1,0 +1,471 @@
+{
+  "commit_index": "8dd8bc5",
+  "commit_url": "https://github.com/fabricjs/fabric.js/commit/8dd8bc5e4d10621d4d2d5df026ba05e6967c914a",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "fabricimage",
+      "make",
+      "accessing",
+      "classlist",
+      "htmlimage",
+      "optional",
+      "s\u2026"
+    ],
+    "description": [],
+    "changed_files_count": 2,
+    "changed_files": [
+      "CHANGELOG.md",
+      "src/shapes/Image.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "d1b07ccb9a3dcd3aa0380232c9f1fa8472ff8bfe"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "image.ts",
+        "make",
+        "accessing",
+        "classlist",
+        "htmlimage",
+        "optional",
+        "setelement",
+        "function",
+        "prevent",
+        "error",
+        "using",
+        "node",
+        "canvas",
+        "image",
+        "10412"
+      ],
+      "total_discussions": 4,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "temporary",
+                "fix",
+                "issue",
+                "mentioned",
+                "10032"
+              ],
+              "author": "asturur"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "open",
+                "branch",
+                "inweb",
+                "editor\u2022vs",
+                "code\u2022insidersopenpreview"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 3,
+          "comments": [
+            {
+              "content": [
+                "please",
+                "add",
+                "line",
+                "changelog.md",
+                "file",
+                "see",
+                "pr",
+                "good",
+                "go"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 4,
+          "comments": [
+            {
+              "content": [
+                "move",
+                "pr",
+                "n't",
+                "wait",
+                "line"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "title": [
+        "bug",
+        "ca",
+        "n't",
+        "instantiate",
+        "fabricimage",
+        "node-canvas",
+        "image",
+        "since",
+        "v6"
+      ],
+      "labels": [],
+      "comments": [
+        {
+          "author": "SvenFackert",
+          "content": [
+            "checklist",
+            "agree",
+            "follow",
+            "project",
+            "'s",
+            "code",
+            "conduct",
+            "read",
+            "followed",
+            "contributing",
+            "guide",
+            "read",
+            "followed",
+            "issue",
+            "tracker",
+            "guide",
+            "searched",
+            "referenced",
+            "existing",
+            "issue",
+            "discussion",
+            "filing",
+            "bug",
+            "report",
+            "managed",
+            "reproduce",
+            "bug",
+            "upgrading",
+            "latest",
+            "version",
+            "created",
+            "accurate",
+            "minimal",
+            "reproduction",
+            "version",
+            "6.0.2",
+            "environment",
+            "experiencing",
+            "problem",
+            "node.js",
+            "node",
+            "version",
+            "applicable",
+            "20.0.0",
+            "link",
+            "reproduction",
+            "description",
+            "sufficient",
+            "reference",
+            "specific",
+            "code",
+            "given",
+            "step",
+            "reproduce",
+            "create",
+            "image",
+            "using",
+            "node-canvas",
+            "pas",
+            "fabricimage",
+            "constructor",
+            "import",
+            "image",
+            "'canvas",
+            "const",
+            "nodecanvasimage",
+            "new",
+            "image",
+            "const",
+            "fabricimage",
+            "new",
+            "fabricimage",
+            "nodecanvasimage",
+            "expected",
+            "behavior",
+            "similar",
+            "bug",
+            "report",
+            "would",
+            "expect",
+            "passing",
+            "node-canvas",
+            "image",
+            "object",
+            "still",
+            "work",
+            "using",
+            "fabric.js",
+            "together",
+            "node-canvas",
+            "node",
+            "backends",
+            "previously",
+            "described",
+            "doc",
+            "would",
+            "nice",
+            "able",
+            "use",
+            "node-canvas",
+            "image",
+            "without",
+            "stubbing/monkey",
+            "patching",
+            "classlist",
+            "property",
+            "also",
+            "without",
+            "adding",
+            "js-dom",
+            "use",
+            "case",
+            "think",
+            "actual",
+            "behavior",
+            "constructor",
+            "fabricimage",
+            "call",
+            "image.setelement",
+            "try",
+            "call",
+            "classlist.add",
+            "method",
+            "passed",
+            "image",
+            "classlist",
+            "supported",
+            "htmlimageelement",
+            "node-canvas",
+            "image",
+            "result",
+            "following",
+            "runtime",
+            "error",
+            "read",
+            "property",
+            "undefined",
+            "reading",
+            "'add",
+            "error",
+            "message",
+            "stack",
+            "trace",
+            "response"
+          ]
+        },
+        {
+          "author": "asturur",
+          "content": [
+            "keep",
+            "jsdom",
+            "purpose",
+            "importing",
+            "fabricimage",
+            "'fabric/node",
+            "'fabric"
+          ]
+        },
+        {
+          "author": "asturur",
+          "content": [
+            "would",
+            "n't",
+            "issue",
+            "avoid",
+            "classlist",
+            "may",
+            "interaction",
+            "image",
+            "html",
+            "element",
+            "may",
+            "add",
+            "future",
+            "would",
+            "break",
+            "n't",
+            "want",
+            "install",
+            "jsdom",
+            "'m",
+            "also",
+            "sure",
+            "add",
+            "class",
+            "anymore",
+            "maybe",
+            "make",
+            "check",
+            "optional",
+            "solves",
+            "issue",
+            "would",
+            "n't",
+            "make",
+            "node-canvas",
+            "image",
+            "supported",
+            "entirely"
+          ]
+        },
+        {
+          "author": "zhangweiwei0326",
+          "content": [
+            "+1",
+            "node_modules\\fabric\\dist\\index.node.cjs:24117",
+            "element.classlist.add",
+            "fabricimage.css_canvas",
+            "typeerror",
+            "read",
+            "property",
+            "undefined",
+            "reading",
+            "'add"
+          ]
+        },
+        {
+          "author": "bkeepers",
+          "content": [
+            "workaround",
+            "add",
+            "classlist",
+            "property",
+            "add",
+            "merthod",
+            "diff",
+            "import",
+            "image",
+            "'canvas",
+            "const",
+            "img",
+            "new",
+            "image",
+            "img.classlist",
+            "new",
+            "set",
+            "const",
+            "fabricimage",
+            "new",
+            "fabricimage",
+            "img"
+          ]
+        },
+        {
+          "author": "asturur",
+          "content": [
+            "n't",
+            "even",
+            "know",
+            "add",
+            "class",
+            "like",
+            "want",
+            "target",
+            "cs",
+            "element",
+            "seems",
+            "dangerous",
+            "especially",
+            "reusing",
+            "element",
+            "also",
+            "dom",
+            "referencing",
+            "adding",
+            "class",
+            "attached",
+            "style",
+            "provided",
+            "default",
+            "going",
+            "mess",
+            "element",
+            "look",
+            "like",
+            "flag",
+            "removal",
+            "really",
+            "ca",
+            "n't",
+            "understand",
+            "usefulness"
+          ]
+        },
+        {
+          "author": "asturur",
+          "content": [
+            "deprecated"
+          ]
+        },
+        {
+          "author": "asturur",
+          "content": [
+            "take",
+            "time",
+            "published",
+            "theory",
+            "breaking",
+            "change",
+            "meantime",
+            "add",
+            "optional",
+            "chainer",
+            "make",
+            "work"
+          ]
+        },
+        {
+          "author": "asturur",
+          "content": [
+            "feel",
+            "like",
+            "open",
+            "pr",
+            "call",
+            "parenthesis"
+          ]
+        },
+        {
+          "author": "asturur",
+          "content": [
+            "yes",
+            "monkeypatching",
+            "small",
+            "thing",
+            "evil",
+            "fix",
+            "make",
+            "sense",
+            "better",
+            "effort",
+            "toward",
+            "monkepatching",
+            "avoidable",
+            "apis",
+            "subclassing"
+          ]
+        }
+      ]
+    }
+  ],
+  "security": null
+}

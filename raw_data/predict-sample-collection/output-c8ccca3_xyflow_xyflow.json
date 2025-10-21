@@ -1,0 +1,23 @@
+{
+  "commit_index": "c8ccca3",
+  "commit_url": "https://github.com/xyflow/xyflow/commit/c8ccca3434deab355fa8c3be44b064596b5fffdd",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "library",
+      "working",
+      "development",
+      "mode"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      "tooling/rollup-config/src/index.js"
+    ],
+    "changed_files_content": [],
+    "parent": "49e74dc88241c520f4744ba9ed34bb11dc31fc48"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

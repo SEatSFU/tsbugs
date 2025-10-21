@@ -1,0 +1,26 @@
+{
+  "commit_index": "83fd82f",
+  "commit_url": "https://github.com/ueberdosis/hocuspocus/commit/83fd82faff9e743d32d07ec7780d0186e3ba5dd3",
+  "commit": {
+    "commit_message": [
+      "demo",
+      "fix",
+      "minor",
+      "issue",
+      "broke",
+      "hot",
+      "reloading"
+    ],
+    "description": [],
+    "changed_files_count": 2,
+    "changed_files": [
+      "demos/frontend/src/pages/Index.vue",
+      "demos/frontend/src/pages/Subdocuments.vue"
+    ],
+    "changed_files_content": [],
+    "parent": "7f06839a457d2b95761873659015b646b3aa9f6a"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

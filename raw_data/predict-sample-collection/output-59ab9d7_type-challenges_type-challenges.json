@@ -1,0 +1,213 @@
+{
+  "commit_index": "59ab9d7",
+  "commit_url": "https://github.com/type-challenges/type-challenges/commit/59ab9d7494d5c86f4efa5533364e4c3dbdbb83b9",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "add",
+      "test",
+      "case",
+      "610",
+      "camelcase",
+      "4762"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      "questions/610-medium-camelcase/test-cases.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "a9f165f5106d1fc81ba872bd7d517f973f23e4d8"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "add",
+        "test",
+        "case",
+        "610",
+        "camelcase",
+        "4762"
+      ],
+      "total_discussions": 1,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "description",
+                "provided"
+              ],
+              "author": "antfu"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "title": [
+        "camelcase"
+      ],
+      "labels": [
+        "new-challenge"
+      ],
+      "comments": [
+        {
+          "author": "johnsoncodehk",
+          "content": [
+            "info",
+            "related",
+            "vuejs/rfcs",
+            "248",
+            "difficulty",
+            "medium",
+            "title",
+            "camelcase",
+            "tag",
+            "template-literal",
+            "question",
+            "for-bar-baz",
+            "forbarbaz",
+            "template",
+            "type",
+            "camelcase",
+            "test",
+            "case",
+            "import",
+            "equal",
+            "expect",
+            "expectfalse",
+            "notequal",
+            "type-challenges/utils",
+            "type",
+            "case",
+            "expect",
+            "equal",
+            "camelcase",
+            "'foo-bar-baz",
+            "'foobarbaz",
+            "expect",
+            "equal",
+            "camelcase",
+            "'foo-bar-baz",
+            "'foo-bar-baz",
+            "expect",
+            "equal",
+            "camelcase",
+            "'foo-bar",
+            "'foobar",
+            "expect",
+            "equal",
+            "camelcase",
+            "'foo_bar",
+            "'foo_bar",
+            "expect",
+            "equal",
+            "camelcase",
+            "'foo",
+            "--",
+            "bar",
+            "'foo-bar",
+            "expect",
+            "equal",
+            "camelcase",
+            "a-b-c",
+            "'abc",
+            "expect",
+            "equal",
+            "camelcase",
+            "a-b-c-",
+            "'abc-",
+            "expect",
+            "equal",
+            "camelcase",
+            "'abc",
+            "'abc",
+            "expect",
+            "equal",
+            "camelcase",
+            "'-",
+            "'-",
+            "expect",
+            "equal",
+            "camelcase",
+            "expect",
+            "equal",
+            "camelcase",
+            "'\ud83d\ude0e",
+            "'\ud83d\ude0e"
+          ]
+        },
+        {
+          "author": "github-actions",
+          "content": [
+            "611",
+            "pull",
+            "request",
+            "updated",
+            "2021-01-05t14:06:25.710z",
+            "http",
+            "//img.shields.io/date/1609855586",
+            "color=green",
+            "label=",
+            "href=",
+            "http",
+            "//www.typescriptlang.org/play",
+            "code/pqkguabbbscmamec0edcbdatguwdyygdtjkkzysajatwgckb7acwdscgw0mbxcacgacak2zsoaywyatbewdwasggbihficw3tcoau2taadc6pulzq9aj3s4sjzq4gbfbtgi71ho1aagamwzljep0ijcalx9kad4if0caivckyo8iwia1dwwadwgocabxcwajbkoalggmhr0dagrgyb0ccsyaoiecdscac2a4edaqydax0agafwmz2zmiae0gbks0awwieuxldbm96ygrsz1qaw2mhhx0igaeagvygf4idbzqag4xsan9vygaftcojq1zcu1+s0oo3uhkcwia3haakiar24nganmiab5ncq6lfi3hyfeamrsrcxadkgdpuejcbaal4qpywbjaadkahozyqbrsugwlf6bma3a8uainiasga5bynujqqqim8anpyqbeve6g70mw3c54qjyg6cgimykha3htnrlewhgmjkwfl2h1ang6-vow3gq63j1w11id0oidbsm28oekg6kl6g24i1ye2g82w62we2oy2uj0yr0j-g+hmpy6mzpoyyhhmr4o10kf4ve0vjivponz7o5ynzgvropattjv0pgnvznoyl8vvthkofvx0dl-1pwnm6ez8rieford7odflc+jutjocgcci-nn6xx9bz-hnc35qpjqpw+9ibxe43u7zsui7puwf5boavbuahb787qcuac6xw-bc8ykisohmnseb3ho9tgihkxqt84bqledxmkegzumsqzslgeqegwvq1hudrnc0bsdn0fqdagwcvaqotbcqmtzhkdemrwdtvlu9snm0rqdf0pswp0gzabjhhssjeaalkbocfg4ekipumxslsqpnhkx0wyjgaqa",
+            "target=",
+            "_blank",
+            "img",
+            "src=",
+            "http",
+            "//img.shields.io/badge/-preview",
+            "20in",
+            "20playground-3178c6",
+            "logo=typescript",
+            "alt=",
+            "preview",
+            "playground",
+            "/a"
+          ]
+        },
+        {
+          "author": "antfu",
+          "content": [
+            "think",
+            "'s",
+            "better",
+            "one",
+            "task",
+            "time",
+            "separate",
+            "two",
+            "challenge",
+            "also",
+            "think",
+            "naming",
+            "could",
+            "camelcase",
+            "kebabcase",
+            "clear",
+            "http",
+            "//medium.com/better-programming/string-case-styles-camel-pascal-snake-and-kebab-case-981407998841"
+          ]
+        },
+        {
+          "author": "antfu",
+          "content": [
+            "similar",
+            "http",
+            "//github.com/type-challenges/type-challenges/issues/612",
+            "issuecomment-754634023"
+          ]
+        }
+      ]
+    }
+  ],
+  "security": null
+}

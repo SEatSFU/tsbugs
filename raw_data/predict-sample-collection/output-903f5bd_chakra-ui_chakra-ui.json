@@ -1,0 +1,24 @@
+{
+  "commit_index": "903f5bd",
+  "commit_url": "https://github.com/chakra-ui/chakra-ui/commit/903f5bd57d9fc83aff7c3e28cdb0ab6e6984b0db",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "system",
+      "cva",
+      "return",
+      "type"
+    ],
+    "description": [],
+    "changed_files_count": 2,
+    "changed_files": [
+      ".changeset/blue-owls-care.md",
+      "packages/react/src/styled-system/recipe.types.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "99f25273c146f38de21cac88f0c19746d1931790"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

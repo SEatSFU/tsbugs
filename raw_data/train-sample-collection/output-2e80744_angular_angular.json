@@ -1,0 +1,171 @@
+{
+  "commit_index": "2e80744",
+  "commit_url": "https://github.com/angular/angular/commit/2e80744581eab2c3dd701b07fed8282015ad04e0",
+  "commit": {
+    "commit_message": [
+      "test",
+      "router",
+      "fix",
+      "slow-running",
+      "infinite",
+      "loop",
+      "test",
+      "remove",
+      "unnecess\u2026"
+    ],
+    "description": [
+      "inifinite",
+      "loop",
+      "test",
+      "real",
+      "infinite",
+      "loop",
+      "run",
+      "stack",
+      "overflow",
+      "happens",
+      "addition",
+      "promise",
+      "observable",
+      "test",
+      "duplicate",
+      "redirects",
+      "n't",
+      "test",
+      "additional",
+      "logic",
+      "instead",
+      "change",
+      "update",
+      "one",
+      "test",
+      "return",
+      "observable",
+      "another",
+      "return",
+      "promise",
+      "pr",
+      "close",
+      "61076"
+    ],
+    "changed_files_count": 1,
+    "changed_files": [
+      "packages/router/test/apply_redirects.spec.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "344ea29f7a986a5a1930840164fcb4890f911224"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "test",
+        "router",
+        "fix",
+        "slow-running",
+        "infinite",
+        "loop",
+        "test",
+        "remove",
+        "unnecess\u2026",
+        "61076"
+      ],
+      "total_discussions": 3,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "\u2026ary",
+                "duplicate",
+                "teststhe",
+                "inifinite",
+                "loop",
+                "test",
+                "real",
+                "infinite",
+                "loop",
+                "run",
+                "stack",
+                "overflow",
+                "happens",
+                "addition",
+                "promise",
+                "observable",
+                "test",
+                "duplicate",
+                "redirects",
+                "n't",
+                "test",
+                "additional",
+                "logic",
+                "instead",
+                "change",
+                "update",
+                "one",
+                "test",
+                "return",
+                "observable",
+                "another",
+                "return",
+                "promise"
+              ],
+              "author": "atscott"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "pr",
+                "merged",
+                "repository",
+                "commit2e80744",
+                "change",
+                "merged",
+                "following",
+                "branch",
+                "main"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 3,
+          "comments": [
+            {
+              "content": [
+                "issue",
+                "automatically",
+                "locked",
+                "due",
+                "inactivity.please",
+                "file",
+                "new",
+                "issue",
+                "encountering",
+                "similar",
+                "related",
+                "problem",
+                "read",
+                "ourautomatic",
+                "conversation",
+                "locking",
+                "policy",
+                "action",
+                "performed",
+                "automatically",
+                "bot"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

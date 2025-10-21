@@ -1,0 +1,28 @@
+{
+  "commit_index": "f70c5bb",
+  "commit_url": "https://github.com/xyflow/xyflow/commit/f70c5bb68f1d8c216b9d191d4bcc42d93f4def29",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "react",
+      "svelte",
+      "calculate",
+      "viewport",
+      "dimension",
+      "inside",
+      "fitview",
+      "ac\u2026"
+    ],
+    "description": [],
+    "changed_files_count": 2,
+    "changed_files": [
+      "packages/react/src/hooks/useViewportHelper.ts",
+      "packages/svelte/src/lib/store/index.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "ce51e02acf3d7702869c643488ac52a5384125d6"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

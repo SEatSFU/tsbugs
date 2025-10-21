@@ -1,0 +1,110 @@
+{
+  "commit_index": "80b6354",
+  "commit_url": "https://github.com/hoppscotch/hoppscotch/commit/80b63545f14b43067ba290ab6bf15e3d8438f966",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "common",
+      "extention",
+      "interceptor",
+      "response",
+      "meta",
+      "4980"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      "packages/hoppscotch-common/src/platform/std/kernel-interceptors/extension/index.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "3c150ec90a2d34cbadc57190af8a861972f10688"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "common",
+        "extention",
+        "interceptor",
+        "response",
+        "meta",
+        "4980"
+      ],
+      "total_discussions": 1,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "address",
+                "issue",
+                "extension",
+                "interceptor",
+                "response",
+                "metadata",
+                "timing",
+                "metric",
+                "size",
+                "calculation",
+                "missing",
+                "response",
+                "object.this",
+                "change",
+                "isolated",
+                "addition",
+                "since",
+                "extension",
+                "interceptor",
+                "become",
+                "somewhat",
+                "detached",
+                "kernel",
+                "capability",
+                "time",
+                "interceptor",
+                "able",
+                "evolved",
+                "architecture.this",
+                "fix",
+                "help",
+                "bridge",
+                "gap",
+                "without",
+                "requiring",
+                "substantial",
+                "refactoring",
+                "extension",
+                "interceptor",
+                "implementation.closes",
+                "hfe-810notes",
+                "reviewersthe",
+                "following",
+                "screenshot",
+                "showsextensioninterceptor",
+                "upper",
+                "section",
+                "atlocalhost",
+                "patch",
+                "correct",
+                "response",
+                "metadata",
+                "followed",
+                "current",
+                "deployed",
+                "version",
+                "missing",
+                "response",
+                "meta"
+              ],
+              "author": "jamesgeorge007"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

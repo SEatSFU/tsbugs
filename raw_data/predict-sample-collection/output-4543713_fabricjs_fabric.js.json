@@ -1,0 +1,22 @@
+{
+  "commit_index": "4543713",
+  "commit_url": "https://github.com/fabricjs/fabric.js/commit/4543713f79c42f38f199871888ea2a67424c8f58",
+  "commit": {
+    "commit_message": [
+      "doc",
+      "fix",
+      "link",
+      "syntax"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      "README.md"
+    ],
+    "changed_files_content": [],
+    "parent": "82ff2d94bb288541aa4f311cfdabee028a60ebae"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

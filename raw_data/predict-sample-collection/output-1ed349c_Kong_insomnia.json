@@ -1,0 +1,22 @@
+{
+  "commit_index": "1ed349c",
+  "commit_url": "https://github.com/Kong/insomnia/commit/1ed349cab33d5bcab34085e7e130a8fd506c5ef2",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "type",
+      "error"
+    ],
+    "description": [],
+    "changed_files_count": 2,
+    "changed_files": [
+      "packages/insomnia-app/app/plugins/misc.js",
+      "packages/insomnia-app/flow-typed/color.js"
+    ],
+    "changed_files_content": [],
+    "parent": "00fd73ddd5a18d3c81c851ca8b5158f89226b370"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

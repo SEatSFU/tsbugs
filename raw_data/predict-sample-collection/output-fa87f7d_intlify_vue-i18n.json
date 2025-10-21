@@ -1,0 +1,67 @@
+{
+  "commit_index": "fa87f7d",
+  "commit_url": "https://github.com/intlify/vue-i18n/commit/fa87f7dac8fe43df393ed023ad551bfe17508ace",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "wrong",
+      "error",
+      "warn",
+      "code",
+      "definition",
+      "1500"
+    ],
+    "description": [],
+    "changed_files_count": 15,
+    "changed_files": [
+      "packages/core-base/src/context.ts",
+      "packages/core-base/src/errors.ts",
+      "packages/core-base/src/warnings.ts",
+      "packages/message-compiler/src/errors.ts",
+      "packages/message-compiler/src/generator.ts",
+      "packages/message-compiler/src/minifier.ts",
+      "packages/message-compiler/test/generator.test.ts",
+      "packages/message-compiler/test/minifier.test.ts",
+      "packages/shared/src/error.ts",
+      "packages/shared/src/index.ts",
+      "packages/shared/src/utils.ts",
+      "packages/shared/src/warn.ts",
+      "packages/shared/test/utils.test.ts",
+      "packages/vue-i18n-core/src/errors.ts",
+      "packages/vue-i18n-core/src/warnings.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "a0233dea4e5acef815d252aa46cbda54d6dfe9e7"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "wrong",
+        "error",
+        "warn",
+        "code",
+        "definition",
+        "1500"
+      ],
+      "total_discussions": 1,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "description",
+                "provided"
+              ],
+              "author": "kazupon"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

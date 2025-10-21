@@ -1,0 +1,112 @@
+{
+  "commit_index": "74410d7",
+  "commit_url": "https://github.com/statelyai/xstate/commit/74410d764022371ea8b86ef26c76ab1fa3ed4368",
+  "commit": {
+    "commit_message": [
+      "minor",
+      "fix",
+      "todomvc-react",
+      "example",
+      "4830"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      "examples/todomvc-react/src/Todo.tsx"
+    ],
+    "changed_files_content": [],
+    "parent": "3a57f4c69b746546dd104989dcf8664c9fbe2f80"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "minor",
+        "fix",
+        "todomvc-react",
+        "example.",
+        "4830"
+      ],
+      "total_discussions": 2,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "change",
+                "allows",
+                "todo",
+                "component",
+                "properly",
+                "handle",
+                "multiple",
+                "edits",
+                "cancellation"
+              ],
+              "author": "davidkpiano"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "latest",
+                "commit",
+                "dff542f",
+                "merging",
+                "pr",
+                "cause",
+                "version",
+                "bump",
+                "package",
+                "change",
+                "result",
+                "new",
+                "version",
+                "'re",
+                "good",
+                "go.if",
+                "change",
+                "result",
+                "version",
+                "bump",
+                "need",
+                "add",
+                "changeset",
+                "changesets",
+                "added",
+                "pr",
+                "'ll",
+                "see",
+                "package",
+                "pr",
+                "includes",
+                "changesets",
+                "associated",
+                "semver",
+                "type",
+                "click",
+                "learn",
+                "changesets",
+                "add",
+                "one",
+                "click",
+                "'re",
+                "maintainer",
+                "want",
+                "add",
+                "changeset",
+                "pr"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

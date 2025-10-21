@@ -1,0 +1,364 @@
+{
+  "commit_index": "9875460",
+  "commit_url": "https://github.com/fabricjs/fabric.js/commit/9875460f32fdbe5a720247ced6cabaacbc20b8e6",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "activeselection",
+      "activeselection",
+      "default",
+      "initialization",
+      "9940"
+    ],
+    "description": [],
+    "changed_files_count": 4,
+    "changed_files": [
+      ".codesandbox/templates/vanilla/src/testcases/clearCache.ts",
+      "CHANGELOG.md",
+      "src/shapes/ActiveSelection.ts",
+      "src/shapes/Group.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "d21ee156c7827ff66c9d7f4d254929d2a8d9f193"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "activeselection",
+        "activeselection",
+        "default",
+        "initialization",
+        "9940"
+      ],
+      "total_discussions": 4,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "descriptionwork",
+                "progress",
+                "tofix",
+                "9938.ensure",
+                "value",
+                "assigned",
+                "layout.requires",
+                "e2e",
+                "since",
+                "third",
+                "time",
+                "feature",
+                "get",
+                "brokenin",
+                "action"
+              ],
+              "author": "asturur"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "open",
+                "branch",
+                "inweb",
+                "editor\u2022vs",
+                "code\u2022insiders"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 3,
+          "comments": [
+            {
+              "content": [
+                "build",
+                "stats"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 4,
+          "comments": [
+            {
+              "content": [
+                "coverage",
+                "mergingfix-activeselection-defaultsintomasterwill"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "title": [
+        "bug",
+        "rc2",
+        "break",
+        "activeselection",
+        "group",
+        "select"
+      ],
+      "labels": [
+        "v6",
+        "bug"
+      ],
+      "comments": [
+        {
+          "author": "ritali4912",
+          "content": [
+            "checklist",
+            "agree",
+            "follow",
+            "project",
+            "'s",
+            "code",
+            "conduct",
+            "read",
+            "followed",
+            "contributing",
+            "guide",
+            "read",
+            "followed",
+            "issue",
+            "tracker",
+            "guide",
+            "searched",
+            "referenced",
+            "existing",
+            "issue",
+            "discussion",
+            "filing",
+            "bug",
+            "report",
+            "managed",
+            "reproduce",
+            "bug",
+            "upgrading",
+            "latest",
+            "version",
+            "created",
+            "accurate",
+            "minimal",
+            "reproduction",
+            "version",
+            "6.0.0-rc2",
+            "environment",
+            "experiencing",
+            "problem",
+            "microsoft",
+            "edge",
+            "node",
+            "version",
+            "applicable",
+            "none",
+            "link",
+            "reproduction",
+            "http",
+            "//jsfiddle.net/ritali4912/deartfzo/30/",
+            "step",
+            "reproduce",
+            "create",
+            "2",
+            "rect",
+            "make",
+            "activeselection",
+            "group",
+            "select",
+            "mouse",
+            "move",
+            "select",
+            "check",
+            "active",
+            "selection",
+            "expected",
+            "behavior",
+            "beta",
+            "20",
+            "correct",
+            "actual",
+            "behavior",
+            "rc2",
+            "bound",
+            "activeselection",
+            "change",
+            "left",
+            "0",
+            "top",
+            "0",
+            "width",
+            "0",
+            "height",
+            "0",
+            "check",
+            "code",
+            "found",
+            "caused",
+            "improper",
+            "set",
+            "property",
+            "timing",
+            "especially",
+            "user",
+            "change",
+            "originx",
+            "originy",
+            "impact",
+            "layout",
+            "result",
+            "bellow",
+            "change",
+            "get",
+            "correct",
+            "result",
+            "please",
+            "evaluate",
+            "help",
+            "fix",
+            "next",
+            "release",
+            "error",
+            "message",
+            "stack",
+            "trace",
+            "response"
+          ]
+        },
+        {
+          "author": "asturur",
+          "content": [
+            "hi",
+            "ritali4912",
+            "check",
+            "latest",
+            "master",
+            "seems",
+            "ok",
+            "think",
+            "also",
+            "test",
+            "case",
+            "interaction",
+            "'ll",
+            "verify"
+          ]
+        },
+        {
+          "author": "asturur",
+          "content": [
+            "updated",
+            "rc3",
+            "let",
+            "know",
+            "change",
+            "anything",
+            "otherwise",
+            "mark",
+            "bug",
+            "fix"
+          ]
+        },
+        {
+          "author": "asturur",
+          "content": [
+            "ok",
+            "see",
+            "point",
+            "uncomment",
+            "originx",
+            "actually",
+            "make",
+            "issue",
+            "happen",
+            "latest",
+            "master",
+            "please",
+            "make",
+            "tidier",
+            "reproduction",
+            "case",
+            "actual",
+            "reproduction",
+            "case",
+            "t",
+            "export",
+            "async",
+            "function",
+            "testcase",
+            "canvas",
+            "fabric.canvas",
+            "const",
+            "utahcommondefaults",
+            "originx",
+            "'center",
+            "const",
+            "originy",
+            "'center",
+            "const",
+            "fabric.activeselection.owndefaults",
+            "...",
+            "fabric.activeselection.owndefaults",
+            "...",
+            "utahcommondefaults",
+            "fabric.rect.owndefaults",
+            "...",
+            "fabric.rect.owndefaults",
+            "...",
+            "utahcommondefaults",
+            "const",
+            "rect",
+            "new",
+            "fabric.rect",
+            "width",
+            "500",
+            "height",
+            "500",
+            "fill",
+            "'blue",
+            "const",
+            "rect2",
+            "new",
+            "fabric.rect",
+            "width",
+            "500",
+            "height",
+            "500",
+            "fill",
+            "'blue",
+            "canvas.add",
+            "rect",
+            "rect2"
+          ]
+        },
+        {
+          "author": "asturur",
+          "content": [
+            "ritali4912",
+            "check",
+            "fix",
+            "http",
+            "//github.com/fabricjs/fabric.js/pull/9940",
+            "please",
+            "look",
+            "added",
+            "e2e",
+            "test",
+            "represent",
+            "use",
+            "case"
+          ]
+        }
+      ]
+    }
+  ],
+  "security": null
+}

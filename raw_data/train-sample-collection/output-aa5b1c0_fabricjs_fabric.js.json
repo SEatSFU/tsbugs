@@ -1,0 +1,77 @@
+{
+  "commit_index": "aa5b1c0",
+  "commit_url": "https://github.com/fabricjs/fabric.js/commit/aa5b1c026baa0ed386b3b6556bd1e89c1a3f5758",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "fix",
+      "broken",
+      "export",
+      "filter",
+      "static"
+    ],
+    "description": [],
+    "changed_files_count": 3,
+    "changed_files": [
+      "CHANGELOG.md",
+      "src/filters/BaseFilter.spec.ts",
+      "src/filters/BaseFilter.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "c5c2601253ec240d96629f01eb1d0e9cd54e13b4"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "broken",
+        "export",
+        "filter",
+        "static",
+        "default",
+        "value"
+      ],
+      "total_discussions": 1,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "descriptionwhen",
+                "refactoring",
+                "filter",
+                "recently",
+                "think",
+                "possible",
+                "filter",
+                "need",
+                "default",
+                "values.those",
+                "filter",
+                "today",
+                "ca",
+                "n't",
+                "call",
+                "base",
+                "filter",
+                "export",
+                "undefined",
+                "static",
+                "default",
+                "throw",
+                "error",
+                "converted",
+                "key"
+              ],
+              "author": "asturur"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

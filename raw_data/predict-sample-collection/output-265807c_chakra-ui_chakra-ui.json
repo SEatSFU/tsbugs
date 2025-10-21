@@ -1,0 +1,26 @@
+{
+  "commit_index": "265807c",
+  "commit_url": "https://github.com/chakra-ui/chakra-ui/commit/265807c5b3b1de6739227f2d0e2f6351e1f3d79e",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "add",
+      "undefined",
+      "generated",
+      "type"
+    ],
+    "description": [],
+    "changed_files_count": 4,
+    "changed_files": [
+      "packages/cli/src/utils/generate-recipe.ts",
+      "packages/cli/src/utils/generate-system-types.ts",
+      "packages/react/src/styled-system/generated/recipes.gen.ts",
+      "packages/react/src/styled-system/generated/system.gen.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "c9f2b55d80f4373a08262b471073a5bbef56d696"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

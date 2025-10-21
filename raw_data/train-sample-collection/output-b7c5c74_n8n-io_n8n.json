@@ -1,0 +1,804 @@
+{
+  "commit_index": "b7c5c74",
+  "commit_url": "https://github.com/n8n-io/n8n/commit/b7c5c7406f6f978bbd84737de34114e9492ae5f6",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "core",
+      "ensure",
+      "failed",
+      "execution",
+      "saved",
+      "queue",
+      "mode",
+      "7744"
+    ],
+    "description": [
+      "pr",
+      "add",
+      "status",
+      "run",
+      "data",
+      "determinefinalexecutionstatus",
+      "resolve",
+      "correctly",
+      "execution",
+      "failure",
+      "remove",
+      "cleanup",
+      "duplicated",
+      "worker",
+      "hook",
+      "followup",
+      "7138",
+      "fix",
+      "7705",
+      "http",
+      "//linear.app/n8n/issue/pay-964/no-execution-found-after-execution-fails",
+      "http",
+      "//linear.app/n8n/issue/pay-1010/execution-deletion-in-queue-mode-not-complying-with-settings"
+    ],
+    "changed_files_count": 2,
+    "changed_files": [
+      "packages/cli/src/WorkflowRunner.ts",
+      "packages/cli/src/executionLifecycleHooks/shared/sharedHookFunctions.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "ad04986ce7e8958c9564716a19f87aba50861b52"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "refactor",
+        "core",
+        "move",
+        "event",
+        "telemetry",
+        "handling",
+        "worker",
+        "queue",
+        "mode",
+        "7138"
+      ],
+      "total_discussions": 10,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "motivationin",
+                "queue",
+                "mode",
+                "finished",
+                "execution",
+                "would",
+                "cause",
+                "main",
+                "instance",
+                "always",
+                "pull",
+                "execution",
+                "data",
+                "database",
+                "unflatten",
+                "use",
+                "send",
+                "event",
+                "log",
+                "event",
+                "telemetry",
+                "event",
+                "well",
+                "required",
+                "return",
+                "respond",
+                "webhook",
+                "node",
+                "etc.this",
+                "could",
+                "cause",
+                "oom",
+                "error",
+                "data",
+                "large",
+                "since",
+                "fully",
+                "unpacked",
+                "transformed",
+                "main",
+                "instance",
+                "side",
+                "using",
+                "lot",
+                "memory",
+                "time",
+                ".this",
+                "pr",
+                "attempt",
+                "limit",
+                "behaviour",
+                "happen",
+                "required",
+                "case",
+                "data",
+                "forwarded",
+                "waiting",
+                "webhook",
+                "example.changesexecution",
+                "data",
+                "required",
+                "case",
+                "active",
+                "execution",
+                "apostexecutepromiseattached",
+                "usually",
+                "forward",
+                "data",
+                "endpoint",
+                "e.g",
+                "listening",
+                "webhook",
+                "connection",
+                ".by",
+                "adding",
+                "helpergetpostexecutepromisecount",
+                "decide",
+                "case",
+                "nothing",
+                "listening",
+                "reason",
+                "pull",
+                "data",
+                "main",
+                "instance.previously",
+                "would",
+                "always",
+                "postexecutepromises",
+                "telemetry",
+                "event",
+                "called",
+                "moved",
+                "worker",
+                "given",
+                "various",
+                "internalhooks",
+                "call",
+                "hook",
+                "function",
+                "array",
+                "issue",
+                "telemetry",
+                "event",
+                "calls.this",
+                "result",
+                "event",
+                "log",
+                "message",
+                "logged",
+                "worker",
+                "event",
+                "log",
+                "well",
+                "worker",
+                "eventbus",
+                "one",
+                "send",
+                "event",
+                "destination",
+                "main",
+                "event",
+                "log",
+                "much",
+                "nothing.we",
+                "logging",
+                "execution",
+                "main",
+                "event",
+                "log",
+                "would",
+                "require",
+                "event",
+                "replicated",
+                "1:1",
+                "worker",
+                "main",
+                "instance",
+                "possible",
+                "implemented",
+                "see",
+                "worker",
+                "sreplicatetorediseventlogfunction-",
+                "enabled",
+                "reduce",
+                "amount",
+                "traffic",
+                "redis",
+                ".partial",
+                "event",
+                "main",
+                "log",
+                "could",
+                "confuse",
+                "recovery",
+                "process",
+                "would",
+                "result",
+                "ironically",
+                "recovery",
+                "corrupting",
+                "execution",
+                "data",
+                "considering",
+                "crashed.refactori",
+                "also",
+                "used",
+                "opportunity",
+                "reduce",
+                "duplicate",
+                "code",
+                "move",
+                "hook",
+                "functionality",
+                "intopackages/cli/src/executionlifecyclehooks/shared/sharedhookfunctions.tsin",
+                "preparation",
+                "future",
+                "full",
+                "refactor",
+                "hook"
+              ],
+              "author": "flipswitchingmonkey"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "great",
+                "pr",
+                "please",
+                "pay",
+                "attention",
+                "following",
+                "item",
+                "merging",
+                "file",
+                "matchingpackages/",
+                "file",
+                "matchingpackages/",
+                ".ts",
+                "make",
+                "sure",
+                "check",
+                "list",
+                "asking",
+                "review"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 3,
+          "comments": [
+            {
+              "content": [
+                "patch",
+                "coverage:8.67",
+                "project",
+                "coverage",
+                "change",
+                "comparison",
+                "base",
+                "34ebffe",
+                "32.40",
+                "compared",
+                "head",
+                "42b9153",
+                "32.40",
+                ".report",
+                "3",
+                "commits",
+                "behind",
+                "head",
+                "master",
+                "...",
+                "and3",
+                "file",
+                "indirect",
+                "coverage",
+                "change",
+                "view",
+                "full",
+                "report",
+                "codecov",
+                "feedback",
+                "report",
+                "share"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 4,
+          "comments": [
+            {
+              "content": [
+                "cypress",
+                "e2e",
+                "spec",
+                "failing",
+                "please",
+                "fix",
+                "merging"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 5,
+          "comments": [
+            {
+              "content": [
+                "detail",
+                "viewoutputvideo",
+                "comment",
+                "generated",
+                "cypress-bot",
+                "result",
+                "project'sgithub",
+                "integration",
+                "setting"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 6,
+          "comments": [
+            {
+              "content": [
+                "cypress",
+                "e2e",
+                "spec",
+                "failing",
+                "please",
+                "fix",
+                "merging"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 7,
+          "comments": [
+            {
+              "content": [
+                "cypress",
+                "e2e",
+                "spec",
+                "failing",
+                "please",
+                "fix",
+                "merging"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 8,
+          "comments": [
+            {
+              "content": [
+                "cypress",
+                "e2e",
+                "spec",
+                "failing",
+                "please",
+                "fix",
+                "merging"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 9,
+          "comments": [
+            {
+              "content": [
+                "cypress",
+                "e2e",
+                "spec",
+                "passed"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 10,
+          "comments": [
+            {
+              "content": [
+                "got",
+                "released",
+                "withn8n",
+                "1.8.1"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pr_title": [
+        "fix",
+        "core",
+        "ensure",
+        "failed",
+        "execution",
+        "saved",
+        "queue",
+        "mode",
+        "7744"
+      ],
+      "total_discussions": 4,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "pr",
+                "addsstatusto",
+                "run",
+                "data",
+                "thatdeterminefinalexecutionstatusresolves",
+                "correctly",
+                "execution",
+                "failure",
+                "remove",
+                "cleanup",
+                "duplicated",
+                "worker",
+                "hook.followup",
+                "7138should",
+                "fix",
+                "failed",
+                "execution",
+                "getting",
+                "saved",
+                "queue",
+                "mode",
+                "7705https",
+                "//linear.app/n8n/issue/pay-964/no-execution-found-after-execution-failshttps",
+                "//linear.app/n8n/issue/pay-1010/execution-deletion-in-queue-mode-not-complying-with-settings"
+              ],
+              "author": "ivov"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "detail",
+                "viewoutputvideo"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 3,
+          "comments": [
+            {
+              "content": [
+                "cypress",
+                "e2e",
+                "spec",
+                "passed"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 4,
+          "comments": [
+            {
+              "content": [
+                "got",
+                "released",
+                "withn8n",
+                "1.18.0"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "title": [
+        "failed",
+        "execution",
+        "getting",
+        "saved",
+        "queue",
+        "mode"
+      ],
+      "labels": [
+        "Released",
+        "in linear"
+      ],
+      "comments": [
+        {
+          "author": "phizab",
+          "content": [
+            "describe",
+            "bug",
+            "saving",
+            "failed",
+            "execution",
+            "work",
+            "using",
+            "queue",
+            "mode",
+            "saving",
+            "successful",
+            "execution",
+            "disabled",
+            "apply",
+            "sub",
+            "workflow",
+            "getting",
+            "saved",
+            "reproduce",
+            "step",
+            "reproduce",
+            "behavior",
+            "create",
+            "workflow",
+            "schedule",
+            "trigger",
+            "e.g",
+            "10",
+            "second",
+            "interval",
+            "stop",
+            "error",
+            "node",
+            "message",
+            "set",
+            "save",
+            "failed",
+            "production",
+            "execution",
+            "save",
+            "save",
+            "successful",
+            "production",
+            "execution",
+            "save",
+            "activate",
+            "workflow",
+            "expected",
+            "behavior",
+            "using",
+            "workflow",
+            "execution",
+            "always",
+            "fail",
+            "stop",
+            "error",
+            "node",
+            "listed",
+            "execution",
+            "list",
+            "instead",
+            "getting",
+            "deleted",
+            "changing",
+            "save",
+            "successful",
+            "production",
+            "execution",
+            "save",
+            "appear",
+            "execution",
+            "list",
+            "environment",
+            "please",
+            "complete",
+            "following",
+            "information",
+            "docker-image",
+            "n8n",
+            "version",
+            "1.15.2",
+            "tested",
+            "1.16.0",
+            "database",
+            "system",
+            "mariadb",
+            "yep",
+            "know",
+            "...",
+            "sqlite",
+            "test",
+            "workflow",
+            "operation",
+            "mode",
+            "queue",
+            "additional",
+            "context",
+            "used",
+            "following",
+            "docker",
+            "compose",
+            "reproduce",
+            "problem",
+            "service",
+            "n8n",
+            "image",
+            "n8nio/n8n:1.15.2",
+            "environment",
+            "generic_timezone=europe/berlin",
+            "tz=europe/berlin",
+            "executions_mode=queue",
+            "queue_bull_redis_host=redis",
+            "volume",
+            ".n8n/",
+            "/home/node/.n8n/",
+            "port",
+            "5678:5678",
+            "n8n-worker",
+            "image",
+            "n8nio/n8n:1.15.2",
+            "command",
+            "worker",
+            "--",
+            "concurrency",
+            "30",
+            "environment",
+            "generic_timezone=europe/berlin",
+            "tz=europe/berlin",
+            "executions_mode=queue",
+            "queue_bull_redis_host=redis",
+            "volume",
+            "./.n8n",
+            "/home/node/.n8n",
+            "depends_on",
+            "redis",
+            "redis",
+            "image",
+            "redis:6.2-alpine",
+            "command",
+            "redis-server",
+            "--",
+            "appendonly",
+            "yes",
+            "volume",
+            "redis-data",
+            "/data",
+            "volume",
+            "redis-data",
+            "workflow",
+            "test",
+            "meta",
+            "instanceid",
+            "93dc80749bba53c076d9f2b347ca4cfec2db7f6d91ab697f3860c9cf17844726",
+            "node",
+            "parameter",
+            "rule",
+            "interval",
+            "field",
+            "second",
+            "secondsinterval",
+            "10",
+            "id",
+            "4e5db2e4-e173-412a-ba1c-1eafe4a81c04",
+            "name",
+            "schedule",
+            "trigger",
+            "type",
+            "n8n-nodes-base.scheduletrigger",
+            "typeversion",
+            "1.1",
+            "position",
+            "760",
+            "340",
+            "parameter",
+            "errormessage",
+            "test",
+            "id",
+            "0caf70ef-37c2-4dcf-aadb-ff1ddd3c4b97",
+            "name",
+            "stop",
+            "error",
+            "type",
+            "n8n-nodes-base.stopanderror",
+            "typeversion",
+            "1",
+            "position",
+            "980",
+            "340",
+            "connection",
+            "schedule",
+            "trigger",
+            "main",
+            "node",
+            "stop",
+            "error",
+            "type",
+            "main",
+            "index",
+            "0"
+          ]
+        },
+        {
+          "author": "ivov",
+          "content": [
+            "detailed",
+            "report",
+            "fixed",
+            "http",
+            "//github.com/n8n-io/n8n/pull/7634",
+            "released",
+            "1.16",
+            "please",
+            "upgrade",
+            "see",
+            "issue",
+            "persists"
+          ]
+        },
+        {
+          "author": "ivov",
+          "content": [
+            "tracking",
+            "http",
+            "//linear.app/n8n/issue/pay-1010"
+          ]
+        },
+        {
+          "author": "janober",
+          "content": [
+            "fix",
+            "got",
+            "released",
+            "n8n",
+            "1.18.0",
+            "http",
+            "//github.com/n8n-io/n8n/releases/tag/n8n",
+            "401.18.0"
+          ]
+        },
+        {
+          "author": "Joffcom",
+          "content": [
+            "hey",
+            "phizab",
+            "look",
+            "like",
+            "fixed",
+            "let",
+            "know",
+            "get",
+            "update",
+            "still",
+            "causing",
+            "issue",
+            "let",
+            "know",
+            "open"
+          ]
+        }
+      ]
+    }
+  ],
+  "security": null
+}

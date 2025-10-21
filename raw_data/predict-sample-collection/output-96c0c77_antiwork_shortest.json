@@ -1,0 +1,27 @@
+{
+  "commit_index": "96c0c77",
+  "commit_url": "https://github.com/antiwork/shortest/commit/96c0c77a3f7f3bf946b47f743b271e4b0eec885d",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "move",
+      "main",
+      "element",
+      "around",
+      "match",
+      "content"
+    ],
+    "description": [],
+    "changed_files_count": 3,
+    "changed_files": [
+      "app/(dashboard)/dashboard/layout.tsx",
+      "app/(dashboard)/layout.tsx",
+      "app/(dashboard)/page.tsx"
+    ],
+    "changed_files_content": [],
+    "parent": "ec980346abb8ad6c4bb7c346a9244d93b8f88f7f"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

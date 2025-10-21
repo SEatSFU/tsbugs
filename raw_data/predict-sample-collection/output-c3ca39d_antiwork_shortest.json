@@ -1,0 +1,21 @@
+{
+  "commit_index": "c3ca39d",
+  "commit_url": "https://github.com/antiwork/shortest/commit/c3ca39d6d59e0ed2509f975ce589994d81b39ce2",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "failing",
+      "test"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      "app/(dashboard)/dashboard/log-view.test.tsx"
+    ],
+    "changed_files_content": [],
+    "parent": "cad1e2d96ba920ee440e21687caf4455b9347955"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

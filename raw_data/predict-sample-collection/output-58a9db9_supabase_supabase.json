@@ -1,0 +1,114 @@
+{
+  "commit_index": "58a9db9",
+  "commit_url": "https://github.com/supabase/supabase/commit/58a9db9db543220095af157163f86a65e51faca9",
+  "commit": {
+    "commit_message": [
+      "chore/fix",
+      "searching",
+      "table",
+      "editor",
+      "clearing",
+      "tab",
+      "35198"
+    ],
+    "description": [
+      "fix",
+      "searching",
+      "table",
+      "editor",
+      "clear",
+      "tab",
+      "clean",
+      "clean",
+      "make",
+      "close",
+      "button",
+      "slightly",
+      "bigger"
+    ],
+    "changed_files_count": 13,
+    "changed_files": [
+      "apps/studio/components/grid/SupabaseGrid.tsx",
+      "apps/studio/components/interfaces/Organization/TeamSettings/UpdateRolesPanel/UpdateRolesPanel.tsx",
+      "apps/studio/components/interfaces/TableGridEditor/NotFoundState.tsx",
+      "apps/studio/components/interfaces/TableGridEditor/TableGridEditor.tsx",
+      "apps/studio/components/interfaces/TableGridEditor/index.ts",
+      "apps/studio/components/layouts/TableEditorLayout/TableEditorMenu.tsx",
+      "apps/studio/components/layouts/Tabs/SortableTab.tsx",
+      "apps/studio/components/layouts/Tabs/TabPreview.tsx",
+      "apps/studio/components/layouts/Tabs/Tabs.tsx",
+      "apps/studio/components/layouts/editors/EditorBaseLayout.tsx",
+      "apps/studio/data/table-editor/table-editor-query.ts",
+      "apps/studio/pages/project/[ref]/editor/[id].tsx",
+      "apps/studio/state/tabs.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "246dee70e3180402ac9b8471c86a2517b2520e0c"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "chore/fix",
+        "searching",
+        "table",
+        "editor",
+        "clearing",
+        "tab",
+        "35198"
+      ],
+      "total_discussions": 1,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "fix",
+                "fe-1589problemif",
+                "tab",
+                "opened",
+                "table",
+                "editor",
+                "search",
+                "table",
+                "tableeditormenu",
+                "tab",
+                "disappearchanges",
+                "involvedremove",
+                "errantuseeffectthat",
+                "attempting",
+                "automatically",
+                "close",
+                "tab",
+                "table",
+                "longer",
+                "presentuse",
+                "existing",
+                "found",
+                "state",
+                "instead",
+                "add",
+                "cta",
+                "close",
+                "tab",
+                "unrelated",
+                "number",
+                "clean",
+                "upsputtingsortabletabandtabpreviewinto",
+                "componentsremoveexport",
+                "defaulton",
+                "filesprevent",
+                "refetching",
+                "forusetableeditorquery"
+              ],
+              "author": "joshenlim"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

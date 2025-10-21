@@ -1,0 +1,49 @@
+{
+  "commit_index": "e81a6d8",
+  "commit_url": "https://github.com/refly-ai/refly/commit/e81a6d896b4f7b6e7ed450d498cee14a7c638e82",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "api",
+      "include",
+      "variable",
+      "canvas",
+      "share",
+      "duplication",
+      "payload"
+    ],
+    "description": [
+      "added",
+      "variable",
+      "canvasdata",
+      "share",
+      "duplication",
+      "payload",
+      "ensure",
+      "proper",
+      "data",
+      "transfer",
+      "ensured",
+      "safe",
+      "property",
+      "access",
+      "using",
+      "optional",
+      "chaining",
+      "robust",
+      "handling",
+      "potentially",
+      "undefined",
+      "value"
+    ],
+    "changed_files_count": 1,
+    "changed_files": [
+      "apps/api/src/modules/share/share-duplication.service.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "ed880d06d382385359fa9c1c77c75e9ff7103d29"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

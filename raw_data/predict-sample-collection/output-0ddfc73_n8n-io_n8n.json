@@ -1,0 +1,183 @@
+{
+  "commit_index": "0ddfc73",
+  "commit_url": "https://github.com/n8n-io/n8n/commit/0ddfc73bee88c994876787a41540ef847f4fcd4f",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "editor",
+      "ensure",
+      "community",
+      "node",
+      "install",
+      "button",
+      "track",
+      "user"
+    ],
+    "description": [
+      "http",
+      "//share.cleanshot.com/2rlsntpf"
+    ],
+    "changed_files_count": 2,
+    "changed_files": [
+      "packages/editor-ui/src/components/CommunityPackageInstallModal.vue",
+      "packages/editor-ui/src/components/__tests__/CommunityPackageInstallModal.spec.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "96a9de68a009f066341668d6352dbba6dbac6a0f"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "editor",
+        "ensure",
+        "community",
+        "node",
+        "install",
+        "button",
+        "track",
+        "user",
+        "agreement",
+        "6976"
+      ],
+      "total_discussions": 6,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "http",
+                "//share.cleanshot.com/2rlsntpf"
+              ],
+              "author": "ivov"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "great",
+                "pr",
+                "please",
+                "pay",
+                "attention",
+                "following",
+                "item",
+                "merging",
+                "file",
+                "matchingpackages/",
+                "file",
+                "matchingpackages/",
+                ".ts",
+                "file",
+                "matching",
+                ".vue",
+                "file",
+                "matchingpackages/editor-ui/",
+                ".vue",
+                "make",
+                "sure",
+                "check",
+                "list",
+                "asking",
+                "review"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 3,
+          "comments": [
+            {
+              "content": [
+                "patch",
+                "coverage:15.38",
+                "project",
+                "coverage",
+                "change",
+                "+0.10",
+                "comparison",
+                "base",
+                "b6a00fe",
+                "25.13",
+                "compared",
+                "head",
+                "6022395",
+                "25.24",
+                ".report",
+                "14",
+                "commits",
+                "behind",
+                "head",
+                "master",
+                "...",
+                "and30",
+                "file",
+                "indirect",
+                "coverage",
+                "change",
+                "view",
+                "full",
+                "report",
+                "codecov",
+                "feedback",
+                "report",
+                "share"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 4,
+          "comments": [
+            {
+              "content": [
+                "detail",
+                "viewoutputvideo",
+                "comment",
+                "generated",
+                "cypress-bot",
+                "result",
+                "project'sgithub",
+                "integration",
+                "setting"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 5,
+          "comments": [
+            {
+              "content": [
+                "cypress",
+                "e2e",
+                "spec",
+                "passed"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 6,
+          "comments": [
+            {
+              "content": [
+                "got",
+                "released",
+                "withn8n",
+                "1.4.1"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

@@ -1,0 +1,195 @@
+{
+  "commit_index": "8b64c2c",
+  "commit_url": "https://github.com/puppeteer/puppeteer/commit/8b64c2cd01f7df44c1b667c4f1f2b676e0fab0a8",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "add",
+      "getdefaultnavigationtimeout",
+      "page",
+      "13277"
+    ],
+    "description": [],
+    "changed_files_count": 5,
+    "changed_files": [
+      "docs/api/puppeteer.page.getdefaultnavigationtimeout.md",
+      "docs/api/puppeteer.page.md",
+      "packages/puppeteer-core/src/api/Page.ts",
+      "packages/puppeteer-core/src/bidi/Page.ts",
+      "packages/puppeteer-core/src/cdp/Page.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "a1a4ab14adc19c29ab641d63a2c8fc94435f1ea7"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "add",
+        "getdefaultnavigationtimeout",
+        "page",
+        "13277"
+      ],
+      "total_discussions": 3,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "kind",
+                "change",
+                "pr",
+                "introduce",
+                "fixed",
+                "accessibility",
+                "getdefaultnavigationtimeoutdid",
+                "add",
+                "test",
+                "change",
+                "relevant",
+                "update",
+                "documentation",
+                "summarydoes",
+                "pr",
+                "introduce",
+                "breaking",
+                "change",
+                "noother",
+                "informationcloses",
+                "13238"
+              ],
+              "author": "OrKoN"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "pr",
+                "would",
+                "probably",
+                "need",
+                "runnpm",
+                "run",
+                "docsto",
+                "regenerate",
+                "submit",
+                "update",
+                "markdown",
+                "documentation"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 3,
+          "comments": [
+            {
+              "content": [
+                "done"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "title": [
+        "bug",
+        "page.",
+        "timeoutsettings",
+        "accessible",
+        "anymore",
+        "follow-up",
+        "8901",
+        "defaultnavigationtimeout",
+        "instead",
+        "defaulttimeout"
+      ],
+      "labels": [
+        "P3",
+        "good first issue",
+        "feature"
+      ],
+      "comments": [
+        {
+          "author": "aguyinmontreal",
+          "content": [
+            "minimal",
+            "reproducible",
+            "example",
+            "issue",
+            "8901",
+            "defaultnavigationtimeout",
+            "instead",
+            "defaulttimeout",
+            "background",
+            "8901",
+            "issue",
+            "fixed",
+            "defaulttimeout",
+            "defaultnavigationtimeout",
+            "expectation",
+            "way",
+            "'s",
+            "page.getdefaulttimeout",
+            "match",
+            "page.setdefaulttimeout",
+            "page.getdefaultnavigationtimeout",
+            "match",
+            "page.setdefaultnavigationtimeout",
+            "reality",
+            "--",
+            "puppeteer",
+            "configuration",
+            "file",
+            "used",
+            "response",
+            "puppeteer",
+            "version",
+            "23.6.0",
+            "node",
+            "version",
+            "20.11.0",
+            "package",
+            "manager",
+            "npm",
+            "package",
+            "manager",
+            "version",
+            "10.9.0",
+            "operating",
+            "system",
+            "window"
+          ]
+        },
+        {
+          "author": "satyamkale27",
+          "content": [
+            "want",
+            "work",
+            "issue",
+            "please",
+            "assign"
+          ]
+        },
+        {
+          "author": "Lightning00Blade",
+          "content": [
+            "satyamkale27",
+            "happy",
+            "review",
+            "pr"
+          ]
+        }
+      ]
+    }
+  ],
+  "security": null
+}

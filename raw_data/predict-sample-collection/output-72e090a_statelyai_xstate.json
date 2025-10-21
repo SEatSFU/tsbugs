@@ -1,0 +1,20 @@
+{
+  "commit_index": "72e090a",
+  "commit_url": "https://github.com/statelyai/xstate/commit/72e090afb1070d0842b4dbb4a1b5d32159059a7d",
+  "commit": {
+    "commit_message": [
+      "fixed",
+      "tsc"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      "packages/xstate-test/test/plans.test.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "4dc9a4dc98da1b270ae124b5a1232edcaec9fe55"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

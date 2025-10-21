@@ -1,0 +1,126 @@
+{
+  "commit_index": "4a831b1",
+  "commit_url": "https://github.com/run-llama/LlamaIndexTS/commit/4a831b192c58d01b86a8bdec481091db2fb6f7a9",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "doc",
+      "migration",
+      "issue",
+      "1576"
+    ],
+    "description": [],
+    "changed_files_count": 11,
+    "changed_files": [
+      "README.md",
+      "apps/next/src/content/docs/llamaindex/getting_started/index.mdx",
+      "apps/next/src/content/docs/llamaindex/getting_started/setup/cloudflare.mdx",
+      "apps/next/src/content/docs/llamaindex/getting_started/setup/index.mdx",
+      "apps/next/src/content/docs/llamaindex/getting_started/setup/meta.json",
+      "apps/next/src/content/docs/llamaindex/getting_started/setup/next.mdx",
+      "apps/next/src/content/docs/llamaindex/getting_started/setup/node.mdx",
+      "apps/next/src/content/docs/llamaindex/getting_started/setup/vite.mdx",
+      "apps/next/src/content/docs/llamaindex/getting_started/starter_tutorial/retrieval_augmented_generation.mdx",
+      "apps/next/src/content/docs/llamaindex/getting_started/starter_tutorial/structured_data_extraction.mdx",
+      "apps/next/src/content/docs/llamaindex/guide/meta.json"
+    ],
+    "changed_files_content": [],
+    "parent": "cf29ca1bf8295c9440e6867b302e3f129d1e5851"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "doc",
+        "migration",
+        "issue",
+        "1576"
+      ],
+      "total_discussions": 3,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "description",
+                "provided"
+              ],
+              "author": "marcusschiesser"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "latest",
+                "commit:5327cb8",
+                "merging",
+                "pr",
+                "cause",
+                "version",
+                "bump",
+                "package",
+                "change",
+                "result",
+                "new",
+                "version",
+                "'re",
+                "good",
+                "go.if",
+                "change",
+                "result",
+                "version",
+                "bump",
+                "need",
+                "add",
+                "changeset",
+                "changesets",
+                "added",
+                "pr",
+                "'ll",
+                "see",
+                "package",
+                "pr",
+                "includes",
+                "changesets",
+                "associated",
+                "semver",
+                "type",
+                "click",
+                "learn",
+                "changesets",
+                "add",
+                "one",
+                "click",
+                "'re",
+                "maintainer",
+                "want",
+                "add",
+                "changeset",
+                "pr"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 3,
+          "comments": [
+            {
+              "content": [
+                "open",
+                "stackblitz",
+                "commit:5327cb8"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

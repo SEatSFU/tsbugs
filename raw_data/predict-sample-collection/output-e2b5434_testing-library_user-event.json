@@ -1,0 +1,155 @@
+{
+  "commit_index": "e2b5434",
+  "commit_url": "https://github.com/testing-library/user-event/commit/e2b5434940a856734aaa61b272e1265bc9825246",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "package",
+      "delete",
+      "cc-test-reporter",
+      "273"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      ".travis.yml"
+    ],
+    "changed_files_content": [],
+    "parent": "585f1dfa82adf31908d85b9dc1980b5029152ed2"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "reduce",
+        "size",
+        "npm",
+        "package",
+        "99",
+        "273"
+      ],
+      "total_discussions": 6,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "exists",
+                "12mb",
+                "binary",
+                "tarball",
+                "published",
+                "npm",
+                "calledcc-test-reporter.this",
+                "look",
+                "like",
+                "happy",
+                "accident",
+                "'s",
+                "neccessary",
+                "ci",
+                "machine",
+                "removed",
+                "publishing",
+                "library.the",
+                "npm",
+                "tarball",
+                "foruser-eventis",
+                "12.9mb",
+                "12.8mb",
+                "thiscc-test-reporterbinary"
+              ],
+              "author": "kentcdodds"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "travis",
+                "failed",
+                "429",
+                "rate",
+                "limiting",
+                "github",
+                "trying",
+                "git",
+                "clone",
+                "source",
+                "code"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 3,
+          "comments": [
+            {
+              "content": [
+                "think",
+                "repo",
+                "due",
+                "tooling",
+                "improvement",
+                "plan",
+                "make",
+                "soon",
+                "'ll",
+                "get",
+                "merged",
+                "fix",
+                "issue",
+                "right"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 4,
+          "comments": [
+            {
+              "content": [
+                "pr",
+                "included",
+                "version",
+                "10.2.2",
+                "release",
+                "available",
+                "yoursemantic-releasebot"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 5,
+          "comments": [
+            {
+              "content": [
+                "npm",
+                "say",
+                "tarball",
+                "112kb",
+                "12.9mb"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 6,
+          "comments": [
+            {
+              "content": [
+                "hooray"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

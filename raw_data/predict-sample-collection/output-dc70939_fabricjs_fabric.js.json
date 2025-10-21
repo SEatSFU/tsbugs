@@ -1,0 +1,108 @@
+{
+  "commit_index": "dc70939",
+  "commit_url": "https://github.com/fabricjs/fabric.js/commit/dc709393148593c3bf7060e6c91e6f07f0c660ae",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "canvas",
+      "mouse",
+      "move",
+      "event",
+      "data",
+      "9849"
+    ],
+    "description": [],
+    "changed_files_count": 3,
+    "changed_files": [
+      "CHANGELOG.md",
+      "src/canvas/Canvas.ts",
+      "src/canvas/__tests__/__snapshots__/eventData.test.ts.snap"
+    ],
+    "changed_files_content": [],
+    "parent": "3db87f602c496975c520c3389b45558953e0922b"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "canvas",
+        "mouse",
+        "move",
+        "event",
+        "data",
+        "9849"
+      ],
+      "total_discussions": 4,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "descriptionmouse",
+                "move",
+                "fired",
+                "event",
+                "data",
+                "cached",
+                "meaning",
+                "findtarget",
+                "called",
+                "make",
+                "event",
+                "data",
+                "wrong",
+                "always",
+                "empty.mouse",
+                "down/up",
+                "clearly",
+                "bugin",
+                "action"
+              ],
+              "author": "ShaMan123"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "open",
+                "branch",
+                "inweb",
+                "editor\u2022vs",
+                "code\u2022insiders"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 3,
+          "comments": [
+            {
+              "content": [
+                "build",
+                "stats"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 4,
+          "comments": [
+            {
+              "content": [
+                "coverage",
+                "mergingfix/mouse-move-beforeintomasterwill"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

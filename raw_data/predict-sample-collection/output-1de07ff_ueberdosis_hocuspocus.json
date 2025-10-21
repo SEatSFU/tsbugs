@@ -1,0 +1,105 @@
+{
+  "commit_index": "1de07ff",
+  "commit_url": "https://github.com/ueberdosis/hocuspocus/commit/1de07ffd47be18d897948a623e6f8df28acbd371",
+  "commit": {
+    "commit_message": [
+      "server",
+      "url",
+      "decode",
+      "document",
+      "name",
+      "fix",
+      "143"
+    ],
+    "description": [],
+    "changed_files_count": 2,
+    "changed_files": [
+      "packages/server/src/Hocuspocus.ts",
+      "tests/server/onConnect.js"
+    ],
+    "changed_files_content": [],
+    "parent": "2036dade3c806ba7386ba32c8b9715c913a321b0"
+  },
+  "pull_requests": null,
+  "issues": [
+    {
+      "title": [
+        "document",
+        "name",
+        "url",
+        "encoded"
+      ],
+      "labels": [
+        "bug"
+      ],
+      "comments": [
+        {
+          "author": "dkrym",
+          "content": [
+            "sure",
+            "bug",
+            "feature",
+            "...",
+            "think",
+            "document",
+            "name",
+            "url",
+            "decoded",
+            "case",
+            "user",
+            "use",
+            "unsafe",
+            "character",
+            "document",
+            "name",
+            "auto",
+            "encoded",
+            "url",
+            "used",
+            "document",
+            "name",
+            "server",
+            "character",
+            "tried",
+            "space",
+            "surprisingly",
+            "ok.",
+            "could",
+            "argue",
+            "weird",
+            "char",
+            "document",
+            "name",
+            "though",
+            "'s",
+            "found",
+            "hocuspocus/packages/server/src/hocuspocus.ts",
+            "line",
+            "351",
+            "218143b",
+            "private",
+            "static",
+            "getdocumentname",
+            "request",
+            "incomingmessage",
+            "string"
+          ]
+        },
+        {
+          "author": "hanspagel",
+          "content": [
+            "oh",
+            "yes",
+            "decoded",
+            "document",
+            "name",
+            "added",
+            "test",
+            "report"
+          ]
+        }
+      ]
+    }
+  ],
+  "security": null
+}

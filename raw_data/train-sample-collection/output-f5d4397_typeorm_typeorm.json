@@ -1,0 +1,265 @@
+{
+  "commit_index": "f5d4397",
+  "commit_url": "https://github.com/typeorm/typeorm/commit/f5d43975dbbf02d0e40d64d01265105d4018cf7a",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "add",
+      "missing",
+      "await",
+      "10084"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      "src/migration/MigrationExecutor.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "d4607a86723eef07e62e6d7321a07f3ae5ed1f90"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "add",
+        "missing",
+        "await",
+        "10084"
+      ],
+      "total_discussions": 3,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "descriptionthere",
+                "missingawaitthat",
+                "causequeryrunneralreadyreleasederror.pull-request",
+                "checklistcode",
+                "up-to-date",
+                "themasterbranchnpm",
+                "run",
+                "formatto",
+                "apply",
+                "prettier",
+                "formattingnpm",
+                "run",
+                "testpasses",
+                "changethis",
+                "pull",
+                "request",
+                "link",
+                "relevant",
+                "issuemigrationexecutor",
+                "query",
+                "runner",
+                "already",
+                "released",
+                "10083there",
+                "new",
+                "updated",
+                "unit",
+                "test",
+                "validating",
+                "change",
+                "n/a",
+                "documentation",
+                "updated",
+                "reflect",
+                "changethe",
+                "new",
+                "commits",
+                "follow",
+                "convention",
+                "explained",
+                "incontributing.md"
+              ],
+              "author": "pleerock"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "case",
+                "helped",
+                "fix",
+                "bug.i",
+                "made",
+                "hotfix",
+                "script",
+                "put",
+                "missing",
+                "await",
+                "package",
+                "installation",
+                "npm",
+                "install",
+                "work"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 3,
+          "comments": [
+            {
+              "content": [
+                "contribution"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "title": [
+        "migrationexecutor",
+        "query",
+        "runner",
+        "already",
+        "released"
+      ],
+      "labels": [
+        "requires triage",
+        "bug"
+      ],
+      "comments": [
+        {
+          "author": "p1k2i",
+          "content": [
+            "issue",
+            "description",
+            "migrationexecutor",
+            "query",
+            "runner",
+            "already",
+            "released",
+            "expected",
+            "behavior",
+            "getexecutedmigrations",
+            "return",
+            "array",
+            "executed",
+            "migration",
+            "indicated",
+            "datasource",
+            "actual",
+            "behavior",
+            "migrationexecutor",
+            "throwing",
+            "queryrunneralreadyreleasederror",
+            "attempt",
+            "run",
+            "getexecutedmigrations",
+            "queryrunneralreadyreleasederror",
+            "query",
+            "runner",
+            "already",
+            "released",
+            "run",
+            "query",
+            "anymore",
+            "mysqlqueryrunner.query",
+            "c",
+            "\\project\\node_modules\\typeorm\\src\\driver\\mysql\\mysqlqueryrunner.ts:187:36",
+            "selectquerybuilder.loadrawresults",
+            "c",
+            "\\project\\node_modules\\src\\query-builder\\selectquerybuilder.ts:3789:43",
+            "selectquerybuilder.getrawmany",
+            "c",
+            "\\project\\node_modules\\src\\query-builder\\selectquerybuilder.ts:1626:40",
+            "migrationexecutor.loadexecutedmigrations",
+            "c",
+            "\\project\\node_modules\\src\\migration\\migrationexecutor.ts:563:18",
+            "c",
+            "\\project\\node_modules\\src\\migration\\migrationexecutor.ts:106:31",
+            "processticksandrejections",
+            "node",
+            "internal/process/task_queues:95:5",
+            "problem",
+            "internal",
+            "await",
+            "this.createmigrationstableifnotexist",
+            "queryrunner",
+            "queryrunner",
+            "realizing",
+            "still",
+            "used",
+            "next",
+            "operation",
+            "step",
+            "reproduce",
+            "const",
+            "migrationexecutor",
+            "new",
+            "migrationexecutor",
+            "datasource",
+            "//",
+            "get",
+            "list",
+            "executed",
+            "migration",
+            "const",
+            "executedmigrations",
+            "await",
+            "migrationexecutor.getexecutedmigrations",
+            "environment",
+            "dependency",
+            "version",
+            "node.js",
+            "version",
+            "18.16.0",
+            "typescript",
+            "version",
+            "5.0.4",
+            "typeorm",
+            "version",
+            "0.3.16",
+            "additional",
+            "context",
+            "response",
+            "relevant",
+            "database",
+            "driver",
+            "aurora-mysql",
+            "aurora-postgres",
+            "better-sqlite3",
+            "cockroachdb",
+            "cordova",
+            "expo",
+            "mongodb",
+            "mysql",
+            "nativescript",
+            "oracle",
+            "postgres",
+            "react-native",
+            "sap",
+            "spanner",
+            "sqlite",
+            "sqlite-abstract",
+            "sqljs",
+            "sqlserver",
+            "willing",
+            "resolve",
+            "issue",
+            "submitting",
+            "pull",
+            "request",
+            "yes",
+            "time",
+            "know",
+            "start"
+          ]
+        }
+      ]
+    }
+  ],
+  "security": null
+}

@@ -1,0 +1,26 @@
+{
+  "commit_index": "210ce35",
+  "commit_url": "https://github.com/run-llama/LlamaIndexTS/commit/210ce358672d2f9d96da053e009bc7ab5fe55ffd",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "remove",
+      "cleaning",
+      "build",
+      "asset",
+      "n't",
+      "work",
+      "due"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      "packages/create-llama/package.json"
+    ],
+    "changed_files_content": [],
+    "parent": "36905f6442a209243732c4ad79b40baf7d010791"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

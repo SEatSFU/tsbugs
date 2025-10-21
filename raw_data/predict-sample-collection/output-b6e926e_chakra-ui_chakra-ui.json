@@ -1,0 +1,25 @@
+{
+  "commit_index": "b6e926e",
+  "commit_url": "https://github.com/chakra-ui/chakra-ui/commit/b6e926e8f343f2bbb6b8105dc4c2a78ff56ba0c7",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "deps",
+      "update",
+      "dependency",
+      "vitest",
+      "v3.1.1"
+    ],
+    "description": [],
+    "changed_files_count": 2,
+    "changed_files": [
+      "package.json",
+      "pnpm-lock.yaml"
+    ],
+    "changed_files_content": [],
+    "parent": "ed8766636c36384d472b31299ec5b161149d5cfa"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

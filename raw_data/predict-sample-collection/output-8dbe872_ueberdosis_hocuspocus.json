@@ -1,0 +1,47 @@
+{
+  "commit_index": "8dbe872",
+  "commit_url": "https://github.com/ueberdosis/hocuspocus/commit/8dbe872d2eb6a68361b4257728bf222ad60fa516",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "docs/contributing.md",
+      "621"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      "docs/contributing.md"
+    ],
+    "changed_files_content": [],
+    "parent": "fab82ef7dcbd8a79a9017594785caef1b1ea36d3"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "docs/contributing.md",
+        "621"
+      ],
+      "total_discussions": 1,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "build",
+                "package",
+                "command",
+                "missingrun"
+              ],
+              "author": "janthurau"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

@@ -1,0 +1,69 @@
+{
+  "commit_index": "92d2862",
+  "commit_url": "https://github.com/react-native-community/cli/commit/92d2862c4ac9e21defc3d4c55cba006da9b17bfb",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "downgrade",
+      "w",
+      "package",
+      "2355"
+    ],
+    "description": [],
+    "changed_files_count": 2,
+    "changed_files": [
+      "packages/cli-server-api/package.json",
+      "yarn.lock"
+    ],
+    "changed_files_content": [],
+    "parent": "55bda446ec338e864be8f0af9e47da91a511392d"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "downgradewspackage",
+        "2355"
+      ],
+      "total_discussions": 1,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "summary",
+                "context",
+                "facebook/react-native",
+                "43687it",
+                "'s",
+                "easier",
+                "downgrade",
+                "inside",
+                "cli",
+                "rather",
+                "make",
+                "upgrade",
+                "core.test",
+                "plan",
+                "cichecklistdocumentation",
+                "date",
+                "reflect",
+                "changes.follows",
+                "commit",
+                "message",
+                "convention",
+                "described",
+                "incontributing.md"
+              ],
+              "author": "thymikee"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

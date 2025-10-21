@@ -1,0 +1,61 @@
+{
+  "commit_index": "13803d2",
+  "commit_url": "https://github.com/Kong/insomnia/commit/13803d2e5ddbd83afa13d087fc8569761e20bfb8",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "off-by-one",
+      "error",
+      "close",
+      "1013"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      "plugins/insomnia-plugin-request/index.js"
+    ],
+    "changed_files_content": [],
+    "parent": "4bc5f1b7896eb0dbc0cec87c34357f5644b59130"
+  },
+  "pull_requests": null,
+  "issues": [
+    {
+      "title": [
+        "bug",
+        "one",
+        "error",
+        "folder",
+        "variable",
+        "thingy"
+      ],
+      "labels": [],
+      "comments": [
+        {
+          "author": "tippl",
+          "content": [
+            "error",
+            "message",
+            "setting",
+            "nonexistent",
+            "index",
+            "show",
+            "count",
+            "ancestor",
+            "since",
+            "indexing",
+            "start",
+            "0",
+            "1"
+          ]
+        },
+        {
+          "author": "gschier",
+          "content": [
+            "oops"
+          ]
+        }
+      ]
+    }
+  ],
+  "security": null
+}

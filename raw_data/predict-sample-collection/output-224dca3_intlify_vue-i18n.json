@@ -1,0 +1,133 @@
+{
+  "commit_index": "224dca3",
+  "commit_url": "https://github.com/intlify/vue-i18n/commit/224dca35379e6e063edd758c9bb7f667f4b51047",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "type",
+      "error",
+      "1935"
+    ],
+    "description": [
+      "fix",
+      "type",
+      "error",
+      "chore",
+      "update",
+      "lock",
+      "file",
+      "refactor",
+      "remove",
+      "comment"
+    ],
+    "changed_files_count": 41,
+    "changed_files": [
+      ".github/workflows/ci.yml",
+      "package.json",
+      "packages/core-base/src/index.ts",
+      "packages/core-base/src/runtime.ts",
+      "packages/core-base/src/translate.ts",
+      "packages/core-base/src/types/utils.ts",
+      "packages/core-base/test/context.test-d.ts",
+      "packages/core-base/test/datetime.test-d.ts",
+      "packages/core-base/test/helper.ts",
+      "packages/core-base/test/number.test-d.ts",
+      "packages/core-base/test/runtime.test-d.ts",
+      "packages/core-base/test/schema.ts",
+      "packages/core-base/test/translate.test-d.ts",
+      "packages/core-base/test/translate.test.ts",
+      "packages/core-base/test/types.test-d.ts",
+      "packages/vue-i18n-core/src/i18n.ts",
+      "packages/vue-i18n-core/src/utils.ts",
+      "packages/vue-i18n-core/test/components/DatetimeFormat.test.ts",
+      "packages/vue-i18n-core/test/components/NumberFormat.test.ts",
+      "packages/vue-i18n-core/test/components/Translation.test.ts",
+      "packages/vue-i18n-core/test/components/components.test-d.tsx",
+      "packages/vue-i18n-core/test/composer.test-d.ts",
+      "packages/vue-i18n-core/test/i18n.test-d.ts",
+      "packages/vue-i18n-core/test/issues.test.ts",
+      "packages/vue-i18n-core/test/legacy.test-d.ts",
+      "packages/vue-i18n-core/test/mixin.test.ts",
+      "packages/vue-i18n-core/test/schema.ts",
+      "pnpm-lock.yaml",
+      "rollup.config.mjs",
+      "test-dts/core-base/context.test-d.ts",
+      "test-dts/core-base/datetime.test-d.ts",
+      "test-dts/core-base/number.test-d.ts",
+      "test-dts/core-base/runtime.test-d.ts",
+      "test-dts/core-base/translate.test-d.ts",
+      "test-dts/index.d.ts",
+      "test-dts/tsconfig.json",
+      "test-dts/vue-i18n/components.test-d.tsx",
+      "test-dts/vue-i18n/composer.test-d.ts",
+      "test-dts/vue-i18n/i18n.test-d.ts",
+      "test-dts/vue-i18n/legacy.test-d.ts",
+      "tsconfig.json"
+    ],
+    "changed_files_content": [],
+    "parent": "2752f9506cd9201f3454fc16093851a89ff085ba"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "type",
+        "error",
+        "1935"
+      ],
+      "total_discussions": 4,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "description",
+                "provided"
+              ],
+              "author": "kazupon"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "view",
+                "log"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 3,
+          "comments": [
+            {
+              "content": [
+                "open",
+                "stackblitz",
+                "commit:48db158"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 4,
+          "comments": [
+            {
+              "content": [
+                "open",
+                "stackblitz",
+                "commit:539bb83"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

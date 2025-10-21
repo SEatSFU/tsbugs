@@ -1,0 +1,52 @@
+{
+  "commit_index": "ed47090",
+  "commit_url": "https://github.com/supabase/supabase/commit/ed4709078c56f6a6753aa5a534dddb7dba91962d",
+  "commit": {
+    "commit_message": [
+      "policy",
+      "row",
+      "spacing",
+      "fix",
+      "35045"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      "apps/studio/components/interfaces/Auth/Policies/PolicyTableRow/PolicyRow.tsx"
+    ],
+    "changed_files_content": [],
+    "parent": "0457764b7afd945659b9217cd408222af3e273cf"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "policy",
+        "row",
+        "spacing",
+        "fix",
+        "35045"
+      ],
+      "total_discussions": 1,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "fix",
+                "messed",
+                "spacing",
+                "policy",
+                "row"
+              ],
+              "author": "saltcod"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

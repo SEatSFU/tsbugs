@@ -1,0 +1,165 @@
+{
+  "commit_index": "9fe76b4",
+  "commit_url": "https://github.com/testing-library/user-event/commit/9fe76b4ba03892413e0a4e80c5b9cacf765e67f8",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "type",
+      "wrap",
+      "type",
+      "asyncwrapper",
+      "dom",
+      "testing",
+      "library",
+      "303"
+    ],
+    "description": [
+      "breaking",
+      "change",
+      "dom",
+      "testing",
+      "library",
+      "version",
+      "7.9.0",
+      "greater",
+      "required"
+    ],
+    "changed_files_count": 5,
+    "changed_files": [
+      "package-lock.json",
+      "package.json",
+      "src/__tests__/type.js",
+      "src/__tests__/wrapping-in-act-is-unnecessary.js",
+      "src/index.js"
+    ],
+    "changed_files_content": [],
+    "parent": "eb33bdb107767d66fa4d640fc981a2ad792a0c0c"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "type",
+        "wrap",
+        "type",
+        "asyncwrapper",
+        "dom",
+        "testing",
+        "library",
+        "303"
+      ],
+      "total_discussions": 3,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "wraptypein",
+                "asyncwrapper",
+                "dom",
+                "testing",
+                "librarywhy",
+                "fix",
+                "issue",
+                "act",
+                "warning",
+                "usingtypewith",
+                "react",
+                "testing",
+                "library",
+                "expect",
+                "would",
+                "necessary",
+                "angular",
+                "change",
+                "detection",
+                ".how",
+                "upgrade",
+                "latest",
+                "version",
+                "dom",
+                "testing",
+                "library",
+                "required",
+                "get",
+                "thegetconfigexport",
+                "use",
+                "theasyncwrapper.checklist",
+                "documentation",
+                "n/ateststypings",
+                "n/aready",
+                "mergedbreaking",
+                "change",
+                "dom",
+                "testing",
+                "library",
+                "version",
+                "7.9.0",
+                "greater",
+                "required"
+              ],
+              "author": "kentcdodds"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "merging",
+                "303intonextwillincreasecoverage",
+                "by0.01",
+                ".the",
+                "diff",
+                "coverage",
+                "is92.00",
+                "continue",
+                "review",
+                "full",
+                "report",
+                "codecov",
+                "legend-click",
+                "learn",
+                "absolute",
+                "relative",
+                "impact",
+                "affected",
+                "missing",
+                "datapowered",
+                "bycodecov",
+                "last",
+                "updateeb33bdb",
+                "...",
+                "2e39cb7",
+                "read",
+                "thecomment",
+                "doc"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 3,
+          "comments": [
+            {
+              "content": [
+                "pr",
+                "included",
+                "version",
+                "11.0.0",
+                "release",
+                "available",
+                "yoursemantic-releasebot"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

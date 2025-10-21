@@ -1,0 +1,117 @@
+{
+  "commit_index": "17f9022",
+  "commit_url": "https://github.com/run-llama/LlamaIndexTS/commit/17f9022d22544f80653aa42118d99e6ba46ee218",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "output",
+      "event",
+      "check",
+      "1475"
+    ],
+    "description": [],
+    "changed_files_count": 2,
+    "changed_files": [
+      "packages/workflow/src/workflow-context.ts",
+      "unit/workflow/workflow.test.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "14792cd8b488fad0b388e886feb2b172e0b26114"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "output",
+        "event",
+        "check",
+        "1475"
+      ],
+      "total_discussions": 3,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "description",
+                "provided"
+              ],
+              "author": "himself65"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "latest",
+                "commit:6f4445c",
+                "merging",
+                "pr",
+                "cause",
+                "version",
+                "bump",
+                "package",
+                "change",
+                "result",
+                "new",
+                "version",
+                "'re",
+                "good",
+                "go.if",
+                "change",
+                "result",
+                "version",
+                "bump",
+                "need",
+                "add",
+                "changeset",
+                "changesets",
+                "added",
+                "pr",
+                "'ll",
+                "see",
+                "package",
+                "pr",
+                "includes",
+                "changesets",
+                "associated",
+                "semver",
+                "type",
+                "click",
+                "learn",
+                "changesets",
+                "add",
+                "one",
+                "click",
+                "'re",
+                "maintainer",
+                "want",
+                "add",
+                "changeset",
+                "pr"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 3,
+          "comments": [
+            {
+              "content": [
+                "open",
+                "stackblitz",
+                "commit:6f4445c"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

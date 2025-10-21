@@ -1,0 +1,33 @@
+{
+  "commit_index": "e12f6f9",
+  "commit_url": "https://github.com/nestjs/nest/commit/e12f6f9385e8a42a3f44bd9c8b10eb09afb94958",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "deps",
+      "update",
+      "dependency",
+      "ts-morph",
+      "v25.0.1"
+    ],
+    "description": [],
+    "changed_files_count": 10,
+    "changed_files": [
+      "package-lock.json",
+      "package.json",
+      "sample/12-graphql-schema-first/package.json",
+      "sample/22-graphql-prisma/package.json",
+      "sample/31-graphql-federation-code-first/gateway/package.json",
+      "sample/31-graphql-federation-code-first/posts-application/package.json",
+      "sample/31-graphql-federation-code-first/users-application/package.json",
+      "sample/32-graphql-federation-schema-first/gateway/package.json",
+      "sample/32-graphql-federation-schema-first/posts-application/package.json",
+      "sample/32-graphql-federation-schema-first/users-application/package.json"
+    ],
+    "changed_files_content": [],
+    "parent": "5cbb5b8112e54913c2a20c24c17e01d11579cea6"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

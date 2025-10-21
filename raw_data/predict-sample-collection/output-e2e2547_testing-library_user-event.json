@@ -1,0 +1,22 @@
+{
+  "commit_index": "e2e2547",
+  "commit_url": "https://github.com/testing-library/user-event/commit/e2e25470c3fa9078a58f6347319d23dbf297ec8f",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "update",
+      "babel"
+    ],
+    "description": [],
+    "changed_files_count": 2,
+    "changed_files": [
+      "package-lock.json",
+      "package.json"
+    ],
+    "changed_files_content": [],
+    "parent": "0af92f0c812fcaf74d8542b1cd74aa8f3aca6640"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

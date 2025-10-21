@@ -1,0 +1,23 @@
+{
+  "commit_index": "6bb0847",
+  "commit_url": "https://github.com/antiwork/shortest/commit/6bb084723b5cc355b7be0990a7fc27c9cbe80bd3",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "value",
+      "enum",
+      "ai",
+      "tool"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      "packages/shortest/src/ai/ai.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "09dc66e1f21906eb09e8092305bd3fe34b4383ef"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

@@ -1,0 +1,20 @@
+{
+  "commit_index": "3d7c717",
+  "commit_url": "https://github.com/antiwork/shortest/commit/3d7c717aa2189434ec35fec56400015c09baf7f0",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "route"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      "app/api/generate-tests/route.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "56c40f3875128b2036987eadda11c57f4e65f32c"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

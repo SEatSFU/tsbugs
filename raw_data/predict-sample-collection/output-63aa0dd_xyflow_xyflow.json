@@ -1,0 +1,25 @@
+{
+  "commit_index": "63aa0dd",
+  "commit_url": "https://github.com/xyflow/xyflow/commit/63aa0dd713b0322c46030741f3f141c0b6a628e1",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "viewport",
+      "set",
+      "direction=ltr",
+      "react",
+      "flow",
+      "wrapper"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      "packages/system/src/styles/init.css"
+    ],
+    "changed_files_content": [],
+    "parent": "4cd099f083b09938497bb0e6fe0ee8fb1596b827"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

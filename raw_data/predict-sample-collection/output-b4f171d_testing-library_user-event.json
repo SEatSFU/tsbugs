@@ -1,0 +1,114 @@
+{
+  "commit_index": "b4f171d",
+  "commit_url": "https://github.com/testing-library/user-event/commit/b4f171d1b66f4330d9de58afff95e8cf19a8a227",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "add",
+      "tab",
+      "function",
+      "doc",
+      "typing"
+    ],
+    "description": [
+      "merge",
+      "pull",
+      "request",
+      "184",
+      "gentlemanhal/patch-1"
+    ],
+    "changed_files_count": 1,
+    "changed_files": [
+      "typings/index.d.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "3a7b5de6c602189fa54b6a4d92bbc370af6c349e"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "add",
+        "tab",
+        "function",
+        "doc",
+        "typing",
+        "184"
+      ],
+      "total_discussions": 3,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "simple",
+                "patch",
+                "add",
+                "tab",
+                "function",
+                "doc",
+                "typing"
+              ],
+              "author": "Gpx"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "merging",
+                "184intomasterwillnot",
+                "changecoverage.the",
+                "diff",
+                "coverage",
+                "isn/a",
+                "continue",
+                "review",
+                "full",
+                "report",
+                "codecov",
+                "legend-click",
+                "learn",
+                "absolute",
+                "relative",
+                "impact",
+                "affected",
+                "missing",
+                "datapowered",
+                "bycodecov",
+                "last",
+                "update3a7b5de",
+                "...",
+                "c1aba38",
+                "read",
+                "thecomment",
+                "doc"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 3,
+          "comments": [
+            {
+              "content": [
+                "pr",
+                "included",
+                "version",
+                "8.0.1",
+                "release",
+                "available",
+                "yoursemantic-releasebot"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

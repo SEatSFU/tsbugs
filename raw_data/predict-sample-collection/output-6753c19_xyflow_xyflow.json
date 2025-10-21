@@ -1,0 +1,22 @@
+{
+  "commit_index": "6753c19",
+  "commit_url": "https://github.com/xyflow/xyflow/commit/6753c19188251df201affa7934e5aa0fcfc431b5",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "parentexpand",
+      "prevent",
+      "jumping"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      "packages/system/src/utils/store.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "e409939234aaaa950a06064bbebe84a78fb6fdbb"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

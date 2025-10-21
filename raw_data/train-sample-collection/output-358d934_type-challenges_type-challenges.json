@@ -1,0 +1,210 @@
+{
+  "commit_index": "358d934",
+  "commit_url": "https://github.com/type-challenges/type-challenges/commit/358d93401195a95d229e11868f2c3de0e7f74ae1",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "add",
+      "test",
+      "case",
+      "116",
+      "medium",
+      "replace",
+      "4779"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      "questions/116-medium-replace/test-cases.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "59ab9d7494d5c86f4efa5533364e4c3dbdbb83b9"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "add",
+        "test",
+        "case",
+        "116",
+        "medium",
+        "replace",
+        "4779"
+      ],
+      "total_discussions": 1,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "stringfromnot",
+                "exist",
+                "given",
+                "string"
+              ],
+              "author": "antfu"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "title": [
+        "replace"
+      ],
+      "labels": [
+        "new-challenge",
+        "ts4.1"
+      ],
+      "comments": [
+        {
+          "author": "antfu",
+          "content": [
+            "requires",
+            "microsoft/typescript",
+            "40336",
+            "work",
+            "try",
+            "preview",
+            "badge",
+            "info",
+            "basic",
+            "info",
+            "challenge",
+            "question",
+            "difficulty",
+            "medium",
+            "title",
+            "replace",
+            "tag",
+            "template-string",
+            "tsconfig",
+            "t",
+            "4.1.0-pr-40336-88",
+            "question",
+            "implement",
+            "replace",
+            "replace",
+            "string",
+            "given",
+            "string",
+            "example",
+            "type",
+            "replaced",
+            "replace",
+            "'types",
+            "fun",
+            "'fun",
+            "'awesome",
+            "//",
+            "expected",
+            "'types",
+            "awesome",
+            "template",
+            "template",
+            "challenger",
+            "start",
+            "coding",
+            "basically",
+            "need",
+            "change",
+            "name",
+            "generic/function",
+            "leave",
+            "implementation",
+            "type",
+            "replace",
+            "extends",
+            "string",
+            "extends",
+            "string",
+            "extends",
+            "string",
+            "test",
+            "case",
+            "provide",
+            "test",
+            "case",
+            "challenge",
+            "use",
+            "utils",
+            "type-challenges/utils",
+            "asserting",
+            "import",
+            "equal",
+            "expect",
+            "type-challenges/utils",
+            "type",
+            "case",
+            "expect",
+            "equal",
+            "replace",
+            "'foobar",
+            "'bar",
+            "'foo",
+            "'foofoo",
+            "expect",
+            "equal",
+            "replace",
+            "'foobarbar",
+            "'bar",
+            "'foo",
+            "'foofoobar",
+            "expect",
+            "equal",
+            "replace",
+            "'foobarbar",
+            "'foo",
+            "'foobarbar",
+            "expect",
+            "equal",
+            "replace",
+            "reference",
+            "credit",
+            "microsoft/typescript",
+            "40336",
+            "comment"
+          ]
+        },
+        {
+          "author": "github-actions",
+          "content": [
+            "117",
+            "pull",
+            "request",
+            "updated",
+            "2020-09-04t06:48:49.509z",
+            "http",
+            "//img.shields.io/date/1599202130",
+            "color=green",
+            "label=",
+            "href=",
+            "http",
+            "//www.typescriptlang.org/play",
+            "ts=4.1.0-pr-40336-88",
+            "code/pqkguabbcm0gwqlqqeofmaoabahgyzuiurnkicmbpcaqqdsaxacwhs7qaxavwgaoabhiwbmxajqqaxafs0aewcwxavizpp2hgsqbnbgccfdaozeikixackxnhovszuajias6tiwgaddjoiapadkadqqhpos0meakiwafn4qao5mcnhmepqyuaqqzggqeoymphfrsckkzd5xswx5rvlmhcykag6erqzgxj5b3gcwrmnqhcz6eggahjhuakmqi94rddqldjqyhdn+8haavkg5+ggbaosb2zoqonkqonqahodh54+veoc4yxzraod4hbgmaptntng1hj8iwiorcpctnzbvcfn9zc9lisnbagqa1broziqngqadi1qaelxyaaucbmbgmda6wkgtyzab0acsdjyjszgla4gaqmawblqbaapqyuxyuuqacalc4kwawiw5ivkwh7gqdbkigkjvdcn5cmcgmc1hq5ddir0wuuvdnbfbuivjlfyw7pb7hsyguchjqjwapyadraynygbb1tgdmiowrjekfbojvgan4qaciaecudgsgf8+c0jciabfb6rftnfhmxazuvuex2ybcbgkla6c7dyzmib4jpio4abuwfyhdacrzlwacftof2elby5dun3o2-0u43lebbypr8b8rcm8rkixxdlk5ogxem-3+9379pm5pxzpr538sxtec53kuj57ou-76j+xyht+l6-lb76averczlw86lg+q7prueeiecf6oqauugkapoq3d6aukxbgoliyhrromqarbaketb3iulcqpmogsfgpyohqrimkyljssahjmdyfickk8daeioi-pobeqasrjfajqlskjjlmqy7i6fyvl8vogrcsa-gcb2enqqashmhtqpxwadsydj0gzengazckwak4pgeaa",
+            "target=",
+            "_blank",
+            "img",
+            "src=",
+            "http",
+            "//img.shields.io/badge/-preview",
+            "20in",
+            "20playground-3178c6",
+            "logo=typescript",
+            "alt=",
+            "preview",
+            "playground",
+            "/a"
+          ]
+        }
+      ]
+    }
+  ],
+  "security": null
+}

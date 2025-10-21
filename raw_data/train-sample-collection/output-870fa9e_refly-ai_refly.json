@@ -1,0 +1,63 @@
+{
+  "commit_index": "870fa9e",
+  "commit_url": "https://github.com/refly-ai/refly/commit/870fa9e82a14c1addd5d798790554062025c16b0",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "api",
+      "image",
+      "resource",
+      "handling",
+      "invocation",
+      "preparation"
+    ],
+    "description": [
+      "changed",
+      "mapping",
+      "image",
+      "resource",
+      "use",
+      "rawfilekey",
+      "instead",
+      "storagekey",
+      "improved",
+      "accuracy",
+      "resource",
+      "management",
+      "utilized",
+      "boolean",
+      "filtering",
+      "cleaner",
+      "code",
+      "checking",
+      "valid",
+      "storage",
+      "key",
+      "ensured",
+      "adherence",
+      "tailwind",
+      "cs",
+      "styling",
+      "convention",
+      "optimized",
+      "property",
+      "access",
+      "using",
+      "optional",
+      "chaining",
+      "nullish",
+      "coalescing",
+      "throughout",
+      "change"
+    ],
+    "changed_files_count": 1,
+    "changed_files": [
+      "apps/api/src/modules/skill/skill.service.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "d30eb638af21e0a9736d68d976730dfe7eb08123"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

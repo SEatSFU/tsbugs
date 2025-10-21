@@ -1,0 +1,24 @@
+{
+  "commit_index": "529244d",
+  "commit_url": "https://github.com/chakra-ui/chakra-ui/commit/529244d008db7049d5b7d12590c41eba8df212d9",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "ui",
+      "text",
+      "selection"
+    ],
+    "description": [],
+    "changed_files_count": 3,
+    "changed_files": [
+      ".changeset/blue-owls-care.md",
+      "apps/www/app/shiki.css",
+      "packages/react/src/theme/global-css.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "82a21d01d5ddeded2996015391c937e10d2477e0"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

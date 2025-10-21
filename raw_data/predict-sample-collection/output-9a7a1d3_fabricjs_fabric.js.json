@@ -1,0 +1,191 @@
+{
+  "commit_index": "9a7a1d3",
+  "commit_url": "https://github.com/fabricjs/fabric.js/commit/9a7a1d3db4a166b14f7957e32a67b63da66062e3",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "add",
+      "generic",
+      "font",
+      "family",
+      "fabrictext.genericfonts",
+      "10\u2026"
+    ],
+    "description": [],
+    "changed_files_count": 2,
+    "changed_files": [
+      "CHANGELOG.md",
+      "src/shapes/Text/Text.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "3a429e4bbca92cb169e63080f40890b6a2cd4f01"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "add",
+        "generic",
+        "font",
+        "family",
+        "fabrictext.genericfonts",
+        "10167"
+      ],
+      "total_discussions": 7,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "extends",
+                "list",
+                "genericfonts",
+                "based",
+                "onhttps",
+                "//developer.mozilla.org/en-us/docs/web/css/font-family",
+                "generic-name"
+              ],
+              "author": "asturur"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "open",
+                "branch",
+                "inweb",
+                "editor\u2022vs",
+                "code\u2022insidersopenpreview"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 3,
+          "comments": [
+            {
+              "content": [
+                "hi",
+                "elohmeieris",
+                "fixing",
+                "kind",
+                "issue",
+                "elaborate",
+                "bit"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 4,
+          "comments": [
+            {
+              "content": [
+                "yes",
+                "since",
+                "font",
+                "declaration",
+                "encapsulate",
+                "font",
+                "name",
+                "without",
+                "change",
+                "quote",
+                "system-ui",
+                "instead",
+                "ofsystem-ui",
+                "lead",
+                "failing",
+                "font",
+                "resolution",
+                "least",
+                "firefox",
+                "macos",
+                "change",
+                "normal",
+                "600",
+                "16px",
+                "system-ui",
+                "change",
+                "normal",
+                "600",
+                "16px",
+                "system-ui",
+                "see",
+                "alsohttps",
+                "//developer.mozilla.org/en-us/docs/web/css/font-family",
+                "generic-name",
+                "probably",
+                "add",
+                "generic",
+                "font",
+                "name",
+                "well",
+                "'m",
+                "currently",
+                "monkey-patching",
+                "usingfabric.fabrictext.genericfonts.push",
+                "system-ui",
+                "importing",
+                "fabric"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 5,
+          "comments": [
+            {
+              "content": [
+                "yes",
+                "please",
+                "add",
+                "generic",
+                "name",
+                "'not",
+                "quoted",
+                "spec",
+                "say",
+                "working"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 6,
+          "comments": [
+            {
+              "content": [
+                "also",
+                "add",
+                "changelog",
+                "line",
+                "please"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 7,
+          "comments": [
+            {
+              "content": [
+                "feedback",
+                "'ve",
+                "updated",
+                "pr",
+                "accordingly"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

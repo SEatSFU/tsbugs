@@ -1,0 +1,30 @@
+{
+  "commit_index": "d4a8e10",
+  "commit_url": "https://github.com/ueberdosis/hocuspocus/commit/d4a8e10eb5bc77d76b871c716531ccb88092f846",
+  "commit": {
+    "commit_message": [
+      "provider",
+      "fix",
+      "typescript",
+      "issue"
+    ],
+    "description": [],
+    "changed_files_count": 9,
+    "changed_files": [
+      "packages/provider/src/HocuspocusProvider.ts",
+      "packages/provider/src/MessageSender.ts",
+      "packages/provider/src/OutgoingMessage.ts",
+      "packages/provider/src/OutgoingMessages/AwarenessMessage.ts",
+      "packages/provider/src/OutgoingMessages/QueryAwarenessMessage.ts",
+      "packages/provider/src/OutgoingMessages/SyncStepOneMessage.ts",
+      "packages/provider/src/OutgoingMessages/SyncStepTwoMessage.ts",
+      "packages/provider/src/OutgoingMessages/UpdateMessage.ts",
+      "packages/provider/src/types.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "7a9e30be03c46af75481983d62214f2c265bae65"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

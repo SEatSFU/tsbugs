@@ -1,0 +1,203 @@
+{
+  "commit_index": "5c1240d",
+  "commit_url": "https://github.com/fabricjs/fabric.js/commit/5c1240d8b4662e45868dd33f385f941de21c8e9c",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "canvas",
+      "disposing",
+      "mousedown",
+      "event",
+      "settimeout",
+      "active"
+    ],
+    "description": [],
+    "changed_files_count": 3,
+    "changed_files": [
+      "CHANGELOG.md",
+      "src/canvas/Canvas.spec.ts",
+      "src/canvas/Canvas.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "7b88c416db49ad0116c16d60af9471c6637ce7ad"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "mousedown",
+        "restore",
+        "touch",
+        "end",
+        "dispose"
+      ],
+      "total_discussions": 1,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "descriptionthis",
+                "issue",
+                "describes",
+                "problem",
+                "restore",
+                "400ms",
+                "touchend",
+                "event.if",
+                "dispose",
+                "happens",
+                "400ms",
+                "settimeout",
+                "function",
+                "wo",
+                "n't",
+                "find",
+                "canvas",
+                "element",
+                "attach",
+                "event",
+                "throw",
+                "errorcloses",
+                "10248"
+              ],
+              "author": "asturur"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "title": [
+        "bug",
+        "touch",
+        "interaction",
+        "cleanup",
+        "cause",
+        "unhandled",
+        "exception",
+        "canvas",
+        "disposed"
+      ],
+      "labels": [
+        "bug"
+      ],
+      "comments": [
+        {
+          "author": "Smrtnyk",
+          "content": [
+            "touch",
+            "device",
+            "using",
+            "fabric",
+            "fast",
+            "user",
+            "interaction",
+            "touch",
+            "device",
+            "following",
+            "disposal",
+            "canvas",
+            "canvas",
+            "disposal",
+            "within",
+            "400ms",
+            "touch",
+            "interaction",
+            "end",
+            "error",
+            "occurs",
+            "due",
+            "pending",
+            "timeout",
+            "attempting",
+            "add",
+            "mouse",
+            "event",
+            "listener",
+            "timeout",
+            "set",
+            "_ontouchend",
+            "handle",
+            "touch-to-mouse",
+            "event",
+            "transition",
+            "n't",
+            "cleaned",
+            "canvas",
+            "disposal",
+            "reproduction",
+            "touch",
+            "device",
+            "interact",
+            "canvas",
+            "dispose",
+            "canvas",
+            "within",
+            "400ms",
+            "touch",
+            "end",
+            "error",
+            "occurs",
+            "timeout",
+            "try",
+            "add",
+            "event",
+            "listener",
+            "disposed",
+            "canvas",
+            "called",
+            "canvas.dispose",
+            "guess",
+            "n't",
+            "want",
+            "anymore",
+            "timer",
+            "execute",
+            "talking",
+            "current",
+            "state",
+            "sure",
+            "nice",
+            "workaround",
+            "thinking",
+            "destroy",
+            "method",
+            "async",
+            "destroy",
+            "promise",
+            "void",
+            "eventmanager",
+            "destroy",
+            "zoommanager",
+            "destroy",
+            "touchmanager",
+            "destroy",
+            "ugly",
+            "hack",
+            "work",
+            "around",
+            "fact",
+            "fabric",
+            "clear",
+            "mousedowntimeout",
+            "dispose",
+            "cause",
+            "exception",
+            "thrown",
+            "canvas",
+            "disposed",
+            "mouse",
+            "reported",
+            "issue"
+          ]
+        }
+      ]
+    }
+  ],
+  "security": null
+}

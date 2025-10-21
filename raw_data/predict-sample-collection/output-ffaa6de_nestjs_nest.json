@@ -1,0 +1,26 @@
+{
+  "commit_index": "ffaa6de",
+  "commit_url": "https://github.com/nestjs/nest/commit/ffaa6de5c48948a621f4243569bd51539f711d63",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "deps",
+      "update",
+      "dependency",
+      "path-to-regexp",
+      "v3.3.0",
+      "security"
+    ],
+    "description": [],
+    "changed_files_count": 2,
+    "changed_files": [
+      "package-lock.json",
+      "package.json"
+    ],
+    "changed_files_content": [],
+    "parent": "315a43019748c873b4ab4cde72eb41af4920296c"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

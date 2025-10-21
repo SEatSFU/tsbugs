@@ -1,0 +1,22 @@
+{
+  "commit_index": "ba32fa8",
+  "commit_url": "https://github.com/microsoft/vscode/commit/ba32fa875916b8cc6975887de86976a4b2435d39",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "runinterminaltool",
+      "test"
+    ],
+    "description": [],
+    "changed_files_count": 2,
+    "changed_files": [
+      "src/vs/workbench/contrib/terminalContrib/chatAgentTools/browser/runInTerminalTool.ts",
+      "src/vs/workbench/contrib/terminalContrib/chatAgentTools/test/browser/runInTerminalTool.test.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "82d548de76396c8d0c5f56979b8a4a4911adef92"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

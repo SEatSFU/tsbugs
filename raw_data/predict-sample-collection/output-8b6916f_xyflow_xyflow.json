@@ -1,0 +1,24 @@
+{
+  "commit_index": "8b6916f",
+  "commit_url": "https://github.com/xyflow/xyflow/commit/8b6916f566b35d430869664ec4a87444445b3fbb",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "make",
+      "svelte-preprocess",
+      "dev",
+      "dep"
+    ],
+    "description": [],
+    "changed_files_count": 2,
+    "changed_files": [
+      "packages/svelte/package.json",
+      "pnpm-lock.yaml"
+    ],
+    "changed_files_content": [],
+    "parent": "69f53c0eff5962498c68f63232bf8f1076255b85"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

@@ -1,0 +1,28 @@
+{
+  "commit_index": "8d81b77",
+  "commit_url": "https://github.com/type-challenges/type-challenges/commit/8d81b77c50bcc678207ed514f7d5505f3ad4e9e2",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "update",
+      "japanese",
+      "translation",
+      "remove",
+      "unnecessary",
+      "file"
+    ],
+    "description": [],
+    "changed_files_count": 4,
+    "changed_files": [
+      "README.ja.md",
+      "questions/13-warm-hello-world/README.ja.md",
+      "questions/13-warm-hello-world/info.ja.yml",
+      "scripts/locales/ja.json"
+    ],
+    "changed_files_content": [],
+    "parent": "a028c31ca5b2cadb31d7c8e74a4a6a24c7437d0b"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

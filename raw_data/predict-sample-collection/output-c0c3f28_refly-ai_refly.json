@@ -1,0 +1,63 @@
+{
+  "commit_index": "c0c3f28",
+  "commit_url": "https://github.com/refly-ai/refly/commit/c0c3f28e6d88d7cad675eb024adef62c49545fbf",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "canvas",
+      "update",
+      "canvas",
+      "title",
+      "styling",
+      "owner",
+      "display"
+    ],
+    "description": [
+      "adjusted",
+      "maximum",
+      "width",
+      "canvas",
+      "title",
+      "text",
+      "better",
+      "layout",
+      "increased",
+      "height",
+      "vertical",
+      "divider",
+      "improved",
+      "visual",
+      "separation",
+      "added",
+      "ellipsis",
+      "tooltip",
+      "owner",
+      "name",
+      "text",
+      "better",
+      "readability",
+      "ensured",
+      "safe",
+      "property",
+      "access",
+      "using",
+      "optional",
+      "chaining",
+      "maintained",
+      "adherence",
+      "tailwind",
+      "cs",
+      "styling",
+      "convention"
+    ],
+    "changed_files_count": 1,
+    "changed_files": [
+      "packages/ai-workspace-common/src/components/canvas/top-toolbar/canvas-title.tsx"
+    ],
+    "changed_files_content": [],
+    "parent": "ba29f55dbd08fd3d91aaaa78931a8ddfe78a5903"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

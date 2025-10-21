@@ -1,0 +1,143 @@
+{
+  "commit_index": "09f03ac",
+  "commit_url": "https://github.com/ueberdosis/hocuspocus/commit/09f03ac2ea782b2ae9185434bf7c4b1e93df49ff",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "117",
+      "queue",
+      "incoming",
+      "message",
+      "local",
+      "variable"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      "packages/server/src/Hocuspocus.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "6084f907943f2e1a0ab47681a2a65538d243c3a3"
+  },
+  "pull_requests": null,
+  "issues": [
+    {
+      "title": [
+        "awareness",
+        "state",
+        "leaking",
+        "room"
+      ],
+      "labels": [
+        "bug"
+      ],
+      "comments": [
+        {
+          "author": "jperl",
+          "content": [
+            "description",
+            "onconnect",
+            "synchronous",
+            "awareness",
+            "state",
+            "leak",
+            "room",
+            "step",
+            "reproduce",
+            "bug",
+            "see",
+            "http",
+            "//github.com/jperl/yjs-repro",
+            "run",
+            "npm",
+            "run",
+            "ok",
+            "npm",
+            "run",
+            "bug",
+            "expected",
+            "behavior",
+            "would",
+            "expect",
+            "1",
+            "user",
+            "state",
+            "document",
+            "ever"
+          ]
+        },
+        {
+          "author": "hanspagel",
+          "content": [
+            "reporting",
+            "reproduction",
+            "confirm",
+            "bug",
+            "dig"
+          ]
+        },
+        {
+          "author": "hanspagel",
+          "content": [
+            "release",
+            "new",
+            "version",
+            "hocuspocus/server",
+            "would",
+            "mind",
+            "try"
+          ]
+        },
+        {
+          "author": "hanspagel",
+          "content": [
+            "pointing",
+            "mistake",
+            "released",
+            "new",
+            "version",
+            "leave",
+            "open",
+            "added",
+            "test",
+            "thing",
+            "queueing",
+            "message",
+            "scoping",
+            "awareness",
+            "state",
+            "prevent",
+            "future"
+          ]
+        },
+        {
+          "author": "jamesopti",
+          "content": [
+            "hit",
+            "last",
+            "week",
+            "super",
+            "stumped",
+            "could",
+            "happening",
+            "much",
+            "figuring",
+            "jperl",
+            "hanspagel",
+            "quick",
+            "fix"
+          ]
+        },
+        {
+          "author": "hanspagel",
+          "content": [
+            "got",
+            "test",
+            "set"
+          ]
+        }
+      ]
+    }
+  ],
+  "security": null
+}

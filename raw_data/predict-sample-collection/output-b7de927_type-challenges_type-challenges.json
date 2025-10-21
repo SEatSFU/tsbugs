@@ -1,0 +1,54 @@
+{
+  "commit_index": "b7de927",
+  "commit_url": "https://github.com/type-challenges/type-challenges/commit/b7de9270015a49a40915a3f6cb683898d59f04db",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "template",
+      "test-cases",
+      "8778"
+    ],
+    "description": [],
+    "changed_files_count": 5,
+    "changed_files": [
+      "questions/8767-medium-combination/README.md",
+      "questions/8767-medium-combination/info.yml",
+      "questions/8767-medium-combination/template.ts",
+      "questions/8767-medium-combination/test-cases.ts",
+      "questions/8767-medium-permutation-and-combination/template.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "19731dc59a7323d5b9fdfb4d0b086c1d78cbe07b"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "template",
+        "test-cases",
+        "8778"
+      ],
+      "total_discussions": 1,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "fix",
+                "wrong",
+                "test-casesalso",
+                "technically",
+                "it'scombination"
+              ],
+              "author": "antfu"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

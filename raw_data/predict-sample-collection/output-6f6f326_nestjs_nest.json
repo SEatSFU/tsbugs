@@ -1,0 +1,27 @@
+{
+  "commit_index": "6f6f326",
+  "commit_url": "https://github.com/nestjs/nest/commit/6f6f3265f9adc43fd8a14c1304b33049da0f38b4",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "deps",
+      "update",
+      "dependency",
+      "mongoose",
+      "v8.11.0"
+    ],
+    "description": [],
+    "changed_files_count": 4,
+    "changed_files": [
+      "package-lock.json",
+      "package.json",
+      "sample/06-mongoose/package.json",
+      "sample/14-mongoose-base/package.json"
+    ],
+    "changed_files_content": [],
+    "parent": "d2b9d62d0c4e909b300086593d0fdbbf5c7557b8"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

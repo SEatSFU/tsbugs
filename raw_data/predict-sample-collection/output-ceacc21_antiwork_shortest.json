@@ -1,0 +1,28 @@
+{
+  "commit_index": "ceacc21",
+  "commit_url": "https://github.com/antiwork/shortest/commit/ceacc2187420773d2ae3648c369d528f401a3674",
+  "commit": {
+    "commit_message": [
+      "feat",
+      "add",
+      "new",
+      "state",
+      "disable",
+      "update",
+      "test",
+      "fix",
+      "log"
+    ],
+    "description": [],
+    "changed_files_count": 2,
+    "changed_files": [
+      "app/(dashboard)/dashboard/pull-request.tsx",
+      "app/api/generate-tests/route.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "4c4f308fa9865c2dd420a7abfb50eb343a38d79d"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

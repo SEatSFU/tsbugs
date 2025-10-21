@@ -1,0 +1,99 @@
+{
+  "commit_index": "9634863",
+  "commit_url": "https://github.com/testing-library/user-event/commit/963486369ad95866e0247983e68cd1f2d1adb45b",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "upload",
+      "filelist",
+      "item",
+      "function",
+      "return",
+      "file",
+      "null",
+      "instead"
+    ],
+    "description": [],
+    "changed_files_count": 2,
+    "changed_files": [
+      "__tests__/react/upload.js",
+      "src/index.js"
+    ],
+    "changed_files_content": [],
+    "parent": "1f8ad44a4bdfdd9ab867aae80d0af90c61cab41c"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "upload",
+        "filelist",
+        "item",
+        "function",
+        "must",
+        "return",
+        "null",
+        "instead",
+        "undefined",
+        "ca",
+        "n't",
+        "find",
+        "file",
+        "288"
+      ],
+      "total_discussions": 2,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "looking",
+                "atfilelistimplementation",
+                "noted",
+                "thatitemfunction",
+                "must",
+                "returnfileornullinsteadundefined",
+                "isjsdomimplementationof",
+                "also",
+                "fix",
+                "wrong",
+                "expectation",
+                "test",
+                "'s",
+                "cause",
+                "error",
+                "must",
+                "also",
+                "removed",
+                "unnecessary",
+                "expectation",
+                "inuploadtests"
+              ],
+              "author": "kentcdodds"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "pr",
+                "included",
+                "version",
+                "10.3.2",
+                "release",
+                "available",
+                "yoursemantic-releasebot"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

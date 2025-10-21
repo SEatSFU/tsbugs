@@ -1,0 +1,153 @@
+{
+  "commit_index": "8de61c1",
+  "commit_url": "https://github.com/testing-library/user-event/commit/8de61c1162f304c7f018677ac6753b71e305441a",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "modernize",
+      "project",
+      "fix",
+      "bug",
+      "290"
+    ],
+    "description": [],
+    "changed_files_count": 44,
+    "changed_files": [
+      ".babelrc",
+      ".gitattributes",
+      ".github/ISSUE_TEMPLATE.md",
+      ".github/PULL_REQUEST_TEMPLATE.md",
+      ".gitignore",
+      ".huskyrc.js",
+      ".npmrc",
+      ".nvmrc",
+      ".prettierignore",
+      ".prettierrc.js",
+      ".travis.yml",
+      "CHANGELOG.md",
+      "CONTRIBUTING.md",
+      "LICENSE",
+      "README.md",
+      "__tests__/react/clear.js",
+      "__tests__/react/click.js",
+      "__tests__/react/dblclick.js",
+      "__tests__/react/selectoptions.js",
+      "__tests__/react/tab.js",
+      "__tests__/react/type.js",
+      "__tests__/react/upload.js",
+      "__tests__/vue/click.js",
+      "__tests__/vue/dblclick.js",
+      "__tests__/vue/selectoptions.js",
+      "__tests__/vue/type.js",
+      "jest.config.js",
+      "lint-staged.config.js",
+      "other/CODE_OF_CONDUCT.md",
+      "other/MAINTAINING.md",
+      "other/USERS.md",
+      "other/manual-releases.md",
+      "package-lock.json",
+      "package.json",
+      "src/__tests__/clear.js",
+      "src/__tests__/click.js",
+      "src/__tests__/dblclick.js",
+      "src/__tests__/selectoptions.js",
+      "src/__tests__/tab.js",
+      "src/__tests__/type.js",
+      "src/__tests__/upload.js",
+      "src/index.js",
+      "tests/setup-env.js",
+      "typings/index.d.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "963486369ad95866e0247983e68cd1f2d1adb45b"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "modernize",
+        "project",
+        "fix",
+        "bug",
+        "290"
+      ],
+      "total_discussions": 3,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "description",
+                "provided"
+              ],
+              "author": "kentcdodds"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "coverage",
+                "uploaded",
+                "pull",
+                "request",
+                "base",
+                "master",
+                "9634863",
+                ".click",
+                "learn",
+                "means.the",
+                "diff",
+                "coverage",
+                "is98.68",
+                "continue",
+                "review",
+                "full",
+                "report",
+                "codecov",
+                "legend-click",
+                "learn",
+                "absolute",
+                "relative",
+                "impact",
+                "affected",
+                "missing",
+                "datapowered",
+                "bycodecov",
+                "last",
+                "update9634863",
+                "...",
+                "2d41666",
+                "read",
+                "thecomment",
+                "doc"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 3,
+          "comments": [
+            {
+              "content": [
+                "pr",
+                "included",
+                "version",
+                "10.3.3",
+                "release",
+                "available",
+                "yoursemantic-releasebot"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

@@ -1,0 +1,24 @@
+{
+  "commit_index": "844f012",
+  "commit_url": "https://github.com/xyflow/xyflow/commit/844f01214ce15779e68e4d9eb4dc40c0dbd7130e",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "react",
+      "export",
+      "node",
+      "change",
+      "type"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      "packages/react/src/index.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "d545774724de0a12fd301f093f276e07e6e75e9d"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

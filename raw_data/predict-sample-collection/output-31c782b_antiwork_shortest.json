@@ -1,0 +1,22 @@
+{
+  "commit_index": "31c782b",
+  "commit_url": "https://github.com/antiwork/shortest/commit/31c782bc7fce18c6db55deeac107c489179758c5",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "browser",
+      "clean",
+      "termination"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      "packages/shortest/src/browser/manager/index.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "783bd4f19372cf3ec57eac0b9f529e50ecedcd3e"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

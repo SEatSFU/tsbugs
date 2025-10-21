@@ -1,0 +1,62 @@
+{
+  "commit_index": "94d3131",
+  "commit_url": "https://github.com/refly-ai/refly/commit/94d31315a714e4615641759485cc87cfafe640b3",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "canvas",
+      "clean",
+      "component",
+      "logic",
+      "style"
+    ],
+    "description": [
+      "added",
+      "cleanup",
+      "cs",
+      "custom",
+      "property",
+      "canvaslayoutcontrols",
+      "prevent",
+      "style",
+      "leakage",
+      "adjusted",
+      "nodeactionbuttons",
+      "style",
+      "removing",
+      "redundant",
+      "class",
+      "name",
+      "improved",
+      "clarity",
+      "updated",
+      "commoncolorpicker",
+      "remove",
+      "console",
+      "log",
+      "cleaner",
+      "code",
+      "simplified",
+      "editorbubbleitem",
+      "component",
+      "removing",
+      "unnecessary",
+      "class",
+      "name",
+      "maintaining",
+      "functionality"
+    ],
+    "changed_files_count": 4,
+    "changed_files": [
+      "packages/ai-workspace-common/src/components/canvas/layout-control/canvas-layout-controls.tsx",
+      "packages/ai-workspace-common/src/components/canvas/nodes/shared/color-picker/index.tsx",
+      "packages/ai-workspace-common/src/components/canvas/nodes/shared/node-action-buttons.tsx",
+      "packages/ai-workspace-common/src/components/editor/core/components/editor-bubble-item.tsx"
+    ],
+    "changed_files_content": [],
+    "parent": "7f94b77440bc092b13926c0a6c5e8044baacc61a"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

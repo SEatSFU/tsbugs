@@ -1,0 +1,21 @@
+{
+  "commit_index": "bedd056",
+  "commit_url": "https://github.com/xyflow/xyflow/commit/bedd05663e2121b39f47469893d171c227383a11",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "tsconfig",
+      "error"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      "examples/react/tsconfig.json"
+    ],
+    "changed_files_content": [],
+    "parent": "71db83761c245493d44e74311e10cc6465bf8387"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

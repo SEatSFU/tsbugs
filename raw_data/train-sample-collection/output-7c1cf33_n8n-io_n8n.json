@@ -1,0 +1,148 @@
+{
+  "commit_index": "7c1cf33",
+  "commit_url": "https://github.com/n8n-io/n8n/commit/7c1cf33616eb1990a9d6d7f4b93e91575f2cddc8",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "wrong",
+      "prompt",
+      "input",
+      "key",
+      "sql",
+      "agent",
+      "8708"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      "packages/@n8n/nodes-langchain/nodes/agents/Agent/agents/SqlAgent/execute.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "94e09248121bd9a24af10a6c99e815b12820174e"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "ai",
+        "agent",
+        "node",
+        "wrong",
+        "prompt",
+        "input",
+        "key",
+        "sql",
+        "agent",
+        "8708"
+      ],
+      "total_discussions": 4,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "summarydescribe",
+                "pr",
+                "test",
+                "photo",
+                "video",
+                "recommended.related",
+                "ticket",
+                "issuesinclude",
+                "link",
+                "tolinear",
+                "ticketor",
+                "github",
+                "issue",
+                "community",
+                "forum",
+                "post",
+                "important",
+                "order",
+                "closeautomaticallyand",
+                "provide",
+                "context",
+                "reviewers.review",
+                "merge",
+                "checklistpr",
+                "title",
+                "summary",
+                "descriptive.remember",
+                "title",
+                "automatically",
+                "go",
+                "changelog",
+                "use",
+                "no-changelog",
+                "otherwise",
+                "convention",
+                "doc",
+                "updatedor",
+                "follow-up",
+                "ticket",
+                "created.tests",
+                "included.a",
+                "bug",
+                "considered",
+                "fixed",
+                "unless",
+                "test",
+                "added",
+                "prevent",
+                "happening",
+                "again.a",
+                "feature",
+                "complete",
+                "without",
+                "test"
+              ],
+              "author": "michael-radency"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "detail",
+                "viewoutputvideo",
+                "viewoutputvideo"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 3,
+          "comments": [
+            {
+              "content": [
+                "cypress",
+                "e2e",
+                "spec",
+                "passed"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 4,
+          "comments": [
+            {
+              "content": [
+                "got",
+                "released",
+                "withn8n",
+                "1.30.1"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

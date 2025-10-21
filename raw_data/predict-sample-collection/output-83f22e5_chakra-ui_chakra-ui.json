@@ -1,0 +1,181 @@
+{
+  "commit_index": "83f22e5",
+  "commit_url": "https://github.com/chakra-ui/chakra-ui/commit/83f22e5f2e649930294be8a3826f81aac1ccade3",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "deps",
+      "update",
+      "dependency",
+      "types/jest",
+      "^29.5.1",
+      "7636"
+    ],
+    "description": [
+      "co-authored-by",
+      "renovate",
+      "bot",
+      "29139614+renovate",
+      "bot",
+      "users.noreply.github.com"
+    ],
+    "changed_files_count": 2,
+    "changed_files": [
+      "package.json",
+      "pnpm-lock.yaml"
+    ],
+    "changed_files_content": [],
+    "parent": "a3c20e363cf8c4fdfd30486998b453eff3fb7d57"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "deps",
+        "update",
+        "dependency",
+        "types/jest",
+        "^29.5.1",
+        "7636"
+      ],
+      "total_discussions": 3,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "pr",
+                "contains",
+                "following",
+                "update",
+                "packagechangeageadoptionpassingconfidence",
+                "types/jest",
+                "source",
+                "^28.1.1-",
+                "^29.5.1configuration\ud83d\udcc5schedule",
+                "branch",
+                "creation",
+                "3am",
+                "monday",
+                "timezone",
+                "utc",
+                "automerge",
+                "time",
+                "schedule",
+                "defined",
+                ".\ud83d\udea6automerge",
+                "enabled.\u267brebasing",
+                "whenever",
+                "pr",
+                "becomes",
+                "conflicted",
+                "tick",
+                "rebase/retry",
+                "checkbox.\ud83d\udd15ignore",
+                "close",
+                "pr",
+                "wo",
+                "n't",
+                "reminded",
+                "update",
+                "again.if",
+                "want",
+                "rebase/retry",
+                "pr",
+                "check",
+                "boxthis",
+                "pr",
+                "generated",
+                "bymend",
+                "renovate",
+                "view",
+                "repository",
+                "job",
+                "loghere"
+              ],
+              "author": "segunadebayo"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "pr",
+                "configured",
+                "branch",
+                "automerge",
+                "however",
+                "possible",
+                "raised",
+                "pr",
+                "instead"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 3,
+          "comments": [
+            {
+              "content": [
+                "latest",
+                "commit",
+                "caea719",
+                "merging",
+                "pr",
+                "cause",
+                "version",
+                "bump",
+                "package",
+                "change",
+                "result",
+                "new",
+                "version",
+                "'re",
+                "good",
+                "go.if",
+                "change",
+                "result",
+                "version",
+                "bump",
+                "need",
+                "add",
+                "changeset",
+                "changesets",
+                "added",
+                "pr",
+                "'ll",
+                "see",
+                "package",
+                "pr",
+                "includes",
+                "changesets",
+                "associated",
+                "semver",
+                "type",
+                "click",
+                "learn",
+                "changesets",
+                "add",
+                "one",
+                "click",
+                "'re",
+                "maintainer",
+                "want",
+                "add",
+                "changeset",
+                "pr"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

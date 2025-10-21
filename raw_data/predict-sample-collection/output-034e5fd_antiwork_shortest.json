@@ -1,0 +1,28 @@
+{
+  "commit_index": "034e5fd",
+  "commit_url": "https://github.com/antiwork/shortest/commit/034e5fd3402420be2c23904f3d4925583d896c06",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "browser",
+      "netowkr",
+      "idle",
+      "navigating",
+      "new",
+      "page"
+    ],
+    "description": [],
+    "changed_files_count": 4,
+    "changed_files": [
+      "packages/shortest/src/ai/prompts/index.ts",
+      "packages/shortest/src/ai/tools/index.ts",
+      "packages/shortest/src/browser/core/browser-tool.ts",
+      "packages/shortest/src/types/browser.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "31c782bc7fce18c6db55deeac107c489179758c5"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

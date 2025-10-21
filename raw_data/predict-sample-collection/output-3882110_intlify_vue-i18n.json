@@ -1,0 +1,24 @@
+{
+  "commit_index": "3882110",
+  "commit_url": "https://github.com/intlify/vue-i18n/commit/38821105bb9a97ef17dfbac561517a89c8d05ec0",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "tweak",
+      "__no_side_effects__"
+    ],
+    "description": [],
+    "changed_files_count": 4,
+    "changed_files": [
+      "packages/core-base/src/compilation.ts",
+      "packages/core-base/src/context.ts",
+      "packages/vue-i18n-core/src/composer.ts",
+      "packages/vue-i18n-core/src/i18n.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "ab9eafb2a3bfb3b76b2aff7fb189d6bb96165fe8"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

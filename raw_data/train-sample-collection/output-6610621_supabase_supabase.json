@@ -1,0 +1,141 @@
+{
+  "commit_index": "6610621",
+  "commit_url": "https://github.com/supabase/supabase/commit/6610621f67b0f1d6ecae1f8c808f53c201aadc8c",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "update",
+      "function",
+      "code",
+      "template",
+      "openai",
+      "completion",
+      "api",
+      "w\u2026"
+    ],
+    "description": [
+      "fix",
+      "update",
+      "code",
+      "sample",
+      "openai-completion",
+      "work",
+      "latest",
+      "package"
+    ],
+    "changed_files_count": 1,
+    "changed_files": [
+      "apps/studio/components/interfaces/Functions/Functions.templates.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "3989395a7590e80164478493d083eb520cf83e56"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "update",
+        "function",
+        "code",
+        "template",
+        "openai",
+        "completion",
+        "api",
+        "work",
+        "current",
+        "package",
+        "34890"
+      ],
+      "total_discussions": 3,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "read",
+                "thecontributing.mdfile.yeswhat",
+                "kind",
+                "change",
+                "pr",
+                "introduce",
+                "could",
+                "n't",
+                "get",
+                "current",
+                "function",
+                "template",
+                "foropenai-completionto",
+                "work",
+                "discovered",
+                "openai",
+                "npm",
+                "package",
+                "quite",
+                "outdated",
+                "modeltext-davinci-003is",
+                "deprecated",
+                "pr",
+                "fix",
+                "function",
+                "work",
+                "current",
+                "version"
+              ],
+              "author": "dshukertjr"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "saxonfby",
+                "way",
+                "code",
+                "taken",
+                "might",
+                "want",
+                "update",
+                "one",
+                "well"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 3,
+          "comments": [
+            {
+              "content": [
+                "dshukertjri",
+                "think",
+                "ai-generated",
+                "went",
+                "quickly",
+                "updated",
+                "obvious",
+                "issue",
+                "look",
+                "example",
+                "well",
+                "ideally",
+                "update",
+                "example",
+                "inhttps",
+                "//github.com/supabase/supabase/tree/master/examples/edge-functions/supabase/functionsand",
+                "load",
+                "template",
+                "future"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

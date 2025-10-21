@@ -1,0 +1,168 @@
+{
+  "commit_index": "8ba1b15",
+  "commit_url": "https://github.com/testing-library/user-event/commit/8ba1b154beade375b7e2e595c31c8ef87162fd78",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "select",
+      "option",
+      "even",
+      "nested",
+      "optgroups",
+      "196"
+    ],
+    "description": [
+      "chore",
+      "add",
+      ".idea/",
+      ".gitignore",
+      "fix",
+      "select",
+      "option",
+      "even",
+      "nested",
+      "optgroups"
+    ],
+    "changed_files_count": 4,
+    "changed_files": [
+      ".gitignore",
+      "__tests__/react/selectoptions.js",
+      "__tests__/vue/selectoptions.js",
+      "src/index.js"
+    ],
+    "changed_files_content": [],
+    "parent": "ab40343b3a8a67099d3e44020e940720cdb05940"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix/allow",
+        "selecting",
+        "option",
+        "optgroups",
+        "196"
+      ],
+      "total_discussions": 5,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "'m",
+                "opening",
+                "pr",
+                "solve",
+                "issue",
+                "selectoptions",
+                "work",
+                "option",
+                "nested",
+                "inside",
+                "optgroup",
+                "element",
+                "think",
+                "queryselectorall",
+                "would",
+                "solve",
+                "possibly",
+                "case",
+                "nesting",
+                "could",
+                "issue"
+              ],
+              "author": "kentcdodds"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "merging",
+                "196intomasterwillincreasecoverage",
+                "by0.04",
+                ".the",
+                "diff",
+                "coverage",
+                "is100",
+                "continue",
+                "review",
+                "full",
+                "report",
+                "codecov",
+                "legend-click",
+                "learn",
+                "absolute",
+                "relative",
+                "impact",
+                "affected",
+                "missing",
+                "datapowered",
+                "bycodecov",
+                "last",
+                "updated623d53",
+                "...",
+                "43a74d8",
+                "read",
+                "thecomment",
+                "doc"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 3,
+          "comments": [
+            {
+              "content": [
+                "all-contributorsplease",
+                "add",
+                "jordyvandomselaarfor",
+                "code",
+                "test"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 4,
+          "comments": [
+            {
+              "content": [
+                "kentcdodds",
+                "'ve",
+                "put",
+                "upa",
+                "pull",
+                "requestto",
+                "add",
+                "jordyvandomselaar"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 5,
+          "comments": [
+            {
+              "content": [
+                "pr",
+                "included",
+                "version",
+                "8.0.6",
+                "release",
+                "available",
+                "yoursemantic-releasebot"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

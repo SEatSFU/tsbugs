@@ -1,0 +1,62 @@
+{
+  "commit_index": "13af3a6",
+  "commit_url": "https://github.com/refly-ai/refly/commit/13af3a6aa0aca277e612c39742777658236b921f",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "api",
+      "premature",
+      "close",
+      "static",
+      "file",
+      "serving",
+      "controller"
+    ],
+    "description": [
+      "removed",
+      "streamablefile",
+      "return",
+      "type",
+      "replaced",
+      "void",
+      "exportdocument",
+      "getinternalfilestream",
+      "method",
+      "better",
+      "response",
+      "management",
+      "adjusted",
+      "response",
+      "handling",
+      "directly",
+      "end",
+      "response",
+      "data",
+      "instead",
+      "returning",
+      "streamablefile",
+      "improving",
+      "performance",
+      "clarity",
+      "updated",
+      "response",
+      "header",
+      "include",
+      "content-length",
+      "better",
+      "client",
+      "handling",
+      "response"
+    ],
+    "changed_files_count": 2,
+    "changed_files": [
+      "apps/api/src/modules/knowledge/knowledge.controller.ts",
+      "apps/api/src/modules/misc/misc.controller.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "2ecef215a274b8679d4c15395f3fc80eb0f7f465"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

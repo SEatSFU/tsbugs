@@ -1,0 +1,284 @@
+{
+  "commit_index": "a693b29",
+  "commit_url": "https://github.com/n8n-io/n8n/commit/a693b29134cb1d2b04e2df57296e93bf7c33e570",
+  "commit": {
+    "commit_message": [
+      "ci",
+      "fix",
+      "prettier",
+      "auto-formatting",
+      "no-changelog",
+      "7063"
+    ],
+    "description": [],
+    "changed_files_count": 22,
+    "changed_files": [
+      ".github/scripts/check-tests.mjs",
+      ".prettierignore",
+      ".vscode/settings.default.json",
+      "cypress/e2e/26-resource-locator.cy.ts",
+      "cypress/e2e/27-two-factor-authentication.cy.ts",
+      "cypress/e2e/28-debug.cy.ts",
+      "cypress/e2e/28-resource-mapper.cy.ts",
+      "cypress/e2e/5-ndv.cy.ts",
+      "cypress/e2e/6-code-node.cy.ts",
+      "cypress/pages/ndv.ts",
+      "cypress/pages/settings-personal.ts",
+      "cypress/pages/workflow.ts",
+      "package.json",
+      "packages/cli/BREAKING-CHANGES.md",
+      "packages/cli/src/ActiveExecutions.ts",
+      "packages/cli/src/Server.ts",
+      "packages/cli/src/environments/sourceControl/sourceControl.controller.ee.ts",
+      "packages/cli/src/executions/executions.service.ts",
+      "packages/design-system/src/utils/__tests__/event-bus.spec.ts",
+      "packages/editor-ui/package.json",
+      "packages/editor-ui/src/views/NodeView.vue",
+      "pnpm-lock.yaml"
+    ],
+    "changed_files_content": [],
+    "parent": "fa3d7070b04525d7df13483e43a699b287b33635"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "ci",
+        "fix",
+        "prettier",
+        "auto-formatting",
+        "no-changelog",
+        "7063"
+      ],
+      "total_discussions": 10,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "description",
+                "provided"
+              ],
+              "author": "ivov"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "great",
+                "pr",
+                "please",
+                "pay",
+                "attention",
+                "following",
+                "item",
+                "merging",
+                "file",
+                "matchingpackages/",
+                "file",
+                "matchingpackages/",
+                ".ts",
+                "file",
+                "matching",
+                ".vue",
+                "file",
+                "matchingpackages/editor-ui/",
+                ".vue",
+                "file",
+                "matchingpackages/editor-ui/src/views/nodeview.vue",
+                "file",
+                "matchingcypress/e2e/",
+                "make",
+                "sure",
+                "check",
+                "list",
+                "asking",
+                "review"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 3,
+          "comments": [
+            {
+              "content": [
+                "patch",
+                "coverage:16.66",
+                "project",
+                "coverage",
+                "change",
+                "-0.01",
+                "comparison",
+                "base",
+                "fa3d707",
+                "32.09",
+                "compared",
+                "head",
+                "4cf89a6",
+                "32.09",
+                "...",
+                "and3",
+                "file",
+                "indirect",
+                "coverage",
+                "change",
+                "view",
+                "full",
+                "report",
+                "codecov",
+                "feedback",
+                "report",
+                "share"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 4,
+          "comments": [
+            {
+              "content": [
+                "netroywhat",
+                "issue",
+                "fixing",
+                "autoformatting",
+                "appears",
+                "working",
+                "end"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 5,
+          "comments": [
+            {
+              "content": [
+                "netroywhat",
+                "issue",
+                "fixing",
+                "autoformatting",
+                "appears",
+                "working",
+                "end",
+                "'s",
+                "working",
+                "vscode",
+                "setup",
+                "global",
+                "installation",
+                "prettier"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 6,
+          "comments": [
+            {
+              "content": [
+                "netroywhat",
+                "issue",
+                "fixing",
+                "autoformatting",
+                "appears",
+                "working",
+                "end",
+                "'s",
+                "working",
+                "vscode",
+                "setup",
+                "global",
+                "installation",
+                "prettier",
+                "globally",
+                "installed",
+                "prettier",
+                "andsettings.jsonis",
+                "identical",
+                "tosettings.default.jsonexcept",
+                "unrelated",
+                "color",
+                "customizations",
+                "need",
+                "spend",
+                "long",
+                "'ll",
+                "test",
+                "make",
+                "difference",
+                "end",
+                "'ll",
+                "approve"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 7,
+          "comments": [
+            {
+              "content": [
+                "detail",
+                "viewoutputvideo",
+                "comment",
+                "generated",
+                "cypress-bot",
+                "result",
+                "project'sgithub",
+                "integration",
+                "setting"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 8,
+          "comments": [
+            {
+              "content": [
+                "cypress",
+                "e2e",
+                "spec",
+                "passed"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 9,
+          "comments": [
+            {
+              "content": [
+                "cypress",
+                "e2e",
+                "spec",
+                "passed"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 10,
+          "comments": [
+            {
+              "content": [
+                "got",
+                "released",
+                "withn8n",
+                "1.6.0"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

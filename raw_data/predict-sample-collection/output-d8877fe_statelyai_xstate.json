@@ -1,0 +1,282 @@
+{
+  "commit_index": "d8877fe",
+  "commit_url": "https://github.com/statelyai/xstate/commit/d8877feff9a3c578d9012a0ace97d246e0e529e0",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "depart",
+      "date",
+      "bug",
+      "7guis",
+      "flight",
+      "booker",
+      "react",
+      "4850"
+    ],
+    "description": [
+      "example",
+      "7guis",
+      "flight",
+      "booker",
+      "fix",
+      "depart",
+      "date",
+      "bug",
+      "7guis",
+      "react",
+      "remove",
+      "unused",
+      "cs",
+      "null",
+      "classname",
+      "remove",
+      "unused",
+      "cs",
+      "rule",
+      "ensure",
+      "latest",
+      "version",
+      "fix",
+      "typo",
+      "added",
+      "success",
+      "notification",
+      "removed",
+      "unnecessary",
+      "import",
+      "remove",
+      "unused",
+      "cs"
+    ],
+    "changed_files_count": 21,
+    "changed_files": [
+      "examples/7guis-flight-booker-react/README.md",
+      "examples/7guis-flight-booker-react/package-lock.json",
+      "examples/7guis-flight-booker-react/package.json",
+      "examples/7guis-flight-booker-react/public/flight-booker.png",
+      "examples/7guis-flight-booker-react/src/App.tsx",
+      "examples/7guis-flight-booker-react/src/DateInput.tsx",
+      "examples/7guis-flight-booker-react/src/components/BookButton.tsx",
+      "examples/7guis-flight-booker-react/src/components/DateInput.tsx",
+      "examples/7guis-flight-booker-react/src/components/Header.tsx",
+      "examples/7guis-flight-booker-react/src/components/TripSelector.tsx",
+      "examples/7guis-flight-booker-react/src/components/index.ts",
+      "examples/7guis-flight-booker-react/src/index.css",
+      "examples/7guis-flight-booker-react/src/machine.ts",
+      "examples/7guis-flight-booker-react/src/machines/flightMachine.ts",
+      "examples/7guis-flight-booker-react/src/main.tsx",
+      "examples/7guis-flight-booker-react/src/styles/reset.css",
+      "examples/7guis-flight-booker-react/src/styles/styles.css",
+      "examples/7guis-flight-booker-react/src/utils/index.ts",
+      "examples/7guis-flight-booker-react/tsconfig.json",
+      "examples/7guis-flight-booker-react/types.d.ts",
+      "examples/7guis-flight-booker-react/vite.config.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "a67e99f13d1770f3a6eeda9887bb5fff666c0db8"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "depart",
+        "date",
+        "bug",
+        "7guis",
+        "flight",
+        "booker",
+        "react",
+        "4850"
+      ],
+      "total_discussions": 7,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "fixed",
+                "depart",
+                "date",
+                "bugremodeled",
+                "state",
+                "machinerefactored",
+                "codeimproved",
+                "uiupdated",
+                "screenshotaddedopen",
+                "stackblitzbutton"
+              ],
+              "author": "davidkpiano"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "latest",
+                "commit:834a5f3",
+                "merging",
+                "pr",
+                "cause",
+                "version",
+                "bump",
+                "package",
+                "change",
+                "result",
+                "new",
+                "version",
+                "'re",
+                "good",
+                "go.if",
+                "change",
+                "result",
+                "version",
+                "bump",
+                "need",
+                "add",
+                "changeset",
+                "changesets",
+                "added",
+                "pr",
+                "'ll",
+                "see",
+                "package",
+                "pr",
+                "includes",
+                "changesets",
+                "associated",
+                "semver",
+                "type",
+                "click",
+                "learn",
+                "changesets",
+                "add",
+                "one",
+                "click",
+                "'re",
+                "maintainer",
+                "want",
+                "add",
+                "changeset",
+                "pr"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 3,
+          "comments": [
+            {
+              "content": [
+                "able",
+                "book",
+                "flight",
+                "past"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 4,
+          "comments": [
+            {
+              "content": [
+                "'s",
+                "old",
+                "version",
+                "pull",
+                "request",
+                "update"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 5,
+          "comments": [
+            {
+              "content": [
+                "n't",
+                "use",
+                "theopen",
+                "stackblitzbutton",
+                "test",
+                "link",
+                "http",
+                "//stackblitz.com/github/statelyai/xstate/tree/main/examples/7guis-flight-booker-react",
+                "old",
+                "version",
+                "new",
+                "one",
+                "merged"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 6,
+          "comments": [
+            {
+              "content": [
+                "wait",
+                "n't",
+                "merge",
+                "yet",
+                "realized",
+                "'s",
+                "supposed",
+                "display",
+                "notification",
+                "confirming",
+                "flight",
+                "itinerary",
+                "flight",
+                "booked",
+                "xstate",
+                "4",
+                "example",
+                "started",
+                "project",
+                "n't",
+                "implement",
+                "requirement",
+                "original",
+                "7guis",
+                "project"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 7,
+          "comments": [
+            {
+              "content": [
+                "forgot",
+                "create",
+                "different",
+                "branch",
+                "circle",
+                "drawer",
+                "app",
+                "flight",
+                "booker",
+                "branch",
+                "'s",
+                "stackblitz",
+                "testing",
+                "needed.https",
+                "//stackblitz.com/edit/github-awfape"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

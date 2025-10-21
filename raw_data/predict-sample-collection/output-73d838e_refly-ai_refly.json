@@ -1,0 +1,23 @@
+{
+  "commit_index": "73d838e",
+  "commit_url": "https://github.com/refly-ai/refly/commit/73d838ea5cd4989a484d99a8ec00f83e29064675",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "rename",
+      "toolsconfigtab",
+      "file",
+      "toolsconfigtab"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      "packages/ai-workspace-common/src/components/settings/tools-config/ToolsConfigTab.tsx"
+    ],
+    "changed_files_content": [],
+    "parent": "7b6a11c19a3acf01e26aa99782040387c1a78e11"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

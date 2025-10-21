@@ -1,0 +1,22 @@
+{
+  "commit_index": "5cef26c",
+  "commit_url": "https://github.com/type-challenges/type-challenges/commit/5cef26ca0ed92776c742a1760682d7a2d2be38f6",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "translate",
+      "readme",
+      "japanese"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      "README.ja.md"
+    ],
+    "changed_files_content": [],
+    "parent": "8d81b77c50bcc678207ed514f7d5505f3ad4e9e2"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

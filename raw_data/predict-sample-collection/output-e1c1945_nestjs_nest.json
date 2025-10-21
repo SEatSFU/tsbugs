@@ -1,0 +1,22 @@
+{
+  "commit_index": "e1c1945",
+  "commit_url": "https://github.com/nestjs/nest/commit/e1c1945a45021d980854b281bc7a648004d6f438",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "platform-fastify",
+      "uppercase",
+      "method"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      "packages/platform-fastify/adapters/fastify-adapter.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "0d5ad26268012a2e619404de5f5c358d31629125"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

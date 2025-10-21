@@ -1,0 +1,217 @@
+{
+  "commit_index": "275e5cf",
+  "commit_url": "https://github.com/antiwork/shortest/commit/275e5cfaf4917432dcb9b72df13fb433dedb67d8",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "improve",
+      "github",
+      "action",
+      "detection",
+      "messaging",
+      "77"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      "app/(dashboard)/dashboard/pull-request.tsx"
+    ],
+    "changed_files_content": [],
+    "parent": "ad2b786c26e891b7143b783207df517c70742d1a"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "improve",
+        "github",
+        "action",
+        "detection",
+        "messaging",
+        "77"
+      ],
+      "total_discussions": 5,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "problemwhen",
+                "someone",
+                "start",
+                "using",
+                "shortest",
+                "first",
+                "time",
+                "may",
+                "realize",
+                "shortest",
+                "actually",
+                "read",
+                "build",
+                "log",
+                "try",
+                "autocorrect",
+                "test",
+                "currently",
+                "test",
+                "runner",
+                "detected",
+                "shortest",
+                "fails",
+                "silently",
+                "without",
+                "notifying",
+                "user.solution",
+                "clarify",
+                "user",
+                "github",
+                "action",
+                "needed",
+                "test",
+                "log",
+                "analysis",
+                "adding",
+                "pr",
+                "number",
+                "repo",
+                "detail",
+                "error",
+                "message",
+                "action",
+                "enabled",
+                "help",
+                "user",
+                "understand",
+                "action",
+                "access",
+                "required",
+                "test-fixing",
+                "functionality",
+                "work",
+                "properly"
+              ],
+              "author": "slavingia"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "bjornpagenis",
+                "attempting",
+                "deploy",
+                "commit",
+                "theantiworkteam",
+                "onvercel",
+                "member",
+                "team",
+                "first",
+                "need",
+                "toauthorize"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 3,
+          "comments": [
+            {
+              "content": [
+                "issue",
+                "happens",
+                "even",
+                "workflow",
+                "action",
+                "read",
+                "scope",
+                "added",
+                "clerk"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 4,
+          "comments": [
+            {
+              "content": [
+                "issue",
+                "happens",
+                "even",
+                "workflow",
+                "action",
+                "read",
+                "scope",
+                "added",
+                "clerk",
+                "n't",
+                "believe",
+                "either",
+                "permission",
+                "needed",
+                "read",
+                "github",
+                "action",
+                "logs.repopermissions",
+                "appear",
+                "enough",
+                "new",
+                "toast",
+                "appear",
+                "'ve",
+                "created",
+                "new",
+                "repo",
+                "without",
+                "github",
+                "action",
+                "set",
+                "example",
+                "forked",
+                "anti-work/shortest",
+                "bjornpagen/shortest",
+                "github",
+                "action",
+                "automatically",
+                "set",
+                "set",
+                "github",
+                "action",
+                "toast",
+                "notification",
+                "went",
+                "away"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 5,
+          "comments": [
+            {
+              "content": [
+                "good",
+                "point",
+                "ca",
+                "n't",
+                "know",
+                "test",
+                "failing",
+                "without",
+                "github",
+                "action"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

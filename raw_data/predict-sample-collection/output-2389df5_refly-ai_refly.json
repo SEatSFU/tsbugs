@@ -1,0 +1,50 @@
+{
+  "commit_index": "2389df5",
+  "commit_url": "https://github.com/refly-ai/refly/commit/2389df5742affe4ed03bc5ff00aa2de3d45d4885",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "agent-tools",
+      "unify",
+      "content",
+      "property",
+      "naming",
+      "builtin",
+      "toolset"
+    ],
+    "description": [
+      "renamed",
+      "'initialcontent",
+      "'content",
+      "builtingeneratedoc",
+      "builtingeneratecodeartifact",
+      "schema",
+      "consistency",
+      "updated",
+      "reference",
+      "createdocument",
+      "createcodeartifact",
+      "method",
+      "use",
+      "new",
+      "'content",
+      "property",
+      "enhanced",
+      "clarity",
+      "description",
+      "reflect",
+      "updated",
+      "property",
+      "naming"
+    ],
+    "changed_files_count": 1,
+    "changed_files": [
+      "packages/agent-tools/src/builtin/index.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "2b9c8a0305e07f5fa483274a6631773469fd7b4e"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

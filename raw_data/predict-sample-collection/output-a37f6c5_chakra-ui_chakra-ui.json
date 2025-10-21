@@ -1,0 +1,22 @@
+{
+  "commit_index": "a37f6c5",
+  "commit_url": "https://github.com/chakra-ui/chakra-ui/commit/a37f6c58cea365f7d7bc87271143c4f03c68f854",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "removing",
+      "empty",
+      "space"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      ".github/workflows/release.yml"
+    ],
+    "changed_files_content": [],
+    "parent": "fcda58c39d3a171ddd0cbfc1d6938f0e7a20eb52"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

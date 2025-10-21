@@ -1,0 +1,81 @@
+{
+  "commit_index": "c57bdbb",
+  "commit_url": "https://github.com/ueberdosis/hocuspocus/commit/c57bdbb372b33c23faca956cb725869e1b741222",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "699",
+      "add",
+      "context",
+      "onconnectpayload"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      "packages/server/src/types.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "cadf3cef2dd04455790c3bbfe1853743fec4e192"
+  },
+  "pull_requests": null,
+  "issues": [
+    {
+      "title": [
+        "onconnect",
+        "payload",
+        "includes",
+        "context",
+        "type",
+        "signature",
+        "reveal"
+      ],
+      "labels": [
+        "bug"
+      ],
+      "comments": [
+        {
+          "author": "canadaduane",
+          "content": [
+            "description",
+            "onconnect",
+            "hook",
+            "includes",
+            "context",
+            "type",
+            "signature",
+            "admit",
+            "http",
+            "//github.com/ueberdosis/hocuspocus/blob/main/packages/server/src/clientconnection.ts",
+            "l332",
+            "step",
+            "reproduce",
+            "bug",
+            "extension",
+            "onconnect",
+            "hook",
+            "ca",
+            "n't",
+            "access",
+            "context",
+            "expected",
+            "behavior",
+            "extension",
+            "access",
+            "provided",
+            "payload"
+          ]
+        },
+        {
+          "author": "janthurau",
+          "content": [
+            "true",
+            "thx",
+            "'ve",
+            "added"
+          ]
+        }
+      ]
+    }
+  ],
+  "security": null
+}

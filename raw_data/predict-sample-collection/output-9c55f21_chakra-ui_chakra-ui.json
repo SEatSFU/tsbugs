@@ -1,0 +1,22 @@
+{
+  "commit_index": "9c55f21",
+  "commit_url": "https://github.com/chakra-ui/chakra-ui/commit/9c55f2138fdb7cfe7422223f11dc4153421c654b",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "icon",
+      "recipe"
+    ],
+    "description": [],
+    "changed_files_count": 2,
+    "changed_files": [
+      ".changeset/eight-ties-reflect.md",
+      "packages/react/src/theme/recipes/icon.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "acb2a2dbee60d4a606d532f64e91e13277bae88e"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

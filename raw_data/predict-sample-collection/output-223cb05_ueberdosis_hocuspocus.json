@@ -1,0 +1,67 @@
+{
+  "commit_index": "223cb05",
+  "commit_url": "https://github.com/ueberdosis/hocuspocus/commit/223cb05840e692279f0a2aca263c578830a66286",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "payload",
+      "type",
+      "load/unload",
+      "document",
+      "hook",
+      "710"
+    ],
+    "description": [
+      "signed-off-by",
+      "andrew",
+      "haines",
+      "andrew",
+      "haines.org.nz"
+    ],
+    "changed_files_count": 1,
+    "changed_files": [
+      "packages/server/src/types.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "f0e03672c6077694240dc86c58ee408af7089534"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "payload",
+        "type",
+        "load/unload",
+        "document",
+        "hook",
+        "710"
+      ],
+      "total_discussions": 1,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "type",
+                "payload",
+                "theafterloaddocumentandafterunloaddocumenthooks",
+                "areonloaddocumentpayload",
+                "think",
+                "copy-pasta",
+                "specific",
+                "type",
+                "defined",
+                "payload"
+              ],
+              "author": "janthurau"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

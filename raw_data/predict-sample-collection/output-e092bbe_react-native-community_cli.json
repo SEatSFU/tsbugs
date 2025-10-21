@@ -1,0 +1,165 @@
+{
+  "commit_index": "e092bbe",
+  "commit_url": "https://github.com/react-native-community/cli/commit/e092bbee5949b3890889e0c3bd872f330f8bc407",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "cli-types",
+      "publish",
+      "declaration",
+      "file",
+      "npm",
+      "package",
+      "1044"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      "packages/cli-types/package.json"
+    ],
+    "changed_files_content": [],
+    "parent": "4a0c14c87075859be911beadaa3ba5480b3fd7bf"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "cli-types",
+        "publish",
+        "declaration",
+        "file",
+        "npm",
+        "package",
+        "1044"
+      ],
+      "total_discussions": 7,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "summary",
+                "currently",
+                "external",
+                "plugin",
+                "author",
+                "using",
+                "t",
+                "access",
+                "thecli-typesdeclaration",
+                "file",
+                "'re",
+                "published",
+                "npm",
+                "change",
+                "remove",
+                "file",
+                "exclusion",
+                "allowing",
+                "published.cc",
+                "thymikeeas",
+                "discussed",
+                "discord"
+              ],
+              "author": "thymikee"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "'m",
+                "ok",
+                "tradeoff",
+                "adding",
+                "13.6kb",
+                "download",
+                "size",
+                "maybe",
+                "make",
+                "better",
+                "withhttps",
+                "//github.com/microsoft/dts-gen",
+                "think"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 3,
+          "comments": [
+            {
+              "content": [
+                "look",
+                "like",
+                "tool",
+                "generates",
+                "declaration",
+                "file",
+                "j",
+                "whereas",
+                "already",
+                "typed"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 4,
+          "comments": [
+            {
+              "content": [
+                "cc",
+                "esemesekif",
+                "better",
+                "idea"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 5,
+          "comments": [
+            {
+              "content": [
+                "merging",
+                "possible",
+                "get",
+                "release"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 6,
+          "comments": [
+            {
+              "content": [
+                "yup",
+                "followup",
+                "soon"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 7,
+          "comments": [
+            {
+              "content": [
+                "published",
+                "v4.3"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

@@ -1,0 +1,85 @@
+{
+  "commit_index": "953457a",
+  "commit_url": "https://github.com/n8n-io/n8n/commit/953457ad8676501f9c92eb1f7bb68521a975975c",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "core",
+      "streamline",
+      "multiple",
+      "pinned",
+      "trigger",
+      "behavior",
+      "4569"
+    ],
+    "description": [
+      "fix",
+      "multiple",
+      "pinned",
+      "trigger",
+      "behavior"
+    ],
+    "changed_files_count": 2,
+    "changed_files": [
+      "packages/cli/src/workflows/workflows.controller.ts",
+      "packages/cli/src/workflows/workflows.services.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "d06197d879707c6a9826ae192682262c4f6c02ed"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "core",
+        "streamline",
+        "multiple",
+        "pinned",
+        "trigger",
+        "behavior",
+        "4569"
+      ],
+      "total_discussions": 3,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "description",
+                "provided"
+              ],
+              "author": "ivov"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "n8n-5208"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 3,
+          "comments": [
+            {
+              "content": [
+                "got",
+                "released",
+                "withn8n",
+                "0.202.0"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

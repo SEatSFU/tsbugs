@@ -1,0 +1,245 @@
+{
+  "commit_index": "7179b73",
+  "commit_url": "https://github.com/fabricjs/fabric.js/commit/7179b739cff45d74b33d130fc34fd48da074f204",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "bubble",
+      "dirty",
+      "flag",
+      "parent",
+      "9741"
+    ],
+    "description": [],
+    "changed_files_count": 6,
+    "changed_files": [
+      "CHANGELOG.md",
+      "src/shapes/Group.ts",
+      "src/shapes/Object/Object.spec.ts",
+      "src/shapes/Object/Object.ts",
+      "test/unit/group.js",
+      "test/unit/object.js"
+    ],
+    "changed_files_content": [],
+    "parent": "c695aa1e086b14a77479d9a6dad8855c4e1a51c7"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "bubble",
+        "dirty",
+        "flag",
+        "parent",
+        "9741"
+      ],
+      "total_discussions": 8,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "descriptionas",
+                "part",
+                "group",
+                "rewrite",
+                "exposed",
+                "aparentref",
+                "object",
+                "8951.as",
+                "part",
+                "layout",
+                "manager",
+                "fix",
+                "invalidation",
+                "bug",
+                "surfaced",
+                "9651.fabric",
+                "relay",
+                "onobject",
+                "_setto",
+                "bubble",
+                "cache",
+                "invalidation",
+                "theparent.i",
+                "forgot",
+                "fix",
+                "invalidation",
+                "logic",
+                "exposed",
+                "parent",
+                "ref",
+                "still",
+                "invalidated",
+                "group",
+                "ref.the",
+                "bug",
+                "occurs",
+                "nested",
+                "object",
+                "part",
+                "anactiveselection.in",
+                "case",
+                "group",
+                "ref",
+                "active",
+                "selection",
+                "parent",
+                "ref",
+                "group.activeselectiondoes",
+                "render",
+                "anything",
+                "therefore",
+                "n't",
+                "cache",
+                "meaning",
+                "pointless",
+                "flag",
+                "dirty",
+                "opposed",
+                "parent.this",
+                "pr",
+                "fix",
+                "mentioned",
+                "bug.i",
+                "also",
+                "changed",
+                "bubbling",
+                "logic",
+                "always",
+                "bubble",
+                "dirty",
+                "flag",
+                "regardless",
+                "caching",
+                "state.in",
+                "action"
+              ],
+              "author": "ShaMan123"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "open",
+                "branch",
+                "inweb",
+                "editor\u2022vs",
+                "code\u2022insiders"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 3,
+          "comments": [
+            {
+              "content": [
+                "build",
+                "stats"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 4,
+          "comments": [
+            {
+              "content": [
+                "astururplease",
+                "test",
+                "demo",
+                "9651",
+                "would",
+                "know",
+                "want",
+                "test",
+                "demo"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 5,
+          "comments": [
+            {
+              "content": [
+                "see",
+                "dirty",
+                "flag",
+                "working",
+                "expected",
+                "nested",
+                "selected",
+                "object"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 6,
+          "comments": [
+            {
+              "content": [
+                "check",
+                "branch",
+                "add",
+                "branch.probably",
+                "one",
+                "2",
+                "case",
+                "fixed",
+                "set",
+                "top",
+                "left",
+                "pr.but",
+                "going",
+                "refresh",
+                "cache",
+                "adjust",
+                "layout",
+                "would",
+                "see",
+                "object",
+                "moving",
+                "sure",
+                "would",
+                "see",
+                "layout",
+                "adapting"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 7,
+          "comments": [
+            {
+              "content": [
+                "coverage",
+                "mergingfix/dirty-bubblingintomasterwill"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 8,
+          "comments": [
+            {
+              "content": [
+                "tested"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

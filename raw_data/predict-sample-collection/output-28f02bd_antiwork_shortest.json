@@ -1,0 +1,325 @@
+{
+  "commit_index": "28f02bd",
+  "commit_url": "https://github.com/antiwork/shortest/commit/28f02bdd7886940b77d6ab72d88d010ddbce7d88",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "playwright",
+      "installation",
+      "issue",
+      "133"
+    ],
+    "description": [
+      "address",
+      "issue",
+      "132",
+      "change",
+      "fixed",
+      "installation",
+      "playwright",
+      "browser",
+      "setup",
+      "script",
+      "add",
+      "robust",
+      "error",
+      "handling",
+      "playwright",
+      "browser",
+      "installation",
+      "package",
+      "manager",
+      "fails",
+      "install",
+      "browser",
+      "error",
+      "handling",
+      "mechanism",
+      "updated",
+      "readme",
+      "file",
+      "include",
+      "-d",
+      "installation",
+      "guide",
+      "update",
+      "readme",
+      "file",
+      "instruct",
+      "user",
+      "add",
+      ".shortest/",
+      "dir",
+      ".gitignore",
+      "file",
+      "version",
+      "bump",
+      "v0.1.1",
+      "--",
+      "--",
+      "--",
+      "--",
+      "co-authored-by",
+      "sahil",
+      "lavingia",
+      "sahil.lavingia",
+      "gmail.com"
+    ],
+    "changed_files_count": 8,
+    "changed_files": [
+      ".github/workflows/shortest.yml",
+      "README.md",
+      "packages/shortest/CHANGELOG.md",
+      "packages/shortest/README.md",
+      "packages/shortest/package.json",
+      "packages/shortest/src/browser/manager/index.ts",
+      "packages/shortest/src/cli/setup.ts",
+      "pnpm-lock.yaml"
+    ],
+    "changed_files_content": [],
+    "parent": "52568b512744da392687771bd758fcab0ddf6c79"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "playwright",
+        "installation",
+        "issue",
+        "133"
+      ],
+      "total_discussions": 3,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "address",
+                "issue",
+                "132changes",
+                "fixed",
+                "installation",
+                "playwright",
+                "browser",
+                "setup",
+                "scriptadd",
+                "robust",
+                "error",
+                "handling",
+                "playwright",
+                "browser",
+                "installation",
+                "package",
+                "manager",
+                "fails",
+                "install",
+                "browser",
+                "error",
+                "handling",
+                "mechanism",
+                "it.updated",
+                "readme",
+                "file",
+                "include-din",
+                "installation",
+                "guideupdate",
+                "readme",
+                "file",
+                "instruct",
+                "user",
+                "add.shortest/dir",
+                "to.gitignorefileversion",
+                "bump",
+                "v0.1.1"
+              ],
+              "author": "m2rads"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "slavingiafyi",
+                "workflow",
+                "fails",
+                "bug",
+                "preview",
+                "env",
+                "regarding",
+                "clerk",
+                "sign",
+                "prod",
+                "local",
+                "stable",
+                "see",
+                "issue",
+                "vercel",
+                "log",
+                "either",
+                "need",
+                "time",
+                "resolve",
+                "meantime",
+                "playwright",
+                "browser",
+                "vercel",
+                "workflow",
+                "installed",
+                "properly",
+                "good",
+                "enough",
+                "validation"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 3,
+          "comments": [
+            {
+              "content": [
+                "slavingiai",
+                "updated",
+                "readme",
+                "good",
+                "merge"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "title": [
+        "install",
+        "failure",
+        "playwright"
+      ],
+      "labels": [],
+      "comments": [
+        {
+          "author": "kenn",
+          "content": [
+            "following",
+            "install",
+            "guide",
+            "failed",
+            "running",
+            "npx",
+            "shortest",
+            "test",
+            "execution",
+            "error",
+            "browsertype.launch",
+            "executable",
+            "exist",
+            "/users/kenn/library/caches/ms-playwright/chromium-1148/chrome-mac/chromium.app/contents/macos/chromium",
+            "look",
+            "like",
+            "playwright",
+            "test",
+            "playwright",
+            "installed",
+            "updated",
+            "please",
+            "run",
+            "following",
+            "command",
+            "download",
+            "new",
+            "browser",
+            "npx",
+            "playwright",
+            "install",
+            "3",
+            "playwright",
+            "team",
+            "test",
+            "0",
+            "passed",
+            "0",
+            "duration",
+            "0.07s",
+            "start",
+            "11:27:15",
+            "following",
+            "instruction",
+            "playwright",
+            "seems",
+            "necessary",
+            "npx",
+            "playwright",
+            "install",
+            "sh",
+            "playwright",
+            "command",
+            "found",
+            "manually",
+            "installed",
+            "playwright",
+            "installed",
+            "browser",
+            "manually",
+            "pnpm",
+            "add",
+            "-d",
+            "playwright",
+            "npx",
+            "playwright",
+            "install",
+            "think",
+            "mention",
+            "playwright",
+            "somewhere",
+            "install",
+            "quick",
+            "setup",
+            "section"
+          ]
+        },
+        {
+          "author": "m2rads",
+          "content": [
+            "bringing",
+            "update",
+            "doc"
+          ]
+        },
+        {
+          "author": "m2rads",
+          "content": [
+            "device",
+            "'re",
+            "running",
+            "btw"
+          ]
+        },
+        {
+          "author": "m2rads",
+          "content": [
+            "yes",
+            "valid",
+            "point",
+            "address"
+          ]
+        },
+        {
+          "author": "m2rads",
+          "content": [
+            "issue",
+            "fixed",
+            "v0.1.1",
+            "close"
+          ]
+        }
+      ]
+    }
+  ],
+  "security": null
+}

@@ -1,0 +1,46 @@
+{
+  "commit_index": "4a6c353",
+  "commit_url": "https://github.com/refly-ai/refly/commit/4a6c353e13851dfa6668d8e4d6182fac9eee4fe6",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "notification",
+      "add",
+      "connectionerror",
+      "ignored",
+      "error",
+      "code"
+    ],
+    "description": [
+      "included",
+      "connectionerror",
+      "ignorederrorcodes",
+      "array",
+      "prevent",
+      "notification",
+      "connection-related",
+      "issue",
+      "ensured",
+      "consistent",
+      "use",
+      "optional",
+      "chaining",
+      "nullish",
+      "coalescing",
+      "safer",
+      "property",
+      "access",
+      "throughout",
+      "code"
+    ],
+    "changed_files_count": 1,
+    "changed_files": [
+      "packages/ai-workspace-common/src/utils/notification.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "365582acdb79934b5bbe40560a3bbf7470023556"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

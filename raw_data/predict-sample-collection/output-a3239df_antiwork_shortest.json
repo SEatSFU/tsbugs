@@ -1,0 +1,208 @@
+{
+  "commit_index": "a3239df",
+  "commit_url": "https://github.com/antiwork/shortest/commit/a3239dfe9f4fe0ef38793b5ed602b480a987ed38",
+  "commit": {
+    "commit_message": [
+      "configure",
+      "eslint",
+      "run",
+      "project",
+      "fix",
+      "auto",
+      "fixable",
+      "error"
+    ],
+    "description": [],
+    "changed_files_count": 82,
+    "changed_files": [
+      "app/(dashboard)/dashboard/log-view.tsx",
+      "app/(dashboard)/dashboard/page.tsx",
+      "app/(dashboard)/dashboard/pull-request-filter.tsx",
+      "app/(dashboard)/dashboard/pull-request.tsx",
+      "app/(dashboard)/dashboard/types.ts",
+      "app/(dashboard)/layout.tsx",
+      "app/(dashboard)/page.tsx",
+      "app/(dashboard)/pricing/page.tsx",
+      "app/(dashboard)/pricing/submit-button.tsx",
+      "app/(dashboard)/signin/[[...signin]]/page.tsx",
+      "app/(dashboard)/signup/[[...signup]]/page.tsx",
+      "app/__tests__/dashboard.test.ts",
+      "app/api/generate-tests/schema.ts",
+      "app/api/github/webhook/route.ts",
+      "app/api/stripe/webhook/route.ts",
+      "app/icon.tsx",
+      "app/not-found.tsx",
+      "components/logo.tsx",
+      "components/ui/avatar.tsx",
+      "components/ui/badge.tsx",
+      "components/ui/button.tsx",
+      "components/ui/card.tsx",
+      "components/ui/checkbox.tsx",
+      "components/ui/command.tsx",
+      "components/ui/dialog.tsx",
+      "components/ui/drawer.tsx",
+      "components/ui/dropdown-menu.tsx",
+      "components/ui/input.tsx",
+      "components/ui/label.tsx",
+      "components/ui/popover.tsx",
+      "components/ui/radio-group.tsx",
+      "components/ui/sheet.tsx",
+      "components/ui/toast.tsx",
+      "components/ui/toaster.tsx",
+      "eslint.config.js",
+      "hooks/use-log-groups.ts",
+      "hooks/use-toast.ts",
+      "lib/config/index.ts",
+      "lib/db/cleanup.ts",
+      "lib/db/drizzle.ts",
+      "lib/db/migrate.ts",
+      "lib/db/queries.ts",
+      "lib/db/schema.ts",
+      "lib/github.ts",
+      "lib/payments/actions.ts",
+      "lib/payments/stripe.ts",
+      "lib/setup.ts",
+      "lib/utils-server.ts",
+      "lib/utils.ts",
+      "package.json",
+      "packages/shortest/index.d.ts",
+      "packages/shortest/src/ai/client.ts",
+      "packages/shortest/src/ai/prompts/index.ts",
+      "packages/shortest/src/ai/tools/index.ts",
+      "packages/shortest/src/browser/actions/index.ts",
+      "packages/shortest/src/browser/core/browser-tool.ts",
+      "packages/shortest/src/browser/core/index.ts",
+      "packages/shortest/src/browser/integrations/github.ts",
+      "packages/shortest/src/browser/integrations/index.ts",
+      "packages/shortest/src/browser/manager/index.ts",
+      "packages/shortest/src/cli/bin.ts",
+      "packages/shortest/src/cli/setup.ts",
+      "packages/shortest/src/core/builder/index.ts",
+      "packages/shortest/src/core/compiler/index.ts",
+      "packages/shortest/src/core/runner/index.ts",
+      "packages/shortest/src/index.ts",
+      "packages/shortest/src/types/ai.ts",
+      "packages/shortest/src/types/browser.ts",
+      "packages/shortest/src/types/config.ts",
+      "packages/shortest/src/types/globals.ts",
+      "packages/shortest/src/types/index.ts",
+      "packages/shortest/src/types/test.ts",
+      "packages/shortest/src/utils/logger.ts",
+      "packages/shortest/tests/test-ai.ts",
+      "packages/shortest/tests/test-assertion.ts",
+      "packages/shortest/tests/test-browser.ts",
+      "packages/shortest/tests/test-github.ts",
+      "packages/shortest/tests/test-keyboard.ts",
+      "packages/shortest/tests/test-loop.ts",
+      "pnpm-lock.yaml",
+      "shortest.config.ts",
+      "tailwind.config.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "c391d847fe319765d36f88ca6e4bad4ee7232868"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "configure",
+        "eslint",
+        "run",
+        "project",
+        "fix",
+        "auto",
+        "fixable",
+        "error",
+        "warning",
+        "146"
+      ],
+      "total_discussions": 3,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "fix",
+                "145"
+              ],
+              "author": "slavingia"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "khalatevarunis",
+                "attempting",
+                "deploy",
+                "commit",
+                "theantiworkteam",
+                "onvercel",
+                "member",
+                "team",
+                "first",
+                "need",
+                "toauthorize"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 3,
+          "comments": [
+            {
+              "content": [
+                "might",
+                "issue",
+                "preview",
+                "env",
+                "prevents",
+                "workflow",
+                "pas",
+                "please",
+                "allow",
+                "solve",
+                "issue",
+                "run",
+                "e2e",
+                "test",
+                "pr",
+                "validate"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "title": [
+        "linter"
+      ],
+      "labels": [],
+      "comments": [
+        {
+          "author": "slavingia",
+          "content": [
+            "use",
+            "prettier",
+            "eslint",
+            "biome",
+            "save",
+            "time",
+            "reviewing",
+            "pr",
+            "less",
+            "opinion",
+            "think"
+          ]
+        }
+      ]
+    }
+  ],
+  "security": null
+}

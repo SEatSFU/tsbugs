@@ -1,0 +1,49 @@
+{
+  "commit_index": "0226250",
+  "commit_url": "https://github.com/type-challenges/type-challenges/commit/0226250962b15eca032949fb0ae89b9cd1a98450",
+  "commit": {
+    "commit_message": [
+      "doc",
+      "fix",
+      "translation",
+      "readme.zh-cn",
+      "2529"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      "README.zh-CN.md"
+    ],
+    "changed_files_content": [],
+    "parent": "50b94bf089e496d7409a7aa2ace46dda0c903093"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "doc",
+        "fix",
+        "translation",
+        "readme.zh-cn",
+        "2529"
+      ],
+      "total_discussions": 1,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "description",
+                "provided"
+              ],
+              "author": "antfu"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

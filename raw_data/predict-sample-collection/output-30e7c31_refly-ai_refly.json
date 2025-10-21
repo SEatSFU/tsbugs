@@ -1,0 +1,32 @@
+{
+  "commit_index": "30e7c31",
+  "commit_url": "https://github.com/refly-ai/refly/commit/30e7c31794aa4f7586859f74aa56d4ce0f1ef5ed",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "optimize",
+      "husky",
+      "configuration",
+      "remove",
+      "deprecated",
+      "file"
+    ],
+    "description": [],
+    "changed_files_count": 8,
+    "changed_files": [
+      "apps/api/src/modules/pilot/divergent-algorithm.spec.ts",
+      "apps/api/src/modules/pilot/divergent-core.spec.ts",
+      "apps/api/src/modules/pilot/divergent-database.spec.ts",
+      "apps/api/src/modules/pilot/divergent-engine.spec.ts",
+      "apps/api/src/modules/pilot/divergent-engine.ts",
+      "apps/api/src/modules/pilot/divergent-orchestrator.ts",
+      "apps/api/src/modules/pilot/pilot-divergent.service.ts",
+      "~/.config/husky/init.sh"
+    ],
+    "changed_files_content": [],
+    "parent": "fa2d9f18400fecf7fc158a8c3bb82b83ee5cda5f"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

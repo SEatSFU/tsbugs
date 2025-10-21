@@ -1,0 +1,25 @@
+{
+  "commit_index": "ce76406",
+  "commit_url": "https://github.com/nestjs/nest/commit/ce764067a44483d9270665a8e3e60a2bc7bc5706",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "deps",
+      "update",
+      "dependency",
+      "nestjs/typeorm",
+      "v10.0.2"
+    ],
+    "description": [],
+    "changed_files_count": 2,
+    "changed_files": [
+      "sample/05-sql-typeorm/package.json",
+      "sample/13-mongo-typeorm/package.json"
+    ],
+    "changed_files_content": [],
+    "parent": "ef66275ae991953ae3114d1d577a2f0f1f1f8dbd"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

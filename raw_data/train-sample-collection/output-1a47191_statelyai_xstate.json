@@ -1,0 +1,113 @@
+{
+  "commit_index": "1a47191",
+  "commit_url": "https://github.com/statelyai/xstate/commit/1a47191565730e3e19cf21507e636dd129ed79ac",
+  "commit": {
+    "commit_message": [
+      "fixed",
+      "jsdoc",
+      "link",
+      "reference",
+      "5279"
+    ],
+    "description": [],
+    "changed_files_count": 5,
+    "changed_files": [
+      "eslint.config.mjs",
+      "package.json",
+      "packages/core/src/createActor.ts",
+      "packages/core/src/types.ts",
+      "pnpm-lock.yaml"
+    ],
+    "changed_files_content": [],
+    "parent": "e7b935d63fc626f7a03586e1c1174dd1de81d596"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fixed",
+        "jsdoc",
+        "linkreferences",
+        "5279"
+      ],
+      "total_discussions": 2,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "make",
+                "reference",
+                "clickable",
+                "ide",
+                "correctly",
+                "auto-link",
+                "tooltips"
+              ],
+              "author": "Andarist"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "latest",
+                "commit",
+                "a95691e",
+                "merging",
+                "pr",
+                "cause",
+                "version",
+                "bump",
+                "package",
+                "change",
+                "result",
+                "new",
+                "version",
+                "'re",
+                "good",
+                "go.if",
+                "change",
+                "result",
+                "version",
+                "bump",
+                "need",
+                "add",
+                "changeset",
+                "changesets",
+                "added",
+                "pr",
+                "'ll",
+                "see",
+                "package",
+                "pr",
+                "includes",
+                "changesets",
+                "associated",
+                "semver",
+                "type",
+                "click",
+                "learn",
+                "changesets",
+                "add",
+                "one",
+                "click",
+                "'re",
+                "maintainer",
+                "want",
+                "add",
+                "changeset",
+                "pr"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

@@ -1,0 +1,91 @@
+{
+  "commit_index": "c2f650b",
+  "commit_url": "https://github.com/chakra-ui/chakra-ui/commit/c2f650bd0c3e4a137fa3622a94aace398e69f483",
+  "commit": {
+    "commit_message": [
+      "fix/checkbox",
+      "type",
+      "export",
+      "10081"
+    ],
+    "description": [
+      "fix",
+      "export",
+      "checkboxrootproviderprops",
+      "type",
+      "fix",
+      "add",
+      "checkboxrootproviderprops",
+      "type",
+      "export"
+    ],
+    "changed_files_count": 2,
+    "changed_files": [
+      ".changeset/ninety-owls-sit.md",
+      "packages/react/src/components/checkbox/index.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "63c267fe2ef8aa0db707b5932dddbf4db2d54e40"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix/checkbox",
+        "type",
+        "export",
+        "10081"
+      ],
+      "total_discussions": 2,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "descriptionexportcheckboxrootproviderpropstype",
+                "'s",
+                "exported",
+                "namespace",
+                "index"
+              ],
+              "author": "segunadebayo"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "latest",
+                "commit:2cfef3d",
+                "change",
+                "pr",
+                "included",
+                "next",
+                "version",
+                "bump",
+                "sure",
+                "mean",
+                "click",
+                "learn",
+                "changesets",
+                "click",
+                "'re",
+                "maintainer",
+                "want",
+                "add",
+                "another",
+                "changeset",
+                "pr"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

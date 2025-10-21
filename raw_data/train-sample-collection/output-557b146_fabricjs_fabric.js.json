@@ -1,0 +1,227 @@
+{
+  "commit_index": "557b146",
+  "commit_url": "https://github.com/fabricjs/fabric.js/commit/557b146cb56d898532310bdf133f073bece4fe6e",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "control",
+      "allow",
+      "smooth",
+      "scaling",
+      "fo",
+      "text",
+      "zoom",
+      "level",
+      "\u2026"
+    ],
+    "description": [],
+    "changed_files_count": 3,
+    "changed_files": [
+      "CHANGELOG.md",
+      "src/controls/changeWidth.test.ts",
+      "src/controls/changeWidth.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "9a7a1d3db4a166b14f7957e32a67b63da66062e3"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "control",
+        "allow",
+        "smooth",
+        "scaling",
+        "fo",
+        "text",
+        "zoom",
+        "level",
+        "10186"
+      ],
+      "total_discussions": 3,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "descriptionremoved",
+                "call",
+                "math.ceil",
+                "calculating",
+                "new",
+                "width",
+                "mr",
+                "ml",
+                "control",
+                "resize",
+                "handler"
+              ],
+              "author": "asturur"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "open",
+                "branch",
+                "inweb",
+                "editor\u2022vs",
+                "code\u2022insidersopenpreview"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 3,
+          "comments": [
+            {
+              "content": [
+                "fix",
+                "10180"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "title": [
+        "bug",
+        "textbox",
+        "round",
+        "width",
+        "resizing",
+        "obvious",
+        "zoomed"
+      ],
+      "labels": [],
+      "comments": [
+        {
+          "author": "Soldier-B",
+          "content": [
+            "checklist",
+            "agree",
+            "follow",
+            "project",
+            "'s",
+            "code",
+            "conduct",
+            "read",
+            "followed",
+            "contributing",
+            "guide",
+            "read",
+            "followed",
+            "issue",
+            "tracker",
+            "guide",
+            "searched",
+            "referenced",
+            "existing",
+            "issue",
+            "discussion",
+            "filing",
+            "bug",
+            "report",
+            "managed",
+            "reproduce",
+            "bug",
+            "upgrading",
+            "latest",
+            "version",
+            "created",
+            "accurate",
+            "minimal",
+            "reproduction",
+            "version",
+            "6.0.2",
+            "environment",
+            "experiencing",
+            "problem",
+            "response",
+            "node",
+            "version",
+            "applicable",
+            "none",
+            "link",
+            "reproduction",
+            "http",
+            "//codesandbox.io/p/devbox/fabric-vanillajs-sandbox-forked-tld2gt",
+            "step",
+            "reproduce",
+            "create",
+            "canvas",
+            "add",
+            "instance",
+            "textbox",
+            "canvas",
+            "zoom",
+            "canvas",
+            "resize",
+            "textbox",
+            "horizontal",
+            "sizing",
+            "control",
+            "expected",
+            "behavior",
+            "textbox",
+            "resize",
+            "smoothly",
+            "using",
+            "vertical",
+            "sizing",
+            "control",
+            "actual",
+            "behavior",
+            "textbox",
+            "seems",
+            "round",
+            "'s",
+            "width",
+            "noticeable",
+            "snapping",
+            "effect",
+            "resizing",
+            "zoomed",
+            "error",
+            "message",
+            "stack",
+            "trace",
+            "response"
+          ]
+        },
+        {
+          "author": "asturur",
+          "content": [
+            "newwidth",
+            "math.ceil",
+            "math.abs",
+            "localpoint.x",
+            "multiplier",
+            "target.scalex",
+            "strokepadding",
+            "math.ceil",
+            "indeed",
+            "sure",
+            "honest",
+            "could",
+            "try",
+            "open",
+            "pr",
+            "remove",
+            "see",
+            "happens"
+          ]
+        }
+      ]
+    }
+  ],
+  "security": null
+}

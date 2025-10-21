@@ -1,0 +1,22 @@
+{
+  "commit_index": "31eaae5",
+  "commit_url": "https://github.com/nestjs/nest/commit/31eaae505c1e8dfd53e2d4cf56d3900d77b1672c",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "middleware",
+      "sort",
+      "issue"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      "integration/hello-world/e2e/middleware-execute-order.spec.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "58fcd8849a7ceb0a4bf2b579a0012462f0c3347b"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

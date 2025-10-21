@@ -1,0 +1,26 @@
+{
+  "commit_index": "6563c18",
+  "commit_url": "https://github.com/nestjs/nest/commit/6563c18417dbcb4acb094db3c4d538a499daee4c",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "common",
+      "return",
+      "undefined",
+      "string",
+      "type",
+      "value",
+      "undefined"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      "packages/common/pipes/validation.pipe.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "a071a73e6dca70d8f422c03b65a6cbb6e36f75d0"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

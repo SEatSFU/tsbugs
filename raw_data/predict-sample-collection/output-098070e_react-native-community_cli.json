@@ -1,0 +1,241 @@
+{
+  "commit_index": "098070e",
+  "commit_url": "https://github.com/react-native-community/cli/commit/098070e03d7bcf9a448be3ea2c442668b2907a19",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "init",
+      "template",
+      "name",
+      "replacement",
+      "helloworld",
+      "546"
+    ],
+    "description": [],
+    "changed_files_count": 3,
+    "changed_files": [
+      "packages/cli/src/commands/init/__tests__/validate.test.js",
+      "packages/cli/src/commands/init/errors/HelloWorldError.js",
+      "packages/cli/src/commands/init/validate.js"
+    ],
+    "changed_files_content": [],
+    "parent": "4758e4bc726ec27cee727ca3651574e644173746"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "init",
+        "duplication",
+        "546"
+      ],
+      "total_discussions": 1,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "summary",
+                "fix",
+                "441this",
+                "fix",
+                "weird",
+                "duplication",
+                "initializing",
+                "project",
+                "withhelloworldname",
+                "fix",
+                "thenew",
+                "initbecause",
+                "theold",
+                "initlogic",
+                "name",
+                "verification",
+                "exists",
+                "inglobal-clipackage",
+                "longer",
+                "maintained.test",
+                "plan",
+                "added",
+                "ut",
+                "tested",
+                "real",
+                "life",
+                "initialization"
+              ],
+              "author": "thymikee"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "title": [
+        "better",
+        "placeholder",
+        "name",
+        "template"
+      ],
+      "labels": [
+        "bug",
+        "command: init"
+      ],
+      "comments": [
+        {
+          "author": "grabbou",
+          "content": [
+            "description",
+            "cross-posting",
+            "microsoft/react-native-windows",
+            "2663",
+            "reproducible",
+            "demo",
+            "running",
+            "react-native",
+            "init",
+            "helloworld_test",
+            "result",
+            "helloworld_test_test",
+            "name",
+            "used",
+            "package.json",
+            "placeholder",
+            "name",
+            "helloworld",
+            "regex",
+            "case",
+            "insensitive",
+            "replace",
+            "helloworld",
+            "helloworld_test",
+            "looking",
+            "whole",
+            "word",
+            "part",
+            "would",
+            "good",
+            "use",
+            "better",
+            "placeholder",
+            "name",
+            "something",
+            "unique"
+          ]
+        },
+        {
+          "author": "KevinHu2014",
+          "content": [
+            "grabbou",
+            "may",
+            "give",
+            "try"
+          ]
+        },
+        {
+          "author": "thymikee",
+          "content": [
+            "kevinhu2014",
+            "sure",
+            "esemesek",
+            "idea",
+            "name",
+            "make",
+            "replacing",
+            "correct"
+          ]
+        },
+        {
+          "author": "thymikee",
+          "content": [
+            "kevinhu2014",
+            "still",
+            "interested",
+            "issue"
+          ]
+        },
+        {
+          "author": "KevinHu2014",
+          "content": [
+            "thymikee",
+            "might",
+            "time",
+            "working",
+            "recently",
+            "free",
+            "release",
+            "community"
+          ]
+        },
+        {
+          "author": "Taym95",
+          "content": [
+            "give",
+            "issue",
+            "try",
+            "question",
+            "something",
+            "name_regex",
+            "http",
+            "//github.com/react-native-community/cli/blob/master/packages/cli/src/commands/init/validate.js",
+            "l5-l10"
+          ]
+        },
+        {
+          "author": "thymikee",
+          "content": [
+            "ca",
+            "n't",
+            "really",
+            "change",
+            "template",
+            "name",
+            "since",
+            "life",
+            "inside",
+            "react-native",
+            "likely",
+            "coupled",
+            "global",
+            "react-native-cli",
+            "n't",
+            "want",
+            "break",
+            "could",
+            "disable",
+            "using",
+            "helloworld",
+            "alike",
+            "template",
+            "name",
+            "maybe",
+            "'s",
+            "something",
+            "else",
+            "esemesek",
+            "think"
+          ]
+        },
+        {
+          "author": "Esemesek",
+          "content": [
+            "okay",
+            "think",
+            "know",
+            "fix",
+            "'ll",
+            "assign",
+            "issue",
+            "post",
+            "pr",
+            "soon"
+          ]
+        }
+      ]
+    }
+  ],
+  "security": null
+}

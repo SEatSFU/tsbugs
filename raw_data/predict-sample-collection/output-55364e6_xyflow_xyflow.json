@@ -1,0 +1,27 @@
+{
+  "commit_index": "55364e6",
+  "commit_url": "https://github.com/xyflow/xyflow/commit/55364e62987423de68210c9bc9738b5496a4e9e8",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "resetting",
+      "node",
+      "width",
+      "height",
+      "set",
+      "working"
+    ],
+    "description": [],
+    "changed_files_count": 3,
+    "changed_files": [
+      "examples/svelte/src/routes/examples/reset/+page.svelte",
+      "packages/svelte/package.json",
+      "packages/svelte/src/lib/components/NodeWrapper/NodeWrapper.svelte"
+    ],
+    "changed_files_content": [],
+    "parent": "72b956f79727057483983fec215ed2a5e32ad311"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

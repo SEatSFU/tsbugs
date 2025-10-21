@@ -1,0 +1,189 @@
+{
+  "commit_index": "bb3e740",
+  "commit_url": "https://github.com/chakra-ui/chakra-ui/commit/bb3e74020ef7ae8b77f24816cdaa5100d0a47d2b",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "deps",
+      "update",
+      "dependency",
+      "isbot",
+      "v5.1.25",
+      "9870"
+    ],
+    "description": [],
+    "changed_files_count": 0,
+    "changed_files": [],
+    "changed_files_content": [],
+    "parent": "97408cca1b8044d89b2fd3aecf8de7203d0ca604"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "deps",
+        "update",
+        "dependency",
+        "isbot",
+        "v5.1.25",
+        "9870"
+      ],
+      "total_discussions": 3,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "pr",
+                "contains",
+                "following",
+                "update",
+                "packagechangeageadoptionpassingconfidenceisbot",
+                "source",
+                "5.1.23-",
+                "5.1.25release",
+                "notesomrilotan/isbot",
+                "isbot",
+                "v5.1.25compare",
+                "source",
+                "pattern",
+                "pattern",
+                "update",
+                "reduce",
+                "complexityv5.1.24compare",
+                "source",
+                "pattern",
+                "pattern",
+                "update",
+                "add",
+                "generic",
+                "pattern",
+                "remove",
+                "specific",
+                "patternsconfiguration\ud83d\udcc5schedule",
+                "branch",
+                "creation",
+                "0-3",
+                "1",
+                "timezone",
+                "utc",
+                "automerge",
+                "time",
+                "schedule",
+                "defined",
+                ".\ud83d\udea6automerge",
+                "enabled.\u267brebasing",
+                "whenever",
+                "pr",
+                "becomes",
+                "conflicted",
+                "tick",
+                "rebase/retry",
+                "checkbox.\ud83d\udd15ignore",
+                "close",
+                "pr",
+                "wo",
+                "n't",
+                "reminded",
+                "update",
+                "again.if",
+                "want",
+                "rebase/retry",
+                "pr",
+                "check",
+                "boxthis",
+                "pr",
+                "generated",
+                "bymend",
+                "renovate",
+                "view",
+                "therepository",
+                "job",
+                "log"
+              ],
+              "author": "segunadebayo"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "pr",
+                "configured",
+                "branch",
+                "automerge",
+                "however",
+                "possible",
+                "raised",
+                "pr",
+                "instead"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 3,
+          "comments": [
+            {
+              "content": [
+                "latest",
+                "commit",
+                "c8bbb9d",
+                "merging",
+                "pr",
+                "cause",
+                "version",
+                "bump",
+                "package",
+                "change",
+                "result",
+                "new",
+                "version",
+                "'re",
+                "good",
+                "go.if",
+                "change",
+                "result",
+                "version",
+                "bump",
+                "need",
+                "add",
+                "changeset",
+                "changesets",
+                "added",
+                "pr",
+                "'ll",
+                "see",
+                "package",
+                "pr",
+                "includes",
+                "changesets",
+                "associated",
+                "semver",
+                "type",
+                "click",
+                "learn",
+                "changesets",
+                "add",
+                "one",
+                "click",
+                "'re",
+                "maintainer",
+                "want",
+                "add",
+                "changeset",
+                "pr"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

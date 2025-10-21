@@ -1,0 +1,48 @@
+{
+  "commit_index": "fc89964",
+  "commit_url": "https://github.com/testing-library/user-event/commit/fc8996444096c2a8d67a15cc5487923709ca71bb",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "click",
+      "handle",
+      "checkboxes",
+      "correctly"
+    ],
+    "description": [
+      "issue",
+      "14"
+    ],
+    "changed_files_count": 3,
+    "changed_files": [
+      "__tests__/click.js",
+      "package.json",
+      "src/index.js"
+    ],
+    "changed_files_content": [],
+    "parent": "57f860a698e95c8534dc6fc5dfd2fd2f7474f150"
+  },
+  "pull_requests": null,
+  "issues": [
+    {
+      "title": [
+        "fix",
+        "test"
+      ],
+      "labels": [],
+      "comments": [
+        {
+          "author": "Gpx",
+          "content": [
+            "test",
+            "n't",
+            "work",
+            "http",
+            "//codesandbox.io/s/j27wz6p25v"
+          ]
+        }
+      ]
+    }
+  ],
+  "security": null
+}

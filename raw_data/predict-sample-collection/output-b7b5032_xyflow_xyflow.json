@@ -1,0 +1,32 @@
+{
+  "commit_index": "b7b5032",
+  "commit_url": "https://github.com/xyflow/xyflow/commit/b7b5032c026614d2f04899b9d07e9f6d8dfa996e",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "system",
+      "safe",
+      "check",
+      "event",
+      "target"
+    ],
+    "description": [],
+    "changed_files_count": 9,
+    "changed_files": [
+      "examples/react/src/examples/AddNodeOnEdgeDrop/index.tsx",
+      "examples/svelte/src/routes/examples/add-node-on-drop/Flow.svelte",
+      "packages/react/src/components/Handle/index.tsx",
+      "packages/react/src/container/Pane/index.tsx",
+      "packages/svelte/src/lib/container/Pane/Pane.svelte",
+      "packages/system/src/utils/dom.ts",
+      "packages/system/src/xydrag/XYDrag.ts",
+      "packages/system/src/xydrag/utils.ts",
+      "packages/system/src/xyhandle/XYHandle.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "0f21ec21ebf01567ec1de4fad1d0c55f40db3463"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

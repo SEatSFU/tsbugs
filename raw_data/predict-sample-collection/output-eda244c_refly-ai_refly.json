@@ -1,0 +1,49 @@
+{
+  "commit_index": "eda244c",
+  "commit_url": "https://github.com/refly-ai/refly/commit/eda244ce553130c3155e52a505a980f8acd9c79a",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "api",
+      "enhance",
+      "error",
+      "handling",
+      "missing",
+      "modelid",
+      "provider"
+    ],
+    "description": [
+      "updated",
+      "provider",
+      "service",
+      "ensure",
+      "modelid",
+      "present",
+      "configuration",
+      "utilized",
+      "nullish",
+      "coalescing",
+      "provide",
+      "default",
+      "value",
+      "parsed",
+      "configuration",
+      "improved",
+      "error",
+      "messaging",
+      "better",
+      "debugging",
+      "modelid",
+      "missing"
+    ],
+    "changed_files_count": 1,
+    "changed_files": [
+      "apps/api/src/modules/provider/provider.service.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "c27974ade5767f9d46edae2ae351ca1abfbeea2b"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

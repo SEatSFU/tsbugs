@@ -1,0 +1,228 @@
+{
+  "commit_index": "0be721d",
+  "commit_url": "https://github.com/fabricjs/fabric.js/commit/0be721daa04d39721123b5b30917da90af242027",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "canvas",
+      "holding",
+      "shift",
+      "select",
+      "multiple",
+      "shape",
+      "unexpectedl\u2026"
+    ],
+    "description": [],
+    "changed_files_count": 3,
+    "changed_files": [
+      "CHANGELOG.md",
+      "src/canvas/Canvas.spec.ts",
+      "src/canvas/Canvas.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "5c1240d8b4662e45868dd33f385f941de21c8e9c"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "canvas",
+        "holding",
+        "shift",
+        "select",
+        "multiple",
+        "shape",
+        "unexpectedly",
+        "trigger",
+        "text",
+        "exit",
+        "event",
+        "10229"
+      ],
+      "total_discussions": 4,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "10228"
+              ],
+              "author": "asturur"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "open",
+                "branch",
+                "inweb",
+                "editor\u2022vs",
+                "code\u2022insidersopenpreview"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 3,
+          "comments": [
+            {
+              "content": [
+                "please",
+                "see",
+                "add",
+                "unit",
+                "test"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 4,
+          "comments": [
+            {
+              "content": [
+                "please",
+                "see",
+                "add",
+                "unit",
+                "test",
+                "added"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "title": [
+        "bug",
+        "holding",
+        "shift",
+        "select",
+        "multiple",
+        "shape",
+        "unexpectedly",
+        "trigger",
+        "text",
+        "exit",
+        "event"
+      ],
+      "labels": [
+        "bug"
+      ],
+      "comments": [
+        {
+          "author": "zhe-he",
+          "content": [
+            "checklist",
+            "agree",
+            "follow",
+            "project",
+            "'s",
+            "code",
+            "conduct",
+            "read",
+            "followed",
+            "contributing",
+            "guide",
+            "read",
+            "followed",
+            "issue",
+            "tracker",
+            "guide",
+            "searched",
+            "referenced",
+            "existing",
+            "issue",
+            "discussion",
+            "filing",
+            "bug",
+            "report",
+            "managed",
+            "reproduce",
+            "bug",
+            "upgrading",
+            "latest",
+            "version",
+            "created",
+            "accurate",
+            "minimal",
+            "reproduction",
+            "version",
+            "6.0.2",
+            "environment",
+            "experiencing",
+            "problem",
+            "response",
+            "node",
+            "version",
+            "applicable",
+            "none",
+            "link",
+            "reproduction",
+            "http",
+            "//codepen.io/zhe-he-the-vuer/pen/ojkpplm",
+            "step",
+            "reproduce",
+            "create",
+            "textbox",
+            "create",
+            "rect",
+            "b",
+            "add",
+            "b",
+            "canvas",
+            "add",
+            "'editing",
+            "exited",
+            "event",
+            "selecting",
+            "hold",
+            "shift",
+            "select",
+            "b",
+            "expected",
+            "behavior",
+            "editing",
+            "exited",
+            "event",
+            "triggered",
+            "actual",
+            "behavior",
+            "editing",
+            "exited",
+            "event",
+            "unexpectedly",
+            "triggered",
+            "error",
+            "message",
+            "stack",
+            "trace",
+            "response"
+          ]
+        },
+        {
+          "author": "asturur",
+          "content": [
+            "hopefully",
+            "quick",
+            "fix",
+            "text",
+            "editing",
+            "manager",
+            "probablt",
+            "overfiring"
+          ]
+        }
+      ]
+    }
+  ],
+  "security": null
+}

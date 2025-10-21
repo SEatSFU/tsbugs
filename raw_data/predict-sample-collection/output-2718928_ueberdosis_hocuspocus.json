@@ -1,0 +1,22 @@
+{
+  "commit_index": "2718928",
+  "commit_url": "https://github.com/ueberdosis/hocuspocus/commit/27189284be3efd1364a915bda175f0ec4396b724",
+  "commit": {
+    "commit_message": [
+      "ci",
+      "fix",
+      "test",
+      "step"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      ".github/workflows/build.yml"
+    ],
+    "changed_files_content": [],
+    "parent": "b7aa4b2437b86d0a5ae923dc57cd2f98d8636f80"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

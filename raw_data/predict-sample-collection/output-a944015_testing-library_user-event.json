@@ -1,0 +1,21 @@
+{
+  "commit_index": "a944015",
+  "commit_url": "https://github.com/testing-library/user-event/commit/a9440157f3dddfd4bacbc9c30da86c678a982bb5",
+  "commit": {
+    "commit_message": [
+      "chore",
+      "fix",
+      "test"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      "jest.config.js"
+    ],
+    "changed_files_content": [],
+    "parent": "911cc1e388df0ad640ea5a70717a4350969f915b"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

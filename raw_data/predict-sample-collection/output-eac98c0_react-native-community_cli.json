@@ -1,0 +1,123 @@
+{
+  "commit_index": "eac98c0",
+  "commit_url": "https://github.com/react-native-community/cli/commit/eac98c026068fcd9f6d6cd7df8b7864cabd4f54c",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "package",
+      "class",
+      "name",
+      "regex",
+      "tweak",
+      "android",
+      "563"
+    ],
+    "description": [
+      "android",
+      "find",
+      "package",
+      "'s",
+      "class",
+      "name",
+      "regex",
+      "tweak",
+      "test",
+      "test",
+      "tweak"
+    ],
+    "changed_files_count": 3,
+    "changed_files": [
+      "packages/platform-android/src/config/__fixtures__/android.js",
+      "packages/platform-android/src/config/__tests__/findPackageClassName-test.js",
+      "packages/platform-android/src/config/findPackageClassName.js"
+    ],
+    "changed_files_content": [],
+    "parent": "4c9512a1b55587c77a5e0bd1cf9194b14d05dad3"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "package",
+        "class",
+        "name",
+        "regex",
+        "tweak",
+        "android",
+        "563"
+      ],
+      "total_discussions": 2,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "summary",
+                "current",
+                "regex",
+                "n't",
+                "support",
+                "code",
+                "like",
+                "classsomepackage",
+                "reactpackage",
+                "kotlin",
+                "pr",
+                "added",
+                "support",
+                "thistest",
+                "plan",
+                "try",
+                "autolinking",
+                "andorid",
+                "package",
+                "class",
+                "like",
+                "classsomepackage",
+                "reactpackage",
+                "overridefuncreatenativemodules",
+                "reactcontext",
+                "reactapplicationcontext",
+                "mutablelist",
+                "nativemodule",
+                "returncollections.emptylist",
+                "overridefuncreateviewmanagers",
+                "reactcontext",
+                "reactapplicationcontext",
+                "mutablelist",
+                "simpleviewmanager",
+                "view",
+                "returncollections.emptylist"
+              ],
+              "author": "thymikee"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "'d",
+                "really",
+                "appreciate",
+                "extracting",
+                "regex",
+                "function",
+                "adding",
+                "small",
+                "unit",
+                "test",
+                "suite"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

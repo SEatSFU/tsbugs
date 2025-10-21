@@ -1,0 +1,107 @@
+{
+  "commit_index": "adef6d7",
+  "commit_url": "https://github.com/n8n-io/n8n/commit/adef6d7083ffd8fa43775b82afeb4dfdfd75a745",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "editor",
+      "upgrade",
+      "make",
+      "testing",
+      "consistent",
+      "editor-ui"
+    ],
+    "description": [
+      "update",
+      "package-lock.json",
+      "make",
+      "version",
+      "consistent",
+      "design-system",
+      "make",
+      "lib",
+      "version",
+      "consistent",
+      "editor-ui",
+      "make",
+      "vite",
+      "configs",
+      "consistent",
+      "fix",
+      "design-system",
+      "updating",
+      "vue2-bring-avatars",
+      "alias",
+      "co-authored-by",
+      "csaba",
+      "tuncsik",
+      "csaba",
+      "n8n.io"
+    ],
+    "changed_files_count": 5,
+    "changed_files": [
+      "package-lock.json",
+      "packages/design-system/package.json",
+      "packages/design-system/vite.config.ts",
+      "packages/editor-ui/package.json",
+      "packages/editor-ui/vite.config.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "07adc2d2dcc797d05767587599f98e09c02c6fdf"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "editor",
+        "upgrade",
+        "make",
+        "testing",
+        "consistent",
+        "editor-ui",
+        "design-system",
+        "4434"
+      ],
+      "total_discussions": 3,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "cstuncsik"
+              ],
+              "author": "ivov"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "n8n-5210"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 3,
+          "comments": [
+            {
+              "content": [
+                "got",
+                "released",
+                "withn8n",
+                "0.200.0"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

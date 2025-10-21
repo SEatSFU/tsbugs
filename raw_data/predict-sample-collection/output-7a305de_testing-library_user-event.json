@@ -1,0 +1,155 @@
+{
+  "commit_index": "7a305de",
+  "commit_url": "https://github.com/testing-library/user-event/commit/7a305dee9ab833d6f338d567fc2e862b4838b76a",
+  "commit": {
+    "commit_message": [
+      "chore",
+      "fix",
+      "snapshot",
+      "testing",
+      "1090"
+    ],
+    "description": [],
+    "changed_files_count": 5,
+    "changed_files": [
+      "testenv/modules/inlineSnapshot.js",
+      "testenv/node.js",
+      "tests/clipboard/copy.ts",
+      "tests/clipboard/cut.ts",
+      "tests/clipboard/paste.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "e93a5af30a2afd05e49abcb37db3f2f212fe0df7"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "chore",
+        "fix",
+        "snapshot",
+        "testing",
+        "1090"
+      ],
+      "total_discussions": 4,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "print",
+                "diff",
+                "failing",
+                "inline",
+                "snapshots.use",
+                "snapshot",
+                "matcher",
+                "innodeenvironment.why",
+                "easier",
+                "read",
+                "full",
+                "print",
+                "ofexpectedvsreceived.jest-snapshotcallscontext.dontthrow",
+                "test",
+                "pas",
+                "failing",
+                "snapshot",
+                "could",
+                "n't",
+                "find",
+                "documentation",
+                "supposed",
+                "configured",
+                "correctly",
+                "n't",
+                "usejest-snapshotin",
+                "toolbox",
+                "tests.checklist",
+                "ready",
+                "merged"
+              ],
+              "author": "ph-fritsche"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "pull",
+                "request",
+                "automatically",
+                "built",
+                "testable",
+                "incodesandbox",
+                "see",
+                "build",
+                "info",
+                "built",
+                "library",
+                "clickhereor",
+                "icon",
+                "next",
+                "commit",
+                "sha",
+                "latest",
+                "deployment",
+                "branch",
+                "based",
+                "commit06792b6"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 3,
+          "comments": [
+            {
+              "content": [
+                "merging",
+                "1090",
+                "06792b6",
+                "intomain",
+                "e93a5af",
+                "willnot",
+                "changecoverage.the",
+                "diff",
+                "coverage",
+                "isn/a",
+                "building",
+                "smart",
+                "automated",
+                "test",
+                "selection",
+                "slash",
+                "ci/cd",
+                "build",
+                "times.learn"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 4,
+          "comments": [
+            {
+              "content": [
+                "pr",
+                "included",
+                "version",
+                "14.5.0",
+                "release",
+                "available",
+                "yoursemantic-releasebot"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

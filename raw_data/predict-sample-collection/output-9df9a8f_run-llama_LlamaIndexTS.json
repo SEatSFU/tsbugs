@@ -1,0 +1,92 @@
+{
+  "commit_index": "9df9a8f",
+  "commit_url": "https://github.com/run-llama/LlamaIndexTS/commit/9df9a8fc1de93a914d832ddd86333957c83f1491",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "export",
+      "huggingface",
+      "module",
+      "1390"
+    ],
+    "description": [],
+    "changed_files_count": 2,
+    "changed_files": [
+      ".changeset/sixty-eels-smile.md",
+      "packages/llamaindex/src/embeddings/index.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "60b185ff538e898c0a57052618e2e70c18933238"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "export",
+        "huggingface",
+        "module",
+        "1390"
+      ],
+      "total_discussions": 3,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "description",
+                "provided"
+              ],
+              "author": "himself65"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "latest",
+                "commit:9fdb323",
+                "change",
+                "pr",
+                "included",
+                "next",
+                "version",
+                "bump",
+                "sure",
+                "mean",
+                "click",
+                "learn",
+                "changesets",
+                "click",
+                "'re",
+                "maintainer",
+                "want",
+                "add",
+                "another",
+                "changeset",
+                "pr"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 3,
+          "comments": [
+            {
+              "content": [
+                "open",
+                "stackblitz",
+                "commit:9fdb323"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

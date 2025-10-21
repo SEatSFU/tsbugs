@@ -1,0 +1,238 @@
+{
+  "commit_index": "7177e3a",
+  "commit_url": "https://github.com/n8n-io/n8n/commit/7177e3aab082cc7964698221a9440cd92dfaed03",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "core",
+      "register",
+      "transition",
+      "handler",
+      "module",
+      "init",
+      "16308"
+    ],
+    "description": [],
+    "changed_files_count": 3,
+    "changed_files": [
+      "packages/cli/src/commands/base-command.ts",
+      "packages/cli/src/commands/start.ts",
+      "packages/cli/src/modules/insights/insights.service.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "cb81826cf16a215e1da08432e5bb6ce29db1099e"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "core",
+        "register",
+        "transition",
+        "handler",
+        "module",
+        "init",
+        "16308"
+      ],
+      "total_discussions": 5,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "summaryat",
+                "15871we",
+                "moved",
+                "module",
+                "loading",
+                "entrypoint",
+                "allow",
+                "module",
+                "register",
+                "db",
+                "entity",
+                "establish",
+                "db",
+                "connection",
+                "missed",
+                "early",
+                "stage",
+                "license",
+                "initialized",
+                "yet",
+                "i.e.instancesettings.ismultimainstill",
+                "evaluates",
+                "tofalseand",
+                "fail",
+                "register",
+                "leadership",
+                "transition",
+                "handlers.this",
+                "pr",
+                "move",
+                "transition",
+                "handler",
+                "registration",
+                "back",
+                "itsoriginal",
+                "positionafter",
+                "module",
+                "initialize",
+                "also",
+                "removed",
+                "excess",
+                "decorator",
+                "left",
+                "behind",
+                "misresolved",
+                "merge.to",
+                "test",
+                "start",
+                "two",
+                "main",
+                "wind",
+                "leader",
+                "watch",
+                "new",
+                "leader",
+                "start",
+                "decorated",
+                "service",
+                "adding",
+                "trigger",
+                "pollers",
+                "wait",
+                "tracking",
+                "execution",
+                "pruning",
+                "etc.related",
+                "linear",
+                "ticket",
+                "github",
+                "issue",
+                "community",
+                "forum",
+                "postsn/areview",
+                "merge",
+                "checklistpr",
+                "title",
+                "summary",
+                "descriptive",
+                "convention",
+                "doc",
+                "updatedor",
+                "follow-up",
+                "ticket",
+                "created.tests",
+                "included.pr",
+                "labeled",
+                "withrelease/backport",
+                "pr",
+                "urgent",
+                "fix",
+                "need",
+                "backported"
+              ],
+              "author": "ivov"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "attention",
+                "patch",
+                "coverage",
+                "is0",
+                "with2",
+                "linesin",
+                "change",
+                "missing",
+                "coverage",
+                "please",
+                "review",
+                "thought",
+                "report",
+                "let",
+                "u",
+                "know"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 3,
+          "comments": [
+            {
+              "content": [
+                "cypress",
+                "e2e",
+                "spec",
+                "passed"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 4,
+          "comments": [
+            {
+              "content": [
+                "tested",
+                "level",
+                "test",
+                "depend",
+                "implementation",
+                "e.g",
+                "refactor",
+                "thing",
+                "test",
+                "prof",
+                "still",
+                "work",
+                "correctly",
+                "'ve",
+                "discussing",
+                "exactly",
+                "shortstackedand",
+                "might",
+                "go",
+                "ahead",
+                "using",
+                "test",
+                "container",
+                "based",
+                "docker",
+                "compose",
+                "file",
+                "tomi",
+                "'s",
+                "benchmarking",
+                "suite"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 5,
+          "comments": [
+            {
+              "content": [
+                "got",
+                "released",
+                "withn8n",
+                "1.99.0"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

@@ -1,0 +1,111 @@
+{
+  "commit_index": "0246bc7",
+  "commit_url": "https://github.com/type-challenges/type-challenges/commit/0246bc74d454c332940e938f9443b5754077ddb2",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "question",
+      "difficulty",
+      "question",
+      "00015",
+      "000016",
+      "00017",
+      "0001\u2026"
+    ],
+    "description": [],
+    "changed_files_count": 4,
+    "changed_files": [
+      "questions/00015-medium-last/info.yml",
+      "questions/00016-medium-pop/info.yml",
+      "questions/00017-hard-currying-1/info.yml",
+      "questions/00018-easy-tuple-length/info.yml"
+    ],
+    "changed_files_content": [],
+    "parent": "becee8db0d1b451074770f94e9ea3991044207e3"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "add",
+        "difficulty",
+        "question",
+        "00015",
+        "000016",
+        "00017",
+        "00018",
+        "preventing",
+        "undefined",
+        "filename",
+        "playground",
+        "folder",
+        "25616"
+      ],
+      "total_discussions": 1,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "fix",
+                "25615this",
+                "happening",
+                "nodifficultyin",
+                "theinfo.ymlfile",
+                "question",
+                "00015",
+                "00016",
+                "00017",
+                "00018"
+              ],
+              "author": "jiangshanmeta"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "title": [
+        "undefined",
+        "file",
+        "name",
+        "question"
+      ],
+      "labels": [
+        "bug"
+      ],
+      "comments": [
+        {
+          "author": "iamzee",
+          "content": [
+            "undefined",
+            "file",
+            "name",
+            "playground",
+            "folder",
+            "question",
+            "00015",
+            "00016",
+            "000017",
+            "00018",
+            "pnpm",
+            "run",
+            "generate",
+            "playground/00015-undefined-last-of-array.ts",
+            "playground/00016-undefined-pop.ts",
+            "playground/00017-undefined-currying-1.ts",
+            "playground/00018-undefined-length-of-tuple.ts",
+            "node",
+            "v16.15.0",
+            "pnpm",
+            "v7.18.0"
+          ]
+        }
+      ]
+    }
+  ],
+  "security": null
+}

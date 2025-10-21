@@ -1,0 +1,192 @@
+{
+  "commit_index": "d8d6180",
+  "commit_url": "https://github.com/intlify/vue-i18n/commit/d8d6180cfde7222b4f1b98385de4d2f3608150c4",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "petite-vue-i18n",
+      "resolve",
+      "message",
+      "resolver",
+      "locale"
+    ],
+    "description": [],
+    "changed_files_count": 3,
+    "changed_files": [
+      "docs/guide/advanced/lite.md",
+      "packages/petite-vue-i18n/src/index.ts",
+      "packages/petite-vue-i18n/src/runtime.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "9d97932258ff8d88396ebdada2164befd78335b8"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "petite-vue-i18n",
+        "register",
+        "correctly",
+        "message",
+        "resolver",
+        "locale",
+        "fallbacker",
+        "1967"
+      ],
+      "total_discussions": 3,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "related",
+                "1965"
+              ],
+              "author": "kazupon"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "view",
+                "log"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 3,
+          "comments": [
+            {
+              "content": [
+                "open",
+                "stackblitz",
+                "commit",
+                "e1ad096"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "title": [
+        "hierarchical",
+        "locale",
+        "message",
+        "petite-vue-i18n",
+        "working"
+      ],
+      "labels": [
+        "Type: Bug",
+        "🔨 p3-minor-bug"
+      ],
+      "comments": [
+        {
+          "author": "maxfrees",
+          "content": [
+            "reporting",
+            "bug",
+            "hierarchical",
+            "locale",
+            "message",
+            "petite-vue-i18n",
+            "working",
+            "expected",
+            "behavior",
+            "hierarchical",
+            "locale",
+            "message",
+            "petite-vue-i18n",
+            "working",
+            "reproduction",
+            "http",
+            "//stackblitz.com/edit/vitejs-vite-gy19pc",
+            "file=src",
+            "2fmain.ts",
+            "ref",
+            "1962",
+            "system",
+            "info",
+            "window",
+            "screenshot",
+            "response",
+            "additional",
+            "context",
+            "response",
+            "validation",
+            "read",
+            "contributing",
+            "guideline",
+            "read",
+            "documentation",
+            "check",
+            "n't",
+            "already",
+            "issue",
+            "report",
+            "bug",
+            "avoid",
+            "creating",
+            "duplicate",
+            "check",
+            "concrete",
+            "bug",
+            "q",
+            "open",
+            "github",
+            "discussion"
+          ]
+        },
+        {
+          "author": "kazupon",
+          "content": [
+            "reporting",
+            "'ve",
+            "fixed",
+            "issue",
+            "try",
+            "install",
+            "vue-i18n",
+            "v10.0.3",
+            "need",
+            "install",
+            "intlify/unplugin-vue-i18n",
+            "v5.2",
+            "module",
+            "option",
+            "setting",
+            "see",
+            "doc",
+            "http",
+            "//vue-i18n.intlify.dev/guide/advanced/lite",
+            "setting-bundler-plugin"
+          ]
+        },
+        {
+          "author": "kazupon",
+          "content": [
+            "close",
+            "believe",
+            "issue",
+            "resolved",
+            "still",
+            "issue",
+            "please",
+            "open",
+            "new",
+            "one"
+          ]
+        }
+      ]
+    }
+  ],
+  "security": null
+}

@@ -1,0 +1,78 @@
+{
+  "commit_index": "ea528c4",
+  "commit_url": "https://github.com/intlify/vue-i18n/commit/ea528c4374846d9f6306176c2eb9fc54f3d52809",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "tm",
+      "function",
+      "accept",
+      "definelocalemessage",
+      "key",
+      "type",
+      "2014"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      "packages/vue-i18n/src/vue.d.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "cea7cb444e5e69bb10b75a3d78bb4e4c542fbda3"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "tmfunction",
+        "acceptdefinelocalemessagekey",
+        "type",
+        "2014"
+      ],
+      "total_discussions": 2,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "look",
+                "like",
+                "tmfunction",
+                "oncomponentcustompropertiesdoes",
+                "use",
+                "thedefinelocalemessagetype",
+                "key",
+                "parameter",
+                "simple",
+                "copy",
+                "paste",
+                "type",
+                "parameter",
+                "used",
+                "think",
+                "key"
+              ],
+              "author": "kazupon"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "open",
+                "stackblitz",
+                "commit:6e608fe"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

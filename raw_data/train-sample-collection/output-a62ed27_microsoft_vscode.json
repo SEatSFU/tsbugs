@@ -1,0 +1,174 @@
+{
+  "commit_index": "a62ed27",
+  "commit_url": "https://github.com/microsoft/vscode/commit/a62ed2742168b7871ad639135f6a0d3913f45bac",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "redirect",
+      "uris",
+      "oauth",
+      "dynamic",
+      "registration",
+      "test",
+      "256288"
+    ],
+    "description": [],
+    "changed_files_count": 2,
+    "changed_files": [
+      "src/vs/base/common/oauth.ts",
+      "src/vs/base/test/common/oauth.test.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "0cfca3786c4f366cda8735860e6a1c4d0e2647d7"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "redirect",
+        "uris",
+        "oauth",
+        "dynamic",
+        "registration",
+        "test",
+        "256288"
+      ],
+      "total_discussions": 1,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "fix",
+                "255871"
+              ],
+              "author": "TylerLeonhardt"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "title": [
+        "mcp",
+        "redirect",
+        "uri",
+        "requested",
+        "redirect",
+        "uris",
+        "normalized",
+        "respect",
+        "trailing",
+        "slash"
+      ],
+      "labels": [
+        "authentication",
+        "insiders-released",
+        "chat-mcp",
+        "bug"
+      ],
+      "comments": [
+        {
+          "author": "austinlparker",
+          "content": [
+            "issue",
+            "occur",
+            "extension",
+            "disabled",
+            "yes/no",
+            "v",
+            "code",
+            "version",
+            "version",
+            "1.103.0-insider",
+            "universal",
+            "commit",
+            "cd20192",
+            "date",
+            "2025-07-14t04:17:08.264z",
+            "electron",
+            "35.6.0",
+            "electronbuildid",
+            "11847422",
+            "chromium",
+            "134.0.6998.205",
+            "node.js",
+            "22.15.1",
+            "v8",
+            "13.4.114.21-electron.0",
+            "o",
+            "darwin",
+            "arm64",
+            "24.5.0",
+            "o",
+            "version",
+            "macos",
+            "sequoia",
+            "15.5",
+            "step",
+            "reproduce",
+            "register",
+            "oauth",
+            "2.1",
+            "mcp",
+            "server",
+            "similar",
+            "issue",
+            "255255",
+            "inspect",
+            "redirect_uri",
+            "parameter",
+            "client",
+            "server",
+            "--",
+            "see",
+            "server",
+            "side",
+            "debu",
+            "2025-07-14t14:22:19.879792-04:00",
+            "oauth",
+            "authorization",
+            "failed",
+            "client_id=hcxoc_01k0522889mtb9gtesbbpbp2cw",
+            "error=invalid_request",
+            "registered_redirect_uris=",
+            "http",
+            "//insiders.vscode.dev/redirect",
+            "http",
+            "//vscode.dev/redirect",
+            "http",
+            "//localhost/",
+            "http",
+            "//127.0.0.1/",
+            "http",
+            "//localhost:33418/",
+            "http",
+            "//127.0.0.1:33418/",
+            "http",
+            "//127.0.0.1:33418/",
+            "22",
+            "requested_redirect_uri=",
+            "http",
+            "//127.0.0.1:33418",
+            "note",
+            "difference",
+            "trailing",
+            "slash",
+            "registered",
+            "redirect",
+            "uri",
+            "'s",
+            "requested",
+            "redirect",
+            "uri"
+          ]
+        }
+      ]
+    }
+  ],
+  "security": null
+}

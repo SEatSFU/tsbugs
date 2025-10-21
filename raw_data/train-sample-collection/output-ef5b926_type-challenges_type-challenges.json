@@ -1,0 +1,109 @@
+{
+  "commit_index": "ef5b926",
+  "commit_url": "https://github.com/type-challenges/type-challenges/commit/ef5b9262ddb2cdf7313912334bbacbad97ffc905",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "add",
+      "test",
+      "case",
+      "645",
+      "medium",
+      "diff",
+      "4921"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      "questions/645-medium-diff/test-cases.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "e39012d86d182ca303504ce000a2ff1034f20a61"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "add",
+        "test",
+        "case",
+        "645",
+        "medium",
+        "diff",
+        "4921"
+      ],
+      "total_discussions": 2,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "type",
+                "diff",
+                "o1",
+                "p",
+                "keyof",
+                "o1",
+                "p",
+                "extends",
+                "keyof",
+                "never",
+                "p",
+                "o1",
+                "p",
+                "passexpect",
+                "equal",
+                "diff",
+                "foo",
+                "bar",
+                "gender",
+                "number",
+                "need",
+                "addexpect",
+                "equal",
+                "diff",
+                "bar",
+                "foo",
+                "gender",
+                "number",
+                "test",
+                "case"
+              ],
+              "author": "antfu"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "case",
+                "thinktype",
+                "diff",
+                "o1",
+                "p",
+                "keyof",
+                "o1",
+                "p",
+                "extends",
+                "keyof",
+                "never",
+                "p",
+                "o1",
+                "p",
+                "better",
+                "type",
+                "case"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

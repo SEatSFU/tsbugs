@@ -1,0 +1,75 @@
+{
+  "commit_index": "6a0b17a",
+  "commit_url": "https://github.com/intlify/vue-i18n/commit/6a0b17ab82d131ad71420ad9c98b8211c3d25961",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "remove",
+      "unnecessary",
+      "type",
+      "petite-vue-i18n",
+      "1833"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      "packages/petite-vue-i18n/src/vue.d.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "0716dcf83093f0ffb957b3e0f3a8976f7695b149"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "remove",
+        "unnecessary",
+        "type",
+        "petite-vue-i18n",
+        "1833"
+      ],
+      "total_discussions": 2,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "bug",
+                "fixeven",
+                "though",
+                "petite-vue-i18n",
+                "provides",
+                "translation",
+                "feature",
+                "several",
+                "unusable",
+                "type",
+                "provided",
+                "remove",
+                "them.ref",
+                "http",
+                "//github.com/intlify/vue-i18n-next/tree/master/packages/petite-vue-i18n"
+              ],
+              "author": "kazupon"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "view",
+                "log"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

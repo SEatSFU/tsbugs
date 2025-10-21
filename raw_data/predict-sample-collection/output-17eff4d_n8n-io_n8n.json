@@ -1,0 +1,95 @@
+{
+  "commit_index": "17eff4d",
+  "commit_url": "https://github.com/n8n-io/n8n/commit/17eff4d7d6692bfdc251bfa16ce7334858642ce5",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "core",
+      "fix",
+      "execution",
+      "status",
+      "filter",
+      "5533"
+    ],
+    "description": [
+      "fix",
+      "status",
+      "filter",
+      "fix",
+      "countfilter",
+      "add",
+      "migration",
+      "backfill",
+      "status",
+      "fix",
+      "migration"
+    ],
+    "changed_files_count": 12,
+    "changed_files": [
+      "packages/cli/src/Interfaces.ts",
+      "packages/cli/src/Server.ts",
+      "packages/cli/src/WaitTracker.ts",
+      "packages/cli/src/databases/migrations/mysqldb/1676996103000-MigrateExecutionStatus.ts",
+      "packages/cli/src/databases/migrations/mysqldb/index.ts",
+      "packages/cli/src/databases/migrations/postgresdb/1676996103000-MigrateExecutionStatus.ts",
+      "packages/cli/src/databases/migrations/postgresdb/index.ts",
+      "packages/cli/src/databases/migrations/sqlite/1676996103000-MigrateExecutionStatus.ts",
+      "packages/cli/src/databases/migrations/sqlite/index.ts",
+      "packages/cli/src/executions/executionHelpers.ts",
+      "packages/cli/src/executions/executions.service.ts",
+      "packages/editor-ui/src/Interface.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "52f740b9e8e1dfd046e28854e7fe04e262198ee1"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "core",
+        "fix",
+        "execution",
+        "status",
+        "filter",
+        "5533"
+      ],
+      "total_discussions": 2,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "github",
+                "issue",
+                "community",
+                "forum",
+                "post",
+                "link",
+                "close",
+                "automatically"
+              ],
+              "author": "flipswitchingmonkey"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "got",
+                "released",
+                "withn8n",
+                "0.217.1"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

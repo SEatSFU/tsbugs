@@ -1,0 +1,121 @@
+{
+  "commit_index": "af5fc14",
+  "commit_url": "https://github.com/intlify/vue-i18n/commit/af5fc1464250a60a0e992d4daa1b07e46ff2330e",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "deps",
+      "update",
+      "dependency",
+      "vue-demi",
+      "^0.14.0",
+      "1400"
+    ],
+    "description": [
+      "co-authored-by",
+      "renovate",
+      "bot",
+      "29139614+renovate",
+      "bot",
+      "users.noreply.github.com"
+    ],
+    "changed_files_count": 2,
+    "changed_files": [
+      "packages/vue-i18n-bridge/package.json",
+      "pnpm-lock.yaml"
+    ],
+    "changed_files_content": [],
+    "parent": "0acca10a4779d9c92c08176ddf21098d8564815c"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "deps",
+        "update",
+        "dependency",
+        "vue-demi",
+        "^0.14.0",
+        "1400"
+      ],
+      "total_discussions": 1,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "pr",
+                "contains",
+                "following",
+                "update",
+                "packagechangeageadoptionpassingconfidencevue-demi^0.13.4-",
+                "^0.14.0release",
+                "notesantfu/vue-demiv0.14.1compare",
+                "featuresadd",
+                "fallback",
+                "hasinjectioncontext",
+                "//github.com/vueuse/vue-demi/issues/223",
+                "610f1",
+                "bug",
+                "fixesmovetypescondition",
+                "front",
+                "//github.com/vueuse/vue-demi/issues/222",
+                "cdef5",
+                "view",
+                "change",
+                "githubv0.14.0compare",
+                "featuresmock",
+                "vue",
+                "3",
+                "component",
+                "471d7",
+                "view",
+                "change",
+                "branch",
+                "creation",
+                "time",
+                "schedule",
+                "defined",
+                "automerge",
+                "time",
+                "schedule",
+                "defined",
+                "whenever",
+                "pr",
+                "becomes",
+                "conflicted",
+                "tick",
+                "rebase/retry",
+                "close",
+                "pr",
+                "wo",
+                "n't",
+                "reminded",
+                "update",
+                "again.if",
+                "want",
+                "rebase/retry",
+                "pr",
+                "check",
+                "boxthis",
+                "pr",
+                "generated",
+                "bymend",
+                "renovate",
+                "view",
+                "repository",
+                "job",
+                "loghere"
+              ],
+              "author": "renovate"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

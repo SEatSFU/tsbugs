@@ -1,0 +1,21 @@
+{
+  "commit_index": "4a9cbd8",
+  "commit_url": "https://github.com/antiwork/shortest/commit/4a9cbd8a638abcc3d700e7dcb8b744ea39fb0454",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "postinstall",
+      "script"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      "packages/shortest/package.json"
+    ],
+    "changed_files_content": [],
+    "parent": "53aed6b0400b36f788e897c623009ce5ce6761bc"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

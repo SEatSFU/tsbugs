@@ -1,0 +1,150 @@
+{
+  "commit_index": "2da407d",
+  "commit_url": "https://github.com/run-llama/LlamaIndexTS/commit/2da407d66c36a0ba357bf3f90e965c09a4850e18",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "cover",
+      "type",
+      "check",
+      "t",
+      "file",
+      "372"
+    ],
+    "description": [],
+    "changed_files_count": 25,
+    "changed_files": [
+      ".github/workflows/test.yml",
+      ".gitignore",
+      ".prettierignore",
+      "apps/docs/.gitignore",
+      "apps/docs/package.json",
+      "apps/docs/tsconfig.json",
+      "examples/package.json",
+      "examples/portkey.ts",
+      "examples/tsconfig.json",
+      "package.json",
+      "packages/core/package.json",
+      "packages/core/src/types/mistral.d.ts",
+      "packages/core/tsconfig.json",
+      "packages/create-llama/create-app.ts",
+      "packages/create-llama/e2e/basic.spec.ts",
+      "packages/create-llama/e2e/tsconfig.json",
+      "packages/create-llama/helpers/index.ts",
+      "packages/create-llama/helpers/python.ts",
+      "packages/create-llama/helpers/types.ts",
+      "packages/create-llama/helpers/typescript.ts",
+      "packages/create-llama/package.json",
+      "packages/create-llama/questions.ts",
+      "packages/create-llama/tsconfig.json",
+      "pnpm-lock.yaml",
+      "tsconfig.json"
+    ],
+    "changed_files_content": [],
+    "parent": "fa574f709e0b69d93796f8f901d55316b4a30247"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "cover",
+        "type",
+        "check",
+        "t",
+        "file",
+        "372"
+      ],
+      "total_discussions": 2,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "use",
+                "t",
+                "monorepo",
+                "cover",
+                "t",
+                "file",
+                "make",
+                "type",
+                "check",
+                "ci",
+                "make",
+                "sure",
+                "file",
+                "type",
+                "correctsimilar",
+                "pr",
+                "wakujs/waku",
+                "132",
+                "toeverything/affine",
+                "2732"
+              ],
+              "author": "himself65"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "latest",
+                "commit:73c9233",
+                "merging",
+                "pr",
+                "cause",
+                "version",
+                "bump",
+                "package",
+                "change",
+                "result",
+                "new",
+                "version",
+                "'re",
+                "good",
+                "go.if",
+                "change",
+                "result",
+                "version",
+                "bump",
+                "need",
+                "add",
+                "changeset",
+                "changesets",
+                "added",
+                "pr",
+                "'ll",
+                "see",
+                "package",
+                "pr",
+                "includes",
+                "changesets",
+                "associated",
+                "semver",
+                "type",
+                "click",
+                "learn",
+                "changesets",
+                "add",
+                "one",
+                "click",
+                "'re",
+                "maintainer",
+                "want",
+                "add",
+                "changeset",
+                "pr"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

@@ -1,0 +1,31 @@
+{
+  "commit_index": "b56c1c1",
+  "commit_url": "https://github.com/xyflow/xyflow/commit/b56c1c1838a2c35ce2174b1cf3f358b16b085d64",
+  "commit": {
+    "commit_message": [
+      "update",
+      "dependency",
+      "fix",
+      "keyhandler"
+    ],
+    "description": [],
+    "changed_files_count": 10,
+    "changed_files": [
+      "examples/svelte/package.json",
+      "examples/svelte/src/generic-tests/edges/general.ts",
+      "examples/svelte/src/routes/tests/generic/[topic]/[example]/+page.svelte",
+      "examples/svelte/src/routes/tests/generic/[topic]/[example]/Flow.svelte",
+      "packages/svelte/package.json",
+      "packages/svelte/src/lib/components/KeyHandler/KeyHandler.svelte",
+      "pnpm-lock.yaml",
+      "tests/playwright/e2e/nodes.spec.ts",
+      "tests/playwright/package-lock.json",
+      "tests/playwright/package.json"
+    ],
+    "changed_files_content": [],
+    "parent": "3cbb117cf062ffa0670872434ad6ef4a93978855"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

@@ -1,0 +1,88 @@
+{
+  "commit_index": "5745027",
+  "commit_url": "https://github.com/n8n-io/n8n/commit/5745027cee9d3cb92dfc9d9025a0645f50185752",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "core",
+      "fix",
+      "single-node",
+      "execution",
+      "failing",
+      "main",
+      "mode",
+      "4421"
+    ],
+    "description": [
+      "fix",
+      "manual",
+      "trigger",
+      "group",
+      "account",
+      "single-node",
+      "execution"
+    ],
+    "changed_files_count": 2,
+    "changed_files": [
+      "packages/nodes-base/nodes/ManualTrigger/ManualTrigger.node.ts",
+      "packages/workflow/src/Workflow.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "1732324965cce2030d0198f7b7e7091edfad6727"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "core",
+        "fix",
+        "single-node",
+        "execution",
+        "failing",
+        "inmainmode",
+        "4421"
+      ],
+      "total_discussions": 3,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "description",
+                "provided"
+              ],
+              "author": "ivov"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "n8n-5162"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 3,
+          "comments": [
+            {
+              "content": [
+                "got",
+                "released",
+                "withn8n",
+                "0.200.0"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

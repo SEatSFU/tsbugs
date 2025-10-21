@@ -1,0 +1,25 @@
+{
+  "commit_index": "f983f03",
+  "commit_url": "https://github.com/nestjs/nest/commit/f983f0366562f5bf311beeeecb4ae3a723e68c9f",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "update",
+      "broken",
+      "import",
+      "path"
+    ],
+    "description": [],
+    "changed_files_count": 3,
+    "changed_files": [
+      "packages/microservices/deserializers/nats-request-json.deserializer.ts",
+      "packages/microservices/deserializers/nats-response-json.deserializer.ts",
+      "packages/microservices/serializers/nats-record.serializer.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "3dfc7fc68eaa161aae712024e712eb292797b2db"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

@@ -1,0 +1,43 @@
+{
+  "commit_index": "829f7fd",
+  "commit_url": "https://github.com/refly-ai/refly/commit/829f7fd9c9040b20a46f6508a221e30fe8ec4ede",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "mention",
+      "adjust",
+      "padding",
+      "remove",
+      "unnecessary",
+      "top",
+      "positioning"
+    ],
+    "description": [
+      "updated",
+      "padding",
+      "mention",
+      "component",
+      "enhance",
+      "visual",
+      "consistency",
+      "removed",
+      "unnecessary",
+      "top",
+      "positioning",
+      "mention",
+      "icon",
+      "improve",
+      "layout"
+    ],
+    "changed_files_count": 2,
+    "changed_files": [
+      "packages/ai-workspace-common/src/components/canvas/launchpad/variable/mention-style.ts",
+      "packages/ai-workspace-common/src/components/canvas/node-chat-panel/index.tsx"
+    ],
+    "changed_files_content": [],
+    "parent": "166129bd7000da9aac5a02ae6d09d895163084c1"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

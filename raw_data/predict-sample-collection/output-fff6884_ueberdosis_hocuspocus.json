@@ -1,0 +1,22 @@
+{
+  "commit_index": "fff6884",
+  "commit_url": "https://github.com/ueberdosis/hocuspocus/commit/fff6884f6b3d1d0123a392ba5385760b793b3948",
+  "commit": {
+    "commit_message": [
+      "playground",
+      "fix",
+      "styling",
+      "issue"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      "demos/frontend/src/App.vue"
+    ],
+    "changed_files_content": [],
+    "parent": "f948b9dfda2d056dff2851670fa6fb4b34081c56"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

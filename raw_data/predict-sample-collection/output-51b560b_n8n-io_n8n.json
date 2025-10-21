@@ -1,0 +1,68 @@
+{
+  "commit_index": "51b560b",
+  "commit_url": "https://github.com/n8n-io/n8n/commit/51b560b3f407f50221591bf182744b1534bfe99b",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "core",
+      "error",
+      "reporter",
+      "log",
+      "error",
+      "error-chain"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      "packages/workflow/src/ErrorReporterProxy.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "6985500a7d14e21b629de0ee9e3006622e3774bc"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "core",
+        "error",
+        "reporter",
+        "log",
+        "error",
+        "error-chain",
+        "no-changelog",
+        "5342"
+      ],
+      "total_discussions": 2,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "description",
+                "provided"
+              ],
+              "author": "netroy"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "got",
+                "released",
+                "withn8n",
+                "0.214.0"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

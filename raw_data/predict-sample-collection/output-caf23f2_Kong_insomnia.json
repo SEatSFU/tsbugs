@@ -1,0 +1,22 @@
+{
+  "commit_index": "caf23f2",
+  "commit_url": "https://github.com/Kong/insomnia/commit/caf23f21756ca36f83ed5a70488514b8faca5108",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "gh_token",
+      "env",
+      "travis"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      ".travis.yml"
+    ],
+    "changed_files_content": [],
+    "parent": "50b6b995aa7edf290bbc87f487dc849febbecadc"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

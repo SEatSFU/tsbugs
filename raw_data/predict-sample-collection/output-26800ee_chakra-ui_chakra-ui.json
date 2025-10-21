@@ -1,0 +1,24 @@
+{
+  "commit_index": "26800ee",
+  "commit_url": "https://github.com/chakra-ui/chakra-ui/commit/26800eebaa52e49b2dd3f1b191c34b368a75bc54",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "temp",
+      "workaround",
+      "next-js",
+      "esm"
+    ],
+    "description": [],
+    "changed_files_count": 2,
+    "changed_files": [
+      "packages/integrations/next-js/package.json",
+      "packages/integrations/next-js/scripts/postbuild.mjs"
+    ],
+    "changed_files_content": [],
+    "parent": "62ae8998d258ef30164efd73c4c1f576cb9cf840"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

@@ -1,0 +1,244 @@
+{
+  "commit_index": "9c813dc",
+  "commit_url": "https://github.com/react-native-community/cli/commit/9c813dcdf2137fc6508402a19e22717670131010",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "allow",
+      "debugger",
+      "connect",
+      "custom",
+      "host",
+      "2404"
+    ],
+    "description": [],
+    "changed_files_count": 3,
+    "changed_files": [
+      "packages/cli-server-api/src/__tests__/securityHeaderesMiddleware.test.ts",
+      "packages/cli-server-api/src/index.ts",
+      "packages/cli-server-api/src/securityHeadersMiddleware.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "ad237ed2bf65e9c2c3814ac2ced58b09fed96229"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "allow",
+        "debugger",
+        "connect",
+        "custom",
+        "host",
+        "2404"
+      ],
+      "total_discussions": 5,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "summary",
+                "experimental",
+                "debugger",
+                "support",
+                "custom",
+                "hostnames.currently",
+                "experimental",
+                "debugger",
+                "reject",
+                "allrequests",
+                "n't",
+                "come",
+                "thelocalhosthostname",
+                "using",
+                "--",
+                "hostflag",
+                "starting",
+                "react",
+                "native",
+                "would",
+                "good",
+                "debugger",
+                "supported",
+                "this.see",
+                "2396test",
+                "plan",
+                "manually",
+                "tested",
+                "pr",
+                "clean",
+                "project",
+                "using",
+                "npm",
+                "react-native",
+                "start",
+                "--",
+                "experimental-debugger",
+                "--",
+                "host",
+                "0.0.0.0",
+                "linking",
+                "package",
+                "locally",
+                "checklistdocumentation",
+                "date",
+                "reflect",
+                "changes.follows",
+                "commit",
+                "message",
+                "convention",
+                "described",
+                "incontributing.md"
+              ],
+              "author": "thymikee"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "amazing",
+                "make",
+                "sense",
+                "contribution",
+                "anything",
+                "blocking",
+                "making",
+                "pr",
+                "ready",
+                "review"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 3,
+          "comments": [
+            {
+              "content": [
+                "hey",
+                "szymonrybczak",
+                "wanted",
+                "quick",
+                "test",
+                "clean",
+                "repo",
+                "seems",
+                "work",
+                "well",
+                "happy",
+                "reviewed"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 4,
+          "comments": [
+            {
+              "content": [
+                "review",
+                "folk",
+                "cleaned",
+                "test",
+                "title",
+                "rebasedupstream/main"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 5,
+          "comments": [
+            {
+              "content": [
+                "contribution",
+                "jesse-cameron"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "title": [
+        "experimental",
+        "debugger",
+        "support",
+        "custom",
+        "hostnames"
+      ],
+      "labels": [
+        "feature request"
+      ],
+      "comments": [
+        {
+          "author": "Jesse-Cameron",
+          "content": [
+            "describe",
+            "feature",
+            "experimental",
+            "debugger",
+            "support",
+            "custom",
+            "hostnames",
+            "currently",
+            "experimental",
+            "debugger",
+            "reject",
+            "request",
+            "n't",
+            "come",
+            "localhost",
+            "hostname",
+            "using",
+            "--",
+            "host",
+            "flag",
+            "starting",
+            "react",
+            "native",
+            "would",
+            "good",
+            "debugger",
+            "supported",
+            "possible",
+            "implementation",
+            "could",
+            "possibly",
+            "pas",
+            "host",
+            "param",
+            "security",
+            "header",
+            "middleware",
+            "substitute",
+            "localhost",
+            "thought",
+            "related",
+            "issue"
+          ]
+        },
+        {
+          "author": "szymonrybczak",
+          "content": [
+            "closing",
+            "pull",
+            "request",
+            "implementing",
+            "feature",
+            "merged"
+          ]
+        }
+      ]
+    }
+  ],
+  "security": null
+}

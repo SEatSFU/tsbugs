@@ -1,0 +1,142 @@
+{
+  "commit_index": "5ea5615",
+  "commit_url": "https://github.com/chakra-ui/chakra-ui/commit/5ea56150a62c7abdbd11fff38d7f80bee2e000f5",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "input",
+      "flushed",
+      "input",
+      "variant",
+      "error",
+      "focus",
+      "style",
+      "10057"
+    ],
+    "description": [
+      "feat",
+      "input",
+      "add",
+      "error",
+      "color",
+      "handling",
+      "invalid",
+      "input",
+      "theme",
+      "recipe"
+    ],
+    "changed_files_count": 2,
+    "changed_files": [
+      "apps/compositions/src/examples/input-with-focus-error-color.tsx",
+      "packages/react/src/theme/recipes/input.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "c1405dc9ef46b1ac149c6743ff5f8b4dbea88b95"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "input",
+        "flushed",
+        "input",
+        "variant",
+        "error",
+        "focus",
+        "style",
+        "10057"
+      ],
+      "total_discussions": 2,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "fix",
+                "focus",
+                "state",
+                "flushed",
+                "variant",
+                "input",
+                "error",
+                "state.\ud83d\udcdd",
+                "descriptionadd",
+                "brief",
+                "description\u26f3\ufe0f",
+                "current",
+                "behavior",
+                "update",
+                "input-bug.mp4\ud83d\ude80",
+                "new",
+                "behaviorinput-fix.mp4\ud83d\udca3",
+                "breaking",
+                "change",
+                "yes/no"
+              ],
+              "author": "segunadebayo"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "latest",
+                "commit:7c76811",
+                "merging",
+                "pr",
+                "cause",
+                "version",
+                "bump",
+                "package",
+                "change",
+                "result",
+                "new",
+                "version",
+                "'re",
+                "good",
+                "go.if",
+                "change",
+                "result",
+                "version",
+                "bump",
+                "need",
+                "add",
+                "changeset",
+                "changesets",
+                "added",
+                "pr",
+                "'ll",
+                "see",
+                "package",
+                "pr",
+                "includes",
+                "changesets",
+                "associated",
+                "semver",
+                "type",
+                "click",
+                "learn",
+                "changesets",
+                "add",
+                "one",
+                "click",
+                "'re",
+                "maintainer",
+                "want",
+                "add",
+                "changeset",
+                "pr"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

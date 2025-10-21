@@ -1,0 +1,60 @@
+{
+  "commit_index": "263b0c1",
+  "commit_url": "https://github.com/supabase/supabase/commit/263b0c1c5b734c75e4315f99f444d8ed3209f524",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "pointer",
+      "event",
+      "35408"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      "apps/studio/components/ui/SchemaSelector.tsx"
+    ],
+    "changed_files_content": [],
+    "parent": "7307f96879923efd538c3e5c5aca47114beca1ba"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "popover",
+        "pointer",
+        "event",
+        "35408"
+      ],
+      "total_discussions": 2,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "description",
+                "provided"
+              ],
+              "author": "saltcod"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "much",
+                "speedy",
+                "fix"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

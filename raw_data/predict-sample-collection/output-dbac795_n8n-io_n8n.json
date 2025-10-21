@@ -1,0 +1,119 @@
+{
+  "commit_index": "dbac795",
+  "commit_url": "https://github.com/n8n-io/n8n/commit/dbac7955f94007a8b305400ae28ccf1e5c040261",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "editor",
+      "fix",
+      "execution",
+      "view",
+      "auto-refresh",
+      "new",
+      "workflow"
+    ],
+    "description": [
+      "fixing",
+      "auto-refresh",
+      "save",
+      "workflow",
+      "bug",
+      "added",
+      "execution",
+      "filtering",
+      "based",
+      "current",
+      "workflow",
+      "setting",
+      "fixing",
+      "lint",
+      "error"
+    ],
+    "changed_files_count": 3,
+    "changed_files": [
+      "packages/editor-ui/src/components/ExecutionsView/ExecutionsView.vue",
+      "packages/editor-ui/src/components/mixins/workflowHelpers.ts",
+      "packages/editor-ui/src/modules/workflows.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "c66929f53d87035160ad099873d73cea3fff4d2a"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "editor",
+        "fix",
+        "execution",
+        "view",
+        "auto-refresh",
+        "new",
+        "workflow",
+        "saving",
+        "4462"
+      ],
+      "total_discussions": 3,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "pr",
+                "fix",
+                "following",
+                "bug",
+                "auto-refresh",
+                "working",
+                "new",
+                "execution",
+                "viewsaving",
+                "new",
+                "workflow",
+                "clicking",
+                "save",
+                "button",
+                "header",
+                "workingrunning",
+                "manual",
+                "execution",
+                "show",
+                "list",
+                "workflow",
+                "set",
+                "save"
+              ],
+              "author": "MiloradFilipovic"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "n8n-5280"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 3,
+          "comments": [
+            {
+              "content": [
+                "got",
+                "released",
+                "withn8n",
+                "0.200.1"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

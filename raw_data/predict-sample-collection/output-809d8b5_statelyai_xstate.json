@@ -1,0 +1,143 @@
+{
+  "commit_index": "809d8b5",
+  "commit_url": "https://github.com/statelyai/xstate/commit/809d8b53869ac7d664ec1b1d634eb8286a0d4cd2",
+  "commit": {
+    "commit_message": [
+      "xstate/store",
+      "add",
+      "useatom",
+      "atom",
+      "fix",
+      "vitest",
+      "config",
+      "5302"
+    ],
+    "description": [
+      "add",
+      "useatom",
+      "fix",
+      "vitest",
+      "config",
+      "changeset",
+      "improve",
+      "type",
+      "remove",
+      "unused",
+      "type"
+    ],
+    "changed_files_count": 4,
+    "changed_files": [
+      ".changeset/fresh-mails-shake.md",
+      "packages/xstate-store/src/react.ts",
+      "packages/xstate-store/test/react.test.tsx",
+      "packages/xstate-store/vitest.config.mts"
+    ],
+    "changed_files_content": [],
+    "parent": "6951f13fedfc5df02d28be4cd739e88266a5e572"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "xstate/store",
+        "adduseatom",
+        "atom",
+        "fix",
+        "vitest",
+        "config",
+        "5302"
+      ],
+      "total_discussions": 2,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "pr",
+                "add",
+                "theuseatomhook",
+                "reading",
+                "value",
+                "atom",
+                "selecting",
+                "value",
+                "atom.it",
+                "meant",
+                "common",
+                "use-case",
+                "entire",
+                "value",
+                "atom",
+                "usually",
+                "granular",
+                "data",
+                "needed.constatom=createatom",
+                "0",
+                "constcomponent=",
+                "constcount=useatom",
+                "atom",
+                "return",
+                "divonclick=",
+                "atom.set",
+                "c",
+                "c+1",
+                "count",
+                "/div",
+                "buttononclick=",
+                "atom.set",
+                "0",
+                "reset",
+                "/button",
+                "selector",
+                "constatom=createatom",
+                "count:0",
+                "constcomponent=",
+                "constcount=useatom",
+                "atom",
+                "s.count",
+                "return",
+                "div",
+                "count",
+                "/div"
+              ],
+              "author": "davidkpiano"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "latest",
+                "commit:8f6ad4d",
+                "change",
+                "pr",
+                "included",
+                "next",
+                "version",
+                "bump",
+                "sure",
+                "mean",
+                "click",
+                "learn",
+                "changesets",
+                "click",
+                "'re",
+                "maintainer",
+                "want",
+                "add",
+                "another",
+                "changeset",
+                "pr"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

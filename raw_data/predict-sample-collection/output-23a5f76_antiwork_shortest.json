@@ -1,0 +1,107 @@
+{
+  "commit_index": "23a5f76",
+  "commit_url": "https://github.com/antiwork/shortest/commit/23a5f7600cf0d7cd872efa6eccf2777dbc911911",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "cli",
+      "command",
+      "args",
+      "update",
+      "readme",
+      "81"
+    ],
+    "description": [
+      "quick",
+      "fix",
+      "command",
+      "line",
+      "args",
+      "identifying",
+      "test",
+      "file",
+      "remove",
+      "prerequisite",
+      "instruction",
+      "readme",
+      "file",
+      "step",
+      "shipped",
+      "shortest",
+      "package"
+    ],
+    "changed_files_count": 3,
+    "changed_files": [
+      "README.md",
+      "package.json",
+      "packages/shortest/src/cli/bin.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "13546ed0987b97801dd2ebfdcd21d17318abfe37"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "cli",
+        "command",
+        "args",
+        "update",
+        "readme",
+        "81"
+      ],
+      "total_discussions": 2,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "quick",
+                "fix",
+                "command",
+                "line",
+                "args",
+                "identifying",
+                "test",
+                "files.remove",
+                "prerequisite",
+                "instruction",
+                "readme",
+                "file",
+                "step",
+                "shipped",
+                "shortest",
+                "package"
+              ],
+              "author": "slavingia"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "m2radsis",
+                "attempting",
+                "deploy",
+                "commit",
+                "theantiworkteam",
+                "onvercel",
+                "member",
+                "team",
+                "first",
+                "need",
+                "toauthorize"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

@@ -1,0 +1,105 @@
+{
+  "commit_index": "74bd38a",
+  "commit_url": "https://github.com/fabricjs/fabric.js/commit/74bd38ab3d8724c5f944accf9f6ae1746b9fffa6",
+  "commit": {
+    "commit_message": [
+      "test",
+      "e2e",
+      "fix",
+      "activeselection",
+      "default",
+      "e2e",
+      "test",
+      "forgot",
+      "previo\u2026"
+    ],
+    "description": [],
+    "changed_files_count": 7,
+    "changed_files": [
+      "CHANGELOG.md",
+      "e2e/tests/selection/multi-selection-by-dragging/index.spec.ts",
+      "e2e/tests/selection/multi-selection-by-dragging/index.spec.ts-snapshots/after-multiselection.png",
+      "e2e/tests/selection/multi-selection-by-dragging/index.spec.ts-snapshots/initial-layout.png",
+      "e2e/tests/selection/multi-selection-by-dragging/index.ts",
+      "e2e/utils/CanvasUtil.ts",
+      "e2e/utils/ObjectUtil.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "ea0ef7324da4d082637c62b3574efc4a9a8be84c"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "test",
+        "e2e",
+        "fix",
+        "activeselection",
+        "default",
+        "e2e",
+        "test",
+        "forgot",
+        "previous",
+        "push",
+        "9941"
+      ],
+      "total_discussions": 4,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "add",
+                "e2e",
+                "test",
+                "active",
+                "selection",
+                "origin"
+              ],
+              "author": "asturur"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "open",
+                "branch",
+                "inweb",
+                "editor\u2022vs",
+                "code\u2022insiders"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 3,
+          "comments": [
+            {
+              "content": [
+                "build",
+                "stats"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 4,
+          "comments": [
+            {
+              "content": [
+                "coverage",
+                "mergingfix-activeselection-defaultsintomasterwill"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

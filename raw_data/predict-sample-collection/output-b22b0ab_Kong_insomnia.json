@@ -1,0 +1,21 @@
+{
+  "commit_index": "b22b0ab",
+  "commit_url": "https://github.com/Kong/insomnia/commit/b22b0ab0767a5c41df405ebd14895a3bcc1b0604",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "md",
+      "lint"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      "CONTRIBUTING.md"
+    ],
+    "changed_files_content": [],
+    "parent": "fca0914d4fed1bea14fd6ee5fce9ae70ec0cbfdb"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

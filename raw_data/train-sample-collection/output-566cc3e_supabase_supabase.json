@@ -1,0 +1,121 @@
+{
+  "commit_index": "566cc3e",
+  "commit_url": "https://github.com/supabase/supabase/commit/566cc3ea75506df16f0f4a709d9971f01c230953",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "codeblock",
+      "component",
+      "allowing",
+      "user",
+      "backspace",
+      "content",
+      "s\u2026"
+    ],
+    "description": [
+      "fix",
+      "codeblock",
+      "component",
+      "allowing",
+      "user",
+      "backspace",
+      "content",
+      "read"
+    ],
+    "changed_files_count": 2,
+    "changed_files": [
+      "apps/studio/components/interfaces/Integrations/CronJobs/CronJobCard.tsx",
+      "packages/ui/src/components/CodeBlock/CodeBlock.tsx"
+    ],
+    "changed_files_content": [],
+    "parent": "399605292100b4897263100554a48b528edd1151"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "codeblock",
+        "component",
+        "allowing",
+        "user",
+        "backspace",
+        "content",
+        "readonly",
+        "35119"
+      ],
+      "total_discussions": 1,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "contentwe",
+                "bug",
+                "report",
+                "user",
+                "could",
+                "actually",
+                "backspace",
+                "incodeblockcomponents",
+                "although",
+                "able",
+                "input",
+                "character",
+                "ourcodeblockcomponent",
+                "propcontenteditablethat",
+                "'re",
+                "flagging",
+                "default",
+                "astrue",
+                "mainly",
+                "support",
+                "user",
+                "able",
+                "focus",
+                "code",
+                "content",
+                "convenientlycmd+ato",
+                "copy",
+                "content.changes",
+                "involvedonbeforeinputprop",
+                "block",
+                "entering",
+                "additional",
+                "character",
+                "needed",
+                "anonkeydowncheck",
+                "well",
+                "check",
+                "backspace",
+                "eventto",
+                "teststaging",
+                "go",
+                "project",
+                "open",
+                "connect",
+                "modal",
+                "notice",
+                "backspace",
+                "direct",
+                "connection",
+                "input",
+                "fieldpreview",
+                "thing",
+                "verify",
+                "longer",
+                "hit",
+                "backspace",
+                "field"
+              ],
+              "author": "joshenlim"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

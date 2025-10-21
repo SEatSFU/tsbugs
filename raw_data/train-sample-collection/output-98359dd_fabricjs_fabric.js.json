@@ -1,0 +1,108 @@
+{
+  "commit_index": "98359dd",
+  "commit_url": "https://github.com/fabricjs/fabric.js/commit/98359ddbe8bcc983a59808f8f3060b490d5988ab",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "fabricobject",
+      "render",
+      "clippath",
+      "sharp",
+      "object"
+    ],
+    "description": [],
+    "changed_files_count": 32,
+    "changed_files": [
+      ".codesandbox/templates/vanilla/src/index.ts",
+      ".codesandbox/templates/vanilla/src/testcases/loadingSvgs.ts",
+      ".github/workflows/tests.yml",
+      "CHANGELOG.md",
+      "src/canvas/StaticCanvas.ts",
+      "src/filters/BaseFilter.ts",
+      "src/filters/WebGLFilterBackend.ts",
+      "src/filters/utils.ts",
+      "src/parser/elements_parser.ts",
+      "src/parser/parseSVGDocument.ts",
+      "src/shapes/Group.ts",
+      "src/shapes/Image.ts",
+      "src/shapes/Object/Object.ts",
+      "src/shapes/Text/Text.ts",
+      "src/util/misc/dom.ts",
+      "test/visual/assets/sharp-clip-test.svg",
+      "test/visual/assets/sharp-clip-test2.svg",
+      "test/visual/golden/clippath-5.png",
+      "test/visual/golden/clippath-6.png",
+      "test/visual/golden/clippath-7.png",
+      "test/visual/golden/clippath-8.png",
+      "test/visual/golden/clippath-9.png",
+      "test/visual/golden/clipping1.png",
+      "test/visual/golden/clipping10.png",
+      "test/visual/golden/clipping4.png",
+      "test/visual/golden/clipping7.png",
+      "test/visual/golden/group-layout/clip-path3.png",
+      "test/visual/golden/notoemoji-person.png",
+      "test/visual/golden/seaClipPath.png",
+      "test/visual/golden/sharp-clip-test.png",
+      "test/visual/golden/sharp-clip-test2.png",
+      "test/visual/svg_import.js"
+    ],
+    "changed_files_content": [],
+    "parent": "e53760e7cdc4fd2fc87693b8dbbef135d67d31b7"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "fabricobject",
+        "render",
+        "clippath",
+        "sharp",
+        "object"
+      ],
+      "total_discussions": 1,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "descriptionreplace",
+                "prescale",
+                "canvas",
+                "clippath",
+                "order",
+                "scaled",
+                "object",
+                "drawing",
+                "actual",
+                "clippath",
+                "top",
+                "it",
+                "disable",
+                "extra",
+                "cache",
+                "clippath",
+                "creates",
+                "throwaway",
+                "canvas",
+                "cache",
+                "invalidation",
+                "main",
+                "object.it",
+                "improves",
+                "svg",
+                "parsing",
+                "nested",
+                "clippaths"
+              ],
+              "author": "asturur"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

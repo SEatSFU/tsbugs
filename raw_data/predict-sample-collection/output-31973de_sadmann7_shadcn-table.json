@@ -1,0 +1,24 @@
+{
+  "commit_index": "31973de",
+  "commit_url": "https://github.com/sadmann7/shadcn-table/commit/31973deeadf9fecd24aab25ffb7254b868141dea",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "deps",
+      "update",
+      "dependency",
+      "tanstack/react-table",
+      "v8.15.3"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      "pnpm-lock.yaml"
+    ],
+    "changed_files_content": [],
+    "parent": "7b96ef1a21221db060f657df6e3d3443126f230d"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

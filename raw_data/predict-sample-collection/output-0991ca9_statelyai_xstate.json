@@ -1,0 +1,219 @@
+{
+  "commit_index": "0991ca9",
+  "commit_url": "https://github.com/statelyai/xstate/commit/0991ca9f6c70c661545dc1f594ab64b141d37b5c",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "'done",
+      "data",
+      "example",
+      "code",
+      "communications.md",
+      "3601"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      "docs/guides/communication.md"
+    ],
+    "changed_files_content": [],
+    "parent": "30e289c4fe7dfc69b23b3673e91c3253b516a482"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "'done",
+        "data",
+        "example",
+        "code",
+        "communications.md",
+        "3601"
+      ],
+      "total_discussions": 4,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "provided",
+                "example",
+                "working",
+                "using",
+                "typescript",
+                "suppose",
+                "would",
+                "work",
+                "javascript",
+                "well",
+                ".the",
+                "type",
+                "ondataismapper",
+                "tcontext",
+                "tevent",
+                "|propertymapper",
+                "tcontext",
+                "tevent",
+                "wherepropertymapperis",
+                "working",
+                "correctly",
+                "t",
+                "'d",
+                "properly",
+                "infer",
+                "thecontextandeventtypes",
+                "code",
+                "written",
+                "example.i",
+                "suppose",
+                "bug",
+                "could",
+                "created",
+                "would",
+                "like",
+                "doc",
+                "correct"
+              ],
+              "author": "Andarist"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "latest",
+                "commit",
+                "cdf86b1",
+                "merging",
+                "pr",
+                "cause",
+                "version",
+                "bump",
+                "package",
+                "change",
+                "result",
+                "new",
+                "version",
+                "'re",
+                "good",
+                "go.if",
+                "change",
+                "result",
+                "version",
+                "bump",
+                "need",
+                "add",
+                "changeset",
+                "changesets",
+                "added",
+                "pr",
+                "'ll",
+                "see",
+                "package",
+                "pr",
+                "includes",
+                "changesets",
+                "associated",
+                "semver",
+                "type",
+                "click",
+                "learn",
+                "changesets",
+                "add",
+                "one",
+                "click",
+                "'re",
+                "maintainer",
+                "want",
+                "add",
+                "changeset",
+                "pr"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 3,
+          "comments": [
+            {
+              "content": [
+                "make",
+                "big",
+                "change",
+                "easier",
+                "\u2014",
+                "review",
+                "code",
+                "small",
+                "group",
+                "related",
+                "file",
+                "know",
+                "start",
+                "\u2014",
+                "see",
+                "whole",
+                "change",
+                "glance",
+                "take",
+                "code",
+                "tour",
+                "\u2014",
+                "explore",
+                "change",
+                "interactive",
+                "tour",
+                "make",
+                "comment",
+                "review",
+                "\u2014",
+                "fully",
+                "sync",
+                "\u2019",
+                "ed",
+                "github",
+                "try"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 4,
+          "comments": [
+            {
+              "content": [
+                "pull",
+                "request",
+                "automatically",
+                "built",
+                "testable",
+                "incodesandbox",
+                "see",
+                "build",
+                "info",
+                "built",
+                "library",
+                "clickhereor",
+                "icon",
+                "next",
+                "commit",
+                "sha",
+                "latest",
+                "deployment",
+                "branch",
+                "based",
+                "commitcdf86b1"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

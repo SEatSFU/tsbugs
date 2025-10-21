@@ -1,0 +1,77 @@
+{
+  "commit_index": "c491260",
+  "commit_url": "https://github.com/antiwork/shortest/commit/c49126085fd6af9cdf3ac417e225a5a8afc88cb7",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "browsertool",
+      "instantiation",
+      "test",
+      "script",
+      "86"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      "packages/shortest/scripts/test-loop.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "f164c1bf19249787acd7e3601462e865e76c52a7"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "browsertool",
+        "instantiation",
+        "test",
+        "script",
+        "86"
+      ],
+      "total_discussions": 2,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "small",
+                "error",
+                "test-loop.ts",
+                "caused",
+                "build",
+                "fail",
+                "vercel",
+                "fix"
+              ],
+              "author": "slavingia"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "m2radsis",
+                "attempting",
+                "deploy",
+                "commit",
+                "theantiworkteam",
+                "onvercel",
+                "member",
+                "team",
+                "first",
+                "need",
+                "toauthorize"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

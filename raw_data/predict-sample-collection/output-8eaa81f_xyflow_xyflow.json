@@ -1,0 +1,23 @@
+{
+  "commit_index": "8eaa81f",
+  "commit_url": "https://github.com/xyflow/xyflow/commit/8eaa81f00050f452efd302f6f04e4068dbbf1966",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "changeset",
+      "remove",
+      "unused",
+      "package"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      ".changeset/config.json"
+    ],
+    "changed_files_content": [],
+    "parent": "f791b9b72ac2eeb5d10cf877519c110d92860101"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

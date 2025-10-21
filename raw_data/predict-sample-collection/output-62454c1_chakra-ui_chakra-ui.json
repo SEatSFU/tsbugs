@@ -1,0 +1,168 @@
+{
+  "commit_index": "62454c1",
+  "commit_url": "https://github.com/chakra-ui/chakra-ui/commit/62454c1542306db14c1f3f2fb809bff1ca4e7a6d",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "defaultvalue",
+      "passsed",
+      "7470"
+    ],
+    "description": [],
+    "changed_files_count": 2,
+    "changed_files": [
+      ".changeset/clean-tips-fry.md",
+      "packages/hooks/context/src/index.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "0f8a50054b8b480bb523dd0964bb31a9e061f8c6"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "defaultvalue",
+        "passsed",
+        "7470"
+      ],
+      "total_discussions": 2,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "close",
+                "7469\ud83d\udcdd",
+                "descriptionadded",
+                "passing",
+                "defaultvalue",
+                "property",
+                "createcontext",
+                "function\u26f3\ufe0f",
+                "current",
+                "behavior",
+                "update",
+                "createcontext",
+                "defaulvalue",
+                "property",
+                "n't",
+                "work.\ud83d\ude80",
+                "new",
+                "behaviordefaultvalue",
+                "passing",
+                "work",
+                "expected.\ud83d\udca3",
+                "breaking",
+                "change",
+                "yes/no"
+              ],
+              "author": "segunadebayo"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "latest",
+                "commit",
+                "c4defab",
+                "change",
+                "pr",
+                "included",
+                "next",
+                "version",
+                "bump",
+                "sure",
+                "mean",
+                "click",
+                "learn",
+                "changesets",
+                "click",
+                "'re",
+                "maintainer",
+                "want",
+                "add",
+                "another",
+                "changeset",
+                "pr"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "title": [
+        "createcontext",
+        "defaultvalue",
+        "doens't",
+        "work"
+      ],
+      "labels": [],
+      "comments": [
+        {
+          "author": "isBatak",
+          "content": [
+            "description",
+            "chakra",
+            "ui",
+            "createcontext",
+            "helper",
+            "defaultvalue",
+            "property",
+            "'s",
+            "passed",
+            "react.createcontext",
+            "defaultvalue",
+            "http",
+            "//github.com/chakra-ui/chakra-ui/blob/0f8a50054b8b480bb523dd0964bb31a9e061f8c6/packages/hooks/context/src/index.ts",
+            "ll12c3-l12c15",
+            "const",
+            "context",
+            "createreactcontext",
+            "undefined",
+            "undefined",
+            "chakra-ui/packages/hooks/context/src/index.ts",
+            "line",
+            "34",
+            "0f8a500",
+            "const",
+            "context",
+            "createreactcontext",
+            "undefined",
+            "undefined",
+            "link",
+            "reproduction",
+            "http",
+            "//codesandbox.io/s/chakra-ui-create-context-issue-8x26e1",
+            "file=/src/index.tsx",
+            "step",
+            "reproduce",
+            "response",
+            "chakra",
+            "ui",
+            "version",
+            "2.5.2",
+            "browser",
+            "response",
+            "operating",
+            "system",
+            "macos",
+            "window",
+            "linux",
+            "additional",
+            "information",
+            "response"
+          ]
+        }
+      ]
+    }
+  ],
+  "security": null
+}

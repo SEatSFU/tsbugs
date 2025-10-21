@@ -1,0 +1,24 @@
+{
+  "commit_index": "e3d7db7",
+  "commit_url": "https://github.com/chakra-ui/chakra-ui/commit/e3d7db72dbe53c159a8813fca05f5472aa21d10f",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "dialog",
+      "backdrop",
+      "styling"
+    ],
+    "description": [],
+    "changed_files_count": 3,
+    "changed_files": [
+      ".changeset/spotty-zoos-decide.md",
+      "packages/react/src/theme/recipes/dialog.ts",
+      "packages/react/src/theme/recipes/drawer.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "b7f6447d6a82917ec4113a657426127e894c330d"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

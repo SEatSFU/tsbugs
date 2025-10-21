@@ -1,0 +1,26 @@
+ {
+  "commit_index": "ba1c8d3",
+  "commit_url": "https://github.com/testing-library/user-event/commit/ba1c8d37aff3d3355a21ad234eb427e0e727cec0",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "type",
+      "allow",
+      "user",
+      "type",
+      "decimal",
+      "value"
+    ],
+    "description": [],
+    "changed_files_count": 2,
+    "changed_files": [
+      "src/__tests__/type.js",
+      "src/type.js"
+    ],
+    "changed_files_content": [],
+    "parent": "a9440157f3dddfd4bacbc9c30da86c678a982bb5"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

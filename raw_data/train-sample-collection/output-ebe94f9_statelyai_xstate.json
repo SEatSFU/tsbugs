@@ -1,0 +1,29 @@
+{
+  "commit_index": "ebe94f9",
+  "commit_url": "https://github.com/statelyai/xstate/commit/ebe94f9a38e9f1a9227044b95ed8ca848e20f81c",
+  "commit": {
+    "commit_message": [
+      "re-added",
+      "path.test",
+      "fixed",
+      "path",
+      "description"
+    ],
+    "description": [],
+    "changed_files_count": 7,
+    "changed_files": [
+      "packages/xstate-test/src/TestModel.ts",
+      "packages/xstate-test/src/testUtils.ts",
+      "packages/xstate-test/src/types.ts",
+      "packages/xstate-test/src/utils.ts",
+      "packages/xstate-test/test/index.test.ts",
+      "packages/xstate-test/test/paths.test.ts",
+      "packages/xstate-test/test/testModel.test.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "5beba62272b4115a74aead8a58e258acf5702604"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

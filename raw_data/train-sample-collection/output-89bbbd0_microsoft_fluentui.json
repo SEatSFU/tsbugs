@@ -1,0 +1,103 @@
+{
+  "commit_index": "89bbbd0",
+  "commit_url": "https://github.com/microsoft/fluentui/commit/89bbbd09f2a14fc95399c2bf7eb6e3e0abad5846",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "react-charts",
+      "fix",
+      "callout",
+      "position",
+      "issue",
+      "34868"
+    ],
+    "description": [
+      "co-authored-by",
+      "anush",
+      "anushgupta",
+      "microsoft.com"
+    ],
+    "changed_files_count": 11,
+    "changed_files": [
+      "change/@fluentui-react-charts-1916b4bc-e595-453f-8bec-2fc3275a3c80.json",
+      "packages/charts/react-charts/library/src/components/AreaChart/AreaChart.tsx",
+      "packages/charts/react-charts/library/src/components/DonutChart/Arc/Arc.tsx",
+      "packages/charts/react-charts/library/src/components/DonutChart/DonutChart.tsx",
+      "packages/charts/react-charts/library/src/components/DonutChart/Pie/Pie.tsx",
+      "packages/charts/react-charts/library/src/components/GroupedVerticalBarChart/GroupedVerticalBarChart.tsx",
+      "packages/charts/react-charts/library/src/components/GroupedVerticalBarChart/__snapshots__/GroupedVerticalBarChart.test.tsx.snap",
+      "packages/charts/react-charts/library/src/components/HorizontalBarChartWithAxis/HorizontalBarChartWithAxis.tsx",
+      "packages/charts/react-charts/library/src/components/LineChart/LineChart.tsx",
+      "packages/charts/react-charts/library/src/components/ScatterChart/ScatterChart.tsx",
+      "packages/charts/react-charts/library/src/components/VerticalBarChart/VerticalBarChart.tsx"
+    ],
+    "changed_files_content": [],
+    "parent": "a52975097f819d79f63edcfb4e9dc722acc8575f"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "react-charts",
+        "fix",
+        "callout",
+        "position",
+        "issue",
+        "34868"
+      ],
+      "total_discussions": 3,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "new",
+                "behaviorfixed",
+                "position",
+                "callout",
+                "hovering",
+                "tab",
+                "focus",
+                "different",
+                "chart",
+                "v9.related",
+                "issue",
+                "fix"
+              ],
+              "author": "Anush2303"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "change",
+                "found"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 3,
+          "comments": [
+            {
+              "content": [
+                "pull",
+                "request",
+                "demo",
+                "site",
+                "url"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

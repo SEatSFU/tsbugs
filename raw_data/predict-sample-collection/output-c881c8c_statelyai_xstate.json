@@ -1,0 +1,412 @@
+{
+  "commit_index": "c881c8c",
+  "commit_url": "https://github.com/statelyai/xstate/commit/c881c8ca9baaf4928064a04d7034cd775a702bc2",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "state.can",
+      "restored",
+      "state",
+      "3097"
+    ],
+    "description": [
+      "fix",
+      "state.can",
+      "form",
+      "restored",
+      "state",
+      "add",
+      "changeset",
+      "update",
+      "packages/core/test/state.test.ts",
+      "co-authored-by",
+      "mateusz",
+      "burzy\u0144ski",
+      "mateuszburzynski",
+      "gmail.com",
+      "update",
+      ".changeset/twenty-timers-cheat.md",
+      "move",
+      "test",
+      "dedicated",
+      "test",
+      "suite",
+      "co-authored-by",
+      "mateusz",
+      "burzy\u0144ski",
+      "mateuszburzynski",
+      "gmail.com"
+    ],
+    "changed_files_count": 3,
+    "changed_files": [
+      ".changeset/twenty-timers-cheat.md",
+      "packages/core/src/StateNode.ts",
+      "packages/core/test/rehydration.test.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "e18b241e9dc7727b12efd33e7e6ccdf4b01d77d4"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fixstate.can",
+        "restored",
+        "state",
+        "3097"
+      ],
+      "total_discussions": 5,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "fix",
+                "3096"
+              ],
+              "author": "Andarist"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "latest",
+                "commit:1b2f3bd",
+                "change",
+                "pr",
+                "included",
+                "next",
+                "version",
+                "bump",
+                "sure",
+                "mean",
+                "click",
+                "learn",
+                "changesets",
+                "click",
+                "'re",
+                "maintainer",
+                "want",
+                "add",
+                "another",
+                "changeset",
+                "pr"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 3,
+          "comments": [
+            {
+              "content": [
+                "reviewin",
+                "interactive",
+                "map",
+                "viewmore",
+                "codesee",
+                "map"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 4,
+          "comments": [
+            {
+              "content": [
+                "pull",
+                "request",
+                "automatically",
+                "built",
+                "testable",
+                "incodesandbox",
+                "see",
+                "build",
+                "info",
+                "built",
+                "library",
+                "clickhereor",
+                "icon",
+                "next",
+                "commit",
+                "sha",
+                "latest",
+                "deployment",
+                "branch",
+                "based",
+                "commit1b2f3bd"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 5,
+          "comments": [
+            {
+              "content": [
+                "andaristis",
+                "good",
+                "go"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "title": [
+        "bug",
+        "interpreter.state.can",
+        "always",
+        "false",
+        "interpreter",
+        "started",
+        "initial",
+        "state",
+        "db"
+      ],
+      "labels": [
+        "bug"
+      ],
+      "comments": [
+        {
+          "author": "davidkpiano",
+          "content": [
+            "discussed",
+            "3094",
+            "originally",
+            "posted",
+            "suerta-git",
+            "february",
+            "26",
+            "2022",
+            "description",
+            "storing",
+            "state",
+            "db",
+            "json",
+            "string",
+            "following",
+            "doc",
+            "'s",
+            "recommendation",
+            "restore",
+            "like",
+            "const",
+            "state",
+            "json",
+            "parse",
+            "jsonstring",
+            "const",
+            "service",
+            "interpret",
+            "machine",
+            "start",
+            "state",
+            "want",
+            "use",
+            "state.can",
+            "test",
+            "event",
+            "result",
+            "always",
+            "false",
+            "service",
+            "state",
+            "validevent",
+            "//",
+            "false",
+            "interpreter",
+            "started",
+            "non-parsed",
+            "state",
+            "result",
+            "correct",
+            "expected",
+            "result",
+            "true",
+            "valid",
+            "event",
+            "actual",
+            "result",
+            "false",
+            "reproduction",
+            "http",
+            "//codesandbox.io/s/wizardly-perlman-01g01l",
+            "file=/src/index.ts",
+            "additional",
+            "context",
+            "response"
+          ]
+        },
+        {
+          "author": "suerta-git",
+          "content": [
+            "davidkpiano",
+            "worry",
+            "please",
+            "feel",
+            "free",
+            "take",
+            "look",
+            "question",
+            "strict",
+            "mode",
+            "discussion",
+            "http",
+            "//github.com/statelyai/xstate/discussions/3094"
+          ]
+        },
+        {
+          "author": "ptomask",
+          "content": [
+            "possible",
+            "workaround",
+            "observed",
+            "well",
+            "guard",
+            "get",
+            "called",
+            "found",
+            "happens",
+            "guard",
+            "applied",
+            "edge",
+            "going",
+            "right",
+            "state",
+            "reloaded",
+            "interpreter",
+            "make",
+            "transition",
+            "situation",
+            "get",
+            "fixed",
+            "turn",
+            "healing",
+            "transition",
+            "enough",
+            "internal",
+            "temporarily",
+            "come",
+            "maybe",
+            "could",
+            "help",
+            "suerta-git",
+            "t",
+            "function",
+            "createexamplemachine3",
+            "return",
+            "createmachine",
+            "initial",
+            "state",
+            "b",
+            "b",
+            "entry",
+            "enb",
+            "u",
+            "target",
+            "c",
+            "cond",
+            "isallowed",
+            "c",
+            "//",
+            "added",
+            "transition",
+            "machine-level",
+            "reinitguards",
+            "internal",
+            "true",
+            "action",
+            "enb",
+            "ctx",
+            "event",
+            "console.log",
+            "entering",
+            "b",
+            "guard",
+            "isallowed",
+            "ctx",
+            "event",
+            "console.log",
+            "calling",
+            "isallowed",
+            "guard",
+            "return",
+            "true",
+            "function",
+            "usecase3",
+            "const",
+            "m1",
+            "createexamplemachine3",
+            "const",
+            "i1",
+            "interpret",
+            "m1",
+            ".ontransition",
+            "state",
+            "event",
+            "console.log",
+            "tr1",
+            "state",
+            "event",
+            ".start",
+            "i1.send",
+            "const",
+            "persistedstate",
+            "json.stringify",
+            "i1.state",
+            "const",
+            "m2",
+            "createexamplemachine3",
+            "const",
+            "i2",
+            "interpret",
+            "m2",
+            ".ontransition",
+            "state",
+            "event",
+            "console.log",
+            "tr2",
+            "state",
+            "event",
+            ".start",
+            "state.create",
+            "json.parse",
+            "persistedstate",
+            "//",
+            "cause",
+            "state",
+            "loaded",
+            "re-enter",
+            "make",
+            "state.can",
+            "...",
+            "working",
+            "//",
+            "transition",
+            "internal",
+            "going",
+            "re-run",
+            "action",
+            "invocation",
+            "i2.send",
+            "reinitguards",
+            "console.log",
+            "i2.state.can",
+            "u",
+            "usecase3"
+          ]
+        }
+      ]
+    }
+  ],
+  "security": null
+}

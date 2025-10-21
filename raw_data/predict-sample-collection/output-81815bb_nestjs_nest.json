@@ -1,0 +1,26 @@
+{
+  "commit_index": "81815bb",
+  "commit_url": "https://github.com/nestjs/nest/commit/81815bb3566eb4a844b9bd91b1fb1e748d601bb7",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "deps",
+      "update",
+      "dependency",
+      "fastify",
+      "v4.29.0"
+    ],
+    "description": [],
+    "changed_files_count": 3,
+    "changed_files": [
+      "package-lock.json",
+      "package.json",
+      "packages/platform-fastify/package.json"
+    ],
+    "changed_files_content": [],
+    "parent": "4d4103f9a6932c33b300c7968284c959f60fed25"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

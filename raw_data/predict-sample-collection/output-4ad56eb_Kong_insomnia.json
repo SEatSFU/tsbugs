@@ -1,0 +1,22 @@
+{
+  "commit_index": "4ad56eb",
+  "commit_url": "https://github.com/Kong/insomnia/commit/4ad56eb4c25dd39ca299f2de9adc56ea9f4cf751",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "travis",
+      "dist"
+    ],
+    "description": [],
+    "changed_files_count": 2,
+    "changed_files": [
+      ".travis.yml",
+      "packages/insomnia-app/package.json"
+    ],
+    "changed_files_content": [],
+    "parent": "83837ba8177e9725eaa17b996363b25dfa701268"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

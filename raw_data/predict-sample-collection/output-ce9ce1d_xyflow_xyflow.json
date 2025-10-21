@@ -1,0 +1,27 @@
+{
+  "commit_index": "ce9ce1d",
+  "commit_url": "https://github.com/xyflow/xyflow/commit/ce9ce1db0badd30913ca7cf10a13f3dc1618cc54",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "system",
+      "return",
+      "user",
+      "node",
+      "node",
+      "drag/click",
+      "handler"
+    ],
+    "description": [],
+    "changed_files_count": 2,
+    "changed_files": [
+      "packages/react/src/components/NodeWrapper/index.tsx",
+      "packages/system/src/xydrag/utils.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "51ab674115706b530c00c0e797e2430c2fad6320"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

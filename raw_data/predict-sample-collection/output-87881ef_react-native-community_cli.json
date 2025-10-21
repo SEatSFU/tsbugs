@@ -1,0 +1,171 @@
+{
+  "commit_index": "87881ef",
+  "commit_url": "https://github.com/react-native-community/cli/commit/87881ef14d2769ed5d63c21e265e0c4c8ca29235",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "e2e",
+      "sync",
+      "react",
+      "native",
+      "0.74",
+      "2376"
+    ],
+    "description": [
+      "fix",
+      "e2e",
+      "sync",
+      "react",
+      "native",
+      "0.74",
+      "ci",
+      "bump",
+      "gradle",
+      "fix",
+      "hardcode",
+      "gradle",
+      "version",
+      "ci",
+      "win",
+      "try",
+      "setting",
+      "shell",
+      "true"
+    ],
+    "changed_files_count": 6,
+    "changed_files": [
+      ".github/workflows/test.yml",
+      "__e2e__/__snapshots__/config.test.ts.snap",
+      "__e2e__/config.test.ts",
+      "__e2e__/init.test.ts",
+      "__e2e__/root.test.ts",
+      "scripts/buildTs.js"
+    ],
+    "changed_files_content": [],
+    "parent": "73f880c3d87cdde81204364289f2f488a473c52b"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "e2e",
+        "sync",
+        "react",
+        "native",
+        "0.74",
+        "2376"
+      ],
+      "total_discussions": 4,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "summary",
+                "react",
+                "native",
+                "released",
+                "two",
+                "week",
+                "ago",
+                "pull",
+                "request",
+                "'ve",
+                "synced",
+                "e2e",
+                "infra",
+                "unblock",
+                "ci.test",
+                "plan",
+                "ci",
+                "green.checklistdocumentation",
+                "date",
+                "reflect",
+                "changes.follows",
+                "commit",
+                "message",
+                "convention",
+                "described",
+                "incontributing.md"
+              ],
+              "author": "thymikee"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "thymikeesome",
+                "time",
+                "ago",
+                "added",
+                "running",
+                "ci",
+                "also",
+                "release",
+                "branch",
+                "think",
+                "may",
+                "worth",
+                "adding",
+                "passing",
+                "specific",
+                "version",
+                "testing",
+                "project",
+                "bootstrapped",
+                "correct",
+                "react",
+                "native",
+                "version",
+                "'s",
+                "small",
+                "effort",
+                "save",
+                "u",
+                "time",
+                "edge",
+                "case",
+                "wdyt"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 3,
+          "comments": [
+            {
+              "content": [
+                "let",
+                "'s"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 4,
+          "comments": [
+            {
+              "content": [
+                "let",
+                "'s",
+                "merge",
+                "work",
+                "window",
+                "fix",
+                "separately",
+                "szymonrybczak"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

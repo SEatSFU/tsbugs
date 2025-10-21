@@ -1,0 +1,49 @@
+{
+  "commit_index": "53a1feb",
+  "commit_url": "https://github.com/type-challenges/type-challenges/commit/53a1febcb0664f4e66d531d132691b08e6954ac4",
+  "commit": {
+    "commit_message": [
+      "chore",
+      "fix",
+      "grammar",
+      "readme",
+      "21166"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      "README.md"
+    ],
+    "changed_files_content": [],
+    "parent": "fa54f51c4b294f2050a6d55f4df27cf8da5db0a0"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "chore",
+        "fix",
+        "grammar",
+        "readme",
+        "21166"
+      ],
+      "total_discussions": 1,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "description",
+                "provided"
+              ],
+              "author": "jiangshanmeta"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

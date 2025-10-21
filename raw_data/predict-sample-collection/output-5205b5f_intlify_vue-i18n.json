@@ -1,0 +1,52 @@
+{
+  "commit_index": "5205b5f",
+  "commit_url": "https://github.com/intlify/vue-i18n/commit/5205b5f9198e932288bd027ac5616e8205b7a25e",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "broken",
+      "link",
+      "v8",
+      "doc",
+      "1354"
+    ],
+    "description": [],
+    "changed_files_count": 2,
+    "changed_files": [
+      "docs/.ja/v8-docs.md",
+      "docs/guide/v8-docs.md"
+    ],
+    "changed_files_content": [],
+    "parent": "7c146c5bd7daa65ac2affae2edb62c3ab011b478"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "broken",
+        "link",
+        "v8",
+        "doc",
+        "1354"
+      ],
+      "total_discussions": 1,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "description",
+                "provided"
+              ],
+              "author": "kazupon"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

@@ -1,0 +1,24 @@
+{
+  "commit_index": "4cd099f",
+  "commit_url": "https://github.com/xyflow/xyflow/commit/4cd099f083b09938497bb0e6fe0ee8fb1596b827",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "zooming",
+      "allow",
+      "pinch",
+      "zoom",
+      "preventscrolling=false"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      "packages/system/src/xypanzoom/eventhandler.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "d50377e58ee71a7d62aa7903a5a28b75422585f0"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

@@ -1,0 +1,115 @@
+{
+  "commit_index": "94e0924",
+  "commit_url": "https://github.com/n8n-io/n8n/commit/94e09248121bd9a24af10a6c99e815b12820174e",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "mongodb",
+      "node",
+      "driver",
+      "update",
+      "no-changelog",
+      "8698"
+    ],
+    "description": [],
+    "changed_files_count": 2,
+    "changed_files": [
+      "packages/nodes-base/package.json",
+      "pnpm-lock.yaml"
+    ],
+    "changed_files_content": [],
+    "parent": "95e4c4fbb365768a8a25de47dd0134e62a57408e"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "mongodb",
+        "node",
+        "driver",
+        "update",
+        "no-changelog",
+        "8698"
+      ],
+      "total_discussions": 4,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "summarymongodb",
+                "package",
+                "version",
+                "used",
+                "mongodb",
+                "node",
+                "currently",
+                "outdated",
+                "pulling",
+                "potentially",
+                "vulnerable",
+                "sub-dependencies",
+                "include",
+                "version",
+                "ip",
+                "package",
+                "marked",
+                "high",
+                "vulnerability",
+                "due",
+                "tocve-2023-42282.related",
+                "ticket",
+                "issueshttps",
+                "//linear.app/n8n/issue/node-1144/upgrade-mongodb-package"
+              ],
+              "author": "michael-radency"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "detail",
+                "viewoutputvideo",
+                "viewoutputvideo",
+                "viewoutputvideo"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 3,
+          "comments": [
+            {
+              "content": [
+                "cypress",
+                "e2e",
+                "spec",
+                "passed"
+              ]
+            }
+          ]
+        },
+        {
+          "discussion_number": 4,
+          "comments": [
+            {
+              "content": [
+                "got",
+                "released",
+                "withn8n",
+                "1.30.1"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

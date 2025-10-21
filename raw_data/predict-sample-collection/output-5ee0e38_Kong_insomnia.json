@@ -1,0 +1,45 @@
+{
+  "commit_index": "5ee0e38",
+  "commit_url": "https://github.com/Kong/insomnia/commit/5ee0e38b60faf8edff6f43868f0b4944f225881e",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "6107"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      "packages/insomnia/package-lock.json"
+    ],
+    "changed_files_content": [],
+    "parent": "76b6f0e44e1802bbad04ad19cf2f37482cf82326"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "pkg",
+        "lock",
+        "6107"
+      ],
+      "total_discussions": 1,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "description",
+                "provided"
+              ],
+              "author": "jackkav"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

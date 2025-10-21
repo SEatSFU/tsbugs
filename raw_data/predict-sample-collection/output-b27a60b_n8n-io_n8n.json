@@ -1,0 +1,86 @@
+{
+  "commit_index": "b27a60b",
+  "commit_url": "https://github.com/n8n-io/n8n/commit/b27a60b66568c1cce00f38eec2dd1b6425a5a9c6",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "core",
+      "fix",
+      "value",
+      "resolution",
+      "declarative",
+      "node",
+      "design",
+      "5217"
+    ],
+    "description": [],
+    "changed_files_count": 2,
+    "changed_files": [
+      "packages/workflow/src/RoutingNode.ts",
+      "packages/workflow/test/RoutingNode.test.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "3bb16900867b3994585eb2a62310e617f123c257"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "core",
+        "fix",
+        "value",
+        "resolution",
+        "declarative",
+        "node",
+        "design",
+        "5217"
+      ],
+      "total_discussions": 2,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "fix",
+                "issue",
+                "currently",
+                "allow",
+                "sending",
+                "objects/arrays",
+                "apis",
+                "easily.github",
+                "issue",
+                "community",
+                "forum",
+                "post",
+                "link",
+                "close",
+                "automatically",
+                "http",
+                "//community.n8n.io/t/send-array-as-value-in-node/22129/2"
+              ],
+              "author": "janober"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "got",
+                "released",
+                "withn8n",
+                "0.214.0"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

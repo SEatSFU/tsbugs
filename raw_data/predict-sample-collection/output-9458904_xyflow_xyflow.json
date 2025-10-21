@@ -1,0 +1,28 @@
+{
+  "commit_index": "9458904",
+  "commit_url": "https://github.com/xyflow/xyflow/commit/9458904cbb1f19bcb8e61f66a0122ace4b0033e1",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "react",
+      "prevent",
+      "default",
+      "scrolling",
+      "behavior",
+      "node",
+      "moved",
+      "wit\u2026"
+    ],
+    "description": [],
+    "changed_files_count": 2,
+    "changed_files": [
+      "packages/react/src/components/NodeWrapper/index.tsx",
+      "packages/react/src/components/NodesSelection/index.tsx"
+    ],
+    "changed_files_content": [],
+    "parent": "616d2665235447e0280368228ac64b987afecba0"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

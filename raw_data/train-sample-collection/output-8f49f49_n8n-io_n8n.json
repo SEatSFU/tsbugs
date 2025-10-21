@@ -1,0 +1,28 @@
+{
+  "commit_index": "8f49f49",
+  "commit_url": "https://github.com/n8n-io/n8n/commit/8f49f494ae66ce933f0fce3c3b43ce99baa1b728",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "http",
+      "request",
+      "node",
+      "bug",
+      "node",
+      "requires",
+      "string",
+      "instead",
+      "json"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      "packages/nodes-base/nodes/HttpRequest/V3/HttpRequestV3.node.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "e275306c64a410c154e586532e35d25a583f75b4"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}

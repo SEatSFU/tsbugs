@@ -1,0 +1,143 @@
+{
+  "commit_index": "ba165bc",
+  "commit_url": "https://github.com/hoppscotch/hoppscotch/commit/ba165bc505f608cbe985ab9c9ac7ff51e2cbe9d8",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "common",
+      "oauth2",
+      "password",
+      "flow",
+      "respecting",
+      "scope",
+      "4940"
+    ],
+    "description": [],
+    "changed_files_count": 1,
+    "changed_files": [
+      "packages/hoppscotch-common/src/services/oauth/flows/password.ts"
+    ],
+    "changed_files_content": [],
+    "parent": "b9ea5f79161d64a2f082516d40f67e520c1cc6bb"
+  },
+  "pull_requests": [
+    {
+      "pr_title": [
+        "fix",
+        "common",
+        "oauth2",
+        "password",
+        "flow",
+        "respecting",
+        "scope",
+        "4940"
+      ],
+      "total_discussions": 2,
+      "discussions": [
+        {
+          "discussion_number": 1,
+          "comments": [
+            {
+              "type": "pr_description",
+              "content": [
+                "fix",
+                "issue",
+                "thescopeparameter",
+                "sent",
+                "idp",
+                "token",
+                "endpoint",
+                "using",
+                "thepasswordoauth2",
+                "flow.the",
+                "code",
+                "today",
+                "sends",
+                "scope",
+                "asscopesand",
+                "notscope",
+                "according",
+                "oauth2",
+                "specification",
+                "scope",
+                "selected",
+                "ui",
+                "respected",
+                "fix",
+                "scope",
+                "respected",
+                "expected.testingselect",
+                "theauthorizationtab",
+                "request.selectoauth2as",
+                "authorization",
+                "type.selectpasswordas",
+                "grant",
+                "type.enter",
+                "endpoint",
+                "detail",
+                "password",
+                "client.select",
+                "subset",
+                "scope",
+                "scope",
+                "parameter.notice",
+                "subset",
+                "scope",
+                "respected.changesbeforerequest",
+                "received",
+                "test",
+                "application",
+                "formatted",
+                "json",
+                "grant_type",
+                "password",
+                "username",
+                "redacted",
+                "password",
+                "redacted",
+                "client_id",
+                "test",
+                "client_secret",
+                "redacted",
+                "scope",
+                "null",
+                "afterrequest",
+                "received",
+                "test",
+                "application",
+                "formatted",
+                "json",
+                "grant_type",
+                "password",
+                "username",
+                "redacted",
+                "password",
+                "redacted",
+                "client_id",
+                "test",
+                "client_secret",
+                "redacted",
+                "scope",
+                "myscope"
+              ],
+              "author": "jamesgeorge007"
+            }
+          ]
+        },
+        {
+          "discussion_number": 2,
+          "comments": [
+            {
+              "content": [
+                "pr",
+                "qhris"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "issues": null,
+  "security": null
+}

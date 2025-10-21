@@ -1,0 +1,54 @@
+{
+  "commit_index": "8679d29",
+  "commit_url": "https://github.com/refly-ai/refly/commit/8679d29d45d0db7c54cef2c8e43e347ad362f504",
+  "commit": {
+    "commit_message": [
+      "fix",
+      "video",
+      "remove",
+      "unnecessary",
+      "click",
+      "event",
+      "handler",
+      "videonode"
+    ],
+    "description": [
+      "removed",
+      "onclick",
+      "event",
+      "handler",
+      "prevented",
+      "video",
+      "control",
+      "triggering",
+      "parent",
+      "click",
+      "event",
+      "simplifying",
+      "videonode",
+      "component",
+      "ensured",
+      "adherence",
+      "react",
+      "performance",
+      "optimization",
+      "practice",
+      "utilized",
+      "optional",
+      "chaining",
+      "nullish",
+      "coalescing",
+      "throughout",
+      "change"
+    ],
+    "changed_files_count": 1,
+    "changed_files": [
+      "packages/ai-workspace-common/src/components/canvas/nodes/video.tsx"
+    ],
+    "changed_files_content": [],
+    "parent": "d9ef282774ab4b051a7f1de5007cd5ec6b103839"
+  },
+  "pull_requests": null,
+  "issues": null,
+  "security": null
+}
