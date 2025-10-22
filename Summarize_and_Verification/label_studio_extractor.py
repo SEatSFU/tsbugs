@@ -16,7 +16,7 @@ def export_predictions_from_label_studio(ls, project_id, output_file, train_set_
         total_tasks += 1
 
         check_condition = task.predictions
-        if train_set_result:
+        if train_set_result == "1":
             check_condition = task.annotations
         
         # Check if task has predictions
@@ -57,7 +57,7 @@ def export_predictions_from_label_studio(ls, project_id, output_file, train_set_
 
 
 if __name__ == "__main__":
-    train_set_result = False 
+    train_set_result = "0" 
 
     if len(sys.argv) != 3 and len(sys.argv) != 4:
         print("Not correctly input key")
@@ -69,7 +69,7 @@ if __name__ == "__main__":
     project_id = sys.argv[2]
     output_file= "predict_label_collection.json"  
 
-    if train_set_result:
+    if train_set_result == "1":
         output_file = "manually_label_collection.json"
 
     ls = LabelStudio(base_url="http://localhost:8080", api_key=key)
@@ -77,6 +77,7 @@ if __name__ == "__main__":
     export_predictions_from_label_studio(
         ls=ls, 
         project_id=project_id,
-        output_file=output_file
+        output_file=output_file,
+        train_set_result=train_set_result
     )
    

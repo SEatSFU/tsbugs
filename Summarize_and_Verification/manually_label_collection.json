@@ -1,0 +1,207 @@
+{
+  "summary": {
+    "total_tasks": 780,
+    "tasks_with_predictions": 137,
+    "tasks_without_predictions": 643,
+    "total_categories": 12
+  },
+  "categories": {
+    "Missing Cases": {
+      "count": 13,
+      "indices": [
+        "a65a047",
+        "0c361fa",
+        "f81387d",
+        "659b720",
+        "12b7d78",
+        "e4d5201",
+        "ade1d89",
+        "566cc3e",
+        "a9e6cd1",
+        "8adcfbf",
+        "aa5b1c0",
+        "875b136",
+        "b0c99b4"
+      ]
+    },
+    "Tooling / Configuration Issue": {
+      "count": 11,
+      "indices": [
+        "6610621",
+        "4fd6d6d",
+        "50a40f3",
+        "605de78",
+        "35c7f35",
+        "33b4f09",
+        "bd56cc6",
+        "0267d99",
+        "1a47191",
+        "3ce311a",
+        "a803b4d"
+      ]
+    },
+    "API Misuse": {
+      "count": 13,
+      "indices": [
+        "09c6f0a",
+        "5f0acab",
+        "052799e",
+        "ba165bc",
+        "ca8ea59",
+        "c764f82",
+        "2bed243",
+        "e94c609",
+        "5c5631f",
+        "7c1cf33",
+        "8f49f49",
+        "d4db93c",
+        "870fa9e"
+      ]
+    },
+    "Asynchrony / Event Handling Bug": {
+      "count": 11,
+      "indices": [
+        "e347a3c",
+        "a915f3d",
+        "4df0bd2",
+        "7177e3a",
+        "b9842e3",
+        "73ee70b",
+        "f5d4397",
+        "1cf4775",
+        "972da58",
+        "5c1240d",
+        "2fd3f99"
+      ]
+    },
+    "Performance Issue": {
+      "count": 9,
+      "indices": [
+        "c6bf8c0",
+        "31f0b55",
+        "4f0221e",
+        "3d85d93",
+        "c93aa60",
+        "5bba36c",
+        "9b70861",
+        "00cbf22",
+        "d495607"
+      ]
+    },
+    "Exception Handling": {
+      "count": 10,
+      "indices": [
+        "ff1c861",
+        "86a690b",
+        "4013556",
+        "39d4220",
+        "da97da5",
+        "c597023",
+        "cf6aa1f",
+        "531cb87",
+        "f931950",
+        "62cce2e"
+      ]
+    },
+    "Type Error": {
+      "count": 13,
+      "indices": [
+        "300280d",
+        "9088aa7",
+        "86e6b58",
+        "8caa377",
+        "c2f650b",
+        "ebe94f9",
+        "8743ad0",
+        "e889103",
+        "aa8f5d5",
+        "eec2a69",
+        "01745a2",
+        "4193fe2",
+        "ca22d38"
+      ]
+    },
+    "Runtime Exception": {
+      "count": 7,
+      "indices": [
+        "d5095fe",
+        "8b22162",
+        "ba497ee",
+        "5428a73",
+        "d81832c",
+        "4865f2e",
+        "edec141"
+      ]
+    },
+    "UI Behavior Bug": {
+      "count": 13,
+      "indices": [
+        "ed47090",
+        "ffc087a",
+        "34147c3",
+        "6d06616",
+        "5ea5615",
+        "80f4b9d",
+        "89bbbd0",
+        "586cfaf",
+        "d43a171",
+        "e2ff509",
+        "98359dd",
+        "b3cd62d",
+        "8bc3310"
+      ]
+    },
+    "Missing Features": {
+      "count": 12,
+      "indices": [
+        "60c757f",
+        "ae03034",
+        "80b6354",
+        "8b64c2c",
+        "8ff26ad",
+        "b5055e0",
+        "15f90e0",
+        "1408baf",
+        "d1b07cc",
+        "275e5cf",
+        "e35b54a",
+        "9c3e2b2"
+      ]
+    },
+    "Logic Error": {
+      "count": 13,
+      "indices": [
+        "4e5c0ad",
+        "8a2f5a3",
+        "0e3467e",
+        "6b648c7",
+        "5e0629c",
+        "2fde1ce",
+        "c919c68",
+        "81b6eda",
+        "abeb408",
+        "557b146",
+        "88de661",
+        "b7c5c74",
+        "2215fc9"
+      ]
+    },
+    "Test Fault": {
+      "count": 12,
+      "indices": [
+        "2e80744",
+        "72bc65a",
+        "55e953e",
+        "38b9b3c",
+        "a62ed27",
+        "ba32fa8",
+        "7fc79d7",
+        "5c5c06a",
+        "358d934",
+        "d9504c5",
+        "ef5b926",
+        "74bd38a"
+      ]
+    }
+  }
+}
