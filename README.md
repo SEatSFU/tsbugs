@@ -35,7 +35,7 @@ python github_commits_collector.py <GITHUB_REPOSITORY_URL> [<Collect_Commit_Numb
 <br>
 
 **Script:** `index.py` <br>
-**Description:** collect key information from commit/commits that you given
+**Description:** collect key information from commit/commits that you given and store them into `/TSBugsArtifact/raw_data/output` (If not have the folder, then script will generate)
 
 For single commit:
 ```bash
@@ -87,7 +87,7 @@ python label_studio_extractor.py <YOUR_LabelStudio_Access_Token> <PROJECT_ID> [<
 
 **Script:** `compare_verification_predict.py` <br>
 **Prerequisite:** You should have a json file that store the summarize of predict label (run `prediction_extractor.py`) <br>
-**Description:** Compare the model’s predicted labels with the manually labeled verification set. Then, generate two Excel files: one containing samples the model labeled correctly  and another containing samples it mislabeled
+**Description:** Generate two Excel files: one containing samples the model labeled correctly and another containing samples it mislabeled, based on comparsion between the model’s predicted labels and verification set
 
 ```bash
 python compare_verification_predict.py [<Verification_Set>] [<Predict_Label_Result>]
@@ -106,7 +106,7 @@ python predict_summarize_repository.py [<Predict_Label_Result>] [<GitHub_Reposit
 
 ### Key Json Files
 
-**Json Files Path:** TSBugsArtifact/Summarize_and_Verification   <br>
+**Json Files Path:** /TSBugsArtifact/Summarize_and_Verification   <br>
 
 **Name:** `github_repository_name.json` <br>
 **Description:** List of all repository name (Should match with repository's URL)
