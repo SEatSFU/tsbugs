@@ -1,0 +1,14 @@
+"Category","p_value"
+"API Misuse",0.713769966623786
+"Async / Event",0.20104555988801
+"Logic Error",0.767919182095786
+"Missing Case",0.701062138097223
+"Missing Feature",0.649546305559387
+"Test Fault",0.101272220926647
+"Tooling / Config",0.492877722772417
+"Type Error",0.832977052208806
+"UI Bug",0.643420996207828
+"Runtime Exception",0.659963229694282
+"Runtime exception",0.740682530826608
+"Error Handling",0.655269440308823
+"Total_Bugs",0.827091584827658

@@ -1,0 +1,62 @@
+dependency,dependency category,repositories
+@changesets/changelog-github,Build Scripts & CI/CD Configuration,xyflow; chakra-ui; xstate-monorepo
+@commitlint/cli,Build Scripts & CI/CD Configuration,nest; chakra-ui
+@eslint/compat,Build Scripts & CI/CD Configuration,user-event; chakra-ui
+@eslint/eslintrc,Build Scripts & CI/CD Configuration,nest; chakra-ui
+@eslint/js,Build Scripts & CI/CD Configuration,LlamaIndexTS; nest; chakra-ui; fabric; insomnia; vue-i18n-root; xstate-monorepo
+@testing-library/dom,Build Scripts & CI/CD Configuration,user-event
+@vitest/coverage-v8,Build Scripts & CI/CD Configuration,fabric; vue-i18n-root
+eslint-config-prettier,Build Scripts & CI/CD Configuration,LlamaIndexTS; nest; chakra-ui; fabric; insomnia; shortest-monorepo; vue-i18n-root
+eslint-plugin-prettier,Build Scripts & CI/CD Configuration,nest; chakra-ui; shortest-monorepo
+eslint-plugin-react-hooks,Build Scripts & CI/CD Configuration,chakra-ui; insomnia; shortest-monorepo
+happy-dom,Build Scripts & CI/CD Configuration,shortest-monorepo; xstate-monorepo
+husky,Build Scripts & CI/CD Configuration,LlamaIndexTS; nest; chakra-ui; cli; refly-monorepo; xstate-monorepo
+lint-staged,Build Scripts & CI/CD Configuration,LlamaIndexTS; nest; chakra-ui; cli; refly-monorepo; vue-i18n-root; xstate-monorepo
+turbo,Build Scripts & CI/CD Configuration,LlamaIndexTS; xyflow; n8n-monorepo; refly-monorepo
+concurrently,Build Scripts & CI/CD Configuration,nest; xyflow; hocuspocus
+nodemon,Build Scripts & CI/CD Configuration,nest; n8n-monorepo; refly-monorepo
+@testing-library/jest-dom,Build Scripts & CI/CD Configuration,user-event; chakra-ui; shortest-monorepo
+@playwright/test,Build Scripts & CI/CD Configuration,xyflow; fabric; shortest-monorepo
+eslint-plugin-react,Build Scripts & CI/CD Configuration,LlamaIndexTS; chakra-ui; insomnia; shortest-monorepo
+globals,Build Scripts & CI/CD Configuration,LlamaIndexTS; nest; chakra-ui; insomnia; vue-i18n-root; xstate-monorepo
+@testing-library/react,Build Scripts & CI/CD Configuration,user-event; chakra-ui; shortest-monorepo
+@biomejs/biome,Build Scripts & CI/CD Configuration,hocuspocus; n8n-monorepo; refly-monorepo; tablecn
+typescript-eslint,Build Scripts & CI/CD Configuration,LlamaIndexTS; nest; fabric; insomnia; vue-i18n-root; xstate-monorepo
+jest,Build Scripts & CI/CD Configuration,cli; n8n-monorepo
+nyc,Build Scripts & CI/CD Configuration,nest; fabric
+eslint-plugin-import,Build Scripts & CI/CD Configuration,nest; chakra-ui; cli; shortest-monorepo
+eslint,Build Scripts & CI/CD Configuration,LlamaIndexTS; nest; user-event; xyflow; chakra-ui; cli; insomnia; n8n-monorepo; shortest-monorepo; type-challenges; vue-i18n-root; xstate-monorepo
+prettier,Build Scripts & CI/CD Configuration,LlamaIndexTS; nest; xyflow; chakra-ui; cli; fabric; insomnia; vue-i18n-root; xstate-monorepo
+npm-run-all2,Build Scripts & CI/CD Configuration,n8n-monorepo; vue-i18n-root
+rimraf,Build Scripts & CI/CD Configuration,xyflow; chakra-ui; n8n-monorepo; refly-monorepo; tablecn
+jest-mock,Build Scripts & CI/CD Configuration,user-event; n8n-monorepo
+supertest,Build Scripts & CI/CD Configuration,nest; n8n-monorepo
+vitest,Build Scripts & CI/CD Configuration,LlamaIndexTS; chakra-ui; fabric; insomnia; refly-monorepo; vue-i18n-root; xstate-monorepo
+execa,Build Scripts & CI/CD Configuration,chakra-ui; cli; vue-i18n-root
+eslint-import-resolver-typescript,Build Scripts & CI/CD Configuration,user-event; cli
+lerna,Dependency & Package Management,nest; cli; hocuspocus
+@changesets/cli,Dependency & Package Management,LlamaIndexTS; xyflow; chakra-ui; xstate-monorepo
+@babel/core,Compiler & Build Target Configuration,cli; fabric; hocuspocus; xstate-monorepo
+@babel/preset-env,Compiler & Build Target Configuration,cli; fabric; hocuspocus; xstate-monorepo
+@microsoft/api-extractor,Compiler & Build Target Configuration,vue-i18n-root
+tslib,Compiler & Build Target Configuration,nest; fabric; insomnia; vue-i18n-root
+@babel/preset-typescript,Compiler & Build Target Configuration,cli; fabric; xstate-monorepo
+typescript,Compiler & Build Target Configuration,LlamaIndexTS; nest; user-event; xyflow; chakra-ui; cli; fabric; hocuspocus; insomnia; n8n-monorepo; refly-monorepo; shortest-monorepo; tablecn; type-challenges; vue-i18n-root; xstate-monorepo
+postcss,Compiler & Build Target Configuration,shortest-monorepo; tablecn
+tailwindcss,Compiler & Build Target Configuration,shortest-monorepo; tablecn
+next,Compiler & Build Target Configuration,shortest-monorepo; tablecn
+rollup,Compiler & Build Target Configuration,xyflow; chakra-ui; fabric; hocuspocus; vue-i18n-root
+@rollup/plugin-commonjs,Compiler & Build Target Configuration,chakra-ui; hocuspocus; vue-i18n-root
+@rollup/plugin-typescript,Compiler & Build Target Configuration,fabric; hocuspocus
+@rollup/plugin-terser,Compiler & Build Target Configuration,fabric; vue-i18n-root
+esbuild,Compiler & Build Target Configuration,user-event; insomnia
+@rollup/plugin-json,Compiler & Build Target Configuration,fabric; hocuspocus; vue-i18n-root
+@rollup/plugin-node-resolve,External Tool Integration,chakra-ui; hocuspocus; vue-i18n-root
+drizzle-orm,External Tool Integration,shortest-monorepo; tablecn
+postgres,External Tool Integration,shortest-monorepo; tablecn
+@octokit/rest,External Tool Integration,chakra-ui; shortest-monorepo
+cross-env,Platform & Runtime Configuration,chakra-ui; n8n-monorepo; vue-i18n-root
+ts-node,Platform & Runtime Configuration,nest; user-event
+server-only,Platform & Runtime Configuration,shortest-monorepo; tablecn
+tsx,Platform & Runtime Configuration,chakra-ui; shortest-monorepo; tablecn; vue-i18n-root
+dotenv,Platform & Runtime Configuration,chakra-ui; refly-monorepo; shortest-monorepo

@@ -1,0 +1,9 @@
+"Domain","API Misuse_median","Async / Event_median","Logic Error_median","Missing Case_median","Missing Feature_median","Performance Issue_median","Runtime Exception_median","Test Fault_median","Tooling / Config_median","Type Error_median","UI Bug_median","Error Handling_median","Total_Bugs_median"
+"Application logic and workflows",4.5,2.5,8,5,1.5,0,0,2.5,2.5,8,3.5,0.5,38.5
+"Automating software testing and quality assurance",10,1.5,2.5,1.5,1,0.5,0,12,5.5,5.5,4.5,0.5,45
+"Education propose",2,0,1,10,1,0,0,10,1,6,5,0,36
+"Integrating with APISs and services",8,1.5,2.5,2,4,0,0,3,4.5,5,8,0.5,39
+"Integration with AI",7,2.5,3,3,2,0.5,1,2,8,4.5,5.5,1,40
+"Libraries / Framework",4,0.5,4,2.5,1,1.5,1,1,22.5,3,0.5,0,41.5
+"Providing APIs and service",4.5,2.5,4.5,3.5,2,0,0.5,3,13,4,2,0,39.5
+"User interface",4,0,1,0,0,0,0,0,15,2,10,0,39

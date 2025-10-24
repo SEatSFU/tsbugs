@@ -1,0 +1,66 @@
+"Category","BugCategory","Rho","Pvalue"
+"Build Scripts & CI/CD Configuration","API Misuse",0,1
+"Build Scripts & CI/CD Configuration","Async / Event",-0.234924761200129,0.542882942646252
+"Build Scripts & CI/CD Configuration","Logic Error",0.0427412878092738,0.913060608167186
+"Build Scripts & CI/CD Configuration","Missing Case",-0.46299567090798,0.209455557094047
+"Build Scripts & CI/CD Configuration","Missing Feature",-0.0793884186037445,0.839118250162481
+"Build Scripts & CI/CD Configuration","Performance Issue",0.519719196506428,0.15154441212283
+"Build Scripts & CI/CD Configuration","Runtime Exception",0.458349248514106,0.214669447642145
+"Build Scripts & CI/CD Configuration","Test Fault",-0.628697579629136,0.0697392879478607
+"Build Scripts & CI/CD Configuration","Tooling / Config",0.814353240727673,0.00753078551194775
+"Build Scripts & CI/CD Configuration","Type Error",-0.487250681025721,0.183391791804231
+"Build Scripts & CI/CD Configuration","UI Bug",-0.270044597961508,0.48221363362638
+"Build Scripts & CI/CD Configuration","Error Handling",0.137504774554232,0.72425379840985
+"Build Scripts & CI/CD Configuration","Total_Bugs",0.410045430290304,0.273029747143772
+"Compiler & Build Target Configuration","API Misuse",0.475987071083124,0.195254135494393
+"Compiler & Build Target Configuration","Async / Event",0.355587164708443,0.347655523570591
+"Compiler & Build Target Configuration","Logic Error",0.0393016847683314,0.920038251778699
+"Compiler & Build Target Configuration","Missing Case",-0.113711569709213,0.770830295665023
+"Compiler & Build Target Configuration","Missing Feature",0.157715270543797,0.685290700016473
+"Compiler & Build Target Configuration","Performance Issue",-0.477894819648232,0.193215517632434
+"Compiler & Build Target Configuration","Runtime Exception",-0.140487871737254,0.718465977942265
+"Compiler & Build Target Configuration","Test Fault",-0.163817453868904,0.673647257289444
+"Compiler & Build Target Configuration","Tooling / Config",0.176750410753291,0.649169839603742
+"Compiler & Build Target Configuration","Type Error",-0.288212354967763,0.451997608670142
+"Compiler & Build Target Configuration","UI Bug",-0.155195482612646,0.690115573182868
+"Compiler & Build Target Configuration","Error Handling",0.210731807605881,0.586271794718995
+"Compiler & Build Target Configuration","Total_Bugs",0.307793505625546,0.420384383789699
+"Dependency & Package Management","API Misuse",-0.279751442472094,0.465966095757163
+"Dependency & Package Management","Async / Event",0.047457899787625,0.903500833869863
+"Dependency & Package Management","Logic Error",-0.139875721236047,0.719652675707308
+"Dependency & Package Management","Missing Case",-0.339950051825042,0.370734390270768
+"Dependency & Package Management","Missing Feature",-0.192450089729875,0.619843611108267
+"Dependency & Package Management","Performance Issue",0.377964473009227,0.315890662954942
+"Dependency & Package Management","Runtime Exception",0.5,0.170470660787054
+"Dependency & Package Management","Test Fault",-0.828517156108491,0.00578886314916316
+"Dependency & Package Management","Tooling / Config",0.736459694318659,0.023640464835355
+"Dependency & Package Management","Type Error",-0.233126202060078,0.546065679206372
+"Dependency & Package Management","UI Bug",-0.138086192684749,0.723124769949375
+"Dependency & Package Management","Error Handling",-0.5,0.170470660787054
+"Dependency & Package Management","Total_Bugs",-0.365148371670111,0.333899140691533
+"External Tool Integration","API Misuse",0.209813581854071,0.587942425483271
+"External Tool Integration","Async / Event",0.0237289498938125,0.95168245663765
+"External Tool Integration","Logic Error",-0.606128125356204,0.0835906500319163
+"External Tool Integration","Missing Case",-0.109269659515192,0.779600660999358
+"External Tool Integration","Missing Feature",-0.252590742770461,0.512005922270665
+"External Tool Integration","Performance Issue",-0.28347335475692,0.4597989523588
+"External Tool Integration","Runtime Exception",-0.375,0.320011882388631
+"External Tool Integration","Test Fault",-0.310693933540684,0.41578864901801
+"External Tool Integration","Tooling / Config",0.287679568093226,0.452871807230774
+"External Tool Integration","Type Error",0.0233126202060078,0.952529423933832
+"External Tool Integration","UI Bug",0.345215481711871,0.362883523477189
+"External Tool Integration","Error Handling",-0.1875,0.629042423520556
+"External Tool Integration","Total_Bugs",-0.182574185835055,0.638240151475715
+"Platform & Runtime Configuration","API Misuse",0.234012616672488,0.54449619120645
+"Platform & Runtime Configuration","Async / Event",-0.59030127770114,0.0942448573467292
+"Platform & Runtime Configuration","Logic Error",0.061046769566736,0.876022116759445
+"Platform & Runtime Configuration","Missing Case",-0.715337836986314,0.0302668658251033
+"Platform & Runtime Configuration","Missing Feature",-0.708683386892301,0.0325808828882512
+"Platform & Runtime Configuration","Performance Issue",0.123717914826348,0.751156577293125
+"Platform & Runtime Configuration","Runtime Exception",-0.0545544725589981,0.889137810624125
+"Platform & Runtime Configuration","Test Fault",-0.30635092265693,0.422678628063574
+"Platform & Runtime Configuration","Tooling / Config",0.316395215203059,0.40682172900402
+"Platform & Runtime Configuration","Type Error",0.071221231161192,0.855521206307307
+"Platform & Runtime Configuration","UI Bug",0.210930143468706,0.58591116191335
+"Platform & Runtime Configuration","Error Handling",-0.245495126515491,0.524322711652456
+"Platform & Runtime Configuration","Total_Bugs",0.318727629155838,0.403179045259102

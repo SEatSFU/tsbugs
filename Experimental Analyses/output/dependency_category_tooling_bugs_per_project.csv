@@ -1,0 +1,53 @@
+"Project","dependency.category","Tooling_Config_Bugs"
+"LlamaIndexTS","Build Scripts & CI/CD Configuration",165
+"LlamaIndexTS","Compiler & Build Target Configuration",15
+"LlamaIndexTS","Dependency & Package Management",15
+"chakra-ui","Build Scripts & CI/CD Configuration",300
+"chakra-ui","Compiler & Build Target Configuration",45
+"chakra-ui","Dependency & Package Management",15
+"chakra-ui","External Tool Integration",30
+"chakra-ui","Platform & Runtime Configuration",45
+"cli","Build Scripts & CI/CD Configuration",112
+"cli","Compiler & Build Target Configuration",56
+"cli","Dependency & Package Management",14
+"fabric","Build Scripts & CI/CD Configuration",0
+"fabric","Compiler & Build Target Configuration",0
+"hocuspocus","Build Scripts & CI/CD Configuration",24
+"hocuspocus","Compiler & Build Target Configuration",84
+"hocuspocus","Dependency & Package Management",12
+"hocuspocus","External Tool Integration",12
+"insomnia","Build Scripts & CI/CD Configuration",54
+"insomnia","Compiler & Build Target Configuration",18
+"n8n-monorepo","Build Scripts & CI/CD Configuration",0
+"n8n-monorepo","Compiler & Build Target Configuration",0
+"n8n-monorepo","Platform & Runtime Configuration",0
+"nest","Build Scripts & CI/CD Configuration",496
+"nest","Compiler & Build Target Configuration",62
+"nest","Dependency & Package Management",31
+"nest","Platform & Runtime Configuration",31
+"refly-monorepo","Build Scripts & CI/CD Configuration",0
+"refly-monorepo","Compiler & Build Target Configuration",0
+"refly-monorepo","Platform & Runtime Configuration",0
+"shortest-monorepo","Build Scripts & CI/CD Configuration",0
+"shortest-monorepo","Compiler & Build Target Configuration",0
+"shortest-monorepo","External Tool Integration",0
+"shortest-monorepo","Platform & Runtime Configuration",0
+"tablecn","Build Scripts & CI/CD Configuration",0
+"tablecn","Compiler & Build Target Configuration",0
+"tablecn","External Tool Integration",0
+"tablecn","Platform & Runtime Configuration",0
+"type-challenges","Build Scripts & CI/CD Configuration",1
+"type-challenges","Compiler & Build Target Configuration",1
+"user-event","Build Scripts & CI/CD Configuration",7
+"user-event","Compiler & Build Target Configuration",2
+"user-event","Platform & Runtime Configuration",1
+"vue-i18n-root","Build Scripts & CI/CD Configuration",0
+"vue-i18n-root","Compiler & Build Target Configuration",0
+"vue-i18n-root","External Tool Integration",0
+"vue-i18n-root","Platform & Runtime Configuration",0
+"xstate-monorepo","Build Scripts & CI/CD Configuration",0
+"xstate-monorepo","Compiler & Build Target Configuration",0
+"xstate-monorepo","Dependency & Package Management",0
+"xyflow","Build Scripts & CI/CD Configuration",21
+"xyflow","Compiler & Build Target Configuration",6
+"xyflow","Dependency & Package Management",3

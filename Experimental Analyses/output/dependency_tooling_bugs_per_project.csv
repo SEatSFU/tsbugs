@@ -1,0 +1,224 @@
+"dependency","dependency.category","Project","Tooling / Config"
+"@changesets/changelog-github","Build Scripts & CI/CD Configuration","xyflow",3
+"@changesets/changelog-github","Build Scripts & CI/CD Configuration","chakra-ui",15
+"@changesets/changelog-github","Build Scripts & CI/CD Configuration","xstate-monorepo",0
+"@commitlint/cli","Build Scripts & CI/CD Configuration","nest",31
+"@commitlint/cli","Build Scripts & CI/CD Configuration","chakra-ui",15
+"@eslint/compat","Build Scripts & CI/CD Configuration","user-event",1
+"@eslint/compat","Build Scripts & CI/CD Configuration","chakra-ui",15
+"@eslint/eslintrc","Build Scripts & CI/CD Configuration","nest",31
+"@eslint/eslintrc","Build Scripts & CI/CD Configuration","chakra-ui",15
+"@eslint/js","Build Scripts & CI/CD Configuration","LlamaIndexTS",15
+"@eslint/js","Build Scripts & CI/CD Configuration","nest",31
+"@eslint/js","Build Scripts & CI/CD Configuration","chakra-ui",15
+"@eslint/js","Build Scripts & CI/CD Configuration","fabric",0
+"@eslint/js","Build Scripts & CI/CD Configuration","insomnia",6
+"@eslint/js","Build Scripts & CI/CD Configuration","vue-i18n-root",0
+"@eslint/js","Build Scripts & CI/CD Configuration","xstate-monorepo",0
+"@testing-library/dom","Build Scripts & CI/CD Configuration","user-event",1
+"@vitest/coverage-v8","Build Scripts & CI/CD Configuration","fabric",0
+"@vitest/coverage-v8","Build Scripts & CI/CD Configuration","vue-i18n-root",0
+"eslint-config-prettier","Build Scripts & CI/CD Configuration","LlamaIndexTS",15
+"eslint-config-prettier","Build Scripts & CI/CD Configuration","nest",31
+"eslint-config-prettier","Build Scripts & CI/CD Configuration","chakra-ui",15
+"eslint-config-prettier","Build Scripts & CI/CD Configuration","fabric",0
+"eslint-config-prettier","Build Scripts & CI/CD Configuration","insomnia",6
+"eslint-config-prettier","Build Scripts & CI/CD Configuration","shortest-monorepo",0
+"eslint-config-prettier","Build Scripts & CI/CD Configuration","vue-i18n-root",0
+"eslint-plugin-prettier","Build Scripts & CI/CD Configuration","nest",31
+"eslint-plugin-prettier","Build Scripts & CI/CD Configuration","chakra-ui",15
+"eslint-plugin-prettier","Build Scripts & CI/CD Configuration","shortest-monorepo",0
+"eslint-plugin-react-hooks","Build Scripts & CI/CD Configuration","chakra-ui",15
+"eslint-plugin-react-hooks","Build Scripts & CI/CD Configuration","insomnia",6
+"eslint-plugin-react-hooks","Build Scripts & CI/CD Configuration","shortest-monorepo",0
+"happy-dom","Build Scripts & CI/CD Configuration","shortest-monorepo",0
+"happy-dom","Build Scripts & CI/CD Configuration","xstate-monorepo",0
+"husky","Build Scripts & CI/CD Configuration","LlamaIndexTS",15
+"husky","Build Scripts & CI/CD Configuration","nest",31
+"husky","Build Scripts & CI/CD Configuration","chakra-ui",15
+"husky","Build Scripts & CI/CD Configuration","cli",14
+"husky","Build Scripts & CI/CD Configuration","refly-monorepo",0
+"husky","Build Scripts & CI/CD Configuration","xstate-monorepo",0
+"lint-staged","Build Scripts & CI/CD Configuration","LlamaIndexTS",15
+"lint-staged","Build Scripts & CI/CD Configuration","nest",31
+"lint-staged","Build Scripts & CI/CD Configuration","chakra-ui",15
+"lint-staged","Build Scripts & CI/CD Configuration","cli",14
+"lint-staged","Build Scripts & CI/CD Configuration","refly-monorepo",0
+"lint-staged","Build Scripts & CI/CD Configuration","vue-i18n-root",0
+"lint-staged","Build Scripts & CI/CD Configuration","xstate-monorepo",0
+"turbo","Build Scripts & CI/CD Configuration","LlamaIndexTS",15
+"turbo","Build Scripts & CI/CD Configuration","xyflow",3
+"turbo","Build Scripts & CI/CD Configuration","n8n-monorepo",0
+"turbo","Build Scripts & CI/CD Configuration","refly-monorepo",0
+"concurrently","Build Scripts & CI/CD Configuration","nest",31
+"concurrently","Build Scripts & CI/CD Configuration","xyflow",3
+"concurrently","Build Scripts & CI/CD Configuration","hocuspocus",12
+"nodemon","Build Scripts & CI/CD Configuration","nest",31
+"nodemon","Build Scripts & CI/CD Configuration","n8n-monorepo",0
+"nodemon","Build Scripts & CI/CD Configuration","refly-monorepo",0
+"@testing-library/jest-dom","Build Scripts & CI/CD Configuration","user-event",1
+"@testing-library/jest-dom","Build Scripts & CI/CD Configuration","chakra-ui",15
+"@testing-library/jest-dom","Build Scripts & CI/CD Configuration","shortest-monorepo",0
+"@playwright/test","Build Scripts & CI/CD Configuration","xyflow",3
+"@playwright/test","Build Scripts & CI/CD Configuration","fabric",0
+"@playwright/test","Build Scripts & CI/CD Configuration","shortest-monorepo",0
+"eslint-plugin-react","Build Scripts & CI/CD Configuration","LlamaIndexTS",15
+"eslint-plugin-react","Build Scripts & CI/CD Configuration","chakra-ui",15
+"eslint-plugin-react","Build Scripts & CI/CD Configuration","insomnia",6
+"eslint-plugin-react","Build Scripts & CI/CD Configuration","shortest-monorepo",0
+"globals","Build Scripts & CI/CD Configuration","LlamaIndexTS",15
+"globals","Build Scripts & CI/CD Configuration","nest",31
+"globals","Build Scripts & CI/CD Configuration","chakra-ui",15
+"globals","Build Scripts & CI/CD Configuration","insomnia",6
+"globals","Build Scripts & CI/CD Configuration","vue-i18n-root",0
+"globals","Build Scripts & CI/CD Configuration","xstate-monorepo",0
+"@testing-library/react","Build Scripts & CI/CD Configuration","user-event",1
+"@testing-library/react","Build Scripts & CI/CD Configuration","chakra-ui",15
+"@testing-library/react","Build Scripts & CI/CD Configuration","shortest-monorepo",0
+"@biomejs/biome","Build Scripts & CI/CD Configuration","hocuspocus",12
+"@biomejs/biome","Build Scripts & CI/CD Configuration","n8n-monorepo",0
+"@biomejs/biome","Build Scripts & CI/CD Configuration","refly-monorepo",0
+"@biomejs/biome","Build Scripts & CI/CD Configuration","tablecn",0
+"typescript-eslint","Build Scripts & CI/CD Configuration","LlamaIndexTS",15
+"typescript-eslint","Build Scripts & CI/CD Configuration","nest",31
+"typescript-eslint","Build Scripts & CI/CD Configuration","fabric",0
+"typescript-eslint","Build Scripts & CI/CD Configuration","insomnia",6
+"typescript-eslint","Build Scripts & CI/CD Configuration","vue-i18n-root",0
+"typescript-eslint","Build Scripts & CI/CD Configuration","xstate-monorepo",0
+"jest","Build Scripts & CI/CD Configuration","cli",14
+"jest","Build Scripts & CI/CD Configuration","n8n-monorepo",0
+"nyc","Build Scripts & CI/CD Configuration","nest",31
+"nyc","Build Scripts & CI/CD Configuration","fabric",0
+"eslint-plugin-import","Build Scripts & CI/CD Configuration","nest",31
+"eslint-plugin-import","Build Scripts & CI/CD Configuration","chakra-ui",15
+"eslint-plugin-import","Build Scripts & CI/CD Configuration","cli",14
+"eslint-plugin-import","Build Scripts & CI/CD Configuration","shortest-monorepo",0
+"eslint","Build Scripts & CI/CD Configuration","LlamaIndexTS",15
+"eslint","Build Scripts & CI/CD Configuration","nest",31
+"eslint","Build Scripts & CI/CD Configuration","user-event",1
+"eslint","Build Scripts & CI/CD Configuration","xyflow",3
+"eslint","Build Scripts & CI/CD Configuration","chakra-ui",15
+"eslint","Build Scripts & CI/CD Configuration","cli",14
+"eslint","Build Scripts & CI/CD Configuration","insomnia",6
+"eslint","Build Scripts & CI/CD Configuration","n8n-monorepo",0
+"eslint","Build Scripts & CI/CD Configuration","shortest-monorepo",0
+"eslint","Build Scripts & CI/CD Configuration","type-challenges",1
+"eslint","Build Scripts & CI/CD Configuration","vue-i18n-root",0
+"eslint","Build Scripts & CI/CD Configuration","xstate-monorepo",0
+"prettier","Build Scripts & CI/CD Configuration","LlamaIndexTS",15
+"prettier","Build Scripts & CI/CD Configuration","nest",31
+"prettier","Build Scripts & CI/CD Configuration","xyflow",3
+"prettier","Build Scripts & CI/CD Configuration","chakra-ui",15
+"prettier","Build Scripts & CI/CD Configuration","cli",14
+"prettier","Build Scripts & CI/CD Configuration","fabric",0
+"prettier","Build Scripts & CI/CD Configuration","insomnia",6
+"prettier","Build Scripts & CI/CD Configuration","vue-i18n-root",0
+"prettier","Build Scripts & CI/CD Configuration","xstate-monorepo",0
+"npm-run-all2","Build Scripts & CI/CD Configuration","n8n-monorepo",0
+"npm-run-all2","Build Scripts & CI/CD Configuration","vue-i18n-root",0
+"rimraf","Build Scripts & CI/CD Configuration","xyflow",3
+"rimraf","Build Scripts & CI/CD Configuration","chakra-ui",15
+"rimraf","Build Scripts & CI/CD Configuration","n8n-monorepo",0
+"rimraf","Build Scripts & CI/CD Configuration","refly-monorepo",0
+"rimraf","Build Scripts & CI/CD Configuration","tablecn",0
+"jest-mock","Build Scripts & CI/CD Configuration","user-event",1
+"jest-mock","Build Scripts & CI/CD Configuration","n8n-monorepo",0
+"supertest","Build Scripts & CI/CD Configuration","nest",31
+"supertest","Build Scripts & CI/CD Configuration","n8n-monorepo",0
+"vitest","Build Scripts & CI/CD Configuration","LlamaIndexTS",15
+"vitest","Build Scripts & CI/CD Configuration","chakra-ui",15
+"vitest","Build Scripts & CI/CD Configuration","fabric",0
+"vitest","Build Scripts & CI/CD Configuration","insomnia",6
+"vitest","Build Scripts & CI/CD Configuration","refly-monorepo",0
+"vitest","Build Scripts & CI/CD Configuration","vue-i18n-root",0
+"vitest","Build Scripts & CI/CD Configuration","xstate-monorepo",0
+"execa","Build Scripts & CI/CD Configuration","chakra-ui",15
+"execa","Build Scripts & CI/CD Configuration","cli",14
+"execa","Build Scripts & CI/CD Configuration","vue-i18n-root",0
+"eslint-import-resolver-typescript","Build Scripts & CI/CD Configuration","user-event",1
+"eslint-import-resolver-typescript","Build Scripts & CI/CD Configuration","cli",14
+"lerna","Dependency & Package Management","nest",31
+"lerna","Dependency & Package Management","cli",14
+"lerna","Dependency & Package Management","hocuspocus",12
+"@changesets/cli","Dependency & Package Management","LlamaIndexTS",15
+"@changesets/cli","Dependency & Package Management","xyflow",3
+"@changesets/cli","Dependency & Package Management","chakra-ui",15
+"@changesets/cli","Dependency & Package Management","xstate-monorepo",0
+"@babel/core","Compiler & Build Target Configuration","cli",14
+"@babel/core","Compiler & Build Target Configuration","fabric",0
+"@babel/core","Compiler & Build Target Configuration","hocuspocus",12
+"@babel/core","Compiler & Build Target Configuration","xstate-monorepo",0
+"@babel/preset-env","Compiler & Build Target Configuration","cli",14
+"@babel/preset-env","Compiler & Build Target Configuration","fabric",0
+"@babel/preset-env","Compiler & Build Target Configuration","hocuspocus",12
+"@babel/preset-env","Compiler & Build Target Configuration","xstate-monorepo",0
+"@microsoft/api-extractor","Compiler & Build Target Configuration","vue-i18n-root",0
+"tslib","Compiler & Build Target Configuration","nest",31
+"tslib","Compiler & Build Target Configuration","fabric",0
+"tslib","Compiler & Build Target Configuration","insomnia",6
+"tslib","Compiler & Build Target Configuration","vue-i18n-root",0
+"@babel/preset-typescript","Compiler & Build Target Configuration","cli",14
+"@babel/preset-typescript","Compiler & Build Target Configuration","fabric",0
+"@babel/preset-typescript","Compiler & Build Target Configuration","xstate-monorepo",0
+"typescript","Compiler & Build Target Configuration","LlamaIndexTS",15
+"typescript","Compiler & Build Target Configuration","nest",31
+"typescript","Compiler & Build Target Configuration","user-event",1
+"typescript","Compiler & Build Target Configuration","xyflow",3
+"typescript","Compiler & Build Target Configuration","chakra-ui",15
+"typescript","Compiler & Build Target Configuration","cli",14
+"typescript","Compiler & Build Target Configuration","fabric",0
+"typescript","Compiler & Build Target Configuration","hocuspocus",12
+"typescript","Compiler & Build Target Configuration","insomnia",6
+"typescript","Compiler & Build Target Configuration","n8n-monorepo",0
+"typescript","Compiler & Build Target Configuration","refly-monorepo",0
+"typescript","Compiler & Build Target Configuration","shortest-monorepo",0
+"typescript","Compiler & Build Target Configuration","tablecn",0
+"typescript","Compiler & Build Target Configuration","type-challenges",1
+"typescript","Compiler & Build Target Configuration","vue-i18n-root",0
+"typescript","Compiler & Build Target Configuration","xstate-monorepo",0
+"postcss","Compiler & Build Target Configuration","shortest-monorepo",0
+"postcss","Compiler & Build Target Configuration","tablecn",0
+"tailwindcss","Compiler & Build Target Configuration","shortest-monorepo",0
+"tailwindcss","Compiler & Build Target Configuration","tablecn",0
+"next","Compiler & Build Target Configuration","shortest-monorepo",0
+"next","Compiler & Build Target Configuration","tablecn",0
+"rollup","Compiler & Build Target Configuration","xyflow",3
+"rollup","Compiler & Build Target Configuration","chakra-ui",15
+"rollup","Compiler & Build Target Configuration","fabric",0
+"rollup","Compiler & Build Target Configuration","hocuspocus",12
+"rollup","Compiler & Build Target Configuration","vue-i18n-root",0
+"@rollup/plugin-commonjs","Compiler & Build Target Configuration","chakra-ui",15
+"@rollup/plugin-commonjs","Compiler & Build Target Configuration","hocuspocus",12
+"@rollup/plugin-commonjs","Compiler & Build Target Configuration","vue-i18n-root",0
+"@rollup/plugin-typescript","Compiler & Build Target Configuration","fabric",0
+"@rollup/plugin-typescript","Compiler & Build Target Configuration","hocuspocus",12
+"@rollup/plugin-terser","Compiler & Build Target Configuration","fabric",0
+"@rollup/plugin-terser","Compiler & Build Target Configuration","vue-i18n-root",0
+"esbuild","Compiler & Build Target Configuration","user-event",1
+"esbuild","Compiler & Build Target Configuration","insomnia",6
+"@rollup/plugin-json","Compiler & Build Target Configuration","fabric",0
+"@rollup/plugin-json","Compiler & Build Target Configuration","hocuspocus",12
+"@rollup/plugin-json","Compiler & Build Target Configuration","vue-i18n-root",0
+"@rollup/plugin-node-resolve","External Tool Integration","chakra-ui",15
+"@rollup/plugin-node-resolve","External Tool Integration","hocuspocus",12
+"@rollup/plugin-node-resolve","External Tool Integration","vue-i18n-root",0
+"drizzle-orm","External Tool Integration","shortest-monorepo",0
+"drizzle-orm","External Tool Integration","tablecn",0
+"postgres","External Tool Integration","shortest-monorepo",0
+"postgres","External Tool Integration","tablecn",0
+"@octokit/rest","External Tool Integration","chakra-ui",15
+"@octokit/rest","External Tool Integration","shortest-monorepo",0
+"cross-env","Platform & Runtime Configuration","chakra-ui",15
+"cross-env","Platform & Runtime Configuration","n8n-monorepo",0
+"cross-env","Platform & Runtime Configuration","vue-i18n-root",0
+"ts-node","Platform & Runtime Configuration","nest",31
+"ts-node","Platform & Runtime Configuration","user-event",1
+"server-only","Platform & Runtime Configuration","shortest-monorepo",0
+"server-only","Platform & Runtime Configuration","tablecn",0
+"tsx","Platform & Runtime Configuration","chakra-ui",15
+"tsx","Platform & Runtime Configuration","shortest-monorepo",0
+"tsx","Platform & Runtime Configuration","tablecn",0
+"tsx","Platform & Runtime Configuration","vue-i18n-root",0
+"dotenv","Platform & Runtime Configuration","chakra-ui",15
+"dotenv","Platform & Runtime Configuration","refly-monorepo",0
+"dotenv","Platform & Runtime Configuration","shortest-monorepo",0

@@ -1,0 +1,807 @@
+"Dependency","BugCategory","Rho","Pvalue"
+"dependency.category","API Misuse",NA,NA
+"dependency.category","Async / Event",NA,NA
+"dependency.category","Logic Error",NA,NA
+"dependency.category","Missing Case",NA,NA
+"dependency.category","Missing Feature",NA,NA
+"dependency.category","Performance Issue",NA,NA
+"dependency.category","Runtime Exception",NA,NA
+"dependency.category","Test Fault",NA,NA
+"dependency.category","Tooling / Config",NA,NA
+"dependency.category","Type Error",NA,NA
+"dependency.category","UI Bug",NA,NA
+"dependency.category","Error Handling",NA,NA
+"dependency.category","Total_Bugs",NA,NA
+"@changesets/changelog-github","API Misuse",0.11913662534595,0.53819284592929
+"@changesets/changelog-github","Async / Event",-0.136487827406004,0.480192507950205
+"@changesets/changelog-github","Logic Error",0.0250931909087085,0.897193857272822
+"@changesets/changelog-github","Missing Case",-0.24975159126384,0.191344091736998
+"@changesets/changelog-github","Missing Feature",-0.247777239416486,0.194993609360343
+"@changesets/changelog-github","Performance Issue",-0.153522062157279,0.426551928438762
+"@changesets/changelog-github","Runtime Exception",-0.197449625919697,0.304571574748599
+"@changesets/changelog-github","Test Fault",-0.347832796499967,0.0644639866476502
+"@changesets/changelog-github","Tooling / Config",-0.0248072101257115,0.898359479865297
+"@changesets/changelog-github","Type Error",0.259634768941963,0.173787740573013
+"@changesets/changelog-github","UI Bug",0.36300808171385,0.0529321723158116
+"@changesets/changelog-github","Error Handling",-0.0740740740740741,0.70255046974996
+"@changesets/changelog-github","Total_Bugs",-0.212971714445963,0.267333220804821
+"@commitlint/cli","API Misuse",-0.0936073484861039,0.629109776099524
+"@commitlint/cli","Async / Event",-0.307097611663508,0.105133766789069
+"@commitlint/cli","Logic Error",-0.0501863818174171,0.795992798166206
+"@commitlint/cli","Missing Case",-0.24975159126384,0.191344091736998
+"@commitlint/cli","Missing Feature",-0.247777239416486,0.194993609360343
+"@commitlint/cli","Performance Issue",0.164487923739942,0.393847548910945
+"@commitlint/cli","Runtime Exception",0.0888523316638638,0.646704157267338
+"@commitlint/cli","Test Fault",-0.248451997499977,0.19374096954425
+"@commitlint/cli","Tooling / Config",0.314224661592346,0.0969001947704344
+"@commitlint/cli","Type Error",-0.142380357161722,0.461255493139883
+"@commitlint/cli","UI Bug",-0.0330007347012591,0.865054794493482
+"@commitlint/cli","Error Handling",-0.0740740740740741,0.70255046974996
+"@commitlint/cli","Total_Bugs",0.0737209780774486,0.703904935221513
+"@eslint/compat","API Misuse",0.280822045458312,0.140042376237643
+"@eslint/compat","Async / Event",-0.136487827406004,0.480192507950205
+"@eslint/compat","Logic Error",0.0752795727261256,0.697932944198753
+"@eslint/compat","Missing Case",-0.24975159126384,0.191344091736998
+"@eslint/compat","Missing Feature",-0.247777239416486,0.194993609360343
+"@eslint/compat","Performance Issue",-0.153522062157279,0.426551928438762
+"@eslint/compat","Runtime Exception",-0.197449625919697,0.304571574748599
+"@eslint/compat","Test Fault",0.00828173324999922,0.96599061697401
+"@eslint/compat","Tooling / Config",-0.0909597704609422,0.638882548778935
+"@eslint/compat","Type Error",0.259634768941963,0.173787740573013
+"@eslint/compat","UI Bug",0.231005142908814,0.227944308593135
+"@eslint/compat","Error Handling",-0.0740740740740741,0.70255046974996
+"@eslint/compat","Total_Bugs",0.18020683530043,0.349558624178118
+"@eslint/eslintrc","API Misuse",-0.0936073484861039,0.629109776099524
+"@eslint/eslintrc","Async / Event",-0.307097611663508,0.105133766789069
+"@eslint/eslintrc","Logic Error",-0.0501863818174171,0.795992798166206
+"@eslint/eslintrc","Missing Case",-0.24975159126384,0.191344091736998
+"@eslint/eslintrc","Missing Feature",-0.247777239416486,0.194993609360343
+"@eslint/eslintrc","Performance Issue",0.164487923739942,0.393847548910945
+"@eslint/eslintrc","Runtime Exception",0.0888523316638638,0.646704157267338
+"@eslint/eslintrc","Test Fault",-0.248451997499977,0.19374096954425
+"@eslint/eslintrc","Tooling / Config",0.314224661592346,0.0969001947704344
+"@eslint/eslintrc","Type Error",-0.142380357161722,0.461255493139883
+"@eslint/eslintrc","UI Bug",-0.0330007347012591,0.865054794493482
+"@eslint/eslintrc","Error Handling",-0.0740740740740741,0.70255046974996
+"@eslint/eslintrc","Total_Bugs",0.0737209780774486,0.703904935221513
+"@eslint/js","API Misuse",-0.0500269614470928,0.796627396032396
+"@eslint/js","Async / Event",-0.0250744149934325,0.89727037920848
+"@eslint/js","Logic Error",-0.073758616493498,0.70376051312646
+"@eslint/js","Missing Case",0.026218455473338,0.892609470564081
+"@eslint/js","Missing Feature",0.117050362671693,0.545382824451111
+"@eslint/js","Performance Issue",0.241746889207614,0.206437641209505
+"@eslint/js","Runtime Exception",0.130585725019802,0.499553199850571
+"@eslint/js","Test Fault",-0.0730296743340221,0.706559318826171
+"@eslint/js","Tooling / Config",0.243060026999989,0.203907351684356
+"@eslint/js","Type Error",-0.264646705605565,0.165332379249195
+"@eslint/js","UI Bug",-0.145502930079078,0.451382418806074
+"@eslint/js","Error Handling",0.285773803324704,0.132894120420259
+"@eslint/js","Total_Bugs",0.168540194320077,0.382135021404083
+"@testing-library/dom","API Misuse",0.307261729443555,0.10493846504771
+"@testing-library/dom","Async / Event",0.0236930951225185,0.902902427194582
+"@testing-library/dom","Logic Error",0.232317805107122,0.225238454123938
+"@testing-library/dom","Missing Case",-0.173418782356682,0.368304950696809
+"@testing-library/dom","Missing Feature",-0.172047861388454,0.372161276684726
+"@testing-library/dom","Performance Issue",-0.106600358177805,0.582057766986335
+"@testing-library/dom","Runtime Exception",-0.13710212427677,0.47819985744571
+"@testing-library/dom","Test Fault",0.25302403842553,0.185399975656732
+"@testing-library/dom","Tooling / Config",-0.275604165043979,0.14787236930993
+"@testing-library/dom","Type Error",0.26751421048956,0.160628233596328
+"@testing-library/dom","UI Bug",0.114572788101327,0.553979341124824
+"@testing-library/dom","Error Handling",-0.051434449987364,0.791029093662479
+"@testing-library/dom","Total_Bugs",0.25025866535631,0.190414485109519
+"@vitest/coverage-v8","API Misuse",NA,NA
+"@vitest/coverage-v8","Async / Event",NA,NA
+"@vitest/coverage-v8","Logic Error",NA,NA
+"@vitest/coverage-v8","Missing Case",NA,NA
+"@vitest/coverage-v8","Missing Feature",NA,NA
+"@vitest/coverage-v8","Performance Issue",NA,NA
+"@vitest/coverage-v8","Runtime Exception",NA,NA
+"@vitest/coverage-v8","Test Fault",NA,NA
+"@vitest/coverage-v8","Tooling / Config",NA,NA
+"@vitest/coverage-v8","Type Error",NA,NA
+"@vitest/coverage-v8","UI Bug",NA,NA
+"@vitest/coverage-v8","Error Handling",NA,NA
+"@vitest/coverage-v8","Total_Bugs",NA,NA
+"eslint-config-prettier","API Misuse",-0.0500269614470928,0.796627396032396
+"eslint-config-prettier","Async / Event",-0.0250744149934325,0.89727037920848
+"eslint-config-prettier","Logic Error",-0.073758616493498,0.70376051312646
+"eslint-config-prettier","Missing Case",0.026218455473338,0.892609470564081
+"eslint-config-prettier","Missing Feature",0.117050362671693,0.545382824451111
+"eslint-config-prettier","Performance Issue",0.241746889207614,0.206437641209505
+"eslint-config-prettier","Runtime Exception",0.130585725019802,0.499553199850571
+"eslint-config-prettier","Test Fault",-0.0730296743340221,0.706559318826171
+"eslint-config-prettier","Tooling / Config",0.243060026999989,0.203907351684356
+"eslint-config-prettier","Type Error",-0.264646705605565,0.165332379249195
+"eslint-config-prettier","UI Bug",-0.145502930079078,0.451382418806074
+"eslint-config-prettier","Error Handling",0.285773803324704,0.132894120420259
+"eslint-config-prettier","Total_Bugs",0.168540194320077,0.382135021404083
+"eslint-plugin-prettier","API Misuse",-0.0936073484861039,0.629109776099524
+"eslint-plugin-prettier","Async / Event",-0.307097611663508,0.105133766789069
+"eslint-plugin-prettier","Logic Error",-0.0501863818174171,0.795992798166206
+"eslint-plugin-prettier","Missing Case",-0.24975159126384,0.191344091736998
+"eslint-plugin-prettier","Missing Feature",-0.247777239416486,0.194993609360343
+"eslint-plugin-prettier","Performance Issue",0.164487923739942,0.393847548910945
+"eslint-plugin-prettier","Runtime Exception",0.0888523316638638,0.646704157267338
+"eslint-plugin-prettier","Test Fault",-0.248451997499977,0.19374096954425
+"eslint-plugin-prettier","Tooling / Config",0.314224661592346,0.0969001947704344
+"eslint-plugin-prettier","Type Error",-0.142380357161722,0.461255493139883
+"eslint-plugin-prettier","UI Bug",-0.0330007347012591,0.865054794493482
+"eslint-plugin-prettier","Error Handling",-0.0740740740740741,0.70255046974996
+"eslint-plugin-prettier","Total_Bugs",0.0737209780774486,0.703904935221513
+"eslint-plugin-react-hooks","API Misuse",0.238273250691901,0.213234397728825
+"eslint-plugin-react-hooks","Async / Event",-0.0170609784257505,0.930003062670097
+"eslint-plugin-react-hooks","Logic Error",-0.0501863818174171,0.795992798166206
+"eslint-plugin-react-hooks","Missing Case",0.0178393993759886,0.926817673307955
+"eslint-plugin-react-hooks","Missing Feature",0.115039432586226,0.552355440186826
+"eslint-plugin-react-hooks","Performance Issue",-0.153522062157279,0.426551928438762
+"eslint-plugin-react-hooks","Runtime Exception",-0.197449625919697,0.304571574748599
+"eslint-plugin-react-hooks","Test Fault",-0.0331269329999969,0.864543445817072
+"eslint-plugin-react-hooks","Tooling / Config",0.0165381400838077,0.932143175128716
+"eslint-plugin-react-hooks","Type Error",-0.0921284663987611,0.634561224730006
+"eslint-plugin-react-hooks","UI Bug",0.0660014694025183,0.733731772505759
+"eslint-plugin-react-hooks","Error Handling",0.462962962962963,0.0114377497766855
+"eslint-plugin-react-hooks","Total_Bugs",0.221162934232346,0.248927944770464
+"happy-dom","API Misuse",NA,NA
+"happy-dom","Async / Event",NA,NA
+"happy-dom","Logic Error",NA,NA
+"happy-dom","Missing Case",NA,NA
+"happy-dom","Missing Feature",NA,NA
+"happy-dom","Performance Issue",NA,NA
+"happy-dom","Runtime Exception",NA,NA
+"happy-dom","Test Fault",NA,NA
+"happy-dom","Tooling / Config",NA,NA
+"happy-dom","Type Error",NA,NA
+"happy-dom","UI Bug",NA,NA
+"happy-dom","Error Handling",NA,NA
+"happy-dom","Total_Bugs",NA,NA
+"husky","API Misuse",-0.231374696692804,0.227180330703812
+"husky","Async / Event",-0.112834867470446,0.560046535552757
+"husky","Logic Error",0.0553189623701235,0.775631851210265
+"husky","Missing Case",-0.052436910946676,0.78704796685728
+"husky","Missing Feature",0.0650279792620515,0.737521271229144
+"husky","Performance Issue",0.241746889207614,0.206437641209505
+"husky","Runtime Exception",0.340973837551705,0.070278179656611
+"husky","Test Fault",-0.170402573446052,0.376820407771473
+"husky","Tooling / Config",0.322054535774986,0.0884256492258073
+"husky","Type Error",-0.190791811017966,0.321491913923581
+"husky","UI Bug",-0.218254395118616,0.255365016692406
+"husky","Error Handling",-0.108866210790363,0.574014077764745
+"husky","Total_Bugs",0.102327975122904,0.5973580001058
+"lint-staged","API Misuse",-0.231374696692804,0.227180330703812
+"lint-staged","Async / Event",-0.112834867470446,0.560046535552757
+"lint-staged","Logic Error",0.0553189623701235,0.775631851210265
+"lint-staged","Missing Case",-0.052436910946676,0.78704796685728
+"lint-staged","Missing Feature",0.0650279792620515,0.737521271229144
+"lint-staged","Performance Issue",0.241746889207614,0.206437641209505
+"lint-staged","Runtime Exception",0.340973837551705,0.070278179656611
+"lint-staged","Test Fault",-0.170402573446052,0.376820407771473
+"lint-staged","Tooling / Config",0.322054535774986,0.0884256492258073
+"lint-staged","Type Error",-0.190791811017966,0.321491913923581
+"lint-staged","UI Bug",-0.218254395118616,0.255365016692406
+"lint-staged","Error Handling",-0.108866210790363,0.574014077764745
+"lint-staged","Total_Bugs",0.102327975122904,0.5973580001058
+"turbo","API Misuse",-0.0936073484861039,0.629109776099524
+"turbo","Async / Event",0.153548805831754,0.426470398104499
+"turbo","Logic Error",0.0250931909087085,0.897193857272822
+"turbo","Missing Case",0.0178393993759886,0.926817673307955
+"turbo","Missing Feature",0.0442459356100868,0.819722346974109
+"turbo","Performance Issue",0.164487923739942,0.393847548910945
+"turbo","Runtime Exception",0.0888523316638638,0.646704157267338
+"turbo","Test Fault",-0.165634664999984,0.390512448253475
+"turbo","Tooling / Config",-0.0248072101257115,0.898359479865297
+"turbo","Type Error",0.134005042034562,0.48828944046302
+"turbo","UI Bug",0.132002938805037,0.494868953118155
+"turbo","Error Handling",-0.0740740740740741,0.70255046974996
+"turbo","Total_Bugs",-0.278501472737028,0.143486629661491
+"concurrently","API Misuse",-0.0283221897672901,0.884047930728878
+"concurrently","Async / Event",0.0638801645437677,0.741997099043567
+"concurrently","Logic Error",-0.0417575937629333,0.82970994891023
+"concurrently","Missing Case",-0.0890596650096099,0.645933002028983
+"concurrently","Missing Feature",-0.154622343740029,0.423204712954969
+"concurrently","Performance Issue",0.0729931868601812,0.706699512851196
+"concurrently","Runtime Exception",-0.00821440096816907,0.966266964523399
+"concurrently","Test Fault",-0.130925553177498,0.498427962866918
+"concurrently","Tooling / Config",0.0275211286490653,0.887306545558568
+"concurrently","Type Error",-0.0627181507505318,0.746536693954128
+"concurrently","UI Bug",0.0205937032661608,0.915555945750969
+"concurrently","Error Handling",-0.0924500327042048,0.633374264020281
+"concurrently","Total_Bugs",-0.218096218695875,0.255718186081169
+"nodemon","API Misuse",-0.212719658845538,0.267913204541308
+"nodemon","Async / Event",-0.213237856102666,0.266721709166055
+"nodemon","Logic Error",0.0580794512767805,0.764739937710507
+"nodemon","Missing Case",-0.173418782356682,0.368304950696809
+"nodemon","Missing Feature",-0.172047861388454,0.372161276684726
+"nodemon","Performance Issue",0.335029697130245,0.0756379369702356
+"nodemon","Runtime Exception",0.260494036125864,0.172316907519846
+"nodemon","Test Fault",-0.103509833901353,0.593108304840364
+"nodemon","Tooling / Config",0.287087671920811,0.131042993361956
+"nodemon","Type Error",-0.290776315749522,0.125946869553641
+"nodemon","UI Bug",-0.25206013382292,0.187137273665014
+"nodemon","Error Handling",-0.051434449987364,0.791029093662479
+"nodemon","Total_Bugs",0.10237854491849,0.597175895502972
+"@testing-library/jest-dom","API Misuse",0.280822045458312,0.140042376237643
+"@testing-library/jest-dom","Async / Event",-0.136487827406004,0.480192507950205
+"@testing-library/jest-dom","Logic Error",0.0752795727261256,0.697932944198753
+"@testing-library/jest-dom","Missing Case",-0.24975159126384,0.191344091736998
+"@testing-library/jest-dom","Missing Feature",-0.247777239416486,0.194993609360343
+"@testing-library/jest-dom","Performance Issue",-0.153522062157279,0.426551928438762
+"@testing-library/jest-dom","Runtime Exception",-0.197449625919697,0.304571574748599
+"@testing-library/jest-dom","Test Fault",0.00828173324999922,0.96599061697401
+"@testing-library/jest-dom","Tooling / Config",-0.0909597704609422,0.638882548778935
+"@testing-library/jest-dom","Type Error",0.259634768941963,0.173787740573013
+"@testing-library/jest-dom","UI Bug",0.231005142908814,0.227944308593135
+"@testing-library/jest-dom","Error Handling",-0.0740740740740741,0.70255046974996
+"@testing-library/jest-dom","Total_Bugs",0.18020683530043,0.349558624178118
+"@playwright/test","API Misuse",0.0827243117732647,0.669655427374296
+"@playwright/test","Async / Event",0.0236930951225185,0.902902427194582
+"@playwright/test","Logic Error",0.162622463574986,0.399307521653602
+"@playwright/test","Missing Case",-0.173418782356682,0.368304950696809
+"@playwright/test","Missing Feature",-0.172047861388454,0.372161276684726
+"@playwright/test","Performance Issue",-0.106600358177805,0.582057766986335
+"@playwright/test","Runtime Exception",-0.13710212427677,0.47819985744571
+"@playwright/test","Test Fault",-0.241522945769824,0.206871294894599
+"@playwright/test","Tooling / Config",-0.183736110029319,0.340042088163303
+"@playwright/test","Type Error",0.26751421048956,0.160628233596328
+"@playwright/test","UI Bug",0.297889249063451,0.116533315416882
+"@playwright/test","Error Handling",-0.051434449987364,0.791029093662479
+"@playwright/test","Total_Bugs",-0.295760240875639,0.119294481613871
+"eslint-plugin-react","API Misuse",0.0708054744182254,0.715122255024445
+"eslint-plugin-react","Async / Event",0.0993691448458609,0.608054061812935
+"eslint-plugin-react","Logic Error",-0.118313182328311,0.541025346485119
+"eslint-plugin-react","Missing Case",0.133589497514415,0.489651374484129
+"eslint-plugin-react","Missing Feature",0.235614999984806,0.218537488775181
+"eslint-plugin-react","Performance Issue",0.0729931868601812,0.706699512851196
+"eslint-plugin-react","Runtime Exception",-0.00821440096816907,0.966266964523399
+"eslint-plugin-react","Test Fault",-0.0206724557648681,0.915234169235827
+"eslint-plugin-react","Tooling / Config",0.103204232433995,0.594205925300572
+"eslint-plugin-react","Type Error",-0.125436301501064,0.516758289974267
+"eslint-plugin-react","UI Bug",-0.0137291355107739,0.943648716382923
+"eslint-plugin-react","Error Handling",0.354391792032785,0.0592610212655531
+"eslint-plugin-react","Total_Bugs",0.129494629850676,0.503174607599272
+"globals","API Misuse",-0.0500269614470928,0.796627396032396
+"globals","Async / Event",-0.0250744149934325,0.89727037920848
+"globals","Logic Error",-0.073758616493498,0.70376051312646
+"globals","Missing Case",0.026218455473338,0.892609470564081
+"globals","Missing Feature",0.117050362671693,0.545382824451111
+"globals","Performance Issue",0.241746889207614,0.206437641209505
+"globals","Runtime Exception",0.130585725019802,0.499553199850571
+"globals","Test Fault",-0.0730296743340221,0.706559318826171
+"globals","Tooling / Config",0.243060026999989,0.203907351684356
+"globals","Type Error",-0.264646705605565,0.165332379249195
+"globals","UI Bug",-0.145502930079078,0.451382418806074
+"globals","Error Handling",0.285773803324704,0.132894120420259
+"globals","Total_Bugs",0.168540194320077,0.382135021404083
+"@testing-library/react","API Misuse",0.280822045458312,0.140042376237643
+"@testing-library/react","Async / Event",-0.136487827406004,0.480192507950205
+"@testing-library/react","Logic Error",0.0752795727261256,0.697932944198753
+"@testing-library/react","Missing Case",-0.24975159126384,0.191344091736998
+"@testing-library/react","Missing Feature",-0.247777239416486,0.194993609360343
+"@testing-library/react","Performance Issue",-0.153522062157279,0.426551928438762
+"@testing-library/react","Runtime Exception",-0.197449625919697,0.304571574748599
+"@testing-library/react","Test Fault",0.00828173324999922,0.96599061697401
+"@testing-library/react","Tooling / Config",-0.0909597704609422,0.638882548778935
+"@testing-library/react","Type Error",0.259634768941963,0.173787740573013
+"@testing-library/react","UI Bug",0.231005142908814,0.227944308593135
+"@testing-library/react","Error Handling",-0.0740740740740741,0.70255046974996
+"@testing-library/react","Total_Bugs",0.18020683530043,0.349558624178118
+"@biomejs/biome","API Misuse",0.0827243117732647,0.669655427374296
+"@biomejs/biome","Async / Event",0.296163689031481,0.118767562235125
+"@biomejs/biome","Logic Error",-0.290397256383903,0.126463749906932
+"@biomejs/biome","Missing Case",0.198192894121922,0.302717886427505
+"@biomejs/biome","Missing Feature",0.0860239306942269,0.657259577695968
+"@biomejs/biome","Performance Issue",-0.106600358177805,0.582057766986335
+"@biomejs/biome","Runtime Exception",-0.13710212427677,0.47819985744571
+"@biomejs/biome","Test Fault",0.126512019212765,0.513140375417156
+"@biomejs/biome","Tooling / Config",-0.0574175343841622,0.767347715590124
+"@biomejs/biome","Type Error",-0.0814173684098662,0.674589078979025
+"@biomejs/biome","UI Bug",-0.0114572788101327,0.95296235166564
+"@biomejs/biome","Error Handling",-0.051434449987364,0.791029093662479
+"@biomejs/biome","Total_Bugs",-0.170630908197484,0.376171789306963
+"typescript-eslint","API Misuse",-0.106208211627338,0.583454896113161
+"typescript-eslint","Async / Event",0.0993691448458609,0.608054061812935
+"typescript-eslint","Logic Error",-0.00695959896048888,0.971417633172251
+"typescript-eslint","Missing Case",0.133589497514415,0.489651374484129
+"typescript-eslint","Missing Feature",0.235614999984806,0.218537488775181
+"typescript-eslint","Performance Issue",0.337593489228338,0.0732888965034291
+"typescript-eslint","Runtime Exception",0.230003227108734,0.230024244475569
+"typescript-eslint","Test Fault",0.0620173672946042,0.749278444479221
+"typescript-eslint","Tooling / Config",0.185767618381191,0.334635975955791
+"typescript-eslint","Type Error",-0.355402854253014,0.0584891034173802
+"typescript-eslint","UI Bug",-0.288311845726251,0.129335272769669
+"typescript-eslint","Error Handling",0.354391792032785,0.0592610212655531
+"typescript-eslint","Total_Bugs",0.19083419135889,0.321382411971487
+"jest","API Misuse",-0.0945420705980168,0.625673992098942
+"jest","Async / Event",0.0236930951225185,0.902902427194582
+"jest","Logic Error",0.302013146639259,0.111320020148499
+"jest","Missing Case",0.0495482235304804,0.798533848578656
+"jest","Missing Feature",0.233493526170044,0.222833322110617
+"jest","Performance Issue",-0.106600358177805,0.582057766986335
+"jest","Runtime Exception",0.260494036125864,0.172316907519846
+"jest","Test Fault",0.0115010926557059,0.952782672552702
+"jest","Tooling / Config",0.0229670137536649,0.905864741149775
+"jest","Type Error",-0.0814173684098662,0.674589078979025
+"jest","UI Bug",-0.25206013382292,0.187137273665014
+"jest","Error Handling",-0.051434449987364,0.791029093662479
+"jest","Total_Bugs",0.182006302077316,0.344686694404715
+"nyc","API Misuse",-0.212719658845538,0.267913204541308
+"nyc","Async / Event",-0.213237856102666,0.266721709166055
+"nyc","Logic Error",0.0580794512767805,0.764739937710507
+"nyc","Missing Case",-0.173418782356682,0.368304950696809
+"nyc","Missing Feature",-0.172047861388454,0.372161276684726
+"nyc","Performance Issue",0.335029697130245,0.0756379369702356
+"nyc","Runtime Exception",0.260494036125864,0.172316907519846
+"nyc","Test Fault",-0.103509833901353,0.593108304840364
+"nyc","Tooling / Config",0.287087671920811,0.131042993361956
+"nyc","Type Error",-0.290776315749522,0.125946869553641
+"nyc","UI Bug",-0.25206013382292,0.187137273665014
+"nyc","Error Handling",-0.051434449987364,0.791029093662479
+"nyc","Total_Bugs",0.10237854491849,0.597175895502972
+"eslint-plugin-import","API Misuse",-0.134530401394628,0.486570353638016
+"eslint-plugin-import","Async / Event",-0.241325066054234,0.207254996245756
+"eslint-plugin-import","Logic Error",0.139191979209778,0.47145285277506
+"eslint-plugin-import","Missing Case",-0.17811933001922,0.355261752549865
+"eslint-plugin-import","Missing Feature",-0.0662667187457268,0.732700293704287
+"eslint-plugin-import","Performance Issue",0.0729931868601812,0.706699512851196
+"eslint-plugin-import","Runtime Exception",0.230003227108734,0.230024244475569
+"eslint-plugin-import","Test Fault",-0.199833739060391,0.298650781537678
+"eslint-plugin-import","Tooling / Config",0.275211286490653,0.14847443556643
+"eslint-plugin-import","Type Error",-0.167248402001418,0.385846692684685
+"eslint-plugin-import","UI Bug",-0.17847876164006,0.354275849185281
+"eslint-plugin-import","Error Handling",-0.0924500327042048,0.633374264020281
+"eslint-plugin-import","Total_Bugs",0.170387670856152,0.376862763374278
+"eslint","API Misuse",-0.0482457983731928,0.803726134445606
+"eslint","Async / Event",-0.0773813246365268,0.689907677025852
+"eslint","Logic Error",0.175460191541704,0.36260625323579
+"eslint","Missing Case",0.03539896071572,0.855346656767184
+"eslint","Missing Feature",0.0802722803312,0.678922613955262
+"eslint","Performance Issue",0.0124341182825498,0.948956916929887
+"eslint","Runtime Exception",0.0391801954984689,0.840082420203691
+"eslint","Test Fault",0.0798201240576932,0.680636549486784
+"eslint","Tooling / Config",-0.103138685121931,0.594441463841669
+"eslint","Type Error",0.0522319308773341,0.787861591822875
+"eslint","UI Bug",-0.0233870724380226,0.904150805279265
+"eslint","Error Handling",0.136487170808888,0.480194640095219
+"eslint","Total_Bugs",0.0882357169910975,0.648999705974755
+"prettier","API Misuse",-0.0479089998515856,0.805070165084674
+"prettier","Async / Event",0,1
+"prettier","Logic Error",0.146504175976247,0.44824069875694
+"prettier","Missing Case",-0.0334779471721296,0.86312143735839
+"prettier","Missing Feature",0.127317631666391,0.510439068515705
+"prettier","Performance Issue",0.109753929721916,0.570876311724997
+"prettier","Runtime Exception",0.166742926870459,0.387304693188105
+"prettier","Test Fault",-0.165778632576056,0.390094890063246
+"prettier","Tooling / Config",0.13448918297759,0.486705117366026
+"prettier","Type Error",-0.141456288028935,0.464198909825893
+"prettier","UI Bug",-0.10321693289529,0.594160291957619
+"prettier","Error Handling",0.196930279942793,0.305871016031789
+"prettier","Total_Bugs",0.0922313192852019,0.634181479106307
+"npm-run-all2","API Misuse",NA,NA
+"npm-run-all2","Async / Event",NA,NA
+"npm-run-all2","Logic Error",NA,NA
+"npm-run-all2","Missing Case",NA,NA
+"npm-run-all2","Missing Feature",NA,NA
+"npm-run-all2","Performance Issue",NA,NA
+"npm-run-all2","Runtime Exception",NA,NA
+"npm-run-all2","Test Fault",NA,NA
+"npm-run-all2","Tooling / Config",NA,NA
+"npm-run-all2","Type Error",NA,NA
+"npm-run-all2","UI Bug",NA,NA
+"npm-run-all2","Error Handling",NA,NA
+"npm-run-all2","Total_Bugs",NA,NA
+"rimraf","API Misuse",0.11913662534595,0.53819284592929
+"rimraf","Async / Event",-0.136487827406004,0.480192507950205
+"rimraf","Logic Error",0.0250931909087085,0.897193857272822
+"rimraf","Missing Case",-0.24975159126384,0.191344091736998
+"rimraf","Missing Feature",-0.247777239416486,0.194993609360343
+"rimraf","Performance Issue",-0.153522062157279,0.426551928438762
+"rimraf","Runtime Exception",-0.197449625919697,0.304571574748599
+"rimraf","Test Fault",-0.347832796499967,0.0644639866476502
+"rimraf","Tooling / Config",-0.0248072101257115,0.898359479865297
+"rimraf","Type Error",0.259634768941963,0.173787740573013
+"rimraf","UI Bug",0.36300808171385,0.0529321723158116
+"rimraf","Error Handling",-0.0740740740740741,0.70255046974996
+"rimraf","Total_Bugs",-0.212971714445963,0.267333220804821
+"jest-mock","API Misuse",0.307261729443555,0.10493846504771
+"jest-mock","Async / Event",0.0236930951225185,0.902902427194582
+"jest-mock","Logic Error",0.232317805107122,0.225238454123938
+"jest-mock","Missing Case",-0.173418782356682,0.368304950696809
+"jest-mock","Missing Feature",-0.172047861388454,0.372161276684726
+"jest-mock","Performance Issue",-0.106600358177805,0.582057766986335
+"jest-mock","Runtime Exception",-0.13710212427677,0.47819985744571
+"jest-mock","Test Fault",0.25302403842553,0.185399975656732
+"jest-mock","Tooling / Config",-0.275604165043979,0.14787236930993
+"jest-mock","Type Error",0.26751421048956,0.160628233596328
+"jest-mock","UI Bug",0.114572788101327,0.553979341124824
+"jest-mock","Error Handling",-0.051434449987364,0.791029093662479
+"jest-mock","Total_Bugs",0.25025866535631,0.190414485109519
+"supertest","API Misuse",-0.212719658845538,0.267913204541308
+"supertest","Async / Event",-0.213237856102666,0.266721709166055
+"supertest","Logic Error",0.0580794512767805,0.764739937710507
+"supertest","Missing Case",-0.173418782356682,0.368304950696809
+"supertest","Missing Feature",-0.172047861388454,0.372161276684726
+"supertest","Performance Issue",0.335029697130245,0.0756379369702356
+"supertest","Runtime Exception",0.260494036125864,0.172316907519846
+"supertest","Test Fault",-0.103509833901353,0.593108304840364
+"supertest","Tooling / Config",0.287087671920811,0.131042993361956
+"supertest","Type Error",-0.290776315749522,0.125946869553641
+"supertest","UI Bug",-0.25206013382292,0.187137273665014
+"supertest","Error Handling",-0.051434449987364,0.791029093662479
+"supertest","Total_Bugs",0.10237854491849,0.597175895502972
+"vitest","API Misuse",0.0708054744182254,0.715122255024445
+"vitest","Async / Event",0.0993691448458609,0.608054061812935
+"vitest","Logic Error",-0.118313182328311,0.541025346485119
+"vitest","Missing Case",0.133589497514415,0.489651374484129
+"vitest","Missing Feature",0.235614999984806,0.218537488775181
+"vitest","Performance Issue",0.0729931868601812,0.706699512851196
+"vitest","Runtime Exception",-0.00821440096816907,0.966266964523399
+"vitest","Test Fault",-0.0206724557648681,0.915234169235827
+"vitest","Tooling / Config",0.103204232433995,0.594205925300572
+"vitest","Type Error",-0.125436301501064,0.516758289974267
+"vitest","UI Bug",-0.0137291355107739,0.943648716382923
+"vitest","Error Handling",0.354391792032785,0.0592610212655531
+"vitest","Total_Bugs",0.129494629850676,0.503174607599272
+"execa","API Misuse",-0.00850975895328218,0.965054774562276
+"execa","Async / Event",-0.136487827406004,0.480192507950205
+"execa","Logic Error",0.125465954543543,0.516658392401773
+"execa","Missing Case",-0.0891969968799429,0.645422407608712
+"execa","Missing Feature",0.0442459356100868,0.819722346974109
+"execa","Performance Issue",-0.153522062157279,0.426551928438762
+"execa","Runtime Exception",0.0888523316638638,0.646704157267338
+"execa","Test Fault",-0.165634664999984,0.390512448253475
+"execa","Tooling / Config",0.124036050628558,0.521486289555738
+"execa","Type Error",0.0083753151271601,0.965606541305705
+"execa","UI Bug",-0.0330007347012591,0.865054794493482
+"execa","Error Handling",-0.0740740740740741,0.70255046974996
+"execa","Total_Bugs",0.131059516582131,0.497984733673379
+"eslint-import-resolver-typescript","API Misuse",0.153175661159079,0.427608735181583
+"eslint-import-resolver-typescript","Async / Event",0.0341219568515009,0.86051355282904
+"eslint-import-resolver-typescript","Logic Error",0.384762260600198,0.0393058021557005
+"eslint-import-resolver-typescript","Missing Case",-0.0891969968799429,0.645422407608712
+"eslint-import-resolver-typescript","Missing Feature",0.0442459356100868,0.819722346974109
+"eslint-import-resolver-typescript","Performance Issue",-0.153522062157279,0.426551928438762
+"eslint-import-resolver-typescript","Runtime Exception",0.0888523316638638,0.646704157267338
+"eslint-import-resolver-typescript","Test Fault",0.190479864749982,0.322298624806486
+"eslint-import-resolver-typescript","Tooling / Config",-0.181919540921884,0.344920652170664
+"eslint-import-resolver-typescript","Type Error",0.134005042034562,0.48828944046302
+"eslint-import-resolver-typescript","UI Bug",-0.0990022041037774,0.609386131055159
+"eslint-import-resolver-typescript","Error Handling",-0.0740740740740741,0.70255046974996
+"eslint-import-resolver-typescript","Total_Bugs",0.311266351882561,0.100256631107015
+"lerna","API Misuse",-0.134530401394628,0.486570353638016
+"lerna","Async / Event",0.0638801645437677,0.741997099043567
+"lerna","Logic Error",0.0417575937629333,0.82970994891023
+"lerna","Missing Case",0.0445298325048049,0.818584573962755
+"lerna","Missing Feature",0.0883556249943024,0.64855306222176
+"lerna","Performance Issue",0.0729931868601812,0.706699512851196
+"lerna","Runtime Exception",0.230003227108734,0.230024244475569
+"lerna","Test Fault",0.0206724557648681,0.915234169235827
+"lerna","Tooling / Config",0.151366207569859,0.433152367113604
+"lerna","Type Error",-0.271778653252304,0.153810022679444
+"lerna","UI Bug",-0.308905548992412,0.10299725922663
+"lerna","Error Handling",-0.0924500327042048,0.633374264020281
+"lerna","Total_Bugs",0.0681550683424609,0.725370293196041
+"@changesets/cli","API Misuse",-0.0283221897672901,0.884047930728878
+"@changesets/cli","Async / Event",0,1
+"@changesets/cli","Logic Error",-0.055676791683911,0.774217584692329
+"@changesets/cli","Missing Case",-0.0890596650096099,0.645933002028983
+"@changesets/cli","Missing Feature",-0.0662667187457268,0.732700293704287
+"@changesets/cli","Performance Issue",0.0729931868601812,0.706699512851196
+"@changesets/cli","Runtime Exception",-0.00821440096816907,0.966266964523399
+"@changesets/cli","Test Fault",-0.282523562119864,0.137555336648431
+"@changesets/cli","Tooling / Config",0.0688028216226633,0.722861330989903
+"@changesets/cli","Type Error",0.167248402001418,0.385846692684685
+"@changesets/cli","UI Bug",0.233395303683156,0.223033586154565
+"@changesets/cli","Error Handling",-0.0924500327042048,0.633374264020281
+"@changesets/cli","Total_Bugs",-0.231727232364367,0.226453140644279
+"@babel/core","API Misuse",-0.00850975895328218,0.965054774562276
+"@babel/core","Async / Event",0.230323208747631,0.229358597253041
+"@babel/core","Logic Error",0.00836439696956951,0.96565135086348
+"@babel/core","Missing Case",0.178393993759886,0.354508216322403
+"@babel/core","Missing Feature",0.230078865172451,0.229866780308117
+"@babel/core","Performance Issue",-0.153522062157279,0.426551928438762
+"@babel/core","Runtime Exception",0.0888523316638638,0.646704157267338
+"@babel/core","Test Fault",0.0993807989999907,0.608011774938008
+"@babel/core","Tooling / Config",-0.0248072101257115,0.898359479865297
+"@babel/core","Type Error",-0.117254411780241,0.544677622725437
+"@babel/core","UI Bug",-0.18975422453224,0.324179985661639
+"@babel/core","Error Handling",-0.0740740740740741,0.70255046974996
+"@babel/core","Total_Bugs",0.00819121978638317,0.966362106441254
+"@babel/preset-env","API Misuse",-0.00850975895328218,0.965054774562276
+"@babel/preset-env","Async / Event",0.230323208747631,0.229358597253041
+"@babel/preset-env","Logic Error",0.00836439696956951,0.96565135086348
+"@babel/preset-env","Missing Case",0.178393993759886,0.354508216322403
+"@babel/preset-env","Missing Feature",0.230078865172451,0.229866780308117
+"@babel/preset-env","Performance Issue",-0.153522062157279,0.426551928438762
+"@babel/preset-env","Runtime Exception",0.0888523316638638,0.646704157267338
+"@babel/preset-env","Test Fault",0.0993807989999907,0.608011774938008
+"@babel/preset-env","Tooling / Config",-0.0248072101257115,0.898359479865297
+"@babel/preset-env","Type Error",-0.117254411780241,0.544677622725437
+"@babel/preset-env","UI Bug",-0.18975422453224,0.324179985661639
+"@babel/preset-env","Error Handling",-0.0740740740740741,0.70255046974996
+"@babel/preset-env","Total_Bugs",0.00819121978638317,0.966362106441254
+"@microsoft/api-extractor","API Misuse",NA,NA
+"@microsoft/api-extractor","Async / Event",NA,NA
+"@microsoft/api-extractor","Logic Error",NA,NA
+"@microsoft/api-extractor","Missing Case",NA,NA
+"@microsoft/api-extractor","Missing Feature",NA,NA
+"@microsoft/api-extractor","Performance Issue",NA,NA
+"@microsoft/api-extractor","Runtime Exception",NA,NA
+"@microsoft/api-extractor","Test Fault",NA,NA
+"@microsoft/api-extractor","Tooling / Config",NA,NA
+"@microsoft/api-extractor","Type Error",NA,NA
+"@microsoft/api-extractor","UI Bug",NA,NA
+"@microsoft/api-extractor","Error Handling",NA,NA
+"@microsoft/api-extractor","Total_Bugs",NA,NA
+"tslib","API Misuse",0.0255292768598465,0.895416828001407
+"tslib","Async / Event",-0.0170609784257505,0.930003062670097
+"tslib","Logic Error",0.0836439696956951,0.66619178747912
+"tslib","Missing Case",0.0178393993759886,0.926817673307955
+"tslib","Missing Feature",0.115039432586226,0.552355440186826
+"tslib","Performance Issue",0.164487923739942,0.393847548910945
+"tslib","Runtime Exception",0.0888523316638638,0.646704157267338
+"tslib","Test Fault",0.0662538659999938,0.73275026387499
+"tslib","Tooling / Config",0.115766980586654,0.549828012619031
+"tslib","Type Error",-0.368513865595044,0.0491754686922852
+"tslib","UI Bug",-0.264005877610073,0.166396885694807
+"tslib","Error Handling",0.462962962962963,0.0114377497766855
+"tslib","Total_Bugs",0.294883912309794,0.12044494938402
+"@babel/preset-typescript","API Misuse",-0.0945420705980168,0.625673992098942
+"@babel/preset-typescript","Async / Event",0.0236930951225185,0.902902427194582
+"@babel/preset-typescript","Logic Error",0.302013146639259,0.111320020148499
+"@babel/preset-typescript","Missing Case",0.0495482235304804,0.798533848578656
+"@babel/preset-typescript","Missing Feature",0.233493526170044,0.222833322110617
+"@babel/preset-typescript","Performance Issue",-0.106600358177805,0.582057766986335
+"@babel/preset-typescript","Runtime Exception",0.260494036125864,0.172316907519846
+"@babel/preset-typescript","Test Fault",0.0115010926557059,0.952782672552702
+"@babel/preset-typescript","Tooling / Config",0.0229670137536649,0.905864741149775
+"@babel/preset-typescript","Type Error",-0.0814173684098662,0.674589078979025
+"@babel/preset-typescript","UI Bug",-0.25206013382292,0.187137273665014
+"@babel/preset-typescript","Error Handling",-0.051434449987364,0.791029093662479
+"@babel/preset-typescript","Total_Bugs",0.182006302077316,0.344686694404715
+"typescript","API Misuse",-0.0139829608129326,0.942608570759345
+"typescript","Async / Event",0.0420510723160163,0.828530614553641
+"typescript","Logic Error",0.0549764268019329,0.776986329378117
+"typescript","Missing Case",0.112366976681584,0.561685146677892
+"typescript","Missing Feature",0.111478686253202,0.564802049432631
+"typescript","Performance Issue",-0.0300312487565186,0.87710194204123
+"typescript","Runtime Exception",-0.0162221421130763,0.933436861805256
+"typescript","Test Fault",0.127010579255424,0.511467821131197
+"typescript","Tooling / Config",-0.122287217171605,0.527420619831544
+"typescript","Type Error",0.0183493960854393,0.924731303963295
+"typescript","UI Bug",-0.0271128702151847,0.888967983840787
+"typescript","Error Handling",0.111573113565867,0.564470343124752
+"typescript","Total_Bugs",0.0179460634019389,0.926381276753233
+"postcss","API Misuse",NA,NA
+"postcss","Async / Event",NA,NA
+"postcss","Logic Error",NA,NA
+"postcss","Missing Case",NA,NA
+"postcss","Missing Feature",NA,NA
+"postcss","Performance Issue",NA,NA
+"postcss","Runtime Exception",NA,NA
+"postcss","Test Fault",NA,NA
+"postcss","Tooling / Config",NA,NA
+"postcss","Type Error",NA,NA
+"postcss","UI Bug",NA,NA
+"postcss","Error Handling",NA,NA
+"postcss","Total_Bugs",NA,NA
+"tailwindcss","API Misuse",NA,NA
+"tailwindcss","Async / Event",NA,NA
+"tailwindcss","Logic Error",NA,NA
+"tailwindcss","Missing Case",NA,NA
+"tailwindcss","Missing Feature",NA,NA
+"tailwindcss","Performance Issue",NA,NA
+"tailwindcss","Runtime Exception",NA,NA
+"tailwindcss","Test Fault",NA,NA
+"tailwindcss","Tooling / Config",NA,NA
+"tailwindcss","Type Error",NA,NA
+"tailwindcss","UI Bug",NA,NA
+"tailwindcss","Error Handling",NA,NA
+"tailwindcss","Total_Bugs",NA,NA
+"next","API Misuse",NA,NA
+"next","Async / Event",NA,NA
+"next","Logic Error",NA,NA
+"next","Missing Case",NA,NA
+"next","Missing Feature",NA,NA
+"next","Performance Issue",NA,NA
+"next","Runtime Exception",NA,NA
+"next","Test Fault",NA,NA
+"next","Tooling / Config",NA,NA
+"next","Type Error",NA,NA
+"next","UI Bug",NA,NA
+"next","Error Handling",NA,NA
+"next","Total_Bugs",NA,NA
+"rollup","API Misuse",0.148691496278273,0.441418235215763
+"rollup","Async / Event",0.0638801645437677,0.741997099043567
+"rollup","Logic Error",-0.153111177130755,0.42780562292011
+"rollup","Missing Case",-0.0890596650096099,0.645933002028983
+"rollup","Missing Feature",-0.154622343740029,0.423204712954969
+"rollup","Performance Issue",-0.191607115507976,0.319389368395805
+"rollup","Runtime Exception",-0.246432029045072,0.197507585887601
+"rollup","Test Fault",-0.21361537623697,0.26585584197331
+"rollup","Tooling / Config",-0.0550422572981307,0.776725968037725
+"rollup","Type Error",0.167248402001418,0.385846692684685
+"rollup","UI Bug",0.295176413481638,0.120060039095273
+"rollup","Error Handling",-0.0924500327042048,0.633374264020281
+"rollup","Total_Bugs",-0.27943578020409,0.142092614471239
+"@rollup/plugin-commonjs","API Misuse",0.11913662534595,0.53819284592929
+"@rollup/plugin-commonjs","Async / Event",0.0597134244901266,0.758313330733359
+"@rollup/plugin-commonjs","Logic Error",-0.301118290904502,0.112436242653075
+"@rollup/plugin-commonjs","Missing Case",0.0178393993759886,0.926817673307955
+"@rollup/plugin-commonjs","Missing Feature",-0.0619443098541215,0.749564447718761
+"@rollup/plugin-commonjs","Performance Issue",-0.153522062157279,0.426551928438762
+"@rollup/plugin-commonjs","Runtime Exception",-0.197449625919697,0.304571574748599
+"@rollup/plugin-commonjs","Test Fault",-0.0828173324999922,0.669304787410806
+"@rollup/plugin-commonjs","Tooling / Config",0.0661525603352307,0.733144167402744
+"@rollup/plugin-commonjs","Type Error",0.0083753151271601,0.965606541305705
+"@rollup/plugin-commonjs","UI Bug",0.140253122480351,0.468046054958276
+"@rollup/plugin-commonjs","Error Handling",-0.0740740740740741,0.70255046974996
+"@rollup/plugin-commonjs","Total_Bugs",-0.122868296795748,0.525445240211447
+"@rollup/plugin-typescript","API Misuse",0.0827243117732647,0.669655427374296
+"@rollup/plugin-typescript","Async / Event",0.296163689031481,0.118767562235125
+"@rollup/plugin-typescript","Logic Error",-0.290397256383903,0.126463749906932
+"@rollup/plugin-typescript","Missing Case",0.198192894121922,0.302717886427505
+"@rollup/plugin-typescript","Missing Feature",0.0860239306942269,0.657259577695968
+"@rollup/plugin-typescript","Performance Issue",-0.106600358177805,0.582057766986335
+"@rollup/plugin-typescript","Runtime Exception",-0.13710212427677,0.47819985744571
+"@rollup/plugin-typescript","Test Fault",0.126512019212765,0.513140375417156
+"@rollup/plugin-typescript","Tooling / Config",-0.0574175343841622,0.767347715590124
+"@rollup/plugin-typescript","Type Error",-0.0814173684098662,0.674589078979025
+"@rollup/plugin-typescript","UI Bug",-0.0114572788101327,0.95296235166564
+"@rollup/plugin-typescript","Error Handling",-0.051434449987364,0.791029093662479
+"@rollup/plugin-typescript","Total_Bugs",-0.170630908197484,0.376171789306963
+"@rollup/plugin-terser","API Misuse",NA,NA
+"@rollup/plugin-terser","Async / Event",NA,NA
+"@rollup/plugin-terser","Logic Error",NA,NA
+"@rollup/plugin-terser","Missing Case",NA,NA
+"@rollup/plugin-terser","Missing Feature",NA,NA
+"@rollup/plugin-terser","Performance Issue",NA,NA
+"@rollup/plugin-terser","Runtime Exception",NA,NA
+"@rollup/plugin-terser","Test Fault",NA,NA
+"@rollup/plugin-terser","Tooling / Config",NA,NA
+"@rollup/plugin-terser","Type Error",NA,NA
+"@rollup/plugin-terser","UI Bug",NA,NA
+"@rollup/plugin-terser","Error Handling",NA,NA
+"@rollup/plugin-terser","Total_Bugs",NA,NA
+"esbuild","API Misuse",0.399958670804262,0.0315753126652463
+"esbuild","Async / Event",0.153548805831754,0.426470398104499
+"esbuild","Logic Error",0.209109924239238,0.276308691864473
+"esbuild","Missing Case",0.0178393993759886,0.926817673307955
+"esbuild","Missing Feature",0.115039432586226,0.552355440186826
+"esbuild","Performance Issue",-0.153522062157279,0.426551928438762
+"esbuild","Runtime Exception",-0.197449625919697,0.304571574748599
+"esbuild","Test Fault",0.32298759674997,0.0874545976443182
+"esbuild","Tooling / Config",-0.289417451466634,0.127807012525297
+"esbuild","Type Error",0.0335012605086404,0.863027006470108
+"esbuild","UI Bug",0,1
+"esbuild","Error Handling",0.462962962962963,0.0114377497766855
+"esbuild","Total_Bugs",0.401369769532776,0.0309248600464516
+"@rollup/plugin-json","API Misuse",0.0827243117732647,0.669655427374296
+"@rollup/plugin-json","Async / Event",0.296163689031481,0.118767562235125
+"@rollup/plugin-json","Logic Error",-0.290397256383903,0.126463749906932
+"@rollup/plugin-json","Missing Case",0.198192894121922,0.302717886427505
+"@rollup/plugin-json","Missing Feature",0.0860239306942269,0.657259577695968
+"@rollup/plugin-json","Performance Issue",-0.106600358177805,0.582057766986335
+"@rollup/plugin-json","Runtime Exception",-0.13710212427677,0.47819985744571
+"@rollup/plugin-json","Test Fault",0.126512019212765,0.513140375417156
+"@rollup/plugin-json","Tooling / Config",-0.0574175343841622,0.767347715590124
+"@rollup/plugin-json","Type Error",-0.0814173684098662,0.674589078979025
+"@rollup/plugin-json","UI Bug",-0.0114572788101327,0.95296235166564
+"@rollup/plugin-json","Error Handling",-0.051434449987364,0.791029093662479
+"@rollup/plugin-json","Total_Bugs",-0.170630908197484,0.376171789306963
+"@rollup/plugin-node-resolve","API Misuse",0.11913662534595,0.53819284592929
+"@rollup/plugin-node-resolve","Async / Event",0.0597134244901266,0.758313330733359
+"@rollup/plugin-node-resolve","Logic Error",-0.301118290904502,0.112436242653075
+"@rollup/plugin-node-resolve","Missing Case",0.0178393993759886,0.926817673307955
+"@rollup/plugin-node-resolve","Missing Feature",-0.0619443098541215,0.749564447718761
+"@rollup/plugin-node-resolve","Performance Issue",-0.153522062157279,0.426551928438762
+"@rollup/plugin-node-resolve","Runtime Exception",-0.197449625919697,0.304571574748599
+"@rollup/plugin-node-resolve","Test Fault",-0.0828173324999922,0.669304787410806
+"@rollup/plugin-node-resolve","Tooling / Config",0.0661525603352307,0.733144167402744
+"@rollup/plugin-node-resolve","Type Error",0.0083753151271601,0.965606541305705
+"@rollup/plugin-node-resolve","UI Bug",0.140253122480351,0.468046054958276
+"@rollup/plugin-node-resolve","Error Handling",-0.0740740740740741,0.70255046974996
+"@rollup/plugin-node-resolve","Total_Bugs",-0.122868296795748,0.525445240211447
+"drizzle-orm","API Misuse",NA,NA
+"drizzle-orm","Async / Event",NA,NA
+"drizzle-orm","Logic Error",NA,NA
+"drizzle-orm","Missing Case",NA,NA
+"drizzle-orm","Missing Feature",NA,NA
+"drizzle-orm","Performance Issue",NA,NA
+"drizzle-orm","Runtime Exception",NA,NA
+"drizzle-orm","Test Fault",NA,NA
+"drizzle-orm","Tooling / Config",NA,NA
+"drizzle-orm","Type Error",NA,NA
+"drizzle-orm","UI Bug",NA,NA
+"drizzle-orm","Error Handling",NA,NA
+"drizzle-orm","Total_Bugs",NA,NA
+"postgres","API Misuse",NA,NA
+"postgres","Async / Event",NA,NA
+"postgres","Logic Error",NA,NA
+"postgres","Missing Case",NA,NA
+"postgres","Missing Feature",NA,NA
+"postgres","Performance Issue",NA,NA
+"postgres","Runtime Exception",NA,NA
+"postgres","Test Fault",NA,NA
+"postgres","Tooling / Config",NA,NA
+"postgres","Type Error",NA,NA
+"postgres","UI Bug",NA,NA
+"postgres","Error Handling",NA,NA
+"postgres","Total_Bugs",NA,NA
+"@octokit/rest","API Misuse",0.0827243117732647,0.669655427374296
+"@octokit/rest","Async / Event",-0.213237856102666,0.266721709166055
+"@octokit/rest","Logic Error",-0.127774792808917,0.508909282622481
+"@octokit/rest","Missing Case",-0.173418782356682,0.368304950696809
+"@octokit/rest","Missing Feature",-0.172047861388454,0.372161276684726
+"@octokit/rest","Performance Issue",-0.106600358177805,0.582057766986335
+"@octokit/rest","Runtime Exception",-0.13710212427677,0.47819985744571
+"@octokit/rest","Test Fault",-0.241522945769824,0.206871294894599
+"@octokit/rest","Tooling / Config",0.149285589398822,0.439574940084074
+"@octokit/rest","Type Error",0.0930484210398471,0.631167871429645
+"@octokit/rest","UI Bug",0.206231018582389,0.28312435012302
+"@octokit/rest","Error Handling",-0.051434449987364,0.791029093662479
+"@octokit/rest","Total_Bugs",0,1
+"cross-env","API Misuse",0.0827243117732647,0.669655427374296
+"cross-env","Async / Event",-0.213237856102666,0.266721709166055
+"cross-env","Logic Error",-0.127774792808917,0.508909282622481
+"cross-env","Missing Case",-0.173418782356682,0.368304950696809
+"cross-env","Missing Feature",-0.172047861388454,0.372161276684726
+"cross-env","Performance Issue",-0.106600358177805,0.582057766986335
+"cross-env","Runtime Exception",-0.13710212427677,0.47819985744571
+"cross-env","Test Fault",-0.241522945769824,0.206871294894599
+"cross-env","Tooling / Config",0.149285589398822,0.439574940084074
+"cross-env","Type Error",0.0930484210398471,0.631167871429645
+"cross-env","UI Bug",0.206231018582389,0.28312435012302
+"cross-env","Error Handling",-0.051434449987364,0.791029093662479
+"cross-env","Total_Bugs",0,1
+"ts-node","API Misuse",0.0680780716262574,0.725668712451251
+"ts-node","Async / Event",-0.136487827406004,0.480192507950205
+"ts-node","Logic Error",0.209109924239238,0.276308691864473
+"ts-node","Missing Case",-0.24975159126384,0.191344091736998
+"ts-node","Missing Feature",-0.247777239416486,0.194993609360343
+"ts-node","Performance Issue",0.164487923739942,0.393847548910945
+"ts-node","Runtime Exception",0.0888523316638638,0.646704157267338
+"ts-node","Test Fault",0.10766253224999,0.57828090721598
+"ts-node","Tooling / Config",0.00826907004190384,0.966042589470516
+"ts-node","Type Error",-0.0167506302543202,0.931273341297841
+"ts-node","UI Bug",-0.0990022041037774,0.609386131055159
+"ts-node","Error Handling",-0.0740740740740741,0.70255046974996
+"ts-node","Total_Bugs",0.253927813377878,0.183781300012534
+"server-only","API Misuse",NA,NA
+"server-only","Async / Event",NA,NA
+"server-only","Logic Error",NA,NA
+"server-only","Missing Case",NA,NA
+"server-only","Missing Feature",NA,NA
+"server-only","Performance Issue",NA,NA
+"server-only","Runtime Exception",NA,NA
+"server-only","Test Fault",NA,NA
+"server-only","Tooling / Config",NA,NA
+"server-only","Type Error",NA,NA
+"server-only","UI Bug",NA,NA
+"server-only","Error Handling",NA,NA
+"server-only","Total_Bugs",NA,NA
+"tsx","API Misuse",0.0827243117732647,0.669655427374296
+"tsx","Async / Event",-0.213237856102666,0.266721709166055
+"tsx","Logic Error",-0.127774792808917,0.508909282622481
+"tsx","Missing Case",-0.173418782356682,0.368304950696809
+"tsx","Missing Feature",-0.172047861388454,0.372161276684726
+"tsx","Performance Issue",-0.106600358177805,0.582057766986335
+"tsx","Runtime Exception",-0.13710212427677,0.47819985744571
+"tsx","Test Fault",-0.241522945769824,0.206871294894599
+"tsx","Tooling / Config",0.149285589398822,0.439574940084074
+"tsx","Type Error",0.0930484210398471,0.631167871429645
+"tsx","UI Bug",0.206231018582389,0.28312435012302
+"tsx","Error Handling",-0.051434449987364,0.791029093662479
+"tsx","Total_Bugs",0,1
+"dotenv","API Misuse",0.0827243117732647,0.669655427374296
+"dotenv","Async / Event",-0.213237856102666,0.266721709166055
+"dotenv","Logic Error",-0.127774792808917,0.508909282622481
+"dotenv","Missing Case",-0.173418782356682,0.368304950696809
+"dotenv","Missing Feature",-0.172047861388454,0.372161276684726
+"dotenv","Performance Issue",-0.106600358177805,0.582057766986335
+"dotenv","Runtime Exception",-0.13710212427677,0.47819985744571
+"dotenv","Test Fault",-0.241522945769824,0.206871294894599
+"dotenv","Tooling / Config",0.149285589398822,0.439574940084074
+"dotenv","Type Error",0.0930484210398471,0.631167871429645
+"dotenv","UI Bug",0.206231018582389,0.28312435012302
+"dotenv","Error Handling",-0.051434449987364,0.791029093662479
+"dotenv","Total_Bugs",0,1

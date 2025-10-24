@@ -1,0 +1,17 @@
+Project,Link,Domain,Size (LOC),Num of Files,Coverage,Start Date,Stars,Num of Forks,Commits,Commits in 12 Months (Oct 8),Issues,Issues (closed),Pull Requests,Num of Tests,Test LOC,Testing Framework,Tools/Frameworks Num,Tools/Frameworks
+chakra-ui,https://github.com/chakra-ui/chakra-ui,User interface,103193,2959,,2019-08-17,"39,789","3,497",11168,1221,4189,4186,3908,https://github.com/chakra-ui/chakra-ui/tree/main/packages/react/__tests__,,Vite,66,"Vite, pnpm, Husky"
+xstate,https://github.com/statelyai/xstate,App. logic & workflows,70982,1012,,2015-09-14,28790,1327,6841,119,1397,1287,2445,(Group) https://github.com/statelyai/xstate/tree/main/packages/core/test,,Vite,25,
+type-challenges,https://github.com/type-challenges/type-challenges,Education,5162,1078,,2020-07-23,46645,5095,1016,55,36524,3898,785,https://github.com/type-challenges/type-challenges/blob/main/questions/00002-medium-return-type/test-cases.ts,,type-level assertions,5 + 12 (dev),
+nest,https://github.com/nestjs/nest,Library/framework,82983,1981,,2017-02-04,72973,8049,19066,2596,5689,5659,9683,https://github.com/nestjs/nest/tree/master/integration/inspector/e2e,,Mocha,19 + 100 (dev),
+xyflow,https://github.com/xyflow/xyflow,API/service integration,27224,646,,2019-07-15,32241,2218,5843,973,2295,2218,1759,(Group) https://github.com/xyflow/xyflow/tree/main/tests/playwright,,Playwright,12,
+fabric.js,https://github.com/fabricjs/fabric.js,User interface,67414,654,,2010-06-09,30467,3597,5256,220,6189,5767,3292,"(Group Part) https://github.com/fabricjs/fabric.js/blob/master/src/shapes/Rect.spec.ts, https://github.com/fabricjs/fabric.js/tree/master/e2e/tests, https://github.com/fabricjs/fabric.js/tree/master/test",,"Vitest, Playwright, QUnit",33,
+cli,https://github.com/react-native-community/cli,API/service provider,19011,396,,2018-09-25,2750,928,2686,96,1160,1129,1526,"(Group Part) https://github.com/react-native-community/cli/tree/main/__e2e__, https://github.com/react-native-community/cli/tree/main/packages/cli-tools/src/__tests__",,Jest,33,
+shadcn-table,https://github.com/sadmann7/shadcn-table,User interface,9511,122,,2023-07-10,5466,506,1127,377,74,51,903,NULL,,NULL (hide),44 +  16 (dev),
+hocuspocus,https://github.com/ueberdosis/hocuspocus,API/service provider,9690,237,,2020-11-13,1868,168,1811,211,372,341,575,,,AVA,19 (dev),
+LlamaIndexTS,https://github.com/run-llama/LlamaIndexTS,AI integration,59819,1372,,2023-06-13,2907,481,2390,676,452,352,1706,,,Turbo,20 (dev),
+shortest,https://github.com/antiwork/shortest,Automated testing & QA,15412,228,,2024-09-18,5328,326,747,515,120,117,279,,,Shortest (Owen faremwork based on  Playwright),58 + 21 (dev),
+insomnia,https://github.com/Kong/insomnia ,API/service integration,130711,1409,,2016-04-23,37288,2156,5745,653,3905,3212,4368,,,Smoke (Owen faremwork based on  Playwright),1 + 25 (dev),
+n8n,https://github.com/n8n-io/n8n,App. logic & workflows,1186492,12132,78.26%,2019-06-22,147008,46671,15843,3782,5993,5240,14579,,,Turbo,30 (dev) + 14 (patched),
+user-event,https://github.com/testing-library/user-event,Automated testing & QA,11210,214,97.50%,2018-09-20,2286,254,825,54,551,452,673,,,kcd-scripts,33 (dev) + 1 (peer),
+refly,https://github.com/refly-ai/refly ,AI integration,237099,1977,,2024-02-19,4718,417,7138,5707,214,130,1168,,,kcd-scripts,1 + 33 (dev) ,
+vue-i18n,https://github.com/intlify/vue-i18n ,Library/framework,29457,622,,2021-01-05,2559,377,3283,189,630,487,1400,,,Vitest,81 (dev) + 2 (peer),

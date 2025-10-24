@@ -1,0 +1,105 @@
+"Domain","BugCategory","MedianCount","Z"
+"Application logic and workflows","API Misuse_median",4.5,-0.383885947974957
+"Application logic and workflows","Async / Event_median",2.5,1.02851145880613
+"Application logic and workflows","Logic Error_median",8,2.06789092873304
+"Application logic and workflows","Missing Case_median",5,0.515867445581898
+"Application logic and workflows","Missing Feature_median",1.5,-0.0530424813065068
+"Application logic and workflows","Performance Issue_median",0,-0.58925565098879
+"Application logic and workflows","Runtime Exception_median",0,-0.682221028637269
+"Application logic and workflows","Test Fault_median",2.5,-0.387184540484417
+"Application logic and workflows","Tooling / Config_median",2.5,-0.889255531930794
+"Application logic and workflows","Type Error_median",8,1.7552006058188
+"Application logic and workflows","UI Bug_median",3.5,-0.448220178342346
+"Application logic and workflows","Error Handling_median",0.5,0.504016128774185
+"Application logic and workflows","Total_Bugs_median",38.5,-0.504016128774185
+"Automating software testing and quality assurance","API Misuse_median",10,1.72748676588731
+"Automating software testing and quality assurance","Async / Event_median",1.5,0.114279050978459
+"Automating software testing and quality assurance","Logic Error_median",2.5,-0.358434427647061
+"Automating software testing and quality assurance","Missing Case_median",1.5,-0.639675632521553
+"Automating software testing and quality assurance","Missing Feature_median",1,-0.477382331758561
+"Automating software testing and quality assurance","Performance Issue_median",0.5,0.353553390593274
+"Automating software testing and quality assurance","Runtime Exception_median",0,-0.682221028637269
+"Automating software testing and quality assurance","Test Fault_median",12,1.79252102076119
+"Automating software testing and quality assurance","Tooling / Config_median",5.5,-0.478829901808889
+"Automating software testing and quality assurance","Type Error_median",5.5,0.405046293650491
+"Automating software testing and quality assurance","UI Bug_median",4.5,-0.12224186682064
+"Automating software testing and quality assurance","Error Handling_median",0.5,0.504016128774185
+"Automating software testing and quality assurance","Total_Bugs_median",45,1.99206374705988
+"Education propose","API Misuse_median",2,-1.34360081791235
+"Education propose","Async / Event_median",0,-1.25706956076305
+"Education propose","Logic Error_median",1,-1.02015952484163
+"Education propose","Missing Case_median",10,2.16664327144397
+"Education propose","Missing Feature_median",1,-0.477382331758561
+"Education propose","Performance Issue_median",0,-0.58925565098879
+"Education propose","Runtime Exception_median",0,-0.682221028637269
+"Education propose","Test Fault_median",10,1.33363563944633
+"Education propose","Tooling / Config_median",1,-1.09446834699175
+"Education propose","Type Error_median",6,0.675077156084152
+"Education propose","UI Bug_median",5,0.0407472889402133
+"Education propose","Error Handling_median",0,-0.840026881290309
+"Education propose","Total_Bugs_median",36,-1.46404685024882
+"Integrating with APISs and services","API Misuse_median",8,0.959714869937393
+"Integrating with APISs and services","Async / Event_median",1.5,0.114279050978459
+"Integrating with APISs and services","Logic Error_median",2.5,-0.358434427647061
+"Integrating with APISs and services","Missing Case_median",2,-0.474598049935346
+"Integrating with APISs and services","Missing Feature_median",4,2.06865677095377
+"Integrating with APISs and services","Performance Issue_median",0,-0.58925565098879
+"Integrating with APISs and services","Runtime Exception_median",0,-0.682221028637269
+"Integrating with APISs and services","Test Fault_median",3,-0.272463195155701
+"Integrating with APISs and services","Tooling / Config_median",4.5,-0.615638445182857
+"Integrating with APISs and services","Type Error_median",5,0.13501543121683
+"Integrating with APISs and services","UI Bug_median",8,1.01868222350533
+"Integrating with APISs and services","Error Handling_median",0.5,0.504016128774185
+"Integrating with APISs and services","Total_Bugs_median",39,-0.312009984479258
+"Integration with AI","API Misuse_median",7,0.575828921962436
+"Integration with AI","Async / Event_median",2.5,1.02851145880613
+"Integration with AI","Logic Error_median",3,-0.137859395248869
+"Integration with AI","Missing Case_median",3,-0.144442884762931
+"Integration with AI","Missing Feature_median",2,0.371297369145548
+"Integration with AI","Performance Issue_median",0.5,0.353553390593274
+"Integration with AI","Runtime Exception_median",1,1.50088626300199
+"Integration with AI","Test Fault_median",2,-0.501905885813133
+"Integration with AI","Tooling / Config_median",8,-0.136808543373968
+"Integration with AI","Type Error_median",4.5,-0.13501543121683
+"Integration with AI","UI Bug_median",5.5,0.203736444701067
+"Integration with AI","Error Handling_median",1,1.84805913883868
+"Integration with AI","Total_Bugs_median",40,0.0720023041105979
+"Libraries / Framework","API Misuse_median",4,-0.575828921962436
+"Libraries / Framework","Async / Event_median",0.5,-0.799953356849216
+"Libraries / Framework","Logic Error_median",4,0.303290669547513
+"Libraries / Framework","Missing Case_median",2.5,-0.309520467349139
+"Libraries / Framework","Missing Feature_median",1,-0.477382331758561
+"Libraries / Framework","Performance Issue_median",1.5,2.2391714737574
+"Libraries / Framework","Runtime Exception_median",1,1.50088626300199
+"Libraries / Framework","Test Fault_median",1,-0.731348576470566
+"Libraries / Framework","Tooling / Config_median",22.5,1.84691533554857
+"Libraries / Framework","Type Error_median",3,-0.945108018517813
+"Libraries / Framework","UI Bug_median",0.5,-1.42615511290747
+"Libraries / Framework","Error Handling_median",0,-0.840026881290309
+"Libraries / Framework","Total_Bugs_median",41.5,0.648020736995381
+"Providing APIs and service","API Misuse_median",4.5,-0.383885947974957
+"Providing APIs and service","Async / Event_median",2.5,1.02851145880613
+"Providing APIs and service","Logic Error_median",4.5,0.523865701945704
+"Providing APIs and service","Missing Case_median",3.5,0.0206346978232759
+"Providing APIs and service","Missing Feature_median",2,0.371297369145548
+"Providing APIs and service","Performance Issue_median",0,-0.58925565098879
+"Providing APIs and service","Runtime Exception_median",0.5,0.409332617182361
+"Providing APIs and service","Test Fault_median",3,-0.272463195155701
+"Providing APIs and service","Tooling / Config_median",13,0.547234173495873
+"Providing APIs and service","Type Error_median",4,-0.405046293650491
+"Providing APIs and service","UI Bug_median",2,-0.937187645624906
+"Providing APIs and service","Error Handling_median",0,-0.840026881290309
+"Providing APIs and service","Total_Bugs_median",39.5,-0.12000384018433
+"User interface","API Misuse_median",4,-0.575828921962436
+"User interface","Async / Event_median",0,-1.25706956076305
+"User interface","Logic Error_median",1,-1.02015952484163
+"User interface","Missing Case_median",0,-1.13490838028017
+"User interface","Missing Feature_median",0,-1.32606203266267
+"User interface","Performance Issue_median",0,-0.58925565098879
+"User interface","Runtime Exception_median",0,-0.682221028637269
+"User interface","Test Fault_median",0,-0.960791267127998
+"User interface","Tooling / Config_median",15,0.820851260243809
+"User interface","Type Error_median",2,-1.48516974338513
+"User interface","UI Bug_median",10,1.67063884654875
+"User interface","Error Handling_median",0,-0.840026881290309
+"User interface","Total_Bugs_median",39,-0.312009984479258
