@@ -1,7 +1,7 @@
 # TSBugsArtifact
 
 ## Table of Contents
-1. [Dependecies Instal](#dependecies-install )
+1. [Dependecies Installation](#dependecies-install )
 2. [Project Structure](#project-structure)
 3. [Key Json files and configuration](#key-json-files-and-configuration)
 4. [Key Scripts Usage ](#key-scripts-usage )
