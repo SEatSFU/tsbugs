@@ -18,7 +18,8 @@ TSBugsArtifact/
 ├── raw_data                           # All raw data we collect
 ├── Data_Collection                    # Collect bug-fix relative commit and extract the commit URLs from given repository
 ├── Model_Train_Predict_Setfit         # Training model on label data and use it to predict labels for untrain commit
-└── Summarize_and_Verification         # Produce summarization and verification report for model predicted label result        
+├── Summarize_and_Verification         # Produce summarization and verification report for model predicted label result        
+└── Experimental Analyses              # This directory contains the scripts, data, and output of the analyses conducted on data obtained from previous steps (bugs, projects, dependencies) in order to conduct the analyeses discussed for RQ1, and reproduce the results, diagrams, and tabels used in the paper.
 
 ```
 
