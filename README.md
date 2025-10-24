@@ -181,6 +181,9 @@ python compare_verification_predict.py [<Verification_Set>] [<Predict_Label_Resu
 python predict_summarize_repository.py [<Predict_Label_Result>] [<GitHub_Repository_Lists>]
 ```
 
+### Reproducing the Results Discussed in the Paper
+
+Please run the R scripts in Experimental Analyses/scripts to conduct analyeses for RQ1 and RQ2 (a, b, and c), respectively. These analyses use the data in Experimental Analyses/scripts to reproduce the results, diagrams, and tables used in the paper in Experimental Analyses/output.
 
 
 
