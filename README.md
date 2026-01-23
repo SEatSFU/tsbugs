@@ -1,4 +1,5 @@
-# TSBugsArtifact
+# TSBugs: From Logic to Toolchains — Bugs in the TypeScript Ecosystem
+An empirical dataset and analysis of bugs in modern TypeScript projects
 
 ## Table of Contents
 1. [Dependecies Installation](#dependecies-install )
